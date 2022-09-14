@@ -76,6 +76,7 @@
             22
         ],
         "dps": 1.90E+41,
+        "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
         "layoutId": "BWH_vGti_95lolMdhK_i0"

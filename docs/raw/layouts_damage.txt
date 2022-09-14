@@ -16,7 +16,7 @@ uTZfFAg-gxxwsNNpV9Gms,1,2.18e44,Artemis,
 8euk6u6PKHy_mmNX4S7ek,4,2.83e53,Delina|Farideh|Gromma|Orisha|Asharra,
 PeN0p0XS5uJFdmt13f3Df,2,2.13e43,Drizzt,
 I_8g095yWaHD-a-z3QeAJ,1,2.18e42,Delina|Drizzt|Farideh|Zorbu,
-BWH_vGti_95lolMdhK_i0,2,1.90e41,Delina|Farideh|Zorbu,
+BWH_vGti_95lolMdhK_i0,2,1.90e41,Delina|Farideh|Zorbu,Non-Melee Variant
 
 UBppioFeMIfJ4fE90nPYp,1,1.50e42,Gromma,
 QnAlmdSi9mdxSpGwOwwTt,2,1.90e41,Gromma,Non-Melee Variant
