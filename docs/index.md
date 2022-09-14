@@ -13,7 +13,7 @@ If you can improve any of the cores below - please do DM me on Discord new links
 * [FAQs](#faqs)
 * [Credits](#credits)
 * [Feedback](#feedback)
-* [Changelog](https://github.com/Emmotes/ic_modrons_library/commits/main)
+* [Changelog](https://github.com/Emmotes/ic_modron_library/commits/main)
 
 # Key
 * ![Magic Icon](images\magic.png) - A core that's suitable for a magic champion.
