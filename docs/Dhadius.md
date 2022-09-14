@@ -3,7 +3,6 @@
 # Dhadius
 
 Dhadius benefits from the following stat nodes:
-
 * Intelligence
 
 Dhadius is a magic champion.

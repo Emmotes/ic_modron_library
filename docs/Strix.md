@@ -3,7 +3,6 @@
 # Strix
 
 Strix benefits from the following stat nodes:
-
 * Constitution
 * Intelligence
 * Charisma

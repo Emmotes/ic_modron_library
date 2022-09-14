@@ -3,7 +3,6 @@
 # Drizzt
 
 Drizzt benefits from the following stat nodes:
-
 * Dexterity
 * Constitution
 * Intelligence (with Feat)

@@ -3,7 +3,6 @@
 # D'hani
 
 D'hani benefits from the following stat nodes:
-
 * Dexterity
 * Constitution
 * Wisdom

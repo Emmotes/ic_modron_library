@@ -3,7 +3,6 @@
 # Minsc
 
 Minsc benefits from the following stat nodes:
-
 * Strength
 * Constitution
 

@@ -3,7 +3,6 @@
 # Birdsong
 
 Birdsong benefits from the following stat nodes:
-
 * Dexterity
 * Intelligence
 * Charisma

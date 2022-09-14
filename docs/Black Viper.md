@@ -3,7 +3,6 @@
 # Black Viper
 
 Black Viper benefits from the following stat nodes:
-
 * Dexterity
 * Constitution
 * Intelligence (with Feat)

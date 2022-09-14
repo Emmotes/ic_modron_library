@@ -3,7 +3,6 @@
 # Jim
 
 Jim benefits from the following stat nodes:
-
 * Dexterity
 * Intelligence
 * Charisma

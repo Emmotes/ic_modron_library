@@ -3,7 +3,6 @@
 # Asharra
 
 Asharra benefits from the following stat nodes:
-
 * Intelligence
 * Wisdom
 * Charisma

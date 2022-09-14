@@ -3,7 +3,6 @@
 # Artemis
 
 Artemis benefits from the following stat nodes:
-
 * Strength
 * Dexterity
 * Constitution

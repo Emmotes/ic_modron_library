@@ -3,7 +3,6 @@
 # Prudence
 
 Prudence benefits from the following stat nodes:
-
 * Strength
 * Constitution
 * Intelligence

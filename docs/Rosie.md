@@ -3,7 +3,6 @@
 # Rosie
 
 Rosie benefits from the following stat nodes:
-
 * Dexterity
 * Intelligence (with Feat)
 * Wisdom

@@ -3,7 +3,6 @@
 # Gromma
 
 Gromma benefits from the following stat nodes:
-
 * Strength
 * Constitution
 * Intelligence (with Feat)

@@ -3,7 +3,6 @@
 # Farideh
 
 Farideh benefits from the following stat nodes:
-
 * Dexterity
 * Constitution
 * Intelligence

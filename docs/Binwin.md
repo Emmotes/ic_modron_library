@@ -3,7 +3,6 @@
 # Binwin
 
 Binwin benefits from the following stat nodes:
-
 * Strength
 * Constitution
 * Charisma

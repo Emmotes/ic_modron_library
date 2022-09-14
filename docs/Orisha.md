@@ -3,7 +3,6 @@
 # Orisha
 
 Orisha benefits from the following stat nodes:
-
 * Strength
 * Dexterity
 * Intelligence

@@ -3,7 +3,6 @@
 # Catti-brie
 
 Catti-brie benefits from the following stat nodes:
-
 * Strength
 * Dexterity
 * Constitution

@@ -3,7 +3,6 @@
 # Ishi
 
 Ishi benefits from the following stat nodes:
-
 * Dexterity
 * Constitution
 * Wisdom

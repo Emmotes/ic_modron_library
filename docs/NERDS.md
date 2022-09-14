@@ -3,7 +3,6 @@
 # NERDS
 
 NERDS benefits from the following stat nodes:
-
 * Constitution
 
 The NERDS can attack with all 3 types - depending on which Nerd is at the front - which is decided by the specialisation. The `Fighter` - `Cleric` and `Rogue` are melee. The `Ranger` is ranged. The `Bard` and `Wizard` are magic.

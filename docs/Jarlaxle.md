@@ -3,7 +3,6 @@
 # Jarlaxle
 
 Jarlaxle benefits from the following stat nodes:
-
 * Dexterity
 * Constitution
 * Intelligence
