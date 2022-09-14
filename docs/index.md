@@ -18,8 +18,8 @@ If you can improve any of the cores below - please do DM me on Discord new links
 * [Changelog](https://github.com/Emmotes/ic_modrons_library/commits/main)
 
 # Key
-* F - A champion that uses a stat feat to get the most out of modrons.
-* A - A champion that can change attack type based on a specialisation choice or ability.
+* ![Feat Icon](images\feat.png) - A champion that uses a stat feat to get the most out of modrons.
+* ![Attack Icon](images\attack.png - A champion that can change attack type based on a specialisation choice or ability.
 * ![Magic Icon](images\magic.png) - A core that's suitable for a magic champion.
 * ![Melee Icon](images\melee.png) - A core that's suitable for a melee champion.
 * ![Ranged Icon](images\ranged.png) - A core that's suitable for a ranged champion.
@@ -33,15 +33,15 @@ If you try to copy/improvise these designs and you lack the pipes to reach 5.2e8
 If you're unsure whether you've made the best design you can when you're done - put the Byteglow link in the [#modron_core_layout](https://discord.com/channels/357247482247380994/733401533579788397) channel in the Discord and someone will usually be available to try to help find some optimisations.
 
 |---|---|---|---|
-| [Arkhan](champs\Arkhan.md) | [Delina](champs\Delina.md) | [Jarlaxle](champs\Jarlaxle.md) | [Nrakk](champs\Nrakk.md) |
-| [Artemis](champs\Artemis.md) | [Dhadius](champs\Dhadius.md) | [Jim](champs\Jim.md) | [Orisha](champs\Orisha.md) |
-| [Asharra](champs\Asharra.md) | [Drizzt](champs\Drizzt.md) | [Krond](champs\Krond.md) | [Prudence](champs\Prudence.md) |
-| [Azaka](champs\Azaka.md) | [Farideh](champs\Farideh.md) | [Krydle](champs\Krydle.md) | [Rosie](champs\Rosie.md) |
-| [Binwin](champs\Binwin.md) | [Grimm](champs\Grimm.md) | [Lucius](champs\Lucius.md) | [Strix](champs\Strix.md) |
-| [Birdsong](champs\Birdsong.md) | [Gromma](champs\Gromma.md) | [Makos](champs\Makos.md) | [Torogar](champs\Torogar.md) |
-| [Black Viper](champs\Black Viper.md) | [Ishi](champs\Ishi.md) | [Minsc](champs\Minsc.md) | [Warden](champs\Warden.md) |
-| [Catti-brie](champs\Catti-brie.md) | [Jaheira](champs\Jaheira.md) | [NERDS](champs\NERDS.md) | [Yorven](champs\Yorven.md) |
-| [D'hani](champs\D'hani.md) | [Jamilah](champs\Jamilah.md) | [Nahara](champs\Nahara.md) | [Zorbu](champs\Zorbu.md) |
+| [Arkhan](Arkhan.md) | [Delina](Delina.md) | [Jarlaxle](Jarlaxle.md) | [Nrakk](Nrakk.md) |
+| [Artemis](Artemis.md) | [Dhadius](Dhadius.md) | [Jim](Jim.md) | [Orisha](Orisha.md) |
+| [Asharra](Asharra.md) | [Drizzt](Drizzt.md) | [Krond](Krond.md) | [Prudence](Prudence.md) |
+| [Azaka](Azaka.md) | [Farideh](Farideh.md) | [Krydle](Krydle.md) | [Rosie](Rosie.md) |
+| [Binwin](Binwin.md) | [Grimm](Grimm.md) | [Lucius](Lucius.md) | [Strix](Strix.md) |
+| [Birdsong](Birdsong.md) | [Gromma](Gromma.md) | [Makos](Makos.md) | [Torogar](Torogar.md) |
+| [Black Viper](Black Viper.md) | [Ishi](Ishi.md) | [Minsc](Minsc.md) | [Warden](Warden.md) |
+| [Catti-brie](Catti-brie.md) | [Jaheira](Jaheira.md) | [NERDS](NERDS.md) | [Yorven](Yorven.md) |
+| [D'hani](D'hani.md) | [Jamilah](Jamilah.md) | [Nahara](Nahara.md) | [Zorbu](Zorbu.md) |
 
 # Achievement Cores
 
@@ -114,15 +114,15 @@ If you want less health and more damage then you're usually going to be much bet
 
 Getting these highly optimised designs hasn’t been a one person job. It's been a huge community effort with a lot of back-and-forth of improvements between many people.
 
-I personally want to thank UniQP most of all though. This is as much their project as mine - and they have easily contributed the most to this library with innumerable optimisations. It simply wouldn't be what it is without their input.
+I personally want to thank `UniQP` most of all though. This is as much their project as mine - and they have easily contributed the most to this library with innumerable optimisations. It simply wouldn't be what it is without their input.
 
 Of course - others have contributed as well - and the most notable include:
-* Retaki
-* Midander
-* Ridge
-* Cuddlegutz
+* `Retaki`
+* `Midander`
+* `Ridge`
+* `Cuddlegutz`
 
-Also a big thank you to Uffdah for the modron tool on Byteglow.
+Also a big thank you to `Uffdah` for the modron tool on Byteglow.
 
 If you improve any of the designs in this guide - you’ll end up on this list too (unless you specifically ask me otherwise).
 

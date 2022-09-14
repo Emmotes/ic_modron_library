@@ -1,5 +1,6 @@
 [
     {
+        "championIds": [],
         "dps": 0,
         "comment": "Now We're Flowing (1)",
         "coreId": 1,
@@ -7,6 +8,7 @@
         "layoutId": "iyChfx2296evcJfrAadzT"
     },
     {
+        "championIds": [],
         "dps": 0,
         "comment": "Now We're Flowing (1)",
         "coreId": 2,
@@ -14,6 +16,7 @@
         "layoutId": "LbtIyA7gF3TVqJlGv-j7o"
     },
     {
+        "championIds": [],
         "dps": 0,
         "comment": "Now We're Flowing (1)",
         "coreId": 4,
@@ -21,6 +24,7 @@
         "layoutId": "5wV-LkarzUs19rX5uSdfh"
     },
     {
+        "championIds": [],
         "dps": 0,
         "comment": "Now We're Flowing (1)",
         "coreId": 5,
@@ -28,6 +32,7 @@
         "layoutId": "VpXiPUQcapFGVtdmEvw6K"
     },
     {
+        "championIds": [],
         "dps": 0,
         "comment": "Flow Shui (2)",
         "coreId": 4,
@@ -35,6 +40,7 @@
         "layoutId": "LI4aVDOyYdOreT-GsbNWF"
     },
     {
+        "championIds": [],
         "dps": 0,
         "comment": "Flow Shui (2)",
         "coreId": 5,
@@ -42,6 +48,7 @@
         "layoutId": "UZyXpoTAZi_pkDzpBLMoB"
     },
     {
+        "championIds": [],
         "dps": 0,
         "comment": "Infinite Cosmic Power (3)",
         "coreId": 5,

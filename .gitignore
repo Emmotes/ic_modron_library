@@ -1,2 +1,4 @@
 
 *.backup
+docs/raw/champions_info.txt
+docs/json/champions_info.json
