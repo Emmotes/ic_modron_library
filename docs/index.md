@@ -1,5 +1,3 @@
-**NOTE: THIS IS CURRENTLY A WORK IN PROGRESS**
-
 # Highly Optimised Modrons Library
 
 This is designed to be a library where you can find more or less any modron core you need. Whether it be for a specific DPS champion - or an achievement.
