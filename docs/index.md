@@ -2,15 +2,11 @@
 
 None of the champion quick-links will work. They have not been implemented yet.
 
----
-
 # Highly Optimised Modrons Library
 
 This is designed to be a library where you can find more or less any modron core you need. Whether it be for a specific DPS champion - or an achievement.
 
 If you can improve any of the cores below - please do DM me on Discord new links with the stats/champion and core type.
-
----
 
 # Index
 * [Damage Cores](#damage-cores)
@@ -28,8 +24,6 @@ If you can improve any of the cores below - please do DM me on Discord new links
 * ![Melee Icon](images\melee.png) - A core that's suitable for a melee champion.
 * ![Ranged Icon](images\ranged.png) - A core that's suitable for a ranged champion.
 
----
-
 # Damage Cores
 
 These cores are the current best-known supercharge designs and essentially use unlimited pipes. Most people don't have enough to copy these layouts in their entirety - so some improvisation will be required.
@@ -38,7 +32,6 @@ If you try to copy/improvise these designs and you lack the pipes to reach 5.2e8
 
 If you're unsure whether you've made the best design you can when you're done - put the Byteglow link in the [#modron_core_layout](https://discord.com/channels/357247482247380994/733401533579788397) channel in the Discord and someone will usually be available to try to help find some optimisations.
 
-| | | | |
 |---|---|---|---|
 | [Arkhan](champs\Arkhan.md) | [Delina](champs\Delina.md) | [Jarlaxle](champs\Jarlaxle.md) | [Nrakk](champs\Nrakk.md) |
 | [Artemis](champs\Artemis.md) | [Dhadius](champs\Dhadius.md) | [Jim](champs\Jim.md) | [Orisha](champs\Orisha.md) |
@@ -50,8 +43,6 @@ If you're unsure whether you've made the best design you can when you're done - 
 | [Catti-brie](champs\Catti-brie.md) | [Jaheira](champs\Jaheira.md) | [NERDS](champs\NERDS.md) | [Yorven](champs\Yorven.md) |
 | [D'hani](champs\D'hani.md) | [Jamilah](champs\Jamilah.md) | [Nahara](champs\Nahara.md) | [Zorbu](champs\Zorbu.md) |
 
----
-
 # Achievement Cores
 
 These cores have been designed specifically to get the achievements and should not be used for damage - you will definitely be able to do better. We've also attempted to design these using the minimal pipes necessary to get the achievements - though of course depending on the pipes you have available improvisation will likely be required.
@@ -60,7 +51,7 @@ Despite what may be implied from reading the achievement descriptions - the supe
 
 If a core is not listed - it’s because it’s impossible to get the achievement with that core.
 
-## Now We're Flowing
+### Now We're Flowing
 
 This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharge bonus.
 
@@ -70,7 +61,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
 | Magic | [https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh](https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh) |
 | Aerois | [https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K](https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K) |
 
-## Flow Shui
+### Flow Shui
 
 This achievement requires 128,000 (1.28e5) flow to every node for a 200% supercharge bonus.
 
@@ -78,22 +69,20 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
 | Magic | [https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF](https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF) |
 | Aerois | [https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB](https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB) |
 
-## Infinite Cosmic Power
+### Infinite Cosmic Power
 
 This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% supercharge bonus.
 
 |---|---|
 | Aerois | [https://ic.byteglow.com/modron/6wLVbtCcPNTUDfSiJ21wN](https://ic.byteglow.com/modron/6wLVbtCcPNTUDfSiJ21wN) |
 
-## Pipe Dream
+### Pipe Dream
 
 This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% supercharge bonus.
 
 |---|
 | *Currently Impossible.* |
 
-
----
 
 # Fast Cores
 
@@ -107,23 +96,19 @@ The Fully Supercharged design - as its name implies - has linked every single no
 
 The Minimal no damage design is for when you’re supercharging another core and need all the pipes you can get - but still want your Fast core piped up for gem farming. It uses no epic pieces - no cross pieces - and only 9 rare pieces. Since gem farming doesn’t need champion damage - unless you’re modron stacking - those nodes are ignored.
 
----
-
 # FAQs
 
 Just a list of frequently asked questions. If you have a question - feel free to DM me on Discord.
 
-## Why don’t you pipe gold nodes?
+### Why don’t you pipe gold nodes?
 
 Using them often lowers flow to the damage nodes and damage is the whole point of supercharging. If you need gold then it's best to load a different layout temporarily or use a different core.
 
 The Modest core has the highest gold bonus of 2.19e6% when fully epic - shortly followed by the Fast core at 1.20e6%.
 
-## Why do you pipe Health nodes in the Modest and Strong cores then?
+### Why do you pipe Health nodes in the Modest and Strong cores then?
 
 If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you’re willing to lose damage because of it.
-
----
 
 # Credits
 
@@ -141,13 +126,9 @@ Also a big thank you to Uffdah for the modron tool on Byteglow.
 
 If you improve any of the designs in this guide - you’ll end up on this list too (unless you specifically ask me otherwise).
 
----
-
 # Feedback
 
 Please do feel free to contact me via a DM on the Discord if you can think of anything that might improve this guide. I’m Emmote#5443 - the one with the Prudence avatar.
-
----
 
 [Back to Top](#top)
 
