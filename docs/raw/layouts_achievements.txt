@@ -1,0 +1,17 @@
+# Format:
+# linkHash,coreId,dps,champions|pipe|separated,comment
+
+# coreIds
+# 1 Modest
+# 2 Strong
+# 3 Fast
+# 4 Magic
+# 5 Aerois
+
+iyChfx2296evcJfrAadzT,1,0,,Now We're Flowing (1)
+LbtIyA7gF3TVqJlGv-j7o,2,0,,Now We're Flowing (1)
+5wV-LkarzUs19rX5uSdfh,4,0,,Now We're Flowing (1)
+VpXiPUQcapFGVtdmEvw6K,5,0,,Now We're Flowing (1)
+LI4aVDOyYdOreT-GsbNWF,4,0,,Flow Shui (2)
+UZyXpoTAZi_pkDzpBLMoB,5,0,,Flow Shui (2)
+6wLVbtCcPNTUDfSiJ21wN,5,0,,Infinite Cosmic Power (3)

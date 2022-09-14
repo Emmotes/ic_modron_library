@@ -1,0 +1,11 @@
+# Format:
+# linkHash,coreId,dps,champions|pipe|separated,comment
+
+# coreIds
+# 1 Modest
+# 2 Strong
+# 3 Fast
+# 4 Magic
+# 5 Aerois
+
+T-TfCsTNdXfLHOULzOfHr,3,0,,Minimal (No Damage)
