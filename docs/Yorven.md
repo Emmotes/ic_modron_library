@@ -8,7 +8,7 @@ Yorven benefits from the following stat nodes:
 * Dexterity
 * Constitution
 * Wisdom
-* Charisma ![Feat Icon](images\feat.png)
+* Charisma (with Feat)
 
 Yorven is a melee champion.
 

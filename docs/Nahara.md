@@ -5,7 +5,7 @@
 Nahara benefits from the following stat nodes:
 
 * Dexterity
-* Constitution ![Feat Icon](images\feat.png)
+* Constitution (with Feat)
 * Wisdom
 * Charisma
 

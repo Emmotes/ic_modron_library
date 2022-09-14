@@ -6,7 +6,7 @@ Zorbu benefits from the following stat nodes:
 
 * Dexterity
 * Constitution
-* Intelligence ![Feat Icon](images\feat.png)
+* Intelligence (with Feat)
 * Wisdom
 * Charisma
 

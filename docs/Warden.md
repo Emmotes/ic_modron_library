@@ -6,7 +6,7 @@ Warden benefits from the following stat nodes:
 
 * Strength
 * Dexterity
-* Constitution ![Feat Icon](images\feat.png)
+* Constitution (with Feat)
 * Charisma
 
 Warden is a melee champion.

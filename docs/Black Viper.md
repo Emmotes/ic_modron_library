@@ -6,7 +6,7 @@ Black Viper benefits from the following stat nodes:
 
 * Dexterity
 * Constitution
-* Intelligence ![Feat Icon](images\feat.png)
+* Intelligence (with Feat)
 * Charisma
 
 Black Viper is a melee champion.

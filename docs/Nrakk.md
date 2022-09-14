@@ -7,7 +7,7 @@ Nrakk benefits from the following stat nodes:
 * Strength
 * Dexterity
 * Constitution
-* Intelligence ![Feat Icon](images\feat.png)
+* Intelligence (with Feat)
 * Wisdom
 
 Nrakk is a melee champion.

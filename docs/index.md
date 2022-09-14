@@ -16,8 +16,6 @@ If you can improve any of the cores below - please do DM me on Discord new links
 * [Changelog](https://github.com/Emmotes/ic_modrons_library/commits/main)
 
 # Key
-* ![Feat Icon](images\feat.png) - A champion that uses a stat feat to get the most out of modrons.
-* ![Attack Icon](images\attack.png) - A champion that can change attack type based on a specialisation choice or ability.
 * ![Magic Icon](images\magic.png) - A core that's suitable for a magic champion.
 * ![Melee Icon](images\melee.png) - A core that's suitable for a melee champion.
 * ![Ranged Icon](images\ranged.png) - A core that's suitable for a ranged champion.
