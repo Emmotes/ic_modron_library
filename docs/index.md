@@ -28,16 +28,13 @@ If you try to copy/improvise these designs and you lack the pipes to reach 5.2e8
 
 If you're unsure whether you've made the best design you can when you're done - put the Byteglow link in the [#modron_core_layout](https://discord.com/channels/357247482247380994/733401533579788397) channel in the Discord and someone will usually be available to try to help find some optimisations.
 
-|---|---|---|---|
-| [Arkhan](Arkhan.md) | [Delina](Delina.md) | [Jarlaxle](Jarlaxle.md) | [Nrakk](Nrakk.md) |
-| [Artemis](Artemis.md) | [Dhadius](Dhadius.md) | [Jim](Jim.md) | [Orisha](Orisha.md) |
-| [Asharra](Asharra.md) | [Drizzt](Drizzt.md) | [Krond](Krond.md) | [Prudence](Prudence.md) |
-| [Azaka](Azaka.md) | [Farideh](Farideh.md) | [Krydle](Krydle.md) | [Rosie](Rosie.md) |
-| [Binwin](Binwin.md) | [Grimm](Grimm.md) | [Lucius](Lucius.md) | [Strix](Strix.md) |
-| [Birdsong](Birdsong.md) | [Gromma](Gromma.md) | [Makos](Makos.md) | [Torogar](Torogar.md) |
-| [Black Viper](Black Viper.md) | [Ishi](Ishi.md) | [Minsc](Minsc.md) | [Warden](Warden.md) |
-| [Catti-brie](Catti-brie.md) | [Jaheira](Jaheira.md) | [NERDS](NERDS.md) | [Yorven](Yorven.md) |
-| [D'hani](D'hani.md) | [Jamilah](Jamilah.md) | [Nahara](Nahara.md) | [Zorbu](Zorbu.md) |
+|---|---|---|---|---|---|
+| [Arkhan](Arkhan.md) | [Black Viper](Black Viper.md) | [Farideh](Farideh.md) | [Jarlaxle](Jarlaxle.md) | [Minsc](Minsc.md) | [Rosie](Rosie.md) |
+| [Artemis](Artemis.md) | [Catti-brie](Catti-brie.md) | [Grimm](Grimm.md) | [Jim](Jim.md) | [NERDS](NERDS.md) | [Strix](Strix.md) |
+| [Asharra](Asharra.md) | [D'hani](D'hani.md) | [Gromma](Gromma.md) | [Krond](Krond.md) | [Nahara](Nahara.md) | [Torogar](Torogar.md) |
+| [Azaka](Azaka.md) | [Delina](Delina.md) | [Ishi](Ishi.md) | [Krydle](Krydle.md) | [Nrakk](Nrakk.md) | [Warden](Warden.md) |
+| [Binwin](Binwin.md) | [Dhadius](Dhadius.md) | [Jaheira](Jaheira.md) | [Lucius](Lucius.md) | [Orisha](Orisha.md) | [Yorven](Yorven.md) |
+| [Birdsong](Birdsong.md) | [Drizzt](Drizzt.md) | [Jamilah](Jamilah.md) | [Makos](Makos.md) | [Prudence](Prudence.md) | [Zorbu](Zorbu.md) |
 
 # Achievement Cores
 
