@@ -13,8 +13,8 @@ Artemis benefits from the following stat nodes:
 Artemis is a melee champion.
 
 |---|---|---|---|---|---|
-|   | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Magic Non-Magic Variant | [https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r](https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r) | 3.83e45% |
-|   | ![Melee Less Health Icon](images\melee_lhp.png) |   | Strong Less Health Variant | [https://ic.byteglow.com/modron/k1kO3iodCSO1SPmo5_bCS](https://ic.byteglow.com/modron/k1kO3iodCSO1SPmo5_bCS) | 3.43e45% |
+|   | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r](https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r) | 3.83e45% |
+|   | ![Melee Less Health Icon](images\melee_lhp.png) |   | Strong (Less Health Variant) | [https://ic.byteglow.com/modron/k1kO3iodCSO1SPmo5_bCS](https://ic.byteglow.com/modron/k1kO3iodCSO1SPmo5_bCS) | 3.43e45% |
 |   | ![Melee Icon](images\melee.png) |   | Strong  | [https://ic.byteglow.com/modron/PD8TBbyvczFm-YqKKnouW](https://ic.byteglow.com/modron/PD8TBbyvczFm-YqKKnouW) | 3.09e45% |
 | ![Magic Icon](images\magic.png) | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Modest  | [https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms](https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms) | 2.18e44% |
 
