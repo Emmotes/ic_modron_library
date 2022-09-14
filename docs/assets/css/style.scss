@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+	display: none !important;
+}
+
 .wrapper {
 	max-width: 850px;
 }
