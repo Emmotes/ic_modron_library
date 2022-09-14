@@ -1,7 +1,5 @@
 **NOTE: THIS IS CURRENTLY A WORK IN PROGRESS**
 
-None of the champion quick-links will work. They have not been implemented yet.
-
 # Highly Optimised Modrons Library
 
 This is designed to be a library where you can find more or less any modron core you need. Whether it be for a specific DPS champion - or an achievement.
@@ -19,7 +17,7 @@ If you can improve any of the cores below - please do DM me on Discord new links
 
 # Key
 * ![Feat Icon](images\feat.png) - A champion that uses a stat feat to get the most out of modrons.
-* ![Attack Icon](images\attack.png - A champion that can change attack type based on a specialisation choice or ability.
+* ![Attack Icon](images\attack.png) - A champion that can change attack type based on a specialisation choice or ability.
 * ![Magic Icon](images\magic.png) - A core that's suitable for a magic champion.
 * ![Melee Icon](images\melee.png) - A core that's suitable for a melee champion.
 * ![Ranged Icon](images\ranged.png) - A core that's suitable for a ranged champion.
