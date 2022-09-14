@@ -4,9 +4,8 @@
 @import "{{ site.theme }}";
 
 header {
-	display: none !important;
+	display: none;
 }
-
 .wrapper {
 	max-width: 850px;
 }
