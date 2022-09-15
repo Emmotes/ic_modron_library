@@ -651,7 +651,8 @@
         "comment": "Minimal (No Damage)",
         "coreId": 3,
         "type": "reference",
-        "layoutId": "T-TfCsTNdXfLHOULzOfHr"
+        "layoutId": "T-TfCsTNdXfLHOULzOfHr",
+        "authors": ["Emmote"]
     },
     {
         "coreLevel": 1,

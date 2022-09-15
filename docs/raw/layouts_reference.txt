@@ -14,7 +14,7 @@
 # All damage numbers on the Fast Core should be based on
 # Artemis since he benefits from all nodes.
 
-T-TfCsTNdXfLHOULzOfHr,3,15,0,,,Minimal (No Damage)
+T-TfCsTNdXfLHOULzOfHr,3,15,0,,Emmote,Minimal (No Damage)
 
 # Retaki's Guide References
 jsI7jPCrM5UiP-FK7uz8S,3,1,1.60e03,,Retaki,Damage

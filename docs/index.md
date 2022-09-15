@@ -6,6 +6,7 @@ If you can improve any of the cores below - please do DM me on Discord new links
 
 # Index
 * [Damage Cores](#damage-cores)
+* [Reference Designs](#reference-designs)
 * [Achievement Cores](#achievement-cores)
 * [Fast Cores](#fast-cores)
 * [FAQs](#faqs)
