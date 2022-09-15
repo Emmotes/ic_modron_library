@@ -34,6 +34,14 @@ If you're unsure whether you've made the best design you can when you're done - 
 | [Binwin](Binwin.md) | [Dhadius](Dhadius.md) | [Jaheira](Jaheira.md) | [Lucius](Lucius.md) | [Orisha](Orisha.md) | [Yorven](Yorven.md) |
 | [Birdsong](Birdsong.md) | [Drizzt](Drizzt.md) | [Jamilah](Jamilah.md) | [Makos](Makos.md) | [Prudence](Prudence.md) | [Zorbu](Zorbu.md) |
 
+# Reference Designs
+
+The vast majority of these designs were built almost exclusively by Retaki in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide.
+
+This is currently a work-in-progress. More designs will be added over time.
+
+* [Fast Core](ref_fast.md)
+
 # Achievement Cores
 
 These cores have been designed specifically to get the achievements and should not be used for damage - you will definitely be able to do better. We've also attempted to design these using the minimal pipes necessary to get the achievements - though of course depending on the pipes you have available improvisation will likely be required.

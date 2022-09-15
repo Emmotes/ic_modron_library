@@ -17,8 +17,6 @@
 T-TfCsTNdXfLHOULzOfHr,3,15,0,,,Minimal (No Damage)
 
 # Retaki's Guide References
-
-# Level 1
 jsI7jPCrM5UiP-FK7uz8S,3,1,1.60e03,,Retaki,Damage
 yk2BmrUpjs3UpnAKliAP3,3,1,5.00e01,,Retaki,Gold
 UfYoMXG7U_x-EmIoMuIBB,3,2,7.22e05,,Retaki,Damage
