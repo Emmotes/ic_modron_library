@@ -1,5 +1,5 @@
 # Format:
-# linkHash,coreId,dps,champions|pipe|separated,comment
+# linkHash,coreId,coreLevel,dps,champions|pipe|separated,authors|pipe|separated,comment
 
 # coreIds
 # 1 Modest
@@ -8,4 +8,32 @@
 # 4 Magic
 # 5 Aerois
 
-T-TfCsTNdXfLHOULzOfHr,3,0,,Minimal (No Damage)
+# ==============================
+# ==== Fast Core References ====
+# ==============================
+# All damage numbers on the Fast Core should be based on
+# Artemis since he benefits from all nodes.
+
+T-TfCsTNdXfLHOULzOfHr,3,15,0,,,Minimal (No Damage)
+
+# Retaki's Guide References
+
+# Level 1
+jsI7jPCrM5UiP-FK7uz8S,3,1,1.60e03,,Retaki,Damage
+yk2BmrUpjs3UpnAKliAP3,3,1,5.00e01,,Retaki,Gold
+UfYoMXG7U_x-EmIoMuIBB,3,2,7.22e05,,Retaki,Damage
+k2Mg3nBvQG1dwWA2qnzLb,3,2,6.37e04,,Retaki,Gold
+lcUoWEXOA2jDU-Ju20JYH,3,3,1.37e07,,Retaki,
+Iyoo7Jrrs6V9coLMvQ6QD,3,4,5.83e09,,Retaki,
+m2tKj5r74ri26m94HdOTf,3,5,5.83e09,,Retaki,
+5ynlEjSVxmePUfkOkDIGP,3,6,2.48e12,,Retaki,
+29sht3peA4PoMhOq18_aB,3,7,2.48e12,,Retaki,
+M3J0RionL3yp933OCgG_S,3,8,8.01e14,,Retaki,
+dlgIP6QSOkeJ_oKO2xK0u,3,9,5.01e17,,Retaki,
+GrbqBBuqypbkyft3yeU4T,3,10,8.51e18,,Retaki,
+1TfPibsmvmpP33ACYSbIR,3,11,2.13e20,,Retaki,
+AY-qd5H8EpbnrTfn_N-kZ,3,12,6.87e22,,Retaki,
+dUQVECCbHjOfzVRxQwTlw,3,13,6.87e22,,Retaki,
+4qDeLXrEIUN35HZoKp_9u,3,14,1.17e24,,Retaki,
+ZBrE0yNV6Ce0IS8qCHhuy,3,15,2.92e25,,Retaki,0 Epic and 0 Merge Pipes
+MxgE51Uw1Z8UUwAwof8dx,3,15,2.92e25,,Retaki|Vorkera_x|Darkbolt,0 Epic and 4 Rare

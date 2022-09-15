@@ -81,7 +81,6 @@ I have not linked the Fast core for any of the DPS champions because it simply c
 
 |---|---|---|---|---|---|
 | ![Magic Icon](images\magic.png) | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Fully Supercharged | [https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv](https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv) | 1.03e39% |
-|  |  |  | Minimal (No Damage) | [https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr](https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr) | 0.00e00% |
 
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core’s primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn’t use gold nodes to possibly increase damage further.
 
