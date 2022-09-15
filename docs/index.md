@@ -37,7 +37,7 @@ If you're unsure whether you've made the best design you can when you're done - 
 
 # Reference Designs
 
-The vast majority of these designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide.
+The vast majority of these designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide. Whereas the damage cores above are all supercharged - these mostly contain general Full Epic layouts for levels 1 through 15 for their respective core.
 
 This is currently a work-in-progress. More designs will be added over time.
 
