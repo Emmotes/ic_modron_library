@@ -40,7 +40,7 @@ lgluJB7PHNndbkoL-5rdi,1,1.71e42,Nrakk,
 jpce9yH6d9a22WGA5K4xo,4,1.51e41,Nrakk,Non-Magic Variant
 
 10MJn_z_TTp9vMuRKkQTQ,2,1.47e41,Rosie,
-uaxwwiADbr1-LgADkbgay,1,2.32e40,Rosie
+uaxwwiADbr1-LgADkbgay,1,2.32e40,Rosie,
 
 JviTatDeLsTZCzprw4aeI,2,1.47e41,Ishi|D'hani,
 G6VezXEgRas4EsTfbUfw0,1,1.50e40,Ishi|Nahara,
