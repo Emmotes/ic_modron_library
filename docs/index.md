@@ -77,7 +77,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
 This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% supercharge bonus.
 
 |---|---|
-| Aerois | [https://ic.byteglow.com/modron/6wLVbtCcPNTUDfSiJ21wN](https://ic.byteglow.com/modron/6wLVbtCcPNTUDfSiJ21wN) |
+| Aerois | [https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc](https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc) |
 
 ### Pipe Dream
 
