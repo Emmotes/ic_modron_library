@@ -90,7 +90,7 @@ MxgE51Uw1Z8UUwAwof8dx,3,15,2.92e25,,Retaki|Vorkera_x|Darkbolt,0 Epic and 4 Rare
 # ===============================
 # ==== Magic Core References ====
 # ===============================
-# All damage numbers on the Strong Core should be based on
+# All damage numbers on the Magic Core should be based on
 # Asharra since she benefits from all nodes.
 
 # Retaki's Guide References:
@@ -114,7 +114,7 @@ tAEHsyw8mAqbtGKi1AN8L,4,15,2.23e35,,UniQP|Emmote|Midander|Retaki,0 Epic 7 Rare
 # ================================
 # ==== Aerois Core References ====
 # ================================
-# All damage numbers on the Strong Core should be based on
+# All damage numbers on the Aerois Core should be based on
 # Lucius since he benefits from all nodes.
 
 # Emmote's References
