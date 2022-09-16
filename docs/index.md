@@ -44,6 +44,7 @@ This is currently a work-in-progress. More designs will be added over time.
 * [Modest Core](ref_modest.md)
 * [Strong Core](ref_strong.md)
 * [Fast Core](ref_fast.md)
+* [Magic Core](ref_magic.md)
 
 # Achievement Cores
 
