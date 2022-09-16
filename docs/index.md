@@ -2,7 +2,7 @@
 
 This is designed to be a library where you can find more or less any modron core you need. Whether it be for a specific DPS champion - or an achievement.
 
-If you can improve any of the cores below - please do DM me on Discord new links with the stats/champion and core type.
+If you can improve any of the cores below or have ideas for types of cores that should be added - please do DM me on Discord. Add byteglow links as necessary.
 
 # Index
 * [Damage Cores](#damage-cores)
@@ -38,8 +38,6 @@ If you're unsure whether you've made the best design you can when you're done - 
 # Reference Designs
 
 The vast majority of these designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide. Whereas the damage cores above are all supercharged - these mostly contain general Full Epic layouts for levels 1 through 15 for their respective core.
-
-This is currently a work-in-progress. More designs will be added over time.
 
 * [Modest Core](ref_modest.md)
 * [Strong Core](ref_strong.md)

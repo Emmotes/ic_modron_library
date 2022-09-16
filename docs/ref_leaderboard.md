@@ -2,6 +2,8 @@
 
 # Unofficial Leaderboards
 
+These are community-lead designs where the goal is to improve on those who came before. If you can do better than a design found here - create a byteglow link and either put it in the modron channel in the Discord and ping me - or DM me (Emmote#5443) and I'll make sure you're put on the boards.
+
 ## Minimum Pipes
 
 These designs use the fewest number of pipes to Full Epic a modron. There are no limits on the types of pipe used.
