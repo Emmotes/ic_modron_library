@@ -19,7 +19,7 @@ Lucius is a magic champion.
 
 The main choice here is either the Magic core or the Modest core as your need for health on your tanks dictate. The difference in damage isn't as vast as it is with other magic champions though so really this comes down to personal preference.
 
-Don't let the damage of the Aerois core fool you though. It might not seem even slightly comparable - but if you're using the Aerois team - it can get close to the other cores. Though - you will need the *entire* team for that to be the case - so the Magic core will still be better. It doesn't even have health nodes - so it's basically a discount Magic core.
+Don't let the damage of the Aerois core fool you though. It might not seem even slightly comparable - but if you're using the Aerois team - it can get close to the other cores. Though - you will need the *entire* team for that to be the case - so generally the Magic core will still be superior. It doesn't even beat the Magic core for health - since it also has no health nodes.
 
 [Back to Top](#top)
 
