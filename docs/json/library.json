@@ -813,6 +813,154 @@
         ]
     },
     {
+        "coreLevel": 1,
+        "championIds": [],
+        "dps": 1.60E+3,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "zpH8DCom6FU8nlZqacwMO",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 2,
+        "championIds": [],
+        "dps": 8.07E+5,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "80FnZBXljK16TDJOevTAP",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 3,
+        "championIds": [],
+        "dps": 2.02E+7,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "_EExfsoHqRe-OTZ-3gosh",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 4,
+        "championIds": [],
+        "dps": 3.43E+8,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "ORudEwWbbeNno4HvOMC9l",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 5,
+        "championIds": [],
+        "dps": 8.58E+9,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "tdH6wdK8yHlnwoAseNcGT",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 6,
+        "championIds": [],
+        "dps": 3.65E+12,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "J6J0-gLUN_BOjM68KeSqN",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 7,
+        "championIds": [],
+        "dps": 1.73E+15,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "gtPCs5l1mySk2o7xx296l",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 8,
+        "championIds": [],
+        "dps": 7.36E+17,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "IGllUBqnQsfzskxBMoVnt",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 9,
+        "championIds": [],
+        "dps": 1.40E+19,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "4uG5864YKxD-KAa8BgX-d",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 10,
+        "championIds": [],
+        "dps": 3.50E+20,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "gdIBkD3TgT1niTV-1UiiT",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 11,
+        "championIds": [],
+        "dps": 1.49E+23,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "BHREouvgPeF9X4lRJ9xft",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 12,
+        "championIds": [],
+        "dps": 7.06E+25,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "lBjkY9UquiPPrUNDqrUh4",
+        "authors": [
+            "Retaki",
+            "Emmote"
+        ]
+    },
+    {
+        "coreLevel": 13,
+        "championIds": [],
+        "dps": 1.20E+27,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "sl9h0IwSV-3pJt5eNk6BR",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 14,
+        "championIds": [],
+        "dps": 2.28E+28,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "38CCIVtSHaIoFRZXekobU",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 5.70E+29,
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "g3SlbA3Oz6KrFFC9x5knJ",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 5.70E+29,
+        "comment": "0 Epic 1 Rare",
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "uxAvw5lBNSpjypb-wEk7R",
+        "authors": ["Darkbolt"]
+    },
+    {
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,

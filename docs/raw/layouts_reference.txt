@@ -14,7 +14,7 @@
 # All damage numbers on the Modest Core should be based on
 # Artemis since he benefits from all nodes.
 
-# Retaki's Guide References
+# Retaki's Guide References:
 95bmQkBUH9pH1x98144B-,1,1,1.60e03,,Retaki,
 HIer7L-vp1hVz5ZCdGU5b,1,2,7.22e05,,Retaki,
 Zoa8v3UbNzZPVxKhFn3gl,1,3,1.23e07,,Retaki,
@@ -34,15 +34,40 @@ y5Nyg_FHh31td1MkHAToY,1,14,2.57e26,,Retaki,
 Qr18_CPZlXC9flrEZzn54,1,15,1.60e29,,Retaki,
 P6qKM1sA_9quq9rDQrJyL,1,15,1.60e29,,Retaki|Darkbolt,0 Epic 5 Rare
 
+# ================================
+# ==== Strong Core References ====
+# ================================
+# All damage numbers on the Strong Core should be based on
+# Artemis since he benefits from all nodes.
+
+# Retaki's Guide References:
+zpH8DCom6FU8nlZqacwMO,2,1,1.60e03,,Retaki,
+80FnZBXljK16TDJOevTAP,2,2,8.07e05,,Retaki,
+_EExfsoHqRe-OTZ-3gosh,2,3,2.02e07,,Retaki,
+ORudEwWbbeNno4HvOMC9l,2,4,3.43e08,,Retaki,
+tdH6wdK8yHlnwoAseNcGT,2,5,8.58e09,,Retaki,
+J6J0-gLUN_BOjM68KeSqN,2,6,3.65e12,,Retaki,
+gtPCs5l1mySk2o7xx296l,2,7,1.73e15,,Retaki,
+IGllUBqnQsfzskxBMoVnt,2,8,7.36e17,,Retaki,
+4uG5864YKxD-KAa8BgX-d,2,9,1.40e19,,Retaki,
+gdIBkD3TgT1niTV-1UiiT,2,10,3.50e20,,Retaki,
+BHREouvgPeF9X4lRJ9xft,2,11,1.49e23,,Retaki,
+lBjkY9UquiPPrUNDqrUh4,2,12,7.06e25,,Retaki|Emmote,
+sl9h0IwSV-3pJt5eNk6BR,2,13,1.20e27,,Retaki,
+38CCIVtSHaIoFRZXekobU,2,14,2.28e28,,Retaki,
+g3SlbA3Oz6KrFFC9x5knJ,2,15,5.70e29,,Retaki,
+uxAvw5lBNSpjypb-wEk7R,2,15,5.70e29,,Darkbolt,0 Epic 1 Rare
+
 # ==============================
 # ==== Fast Core References ====
 # ==============================
 # All damage numbers on the Fast Core should be based on
 # Artemis since he benefits from all nodes.
 
+# Emmote's References
 T-TfCsTNdXfLHOULzOfHr,3,15,0,,Emmote,Minimal (No Damage)
 
-# Retaki's Guide References
+# Retaki's Guide References:
 jsI7jPCrM5UiP-FK7uz8S,3,1,1.60e03,,Retaki,Damage
 yk2BmrUpjs3UpnAKliAP3,3,1,5.00e01,,Retaki,Gold
 UfYoMXG7U_x-EmIoMuIBB,3,2,7.22e05,,Retaki,Damage
@@ -61,3 +86,20 @@ dUQVECCbHjOfzVRxQwTlw,3,13,6.87e22,,Retaki,
 4qDeLXrEIUN35HZoKp_9u,3,14,1.17e24,,Retaki,
 ZBrE0yNV6Ce0IS8qCHhuy,3,15,2.92e25,,Retaki,0 Epic and 0 Merge Pipes
 MxgE51Uw1Z8UUwAwof8dx,3,15,2.92e25,,Retaki|Vorkera_x|Darkbolt,0 Epic and 4 Rare
+
+# ===============================
+# ==== Magic Core References ====
+# ===============================
+# All damage numbers on the Strong Core should be based on
+# Asharra since she benefits from all nodes.
+
+# Retaki's Guide References:
+
+
+# ================================
+# ==== Aerois Core References ====
+# ================================
+# All damage numbers on the Strong Core should be based on
+# Lucius since he benefits from all nodes.
+
+# Retaki's Guide References:

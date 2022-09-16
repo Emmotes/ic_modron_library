@@ -42,6 +42,7 @@ The vast majority of these designs were built almost exclusively by `Retaki` in 
 This is currently a work-in-progress. More designs will be added over time.
 
 * [Modest Core](ref_modest.md)
+* [Strong Core](ref_strong.md)
 * [Fast Core](ref_fast.md)
 
 # Achievement Cores
