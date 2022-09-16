@@ -46,6 +46,7 @@ This is currently a work-in-progress. More designs will be added over time.
 * [Fast Core](ref_fast.md)
 * [Magic Core](ref_magic.md)
 * [Aerois Core](ref_aerois.md)
+* [Unofficial Leaderboards](ref_leaderboards.md)
 
 # Achievement Cores
 

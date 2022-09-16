@@ -1,0 +1,39 @@
+# Format:
+# linkHash,coreId,coreLevel,dps,recordHolder,comment
+
+# coreIds
+# 1 Modest
+# 2 Strong
+# 3 Fast
+# 4 Magic
+# 5 Aerois
+
+# Champions to base DPS numbers on
+# because they benefit from every node:
+#    Modest:  Artemis
+#    Strong:  Artemis
+#    Fast:    Artemis
+#    Magic:   Asharra
+#    Aerois:  Lucius
+
+# =======================
+# ==== Minimum Pipes ====
+# =======================
+# Cores using the minimum number of pipes.
+
+3RLSXOvfhj-9x1knFdA9B,1,15,1.60e29,Darkbolt,Min Pipes: 81
+lGg_BhwReysiilX-_yHGa,2,15,5.70e29,Darkbolt,Min Pipes: 77
+LPEwIiOxwfWpfb7RQo2Pw,3,15,2.92e25,Emmote,Min Pipes: 74
+iBpZmEKggkM5IWYOLl9kf,4,15,2.23e35,Emmote,Min Pipes: 76
+taZalpaozjGYfEmEuegt5,5,15,5.05e21,Emmote,Min Pipes: 81
+
+# ========================
+# ==== Minimum Rarity ====
+# ========================
+# Cores using the lowest rarity possible.
+
+P6qKM1sA_9quq9rDQrJyL,1,15,1.60e29,Darkbolt,Min Rarity: 5 Rares
+cmByFdKcMP1ZRhAe2nDbq,2,15,5.70e29,Darkbolt,Min Rarity: 1 Rare
+MxgE51Uw1Z8UUwAwof8dx,3,15,2.92e25,Darkbolt|Vorkera_x,Min Rarity: 4 Rares
+tAEHsyw8mAqbtGKi1AN8L,4,15,2.23e35,UniQP|Emmote|Midander|Retaki,Min Rarity: 7 Rares
+YxVuZO8-ZrtTtbtmHR99t,5,15,5.05e21,UniQP,Min Rarity: 5 Rare

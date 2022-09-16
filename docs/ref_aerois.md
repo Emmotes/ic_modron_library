@@ -23,7 +23,6 @@ These were made by me instead of `Retaki` and I may have gone overboard with som
 | 13 | Emmote |  | [https://ic.byteglow.com/modron/yB-BhHT13KoMQRQCd4gvA](https://ic.byteglow.com/modron/yB-BhHT13KoMQRQCd4gvA)
 | 14 | Emmote |  | [https://ic.byteglow.com/modron/kon1UvsGsNV1YIxBPREYr](https://ic.byteglow.com/modron/kon1UvsGsNV1YIxBPREYr)
 | 15 | Emmote |  | [https://ic.byteglow.com/modron/YX1lyqOJ0uATp3HRrlfzo](https://ic.byteglow.com/modron/YX1lyqOJ0uATp3HRrlfzo)
-| 15 | Emmote | 0 Epic 5 Rare | [https://ic.byteglow.com/modron/YxVuZO8-ZrtTtbtmHR99t](https://ic.byteglow.com/modron/YxVuZO8-ZrtTtbtmHR99t)
 
 [Back to Top](#top)
 

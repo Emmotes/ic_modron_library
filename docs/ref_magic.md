@@ -21,7 +21,6 @@ These designs can be used for inspiration for piping your own core at various le
 | 13 | Retaki |  | [https://ic.byteglow.com/modron/gzgXoZkwhOGDfbWGd1I6e](https://ic.byteglow.com/modron/gzgXoZkwhOGDfbWGd1I6e)
 | 14 | Retaki |  | [https://ic.byteglow.com/modron/msUnitH_NjpSKiEn28hcU](https://ic.byteglow.com/modron/msUnitH_NjpSKiEn28hcU)
 | 15 | Retaki |  | [https://ic.byteglow.com/modron/WzUI8sqtOTKO75EUpMqxb](https://ic.byteglow.com/modron/WzUI8sqtOTKO75EUpMqxb)
-| 15 | UniQP, Emmote, Midander and Retaki | 0 Epic 7 Rare | [https://ic.byteglow.com/modron/tAEHsyw8mAqbtGKi1AN8L](https://ic.byteglow.com/modron/tAEHsyw8mAqbtGKi1AN8L)
 
 [Back to Top](#top)
 

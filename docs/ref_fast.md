@@ -23,8 +23,7 @@ These designs can be used for inspiration for piping your own core at various le
 | 13 | Retaki |  | [https://ic.byteglow.com/modron/dUQVECCbHjOfzVRxQwTlw](https://ic.byteglow.com/modron/dUQVECCbHjOfzVRxQwTlw)
 | 14 | Retaki |  | [https://ic.byteglow.com/modron/4qDeLXrEIUN35HZoKp_9u](https://ic.byteglow.com/modron/4qDeLXrEIUN35HZoKp_9u)
 | 15 | Emmote | Minimal (No Damage) | [https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr](https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr)
-| 15 | Retaki | 0 Epic and 0 Merge Pipes | [https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy](https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy)
-| 15 | Retaki, Vorkera_x and Darkbolt | 0 Epic and 4 Rare | [https://ic.byteglow.com/modron/MxgE51Uw1Z8UUwAwof8dx](https://ic.byteglow.com/modron/MxgE51Uw1Z8UUwAwof8dx)
+| 15 | Retaki |  | [https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy](https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy)
 
 [Back to Top](#top)
 

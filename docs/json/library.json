@@ -800,19 +800,6 @@
         "authors": ["Retaki"]
     },
     {
-        "coreLevel": 15,
-        "championIds": [],
-        "dps": 1.60E+29,
-        "comment": "0 Epic 5 Rare",
-        "coreId": 1,
-        "type": "reference",
-        "layoutId": "P6qKM1sA_9quq9rDQrJyL",
-        "authors": [
-            "Retaki",
-            "Darkbolt"
-        ]
-    },
-    {
         "coreLevel": 1,
         "championIds": [],
         "dps": 1.60E+3,
@@ -949,16 +936,6 @@
         "type": "reference",
         "layoutId": "g3SlbA3Oz6KrFFC9x5knJ",
         "authors": ["Retaki"]
-    },
-    {
-        "coreLevel": 15,
-        "championIds": [],
-        "dps": 5.70E+29,
-        "comment": "0 Epic 1 Rare",
-        "coreId": 2,
-        "type": "reference",
-        "layoutId": "uxAvw5lBNSpjypb-wEk7R",
-        "authors": ["Darkbolt"]
     },
     {
         "coreLevel": 15,
@@ -1122,25 +1099,10 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 2.92E+25,
-        "comment": "0 Epic and 0 Merge Pipes",
         "coreId": 3,
         "type": "reference",
         "layoutId": "ZBrE0yNV6Ce0IS8qCHhuy",
         "authors": ["Retaki"]
-    },
-    {
-        "coreLevel": 15,
-        "championIds": [],
-        "dps": 2.92E+25,
-        "comment": "0 Epic and 4 Rare",
-        "coreId": 3,
-        "type": "reference",
-        "layoutId": "MxgE51Uw1Z8UUwAwof8dx",
-        "authors": [
-            "Retaki",
-            "Vorkera_x",
-            "Darkbolt"
-        ]
     },
     {
         "coreLevel": 1,
@@ -1276,21 +1238,6 @@
         "type": "reference",
         "layoutId": "WzUI8sqtOTKO75EUpMqxb",
         "authors": ["Retaki"]
-    },
-    {
-        "coreLevel": 15,
-        "championIds": [],
-        "dps": 2.23E+35,
-        "comment": "0 Epic 7 Rare",
-        "coreId": 4,
-        "type": "reference",
-        "layoutId": "tAEHsyw8mAqbtGKi1AN8L",
-        "authors": [
-            "UniQP",
-            "Emmote",
-            "Midander",
-            "Retaki"
-        ]
     },
     {
         "coreLevel": 1,
@@ -1430,11 +1377,109 @@
     {
         "coreLevel": 15,
         "championIds": [],
+        "dps": 1.60E+29,
+        "comment": "Min Pipes: 81",
+        "coreId": 1,
+        "type": "reference",
+        "layoutId": "3RLSXOvfhj-9x1knFdA9B",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 5.70E+29,
+        "comment": "Min Pipes: 77",
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "lGg_BhwReysiilX-_yHGa",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 2.92E+25,
+        "comment": "Min Pipes: 74",
+        "coreId": 3,
+        "type": "reference",
+        "layoutId": "LPEwIiOxwfWpfb7RQo2Pw",
+        "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 2.23E+35,
+        "comment": "Min Pipes: 76",
+        "coreId": 4,
+        "type": "reference",
+        "layoutId": "iBpZmEKggkM5IWYOLl9kf",
+        "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
         "dps": 5.05E+21,
-        "comment": "0 Epic 5 Rare",
+        "comment": "Min Pipes: 81",
+        "coreId": 5,
+        "type": "reference",
+        "layoutId": "taZalpaozjGYfEmEuegt5",
+        "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 1.60E+29,
+        "comment": "Min Rarity: 5 Rares",
+        "coreId": 1,
+        "type": "reference",
+        "layoutId": "P6qKM1sA_9quq9rDQrJyL",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 5.70E+29,
+        "comment": "Min Rarity: 1 Rare",
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "cmByFdKcMP1ZRhAe2nDbq",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 2.92E+25,
+        "comment": "Min Rarity: 4 Rares",
+        "coreId": 3,
+        "type": "reference",
+        "layoutId": "MxgE51Uw1Z8UUwAwof8dx",
+        "authors": [
+            "Darkbolt",
+            "Vorkera_x"
+        ]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 2.23E+35,
+        "comment": "Min Rarity: 7 Rares",
+        "coreId": 4,
+        "type": "reference",
+        "layoutId": "tAEHsyw8mAqbtGKi1AN8L",
+        "authors": [
+            "UniQP",
+            "Emmote",
+            "Midander",
+            "Retaki"
+        ]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 5.05E+21,
+        "comment": "Min Rarity: 5 Rare",
         "coreId": 5,
         "type": "reference",
         "layoutId": "YxVuZO8-ZrtTtbtmHR99t",
-        "authors": ["Emmote"]
+        "authors": ["UniQP"]
     }
 ]

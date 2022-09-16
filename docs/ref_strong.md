@@ -21,7 +21,6 @@ These designs can be used for inspiration for piping your own core at various le
 | 13 | Retaki |  | [https://ic.byteglow.com/modron/sl9h0IwSV-3pJt5eNk6BR](https://ic.byteglow.com/modron/sl9h0IwSV-3pJt5eNk6BR)
 | 14 | Retaki |  | [https://ic.byteglow.com/modron/38CCIVtSHaIoFRZXekobU](https://ic.byteglow.com/modron/38CCIVtSHaIoFRZXekobU)
 | 15 | Retaki |  | [https://ic.byteglow.com/modron/g3SlbA3Oz6KrFFC9x5knJ](https://ic.byteglow.com/modron/g3SlbA3Oz6KrFFC9x5knJ)
-| 15 | Darkbolt | 0 Epic 1 Rare | [https://ic.byteglow.com/modron/uxAvw5lBNSpjypb-wEk7R](https://ic.byteglow.com/modron/uxAvw5lBNSpjypb-wEk7R)
 
 [Back to Top](#top)
 
