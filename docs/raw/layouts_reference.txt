@@ -117,4 +117,20 @@ tAEHsyw8mAqbtGKi1AN8L,4,15,2.23e35,,UniQP|Emmote|Midander|Retaki,0 Epic 7 Rare
 # All damage numbers on the Strong Core should be based on
 # Lucius since he benefits from all nodes.
 
-# Retaki's Guide References:
+# Emmote's References
+ZrUTTu1XAyGonDRfEzt1v,5,1,1.60e03,,Emmote,
+p9r3JZEqgj1DLBzZDXtjK,5,2,3.22e04,,Emmote,
+Ro2xNfZGpf3Z9UuPXXan2,5,3,8.07e05,,Emmote,
+POGFl7Z7xbjQ0puBRibS_,5,4,1.37e07,,Emmote,
+_cnjFMbJghPE7k32q5Zv4,5,5,2.61e08,,Emmote,
+WP4ykQWq1-9KcglksyRwz,5,6,6.52e09,,Emmote,
+pA0F7LTce6No1Mn3KFO6E,5,7,1.11e11,,Emmote,
+zwQxS_wjAPrDcjr4oj_IB,5,8,2.77e12,,Emmote,
+dHdH8aIuzCwrEJfrVVhH1,5,9,5.27e13,,Emmote,
+TaabPZlEznKITv_qHVDT_,5,10,1.32e15,,Emmote,
+CEl3t0v3AlmfwGWQGidVZ,5,11,2.24e16,,Emmote,
+mk0W-OXm2rmflppPDHc-K,5,12,4.25e17,,Emmote,
+yB-BhHT13KoMQRQCd4gvA,5,13,1.06e19,,Emmote,
+kon1UvsGsNV1YIxBPREYr,5,14,1.06e19,,Emmote,
+YX1lyqOJ0uATp3HRrlfzo,5,15,5.05e21,,Emmote,
+YxVuZO8-ZrtTtbtmHR99t,5,15,5.05e21,,Emmote,0 Epic 5 Rare
