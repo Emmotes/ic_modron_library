@@ -215,7 +215,8 @@
             25,
             60,
             40,
-            4
+            4,
+            21
         ],
         "dps": 2.19E+41,
         "comment": "Non-Magic Variant",
@@ -437,15 +438,6 @@
         "coreId": 2,
         "type": "damage",
         "layoutId": "PI7HLEOc03VblCs-V8qG9"
-    },
-    {
-        "coreLevel": 15,
-        "championIds": [21],
-        "dps": 1.83E+41,
-        "comment": "Non-Magic Variant",
-        "coreId": 4,
-        "type": "damage",
-        "layoutId": "9ivs4Sv4GYIRSSOOHP53j"
     },
     {
         "coreLevel": 15,
