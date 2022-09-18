@@ -19,11 +19,11 @@ Lucius is a magic champion.
 
 The main choice here is either the Magic core or the Modest core as your need for health on your tanks dictate. The difference in damage isn't as vast as it is with other magic champions though so really this comes down to personal preference.
 
-Don't let the damage of the Aerois core fool you though. It might not seem even slightly comparable - but if you're using the Aerois team - it can get close to the other cores - possibly even better. Though - you will need the *entire* team for that to be the case.
+Don't let the damage of the Aerois core fool you though. It might not seem even slightly comparable - but if you're using 4 or 5 members of the Aerois team - it's better than the Magic core.
 
-While the Aerois nodes can't be supercharged - the two Aerois Synergy nodes do apply 2400% (at epic) to every single Aerois champions' Aerois Synergy ability - which quite possibly makes it better than the Magic core for a full Aerois team. Maybe.
+The reason is fairly simple. While the Aerois nodes can't be supercharged - the two Aerois Synergy nodes do apply 2400% (at epic) to every single Aerois champions' Aerois Synergy ability. For a specific breakdown of how the core fares with amount of Aerois champions - check the main page.
 
-That said - the Aerois core doesn't have any health nodes - just like the Magic core - so they're both undesirable on that front.
+All that said though - the Aerois core doesn't have any health nodes - just like the Magic core - so they're both undesirable on that front.
 
 [Back to Top](#top)
 
