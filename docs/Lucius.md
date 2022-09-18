@@ -21,7 +21,7 @@ The main choice here is either the Magic core or the Modest core as your need fo
 
 Don't let the damage of the Aerois core fool you though. It might not seem even slightly comparable - but if you're using 4 or 5 members of the Aerois team - it's better than the Magic core.
 
-The reason is fairly simple. While the Aerois nodes can't be supercharged - the two Aerois Synergy nodes do apply 2400% (at epic) to every single Aerois champions' Aerois Synergy ability. For a specific breakdown of how the core fares with amount of Aerois champions - check the main page.
+The reason is fairly simple. While the Aerois nodes can't be supercharged - the two Aerois Synergy nodes do apply 2400% (at epic) to every single Aerois champions' Aerois Synergy ability. For a specific breakdown of how the core fares with amount of Aerois champions - check the table below.
 
 All that said though - the Aerois core doesn't have any health nodes - just like the Magic core - so they're both undesirable on that front.
 
