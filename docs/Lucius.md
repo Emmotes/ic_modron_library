@@ -17,7 +17,7 @@ Lucius is a magic champion.
 | ![Magic Icon](images\magic.png) |   | ![Ranged Icon](images\ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/BshqNhsKgfEyLYymBa3hY](https://ic.byteglow.com/modron/BshqNhsKgfEyLYymBa3hY) | 1.90e41% |
 | ![Lucius Icon](images\lucius.png) |   |   | Aerois  | [https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C](https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C) | 1.27e33% |
 
-The main choice here is either the Magic core or the Modest core as the need for health on your tanks dictate. The difference in damage isn't as vast as it is with other magic champions though so really this comes down to personal preference.
+The main choice here is either the Magic core or the Modest core as the need for health on your tanks dictates. The difference in damage isn't as vast as it is with other magic champions though so really this comes down to personal preference.
 
 Don't let the damage of the Aerois core fool you though. It might not seem even slightly comparable - but if you're using 4 or 5 members of the Aerois team - it's better than the Magic core.
 
