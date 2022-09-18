@@ -9,7 +9,6 @@ If you can improve any of the cores below or have ideas for types of cores that 
 * [Reference Designs](#reference-designs)
 * [Achievement Cores](#achievement-cores)
 * [Fast Cores](#fast-cores)
-* [Aerois Core](#aerois-core)
 * [FAQs](#faqs)
 * [Credits](#credits)
 * [Feedback](#feedback)
@@ -95,34 +94,7 @@ I have not linked the Fast core for any of the DPS champions because it simply c
 |---|---|---|---|---|---|
 | ![Magic Icon](images\magic.png) | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Fully Supercharged | [https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv](https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv) | 1.03e39% |
 
-# Aerois Core
-
-So there's been some debate around whether or not the Aerois core will be better or worse for Lucius than the Magic core. At first glance it may look utterly underwhelming - especially since none of the Aerois nodes can be supercharged. However - that's not taking into account the fact that the Aerois Synergy nodes apply to all 5 champions' Aerois Synergy abilities. Below is a table representing how good the core is for the number of Aerois champions used - so long as Lucius is your DPS of course.
-
-| Core | DPS | Num Aerois Champions | Total Effect |
-|---|---|---|---|
-| Aerois | Lucius | 5 | 1.84e58% |
-| Magic | Lucius |   | 2.83e53% |
-| Aerois | Lucius | 4 | 4.72e52% |
-| Aerois | Lucius | 3 | 1.21e47% |
-| Aerois | Lucius | 2 | 3.09e41% |
-| Aerois | Lucius | 1 | 7.91e35% |
-
-| Core | DPS | Num Aerois Champions | Total Effect |
-|---|---|---|---|
-| Magic | Asharra | | 2.83e53% |
-| Aerois | Not Lucius | 4 | 1.40e51% |
-| Aerois | Not Lucius | 3 | 3.59e45% |
-| Aerois | Not Lucius | 2 | 9.19e39% |
-| Aerois | Not Lucius | 1 | 2.35e34% |
-
-To summarise. If you're using Lucius and 4 or 5 Aerois champions - the Aerois core will be better than the Magic core. If you can only use 3 or fewer Aerois champions - the Magic core will be better.
-
-On the other hand - if you're not using Lucius - then it's only likely to be better if you're chosen DPS lacks one or more mental stats (Int/Wis/Cha) and you're using the remaining 4 Aerois champions. Any other combinations and it will almost definitely be worse.
-
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core’s primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn’t use gold nodes to possibly increase damage further.
-
-The Minimal no damage design is for when you’re supercharging another core and need all the pipes you can get - but still want your Fast core piped up for gem farming. It uses no epic pieces - no cross pieces - and only 9 rare pieces. Since gem farming doesn’t need champion damage - unless you’re modron stacking - those nodes are ignored.
 
 # FAQs
 

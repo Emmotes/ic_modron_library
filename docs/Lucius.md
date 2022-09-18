@@ -25,6 +25,14 @@ The reason is fairly simple. While the Aerois nodes can't be supercharged - the 
 
 All that said though - the Aerois core doesn't have any health nodes - just like the Magic core - so they're both undesirable on that front.
 
+| Core | Num Aerois Champions | Total Damage |
+|---|---|---|
+| Aerois | 5 | 1.84e58% |
+| Aerois | 4 | 4.72e52% |
+| Aerois | 3 | 1.21e47% |
+| Aerois | 2 | 3.09e41% |
+| Aerois | 1 | 7.91e35% |
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
