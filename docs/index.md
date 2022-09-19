@@ -6,9 +6,9 @@ If you can improve any of the cores below or have ideas for types of cores that 
 
 # Index
 * [Damage Cores](#damage-cores)
-* [Reference Designs](#reference-designs)
 * [Achievement Cores](#achievement-cores)
 * [Fast Cores](#fast-cores)
+* [Reference Designs](#reference-designs)
 * [FAQs](#faqs)
 * [Credits](#credits)
 * [Feedback](#feedback)
