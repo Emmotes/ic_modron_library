@@ -1,6 +1,6 @@
 # Highly Optimised Modrons Library
 
-This is designed to be a library where you can find more or less any modron core you need. Whether it be for a specific DPS champion - or an achievement.
+This is designed to be a library where you can find more or less any modron core you need. Whether it be for a specific DPS champion - an achievement - or even reference designs for when levelling up your core.
 
 If you can improve any of the cores below or have ideas for types of cores that should be added - please do DM me on Discord. Add byteglow links as necessary.
 
@@ -35,17 +35,6 @@ If you're unsure whether you've made the best design you can when you're done - 
 | [Binwin](Binwin.md) | [Dhadius](Dhadius.md) | [Jaheira](Jaheira.md) | [Lucius](Lucius.md) | [Orisha](Orisha.md) | [Yorven](Yorven.md) |
 | [Birdsong](Birdsong.md) | [Drizzt](Drizzt.md) | [Jamilah](Jamilah.md) | [Makos](Makos.md) | [Prudence](Prudence.md) | [Zorbu](Zorbu.md) |
 
-# Reference Designs
-
-The vast majority of these designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide. Whereas the damage cores above are all supercharged - these mostly contain general Full Epic layouts for levels 1 through 15 for their respective core.
-
-* [Modest Core](ref_modest.md)
-* [Strong Core](ref_strong.md)
-* [Fast Core](ref_fast.md)
-* [Magic Core](ref_magic.md)
-* [Aerois Core](ref_aerois.md)
-* [Unofficial Leaderboards](ref_leaderboard.md)
-
 # Achievement Cores
 
 These cores have been designed specifically to get the achievements and should not be used for damage - you will definitely be able to do better. We've also attempted to design these using the minimal pipes necessary to get the achievements - though of course depending on the pipes you have available improvisation will likely be required.
@@ -54,7 +43,7 @@ Despite what may be implied from reading the achievement descriptions - the supe
 
 If a core is not listed - it’s because it’s impossible to get the achievement with that core.
 
-### Now We're Flowing
+## Now We're Flowing
 
 This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharge bonus.
 
@@ -64,7 +53,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
 | Magic | [https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh](https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh) |
 | Aerois | [https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K](https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K) |
 
-### Flow Shui
+## Flow Shui
 
 This achievement requires 128,000 (1.28e5) flow to every node for a 200% supercharge bonus.
 
@@ -72,14 +61,14 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
 | Magic | [https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF](https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF) |
 | Aerois | [https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB](https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB) |
 
-### Infinite Cosmic Power
+## Infinite Cosmic Power
 
 This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% supercharge bonus.
 
 |---|---|
 | Aerois | [https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc](https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc) |
 
-### Pipe Dream
+## Pipe Dream
 
 This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% supercharge bonus.
 
@@ -96,35 +85,30 @@ I have not linked the Fast core for any of the DPS champions because it simply c
 
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core’s primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn’t use gold nodes to possibly increase damage further.
 
+# Reference Designs
+
+The vast majority of these designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide. Whereas the damage cores above are all supercharged - these mostly contain general Full Epic layouts for levels 1 through 15 for their respective core.
+
+* [Modest Core](ref_modest.md)
+* [Strong Core](ref_strong.md)
+* [Fast Core](ref_fast.md)
+* [Magic Core](ref_magic.md)
+* [Aerois Core](ref_aerois.md)
+* [Unofficial Leaderboards](ref_leaderboard.md)
+
 # FAQs
 
 Just a list of frequently asked questions. If you have a question - feel free to DM me on Discord.
 
-### Why don’t you pipe gold nodes?
+## Why don’t you pipe gold nodes?
 
 Using them often lowers flow to the damage nodes and damage is the whole point of supercharging. If you need gold then it's best to load a different layout temporarily or use a different core.
 
 The Modest core has the highest gold bonus of 2.19e6% when fully epic - shortly followed by the Fast core at 1.20e6%.
 
-### Why do you pipe Health nodes in the Modest and Strong cores then?
+## Why do you pipe Health nodes in the Modest and Strong cores then?
 
 If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you’re willing to lose damage because of it.
-
-# Credits
-
-Getting these highly optimised designs hasn’t been a one person job. It's been a huge community effort with a lot of back-and-forth of improvements between many people.
-
-I personally want to thank `UniQP` most of all though. This is as much their project as mine - and they have easily contributed the most to this library with innumerable optimisations. It simply wouldn't be what it is without their input.
-
-Of course - others have contributed as well - and the most notable include:
-* `Retaki`
-* `Midander`
-* `Ridge`
-* `Cuddlegutz`
-
-Also a big thank you to `Uffdah` for the modron tool on Byteglow.
-
-If you improve any of the designs in this guide - you’ll end up on this list too (unless you specifically ask me otherwise).
 
 # Feedback
 

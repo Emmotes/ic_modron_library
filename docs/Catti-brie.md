@@ -12,7 +12,7 @@ Catti-brie benefits from the following stat nodes:
 Catti-brie is a ranged champion.
 
 |---|---|---|---|---|---|
-| ![Magic Icon](images\magic.png) | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Modest  | [https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E](https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E) | 4.43e42% |
+| ![Magic Icon](images\magic.png) | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Modest | [https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E](https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E) | 4.43e42% |
 |   | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4](https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4) | 2.19e41% |
 | ![Magic Icon](images\magic.png) |   | ![Ranged Icon](images\ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/39cNPbw9lEVepnBMjPMsY](https://ic.byteglow.com/modron/39cNPbw9lEVepnBMjPMsY) | 1.99e41% |
 
