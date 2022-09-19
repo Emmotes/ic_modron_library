@@ -110,6 +110,22 @@ The Modest core has the highest gold bonus of 2.19e6% when fully epic - shortly 
 
 If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you’re willing to lose damage because of it.
 
+# Credits
+
+Getting these highly optimised designs hasn’t been a one person job. It's been a huge community effort with a lot of back-and-forth of improvements between many people.
+
+I personally want to thank `UniQP` most of all though. This is as much their project as mine - and they have easily contributed the most to this library with innumerable optimisations. It simply wouldn't be what it is without their input.
+
+Of course - others have contributed as well - and the most notable include:
+* `Retaki`
+* `Midander`
+* `Ridge`
+* `Cuddlegutz`
+
+Also a big thank you to `Uffdah` for the modron tool on Byteglow.
+
+If you improve any of the designs in this guide - you’ll end up on this list too (unless you specifically ask me otherwise).
+
 # Feedback
 
 Please do feel free to contact me via a DM on the Discord if you can think of anything that might improve this guide. I’m Emmote#5443 - the one with the Prudence avatar.
