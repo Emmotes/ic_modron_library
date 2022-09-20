@@ -50,6 +50,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
 |---|---|
 | Modest | [https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT](https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT) |
 | Strong | [https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o](https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o) |
+| Fast | [https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp](https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp) |
 | Magic | [https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh](https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh) |
 | Aerois | [https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K](https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K) |
 

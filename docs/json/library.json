@@ -596,6 +596,15 @@
         "championIds": [],
         "dps": 0,
         "comment": "Now We're Flowing (1)",
+        "coreId": 3,
+        "type": "achievement",
+        "layoutId": "8VMtVFfG6dtt92fr8XMwp"
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 0,
+        "comment": "Now We're Flowing (1)",
         "coreId": 4,
         "type": "achievement",
         "layoutId": "5wV-LkarzUs19rX5uSdfh"
