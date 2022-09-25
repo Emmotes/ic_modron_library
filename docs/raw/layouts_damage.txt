@@ -24,11 +24,11 @@ QnAlmdSi9mdxSpGwOwwTt,2,1.90e41,Gromma,Non-Melee Variant
 75kFYrZg54zfPCKHD18MX,1,2.62e42,Orisha,
 evhoT2FG-YXhOWbhbGgKx,2,1.99e41,Orisha,Non-Melee Variant
 
-Zb59XU8wppjC7Tg7__CIS,4,3.01e49,Lucius|Nahara,
+ySvMbCaCKkNlLr-YXI6UT,4,3.44e49,Lucius|Nahara,
 CUDvqppKGLcOkL5h7o2_-,2,2.13e43,Jaheira|Jamilah|Yorven,
 6Yv_YlUxFfujj05FwG9ed,1,1.50e42,Jaheira|Jamilah|Lucius|Yorven,
 BshqNhsKgfEyLYymBa3hY,2,1.90e41,Lucius,Non-Melee Variant
-NEggb8lahcTbI2t9l8CmO,4,1.51e41,Ishi|Jaheira|Jamilah|Yorven,Non-Magic Variant
+c23hOzJAH6rdvgsf5yKeZ,4,1.82e41,Ishi|Jaheira|Jamilah|Yorven,Non-Magic Variant
 CPsUZyBluqIEn96nwVj0C,5,1.27e33,Lucius,
 
 v5E14nXk-NFS7LpAvZPUt,2,2.43e43,Krydle,
@@ -37,7 +37,7 @@ lxl77lg_2zUFrv6SLU6-E,1,4.43e42,Catti-brie|Krydle,
 39cNPbw9lEVepnBMjPMsY,2,1.99e41,Catti-brie,Non-Melee Variant
 
 lgluJB7PHNndbkoL-5rdi,1,1.71e42,Nrakk,
-jpce9yH6d9a22WGA5K4xo,4,1.51e41,Nrakk,Non-Magic Variant
+Y-dm5dFF-poiLBflC5f17,4,1.91e41,Nrakk,Non-Magic Variant
 
 10MJn_z_TTp9vMuRKkQTQ,2,1.47e41,Rosie,
 uaxwwiADbr1-LgADkbgay,1,2.32e40,Rosie,

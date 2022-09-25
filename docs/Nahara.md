@@ -11,7 +11,7 @@ Nahara benefits from the following stat nodes:
 Nahara is a magic champion.
 
 |---|---|---|---|---|---|
-| ![Magic Icon](images\magic.png) |   |   | Magic | [https://ic.byteglow.com/modron/Zb59XU8wppjC7Tg7__CIS](https://ic.byteglow.com/modron/Zb59XU8wppjC7Tg7__CIS) | 3.01e49% |
+| ![Magic Icon](images\magic.png) |   |   | Magic | [https://ic.byteglow.com/modron/ySvMbCaCKkNlLr-YXI6UT](https://ic.byteglow.com/modron/ySvMbCaCKkNlLr-YXI6UT) | 3.44e49% |
 | ![Magic Icon](images\magic.png) | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Modest | [https://ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0](https://ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0) | 1.50e40% |
 | ![Magic Icon](images\magic.png) |   | ![Ranged Icon](images\ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/XmRxopxAffaYPeQqpRM5Q](https://ic.byteglow.com/modron/XmRxopxAffaYPeQqpRM5Q) | 1.31e39% |
 

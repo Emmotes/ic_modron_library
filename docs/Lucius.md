@@ -12,7 +12,7 @@ Lucius benefits from the following stat nodes:
 Lucius is a magic champion.
 
 |---|---|---|---|---|---|
-| ![Magic Icon](images\magic.png) |   |   | Magic | [https://ic.byteglow.com/modron/Zb59XU8wppjC7Tg7__CIS](https://ic.byteglow.com/modron/Zb59XU8wppjC7Tg7__CIS) | 3.01e49% |
+| ![Magic Icon](images\magic.png) |   |   | Magic | [https://ic.byteglow.com/modron/ySvMbCaCKkNlLr-YXI6UT](https://ic.byteglow.com/modron/ySvMbCaCKkNlLr-YXI6UT) | 3.44e49% |
 | ![Magic Icon](images\magic.png) | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Modest | [https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed](https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed) | 1.50e42% |
 | ![Magic Icon](images\magic.png) |   | ![Ranged Icon](images\ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/BshqNhsKgfEyLYymBa3hY](https://ic.byteglow.com/modron/BshqNhsKgfEyLYymBa3hY) | 1.90e41% |
 | ![Lucius Icon](images\lucius.png) |   |   | Aerois | [https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C](https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C) | 1.27e33% |
