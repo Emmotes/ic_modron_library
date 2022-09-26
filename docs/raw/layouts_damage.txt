@@ -25,7 +25,7 @@ QnAlmdSi9mdxSpGwOwwTt,2,1.90e41,Gromma,Non-Melee Variant
 evhoT2FG-YXhOWbhbGgKx,2,1.99e41,Orisha,Non-Melee Variant
 
 ySvMbCaCKkNlLr-YXI6UT,4,3.44e49,Lucius|Nahara,
-CUDvqppKGLcOkL5h7o2_-,2,2.13e43,Jaheira|Jamilah|Yorven,
+s2SdGusWcfrUBmcmBxIuJ,2,2.13e43,Jaheira|Jamilah|Yorven,
 6Yv_YlUxFfujj05FwG9ed,1,1.50e42,Jaheira|Jamilah|Lucius|Yorven,
 BshqNhsKgfEyLYymBa3hY,2,1.90e41,Lucius,Non-Melee Variant
 c23hOzJAH6rdvgsf5yKeZ,4,1.82e41,Ishi|Jaheira|Jamilah|Yorven,Non-Magic Variant
@@ -87,3 +87,31 @@ OBmLhyuS_WAl-Y03TmHC6,2,6.52e34,NERDS,Non-Melee Variant
 oTmOpNMC9b4vWqo-F0mhG,1,1.22e34,NERDS,
 
 ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,Fully Supercharged
+
+# ==================
+# ==== Spoilers ====
+# ==================
+
+# Don't say I didn't warn you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# D'hani will be getting an Intelligence feat on 19 October
+# that will make her eligible for the Intelligence modron
+# node.
+#
+# As such she'll need changing:
+# - 1.47e41% -> 2.13e43%: Her Strong core will become the same as Drizzt's.
+# - 1.08e38% -> 7.47e35%: Her Modest core will just hook up the Intelligence
+#   node and need a tiny boost to stay 500% on all.
+# - 9.06e36% -> 1.91e41%: She'll get a Magic core. Should be same as Nrakk's.
