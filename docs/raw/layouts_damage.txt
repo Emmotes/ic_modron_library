@@ -24,7 +24,7 @@ QnAlmdSi9mdxSpGwOwwTt,2,1.90e41,Gromma,Non-Melee Variant
 75kFYrZg54zfPCKHD18MX,1,2.62e42,Orisha,
 evhoT2FG-YXhOWbhbGgKx,2,1.99e41,Orisha,Non-Melee Variant
 
-ySvMbCaCKkNlLr-YXI6UT,4,3.44e49,Lucius|Nahara,
+py0fM4EedKfIniT2SGw66,4,3.52e49,Lucius|Nahara,
 s2SdGusWcfrUBmcmBxIuJ,2,2.13e43,Jaheira|Jamilah|Yorven,
 6Yv_YlUxFfujj05FwG9ed,1,1.50e42,Jaheira|Jamilah|Lucius|Yorven,
 BshqNhsKgfEyLYymBa3hY,2,1.90e41,Lucius,Non-Melee Variant
@@ -81,7 +81,7 @@ VWE8AGgjNEWfILkyr-Nfs,4,8.16e44,Dhadius,
 8gl43tSIMnpkHDR9AAxZn,2,6.52e34,Dhadius,Non-Melee Variant
 O8s0S3l02jKrxfbzGFo6h,1,1.51e34,Dhadius,
 
-EdMqmTlpV9h_fYXvI4Dp6,4,3.88e40,NERDS,
+umP6sO2p9qV1JfI3m7abQ,4,7.96e40,NERDS,
 YN9lgqcCRjPb_US-nXasM,2,7.97e36,NERDS,
 OBmLhyuS_WAl-Y03TmHC6,2,6.52e34,NERDS,Non-Melee Variant
 oTmOpNMC9b4vWqo-F0mhG,1,1.22e34,NERDS,
@@ -112,6 +112,6 @@ ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,Fully Supercharged
 #
 # As such she'll need changing:
 # - 1.47e41% -> 2.13e43%: Her Strong core will become the same as Drizzt's.
-# - 1.08e38% -> 7.47e35%: Her Modest core will just hook up the Intelligence
+# - 1.08e38% -> 1.57e40%: Her Modest core will just hook up the Intelligence
 #   node and need a tiny boost to stay 500% on all.
 # - 9.06e36% -> 1.91e41%: She'll get a Magic core. Should be same as Nrakk's.
