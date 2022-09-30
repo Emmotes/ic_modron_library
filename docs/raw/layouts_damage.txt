@@ -106,6 +106,15 @@ ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,Fully Supercharged
 
 
 
+
+
+
+
+
+
+
+
+
 # D'hani will be getting an Intelligence feat on 19 October
 # that will make her eligible for the Intelligence modron
 # node.
@@ -115,3 +124,9 @@ ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,Fully Supercharged
 # - 1.08e38% -> 1.57e40%: Her Modest core will just hook up the Intelligence
 #   node and need a tiny boost to stay 500% on all.
 # - 9.06e36% -> 1.91e41%: She'll get a Magic core. Should be same as Nrakk's.
+
+
+# Kent will be released on 19 October.
+
+# Looks like he'll inherit the same cores as Black Viper and Jarlaxle - given
+# that he has the same stats >= 13.
