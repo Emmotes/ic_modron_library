@@ -15,9 +15,9 @@ If you can improve any of the cores below or have ideas for types of cores that 
 * [Changelog](https://github.com/Emmotes/ic_modron_library/commits/main)
 
 # Key
-* ![Magic Icon](images\magic.png) - A core that's suitable for a magic champion.
-* ![Melee Icon](images\melee.png) - A core that's suitable for a melee champion.
-* ![Ranged Icon](images\ranged.png) - A core that's suitable for a ranged champion.
+* ![Magic Icon](images/magic.png) - A core that's suitable for a magic champion.
+* ![Melee Icon](images/melee.png) - A core that's suitable for a melee champion.
+* ![Ranged Icon](images/ranged.png) - A core that's suitable for a ranged champion.
 
 # Damage Cores
 
@@ -83,7 +83,7 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 I have not linked the Fast core for any of the DPS champions because it simply cannot compete. It will always be the worst for damage. That said - it does have a fully supercharged design if you really want to use it.
 
 |---|---|---|---|---|---|
-| ![Magic Icon](images\magic.png) | ![Melee Icon](images\melee.png) | ![Ranged Icon](images\ranged.png) | Fully Supercharged | [https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv](https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv) | 1.03e39% |
+| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Fully Supercharged | [https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv](https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv) | 1.03e39% |
 
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core’s primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn’t use gold nodes to possibly increase damage further.
 

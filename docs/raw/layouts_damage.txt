@@ -37,8 +37,8 @@ lxl77lg_2zUFrv6SLU6-E,1,4.43e42,Catti-brie|Krydle,
 5qQI-zlqFfl1V2U9JUKC4,4,2.19e41,Catti-brie|Krydle|Black Viper|Jarlaxle|Birdsong|Kent,Non-Magic Variant
 39cNPbw9lEVepnBMjPMsY,2,1.99e41,Catti-brie,Non-Melee Variant
 
-# Y-dm5dFF-poiLBflC5f17,4,1.91e41,Nrakk|D'hani,Non-Magic Variant
 lgluJB7PHNndbkoL-5rdi,1,1.71e42,Nrakk,
+# Y-dm5dFF-poiLBflC5f17,4,1.91e41,Nrakk|D'hani,Non-Magic Variant
 Y-dm5dFF-poiLBflC5f17,4,1.91e41,Nrakk,Non-Magic Variant
 
 10MJn_z_TTp9vMuRKkQTQ,2,1.47e41,Rosie,
@@ -97,3 +97,39 @@ ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,Fully Supercharged
 # ==================
 
 # Don't say I didn't warn you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# I mean it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ==== Lucius ====
+# On 30 November he's getting a +2 Intelligence feat.
+# This will allow him to benefit from Intelligence nodes.
+# And it will make him the 2nd dps to benefit from ALL stats.
+# Modest: 1.50e42% -> 2.18e44%. (Same as Artemis)
+# Strong: 1.90e41% -> 2.76e43%. (Needs new unique core +Int)
+# Magic:  3.52e49% -> 2.83e53%. (Same as Asharra)
