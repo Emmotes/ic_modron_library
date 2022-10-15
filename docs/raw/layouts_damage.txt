@@ -14,6 +14,7 @@ PD8TBbyvczFm-YqKKnouW,2,3.09e45,Artemis|Nrakk,
 uTZfFAg-gxxwsNNpV9Gms,1,2.18e44,Artemis,
 
 8euk6u6PKHy_mmNX4S7ek,4,2.83e53,Delina|Farideh|Gromma|Orisha|Asharra,
+# PeN0p0XS5uJFdmt13f3Df,2,2.13e43,Drizzt|D'hani,
 PeN0p0XS5uJFdmt13f3Df,2,2.13e43,Drizzt,
 I_8g095yWaHD-a-z3QeAJ,1,2.18e42,Delina|Drizzt|Farideh|Zorbu,
 BWH_vGti_95lolMdhK_i0,2,1.90e41,Delina|Farideh|Zorbu,Non-Melee Variant
@@ -33,21 +34,23 @@ CPsUZyBluqIEn96nwVj0C,5,1.27e33,Lucius,
 
 v5E14nXk-NFS7LpAvZPUt,2,2.43e43,Krydle,
 lxl77lg_2zUFrv6SLU6-E,1,4.43e42,Catti-brie|Krydle,
-5qQI-zlqFfl1V2U9JUKC4,4,2.19e41,Catti-brie|Krydle|Black Viper|Jarlaxle|Birdsong,Non-Magic Variant
+5qQI-zlqFfl1V2U9JUKC4,4,2.19e41,Catti-brie|Krydle|Black Viper|Jarlaxle|Birdsong|Kent,Non-Magic Variant
 39cNPbw9lEVepnBMjPMsY,2,1.99e41,Catti-brie,Non-Melee Variant
 
+# Y-dm5dFF-poiLBflC5f17,4,1.91e41,Nrakk|D'hani,Non-Magic Variant
 lgluJB7PHNndbkoL-5rdi,1,1.71e42,Nrakk,
 Y-dm5dFF-poiLBflC5f17,4,1.91e41,Nrakk,Non-Magic Variant
 
 10MJn_z_TTp9vMuRKkQTQ,2,1.47e41,Rosie,
 uaxwwiADbr1-LgADkbgay,1,2.32e40,Rosie,
 
+# JviTatDeLsTZCzprw4aeI,2,1.47e41,Ishi,
 JviTatDeLsTZCzprw4aeI,2,1.47e41,Ishi|D'hani,
 G6VezXEgRas4EsTfbUfw0,1,1.50e40,Ishi|Nahara,
 XmRxopxAffaYPeQqpRM5Q,2,1.31e39,Nahara,Non-Melee Variant
 
-VVTl25HWmLKGbixC5ByY5,2,1.68e41,Black Viper|Jarlaxle,
-6vhkki07vEPRP0_cXMKHc,1,3.58e40,Black Viper|Jarlaxle,
+VVTl25HWmLKGbixC5ByY5,2,1.68e41,Black Viper|Jarlaxle|Kent,
+6vhkki07vEPRP0_cXMKHc,1,3.58e40,Black Viper|Jarlaxle|Kent,
 
 1QAVPgKXTPpv6QyZmNM3l,4,1.71e49,Prudence|Makos|Strix|Jim,
 yWqFzHx5bvXJe990YOTjT,1,3.05e40,Prudence,
@@ -70,6 +73,7 @@ kSKZ6NzS-rvKVWxvDstuT,2,1.16e39,Birdsong,
 v8jvYSX5LMS65htm8BWNI,1,3.18e38,Birdsong|Jim,
 TQa68fL7X2cJKJMxZ1IRA,2,9.45e36,Jim,Non-Melee Variant
 
+# tFUbbSl60Q161is_ovBxs,1,1.57e40,D'hani,
 HjJ-t7wdpihNAoMpLSaqg,1,1.08e38,D'hani,
 
 VHq6p4u6_NiViLkKL0Xlw,2,1.16e39,Binwin|Grimm|Minsc,
@@ -93,40 +97,3 @@ ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,Fully Supercharged
 # ==================
 
 # Don't say I didn't warn you.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# D'hani will be getting an Intelligence feat on 19 October
-# that will make her eligible for the Intelligence modron
-# node.
-#
-# As such she'll need changing:
-# - 1.47e41% -> 2.13e43%: Her Strong core will become the same as Drizzt's.
-# - 1.08e38% -> 1.57e40%: Her Modest core will just hook up the Intelligence
-#   node and need a tiny boost to stay 500% on all.
-# - 9.06e36% -> 1.91e41%: She'll get a Magic core. Should be same as Nrakk's.
-
-
-# Kent will be released on 19 October.
-
-# Looks like he'll inherit the same cores as Black Viper and Jarlaxle - given
-# that he has the same stats >= 13.

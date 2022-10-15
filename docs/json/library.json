@@ -216,7 +216,8 @@
             60,
             40,
             4,
-            21
+            21,
+            114
         ],
         "dps": 2.19E+41,
         "comment": "Non-Magic Variant",
@@ -301,7 +302,8 @@
         "coreLevel": 15,
         "championIds": [
             40,
-            4
+            4,
+            114
         ],
         "dps": 1.68E+41,
         "coreId": 2,
@@ -312,7 +314,8 @@
         "coreLevel": 15,
         "championIds": [
             40,
-            4
+            4,
+            114
         ],
         "dps": 3.58E+40,
         "coreId": 1,
