@@ -12,12 +12,13 @@ D'hani benefits from the following stat nodes:
 D'hani is a melee champion.
 
 |---|---|---|---|---|---|
-|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/JviTatDeLsTZCzprw4aeI](https://ic.byteglow.com/modron/JviTatDeLsTZCzprw4aeI) | 1.47e41% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/HjJ-t7wdpihNAoMpLSaqg](https://ic.byteglow.com/modron/HjJ-t7wdpihNAoMpLSaqg) | 1.08e38% |
+|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/PeN0p0XS5uJFdmt13f3Df](https://ic.byteglow.com/modron/PeN0p0XS5uJFdmt13f3Df) | 2.13e43% |
+|   | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17](https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17) | 1.91e41% |
+| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/tFUbbSl60Q161is_ovBxs](https://ic.byteglow.com/modron/tFUbbSl60Q161is_ovBxs) | 1.57e40% |
 
-The Strong core wins by a big enough margin here that you'd really need some amazing pipes for the Modest core that you can't use on the Strong core for the Modest to be a consideration.
+The Strong core wins by a big enough margin here that you'd really need some amazing pipes for the Magic or Modest cores that you can't use on the Strong core for the others to be a consideration.
 
-The Magic core has not been included because it would be missing too many nodes to be a viable choice.
+I would not recommend the Magic core for health reasons.
 
 [Back to Top](#top)
 

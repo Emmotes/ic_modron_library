@@ -14,8 +14,7 @@ PD8TBbyvczFm-YqKKnouW,2,3.09e45,Artemis|Nrakk,
 uTZfFAg-gxxwsNNpV9Gms,1,2.18e44,Artemis,
 
 8euk6u6PKHy_mmNX4S7ek,4,2.83e53,Delina|Farideh|Gromma|Orisha|Asharra,
-# PeN0p0XS5uJFdmt13f3Df,2,2.13e43,Drizzt|D'hani,
-PeN0p0XS5uJFdmt13f3Df,2,2.13e43,Drizzt,
+PeN0p0XS5uJFdmt13f3Df,2,2.13e43,Drizzt|D'hani,
 I_8g095yWaHD-a-z3QeAJ,1,2.18e42,Delina|Drizzt|Farideh|Zorbu,
 BWH_vGti_95lolMdhK_i0,2,1.90e41,Delina|Farideh|Zorbu,Non-Melee Variant
 
@@ -38,14 +37,12 @@ lxl77lg_2zUFrv6SLU6-E,1,4.43e42,Catti-brie|Krydle,
 39cNPbw9lEVepnBMjPMsY,2,1.99e41,Catti-brie,Non-Melee Variant
 
 lgluJB7PHNndbkoL-5rdi,1,1.71e42,Nrakk,
-# Y-dm5dFF-poiLBflC5f17,4,1.91e41,Nrakk|D'hani,Non-Magic Variant
-Y-dm5dFF-poiLBflC5f17,4,1.91e41,Nrakk,Non-Magic Variant
+Y-dm5dFF-poiLBflC5f17,4,1.91e41,Nrakk|D'hani,Non-Magic Variant
 
 10MJn_z_TTp9vMuRKkQTQ,2,1.47e41,Rosie,
 uaxwwiADbr1-LgADkbgay,1,2.32e40,Rosie,
 
-# JviTatDeLsTZCzprw4aeI,2,1.47e41,Ishi,
-JviTatDeLsTZCzprw4aeI,2,1.47e41,Ishi|D'hani,
+JviTatDeLsTZCzprw4aeI,2,1.47e41,Ishi,
 G6VezXEgRas4EsTfbUfw0,1,1.50e40,Ishi|Nahara,
 XmRxopxAffaYPeQqpRM5Q,2,1.31e39,Nahara,Non-Melee Variant
 
@@ -73,8 +70,7 @@ kSKZ6NzS-rvKVWxvDstuT,2,1.16e39,Birdsong,
 v8jvYSX5LMS65htm8BWNI,1,3.18e38,Birdsong|Jim,
 TQa68fL7X2cJKJMxZ1IRA,2,9.45e36,Jim,Non-Melee Variant
 
-# tFUbbSl60Q161is_ovBxs,1,1.57e40,D'hani,
-HjJ-t7wdpihNAoMpLSaqg,1,1.08e38,D'hani,
+tFUbbSl60Q161is_ovBxs,1,1.57e40,D'hani,
 
 VHq6p4u6_NiViLkKL0Xlw,2,1.16e39,Binwin|Grimm|Minsc,
 8z5iuN2u8G544H6M8XcwL,1,2.11e38,Binwin|Grimm,
