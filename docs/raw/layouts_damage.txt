@@ -16,7 +16,7 @@ uTZfFAg-gxxwsNNpV9Gms,1,2.18e44,Artemis,
 8euk6u6PKHy_mmNX4S7ek,4,2.83e53,Delina|Farideh|Gromma|Orisha|Asharra,
 JVe4p8EMGmubaD44vurWN,2,2.13e43,Drizzt|D'hani,
 I_8g095yWaHD-a-z3QeAJ,1,2.18e42,Delina|Drizzt|Farideh|Zorbu,
-BWH_vGti_95lolMdhK_i0,2,1.90e41,Delina|Farideh|Zorbu,Non-Melee Variant
+YAOozf3I19s8u67slvOgB,2,1.90e41,Delina|Farideh|Zorbu,Non-Melee Variant
 
 UBppioFeMIfJ4fE90nPYp,1,1.50e42,Gromma,
 LmsDNTq4JAhPK0GcyaGci,2,1.90e41,Gromma,Non-Melee Variant
@@ -44,7 +44,7 @@ uaxwwiADbr1-LgADkbgay,1,2.32e40,Rosie,
 
 2l93tt9KR1OBgSEtNVBPC,2,1.47e41,Ishi,
 G6VezXEgRas4EsTfbUfw0,1,1.50e40,Ishi|Nahara,
-XmRxopxAffaYPeQqpRM5Q,2,1.31e39,Nahara,Non-Melee Variant
+H3A0hgBGQNJ06mcruHs1V,2,1.31e39,Nahara,Non-Melee Variant
 
 zvdcSaO2hUNuyOIJntutX,2,1.68e41,Black Viper|Jarlaxle|Kent,
 gc_VGsRU1X_2_eI0BicHQ,1,3.73e40,Black Viper|Jarlaxle|Kent,
