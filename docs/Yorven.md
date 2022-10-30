@@ -14,7 +14,7 @@ Yorven benefits from the following stat nodes:
 Yorven is a melee champion.
 
 |---|---|---|---|---|---|
-|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/s2SdGusWcfrUBmcmBxIuJ](https://ic.byteglow.com/modron/s2SdGusWcfrUBmcmBxIuJ) | 2.13e43% |
+|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/P6YiBeAtM8eZSSjm6hI9H](https://ic.byteglow.com/modron/P6YiBeAtM8eZSSjm6hI9H) | 2.13e43% |
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed](https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed) | 1.50e42% |
 |   | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ](https://ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ) | 1.82e41% |
 

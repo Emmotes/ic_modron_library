@@ -20,7 +20,7 @@
         "comment": "Less Health Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "k1kO3iodCSO1SPmo5_bCS"
+        "layoutId": "0NtVHv9bUEpmB-AimTfBq"
     },
     {
         "coreLevel": 15,
@@ -31,7 +31,7 @@
         "dps": 3.09E+45,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "PD8TBbyvczFm-YqKKnouW"
+        "layoutId": "8tmvHKX-Vku1Im0L9s1w5"
     },
     {
         "coreLevel": 15,
@@ -64,7 +64,7 @@
         "dps": 2.13E+43,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "PeN0p0XS5uJFdmt13f3Df"
+        "layoutId": "JVe4p8EMGmubaD44vurWN"
     },
     {
         "coreLevel": 15,
@@ -107,15 +107,15 @@
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "QnAlmdSi9mdxSpGwOwwTt"
+        "layoutId": "LmsDNTq4JAhPK0GcyaGci"
     },
     {
         "coreLevel": 15,
         "championIds": [76],
-        "dps": 2.62E+42,
+        "dps": 2.65E+42,
         "coreId": 1,
         "type": "damage",
-        "layoutId": "75kFYrZg54zfPCKHD18MX"
+        "layoutId": "i8ZPac6myhxjSWsHC2F2L"
     },
     {
         "coreLevel": 15,
@@ -124,7 +124,7 @@
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "evhoT2FG-YXhOWbhbGgKx"
+        "layoutId": "NlG6hux1O9m9xz5pvKjkM"
     },
     {
         "coreLevel": 15,
@@ -147,7 +147,7 @@
         "dps": 2.13E+43,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "s2SdGusWcfrUBmcmBxIuJ"
+        "layoutId": "P6YiBeAtM8eZSSjm6hI9H"
     },
     {
         "coreLevel": 15,
@@ -169,7 +169,7 @@
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "BshqNhsKgfEyLYymBa3hY"
+        "layoutId": "KjEWFei9wvMGIs_1ERllu"
     },
     {
         "coreLevel": 15,
@@ -199,7 +199,7 @@
         "dps": 2.43E+43,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "v5E14nXk-NFS7LpAvZPUt"
+        "layoutId": "SI2dcRz6izSQIPntS9Q0U"
     },
     {
         "coreLevel": 15,
@@ -235,7 +235,7 @@
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "39cNPbw9lEVepnBMjPMsY"
+        "layoutId": "Or2UPhs-QEQXN63yQKkeE"
     },
     {
         "coreLevel": 15,
@@ -263,7 +263,7 @@
         "dps": 1.47E+41,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "10MJn_z_TTp9vMuRKkQTQ"
+        "layoutId": "GYA9TYFSfcUnlfvbWr811"
     },
     {
         "coreLevel": 15,
@@ -279,7 +279,7 @@
         "dps": 1.47E+41,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "JviTatDeLsTZCzprw4aeI"
+        "layoutId": "2l93tt9KR1OBgSEtNVBPC"
     },
     {
         "coreLevel": 15,
@@ -311,7 +311,7 @@
         "dps": 1.68E+41,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "VVTl25HWmLKGbixC5ByY5"
+        "layoutId": "zvdcSaO2hUNuyOIJntutX"
     },
     {
         "coreLevel": 15,
@@ -320,10 +320,10 @@
             4,
             114
         ],
-        "dps": 3.58E+40,
+        "dps": 3.73E+40,
         "coreId": 1,
         "type": "damage",
-        "layoutId": "6vhkki07vEPRP0_cXMKHc"
+        "layoutId": "gc_VGsRU1X_2_eI0BicHQ"
     },
     {
         "coreLevel": 15,
@@ -353,7 +353,7 @@
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "HfbrF335PzInM837v4JvE"
+        "layoutId": "clGSazYoxokx7hljUdygz"
     },
     {
         "coreLevel": 15,
@@ -369,7 +369,7 @@
         "dps": 2.13E+43,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "7uFKh3zsMCoPLADZ1sQdq"
+        "layoutId": "qRYV43eYCC4HDxCzpQ05l"
     },
     {
         "coreLevel": 15,
@@ -390,7 +390,7 @@
         "dps": 1.68E+41,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "O0-Mh0hWCXE-YX5-zpRfH"
+        "layoutId": "Gp0kNQ05tR2pJtzgovLKe"
     },
     {
         "coreLevel": 15,
@@ -420,7 +420,7 @@
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "O83ZZZ_WYCbiIGPDh1WpR"
+        "layoutId": "LfmDCRpoylSuZhFAq3DP4"
     },
     {
         "coreLevel": 15,
@@ -428,10 +428,10 @@
             9,
             23
         ],
-        "dps": 2.47E+38,
+        "dps": 2.57E+38,
         "coreId": 1,
         "type": "damage",
-        "layoutId": "UEhxP3gFZsiL9wuJdxJUp"
+        "layoutId": "eS2YlQByPi6gqBWarBSEA"
     },
     {
         "coreLevel": 15,
@@ -443,7 +443,7 @@
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "PI7HLEOc03VblCs-V8qG9"
+        "layoutId": "pv1IBDYJeGoBaQpSTzCOE"
     },
     {
         "coreLevel": 15,
@@ -451,7 +451,7 @@
         "dps": 1.16E+39,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "kSKZ6NzS-rvKVWxvDstuT"
+        "layoutId": "OQCNfT5Mq5rk8tKtTbekT"
     },
     {
         "coreLevel": 15,
@@ -462,7 +462,7 @@
         "dps": 3.18E+38,
         "coreId": 1,
         "type": "damage",
-        "layoutId": "v8jvYSX5LMS65htm8BWNI"
+        "layoutId": "NlZjPJ4DECNoQSfpQKnyQ"
     },
     {
         "coreLevel": 15,
@@ -471,7 +471,7 @@
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "TQa68fL7X2cJKJMxZ1IRA"
+        "layoutId": "lQEnBfODyhtPXge_zQJWH"
     },
     {
         "coreLevel": 15,
@@ -491,7 +491,7 @@
         "dps": 1.16E+39,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "VHq6p4u6_NiViLkKL0Xlw"
+        "layoutId": "T6WKqVL4iKEh9StNykvRh"
     },
     {
         "coreLevel": 15,
@@ -527,15 +527,15 @@
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "8gl43tSIMnpkHDR9AAxZn"
+        "layoutId": "gSNhfTzaPCp3-ROyUfIbz"
     },
     {
         "coreLevel": 15,
         "championIds": [17],
-        "dps": 1.51E+34,
+        "dps": 1.60E+34,
         "coreId": 1,
         "type": "damage",
-        "layoutId": "O8s0S3l02jKrxfbzGFo6h"
+        "layoutId": "77jM8zd3_f2N2CAE-k25K"
     },
     {
         "coreLevel": 15,
@@ -551,7 +551,7 @@
         "dps": 7.97E+36,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "YN9lgqcCRjPb_US-nXasM"
+        "layoutId": "I9UdL9mQtfnaLPDvD8iCJ"
     },
     {
         "coreLevel": 15,
@@ -560,7 +560,7 @@
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "OBmLhyuS_WAl-Y03TmHC6"
+        "layoutId": "YI77XK6PgTTi-VmqXLPRM"
     },
     {
         "coreLevel": 15,
@@ -568,7 +568,7 @@
         "dps": 1.22E+34,
         "coreId": 1,
         "type": "damage",
-        "layoutId": "oTmOpNMC9b4vWqo-F0mhG"
+        "layoutId": "smYCr8BklWmfvOFHziRtM"
     },
     {
         "coreLevel": 15,

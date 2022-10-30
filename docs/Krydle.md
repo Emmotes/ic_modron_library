@@ -14,7 +14,7 @@ Krydle benefits from the following stat nodes:
 Krydle is a melee champion.
 
 |---|---|---|---|---|---|
-|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/v5E14nXk-NFS7LpAvZPUt](https://ic.byteglow.com/modron/v5E14nXk-NFS7LpAvZPUt) | 2.43e43% |
+|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/SI2dcRz6izSQIPntS9Q0U](https://ic.byteglow.com/modron/SI2dcRz6izSQIPntS9Q0U) | 2.43e43% |
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E](https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E) | 4.43e42% |
 |   | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4](https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4) | 2.19e41% |
 
