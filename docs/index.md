@@ -90,7 +90,6 @@ I have only linked the Fast core on Nahara's page because it simply cannot compe
 
 |---|---|---|---|---|---|
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Fully Supercharged | [https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv](https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv) | 1.03e39% |
-| ![Nahara Icon](images/nahara.png) |  |  |  | [https://ic.byteglow.com/modron/sFACCyODesgDN9vkKD3U3](https://ic.byteglow.com/modron/sFACCyODesgDN9vkKD3U3) | 3.38e32% |
 
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core's primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn't use gold nodes to possibly increase damage further.
 
