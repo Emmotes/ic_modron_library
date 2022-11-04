@@ -23,6 +23,12 @@ If you can improve any of the cores below or have ideas for types of cores that 
 
 These cores are the current best-known supercharge designs and essentially use unlimited pipes. Most people don't have enough to copy these layouts in their entirety - so some improvisation will be required.
 
+The damage cores are listed by DPS champion - so choose the one you normally use - or whoever you've put most of your legendaries into. If - however - you tend to use multiple DPS champions regularly - then you'll want to look into using a core based on champions that benefit from every node in that core. That will mean no matter who you use - they'll always be buffed.
+
+For the Modest and Strong cores that will be Artemis. For the Magic core that will be Asharra. For the Aerois core that's Lucius.
+
+You could always save a layout for each of the DPS champions you use and swap between them in-game but frankly that's boring and tedious.
+
 If you try to copy/improvise these designs and you lack the pipes to reach 5.2e8 flow (500% bonus) by the time the reference designs stop adding buff boxes - ignore the reference designs and keep adding buff boxes. The reference designs switch to minimal mode purely to save pipes. Your aim is to get as many nodes to 500% bonus as possible - so keep pumping up that flow.
 
 If you're unsure whether you've made the best design you can when you're done - put the Byteglow link in the [#modron_core_layout](https://discord.com/channels/357247482247380994/733401533579788397) channel in the Discord and someone will usually be available to try to help find some optimisations.
