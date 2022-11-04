@@ -48,7 +48,7 @@ These cores have been designed specifically to get the achievements and should n
 
 Despite what may be implied from reading the achievement descriptions - the supercharge ones require every single node in the core to receive supercharge flow - even if they cannot benefit from being supercharged.
 
-If a core is not listed - it’s because it’s impossible to get the achievement with that core.
+If a core is not listed - it's because it's impossible to get the achievement with that core.
 
 ## Now We're Flowing
 
@@ -86,12 +86,13 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 
 # Fast Cores
 
-I have not linked the Fast core for any of the DPS champions because it simply cannot compete. It will always be the worst for damage. That said - it does have a fully supercharged design if you really want to use it.
+I have only linked the Fast core on Nahara's page because it simply cannot compete - it will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have a fully supercharged design as well if you really want to use it.
 
 |---|---|---|---|---|---|
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Fully Supercharged | [https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv](https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv) | 1.03e39% |
+| ![Nahara Icon](images/nahara.png) |  |  |  | [https://ic.byteglow.com/modron/sFACCyODesgDN9vkKD3U3](https://ic.byteglow.com/modron/sFACCyODesgDN9vkKD3U3) | 3.38e32% |
 
-The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core’s primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn’t use gold nodes to possibly increase damage further.
+The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core's primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn't use gold nodes to possibly increase damage further.
 
 # Reference Designs
 
@@ -108,7 +109,7 @@ The vast majority of these designs were built almost exclusively by `Retaki` in 
 
 Just a list of frequently asked questions. If you have a question - feel free to DM me on Discord.
 
-## Why don’t you pipe gold nodes?
+## Why don't you pipe gold nodes?
 
 Using them often lowers flow to the damage nodes and damage is the whole point of supercharging. If you need gold then it's best to load a different layout temporarily or use a different core.
 
@@ -116,11 +117,11 @@ The Modest core has the highest gold bonus of 2.19e6% when fully epic - shortly 
 
 ## Why do you pipe Health nodes in the Modest and Strong cores then?
 
-If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you’re willing to lose damage because of it.
+If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you're willing to lose damage because of it.
 
 # Credits
 
-Getting these highly optimised designs hasn’t been a one person job. It's been a huge community effort with a lot of back-and-forth of improvements between many people.
+Getting these highly optimised designs hasn't been a one person job. It's been a huge community effort with a lot of back-and-forth of improvements between many people.
 
 I personally want to thank `UniQP` most of all though. This is as much their project as mine - and they have easily contributed the most to this library with innumerable optimisations. It simply wouldn't be what it is without their input.
 
@@ -132,11 +133,11 @@ Of course - others have contributed as well - and the most notable include:
 
 Also a big thank you to `Uffdah` for the modron tool on Byteglow.
 
-If you improve any of the designs in this guide - you’ll end up on this list too (unless you specifically ask me otherwise).
+If you improve any of the designs in this guide - you'll end up on this list too (unless you specifically ask me otherwise).
 
 # Feedback
 
-Please do feel free to contact me via a DM on the Discord if you can think of anything that might improve this guide. I’m Emmote#5443 - the one with the Prudence avatar.
+Please do feel free to contact me via a DM on the Discord if you can think of anything that might improve this guide. I'm Emmote#5443 - the one with the Prudence avatar.
 
 [Back to Top](#top)
 

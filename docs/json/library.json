@@ -581,6 +581,14 @@
     },
     {
         "coreLevel": 15,
+        "championIds": [102],
+        "dps": 3.38E+32,
+        "coreId": 3,
+        "type": "damage",
+        "layoutId": "sFACCyODesgDN9vkKD3U3"
+    },
+    {
+        "coreLevel": 15,
         "championIds": [],
         "dps": 0,
         "comment": "Now We're Flowing (1)",

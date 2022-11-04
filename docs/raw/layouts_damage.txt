@@ -87,6 +87,7 @@ YI77XK6PgTTi-VmqXLPRM,2,6.52e34,NERDS,Non-Melee Variant
 smYCr8BklWmfvOFHziRtM,1,1.22e34,NERDS,
 
 ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,Fully Supercharged
+sFACCyODesgDN9vkKD3U3,3,3.38e32,Nahara,
 
 # ==================
 # ==== Spoilers ====
@@ -121,6 +122,12 @@ ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,Fully Supercharged
 
 
 
+
+# ==== Warduke ====
+# Warduke will be a new DPS champion added on 30 November.
+# Don't know what his stats are yet.
+# If the stats follow his 5e monster stat block from the Witchlight
+# book - he'll be Str+Con - and he'll be identical to Minsc.
 
 # ==== Lucius ====
 # On 30 November he's getting a +2 Intelligence feat.
