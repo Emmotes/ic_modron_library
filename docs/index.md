@@ -13,9 +13,7 @@ If you can improve any of the cores below or have ideas for types of cores that 
 * [FAQs](#faqs)
 * [Credits](#credits)
 * [Feedback](#feedback)
-* [Changelog](https://github.com/Emmotes/ic_modron_library/commits/main)
 
-<br />
 # Key
 * ![Magic Icon](images/magic.png) - A core that's suitable for a magic champion.
 * ![Melee Icon](images/melee.png) - A core that's suitable for a melee champion.
