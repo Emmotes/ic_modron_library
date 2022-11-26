@@ -1,11 +1,10 @@
-</ br>
 # Highly Optimised Modrons Library
 
 This is designed to be a library where you can find more or less any modron core you need. Whether it be for a specific DPS champion - an achievement - or even reference designs for when levelling up your core.
 
 If you can improve any of the cores below or have ideas for types of cores that should be added - please do DM me on Discord. Add byteglow links as necessary.
 
-</ br>
+<br />
 # Index
 * [Damage Cores](#damage-cores)
 * [Achievement Cores](#achievement-cores)
@@ -16,13 +15,13 @@ If you can improve any of the cores below or have ideas for types of cores that 
 * [Feedback](#feedback)
 * [Changelog](https://github.com/Emmotes/ic_modron_library/commits/main)
 
-</ br>
+<br />
 # Key
 * ![Magic Icon](images/magic.png) - A core that's suitable for a magic champion.
 * ![Melee Icon](images/melee.png) - A core that's suitable for a melee champion.
 * ![Ranged Icon](images/ranged.png) - A core that's suitable for a ranged champion.
 
-</ br>
+<br />
 # Damage Cores
 
 These cores are the current best-known supercharge designs and essentially use unlimited pipes. Most people don't have enough to copy these layouts in their entirety - so some improvisation will be required.
@@ -46,7 +45,7 @@ If you're unsure whether you've made the best design you can when you're done - 
 | [Birdsong](Birdsong.md) | [Farideh](Farideh.md) | [Jim](Jim.md) | [Minsc](Minsc.md) | [Rosie](Rosie.md) | [Zorbu](Zorbu.md) |
 | [Black Viper](Black Viper.md) | [Grimm](Grimm.md) | | | | |
 
-</ br>
+<br />
 # Achievement Cores
 
 These cores have been designed specifically to get the achievements and should not be used for damage - you will definitely be able to do better. We've also attempted to design these using the minimal pipes necessary to get the achievements - though of course depending on the pipes you have available improvisation will likely be required.
@@ -89,7 +88,7 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 | *Currently Impossible.* |
 
 
-</ br>
+<br />
 # Fast Cores
 
 I have only linked the Fast core on Nahara's page because it simply cannot compete - it will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have a fully supercharged design as well if you really want to use it.
@@ -99,7 +98,7 @@ I have only linked the Fast core on Nahara's page because it simply cannot compe
 
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core's primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn't use gold nodes to possibly increase damage further.
 
-</ br>
+<br />
 # Reference Designs
 
 The vast majority of these designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide. Whereas the damage cores above are all supercharged - these mostly contain general Full Epic layouts for levels 1 through 15 for their respective core.
@@ -111,7 +110,7 @@ The vast majority of these designs were built almost exclusively by `Retaki` in 
 * [Aerois Core](ref_aerois.md)
 * [Unofficial Leaderboards](ref_leaderboard.md)
 
-</ br>
+<br />
 # FAQs
 
 Just a list of frequently asked questions. If you have a question - feel free to DM me on Discord.
@@ -126,7 +125,7 @@ The Modest core has the highest gold bonus of 2.19e6% when fully epic - shortly 
 
 If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you're willing to lose damage because of it.
 
-</ br>
+<br />
 # Credits
 
 Getting these highly optimised designs hasn't been a one person job. It's been a huge community effort with a lot of back-and-forth of improvements between many people.
@@ -143,7 +142,7 @@ Also a big thank you to `Uffdah` for the modron tool on Byteglow.
 
 If you improve any of the designs in this guide - you'll end up on this list too (unless you specifically ask me otherwise).
 
-</ br>
+<br />
 # Feedback
 
 Please do feel free to contact me via a DM on the Discord if you can think of anything that might improve this guide. I'm Emmote#5443 - the one with the Prudence avatar.
