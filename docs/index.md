@@ -4,8 +4,7 @@ This is designed to be a library where you can find more or less any modron core
 
 If you can improve any of the cores below or have ideas for types of cores that should be added - please do DM me on Discord. Add byteglow links as necessary.
 
-<br />
-# Index
+## Index
 * [Damage Cores](#damage-cores)
 * [Achievement Cores](#achievement-cores)
 * [Fast Cores](#fast-cores)
@@ -14,7 +13,7 @@ If you can improve any of the cores below or have ideas for types of cores that 
 * [Credits](#credits)
 * [Feedback](#feedback)
 
-# Key
+## Key
 * ![Magic Icon](images/magic.png) - A core that's suitable for a magic champion.
 * ![Melee Icon](images/melee.png) - A core that's suitable for a melee champion.
 * ![Ranged Icon](images/ranged.png) - A core that's suitable for a ranged champion.
