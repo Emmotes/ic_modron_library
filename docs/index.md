@@ -34,13 +34,13 @@ If you try to copy/improvise these designs and you lack the pipes to reach 5.2e8
 If you're unsure whether you've made the best design you can when you're done - put the Byteglow link in the [#modron_core_layout](https://discord.com/channels/357247482247380994/733401533579788397) channel in the Discord and someone will usually be available to try to help find some optimisations.
 
 |---|---|---|---|---|---|
-| [Arkhan](Arkhan.md) | [Catti-brie](Catti-brie.md) | [Grimm](Grimm.md) | [Jim](Jim.md) | [Minsc](Minsc.md) | [Rosie](Rosie.md) |
-| [Artemis](Artemis.md) | [D'hani](D'hani.md) | [Gromma](Gromma.md) | [Kent](Kent.md) | [NERDS](NERDS.md) | [Strix](Strix.md) |
-| [Asharra](Asharra.md) | [Delina](Delina.md) | [Ishi](Ishi.md) | [Krond](Krond.md) | [Nahara](Nahara.md) | [Torogar](Torogar.md) |
-| [Azaka](Azaka.md) | [Dhadius](Dhadius.md) | [Jaheira](Jaheira.md) | [Krydle](Krydle.md) | [Nrakk](Nrakk.md) | [Warden](Warden.md) |
-| [Binwin](Binwin.md) | [Drizzt](Drizzt.md) | [Jamilah](Jamilah.md) | [Lucius](Lucius.md) | [Orisha](Orisha.md) | [Yorven](Yorven.md) |
-| [Birdsong](Birdsong.md) | [Farideh](Farideh.md) | [Jarlaxle](Jarlaxle.md) | [Makos](Makos.md) | [Prudence](Prudence.md) | [Zorbu](Zorbu.md) |
-| [Black Viper](Black Viper.md) | | | | | |
+| [Arkhan](Arkhan.md) | [Catti-brie](Catti-brie.md) | [Gromma](Gromma.md) | [Kent](Kent.md) | [NERDS](NERDS.md) | [Strix](Strix.md) |
+| [Artemis](Artemis.md) | [D'hani](D'hani.md) | [Ishi](Ishi.md) | [Krond](Krond.md) | [Nahara](Nahara.md) | [Torogar](Torogar.md) |
+| [Asharra](Asharra.md) | [Delina](Delina.md) | [Jaheira](Jaheira.md) | [Krydle](Krydle.md) | [Nrakk](Nrakk.md) | [Warden](Warden.md) |
+| [Azaka](Azaka.md) | [Dhadius](Dhadius.md) | [Jamilah](Jamilah.md) | [Lucius](Lucius.md) | [Orisha](Orisha.md) | [Warduke](Warduke.md) |
+| [Binwin](Binwin.md) | [Drizzt](Drizzt.md) | [Jarlaxle](Jarlaxle.md) | [Makos](Makos.md) | [Prudence](Prudence.md) | [Yorven](Yorven.md) |
+| [Birdsong](Birdsong.md) | [Farideh](Farideh.md) | [Jim](Jim.md) | [Minsc](Minsc.md) | [Rosie](Rosie.md) | [Zorbu](Zorbu.md) |
+| [Black Viper](Black Viper.md) | [Grimm](Grimm.md) | | | | |
 
 # Achievement Cores
 
@@ -137,6 +137,8 @@ If you improve any of the designs in this guide - you'll end up on this list too
 # Feedback
 
 Please do feel free to contact me via a DM on the Discord if you can think of anything that might improve this guide. I'm Emmote#5443 - the one with the Prudence avatar.
+
+I might not always agree with ideas offered - but I'll always read them and give them some thought.
 
 [Back to Top](#top)
 

@@ -11,9 +11,9 @@
 TX1H0Y2nx173iCfTXGn6r,4,3.83e45,Artemis|Drizzt|Zorbu|Rosie,Non-Magic Variant
 0NtVHv9bUEpmB-AimTfBq,2,3.43e45,Artemis,Less Health Variant
 8tmvHKX-Vku1Im0L9s1w5,2,3.09e45,Artemis|Nrakk,
-uTZfFAg-gxxwsNNpV9Gms,1,2.18e44,Artemis,
+uTZfFAg-gxxwsNNpV9Gms,1,2.18e44,Artemis|Lucius,
 
-8euk6u6PKHy_mmNX4S7ek,4,2.83e53,Delina|Farideh|Gromma|Orisha|Asharra,
+8euk6u6PKHy_mmNX4S7ek,4,2.83e53,Delina|Farideh|Gromma|Orisha|Asharra|Lucius,
 JVe4p8EMGmubaD44vurWN,2,2.13e43,Drizzt|D'hani,
 I_8g095yWaHD-a-z3QeAJ,1,2.18e42,Delina|Drizzt|Farideh|Zorbu,
 YAOozf3I19s8u67slvOgB,2,1.90e41,Delina|Farideh|Zorbu,Non-Melee Variant
@@ -24,10 +24,10 @@ LmsDNTq4JAhPK0GcyaGci,2,1.90e41,Gromma,Non-Melee Variant
 i8ZPac6myhxjSWsHC2F2L,1,2.65e42,Orisha,
 NlG6hux1O9m9xz5pvKjkM,2,1.99e41,Orisha,Non-Melee Variant
 
-py0fM4EedKfIniT2SGw66,4,3.52e49,Lucius|Nahara,
+py0fM4EedKfIniT2SGw66,4,3.52e49,Nahara,
 P6YiBeAtM8eZSSjm6hI9H,2,2.13e43,Jaheira|Jamilah|Yorven,
-6Yv_YlUxFfujj05FwG9ed,1,1.50e42,Jaheira|Jamilah|Lucius|Yorven,
-KjEWFei9wvMGIs_1ERllu,2,1.90e41,Lucius,Non-Melee Variant
+6Yv_YlUxFfujj05FwG9ed,1,1.50e42,Jaheira|Jamilah|Yorven,
+cIBAzt8UjhSQY1gj6MW1g,2,2.76e43,Lucius,Non-Melee Variant
 c23hOzJAH6rdvgsf5yKeZ,4,1.82e41,Ishi|Jaheira|Jamilah|Yorven,Non-Magic Variant
 CPsUZyBluqIEn96nwVj0C,5,1.27e33,Lucius,
 
@@ -72,8 +72,8 @@ lQEnBfODyhtPXge_zQJWH,2,9.45e36,Jim,Non-Melee Variant
 
 tFUbbSl60Q161is_ovBxs,1,1.57e40,D'hani,
 
-T6WKqVL4iKEh9StNykvRh,2,1.16e39,Binwin|Grimm|Minsc,
-8z5iuN2u8G544H6M8XcwL,1,2.11e38,Binwin|Grimm,
+T6WKqVL4iKEh9StNykvRh,2,1.16e39,Binwin|Grimm|Minsc|Warduke,
+8z5iuN2u8G544H6M8XcwL,1,2.11e38,Binwin|Grimm|Warduke,
 
 j3JuHVefg7DnKYc9OuwAi,1,1.58e36,Minsc,
 
@@ -123,16 +123,3 @@ sFACCyODesgDN9vkKD3U3,3,3.38e32,Nahara,
 
 
 
-# ==== Warduke ====
-# Warduke will be a new DPS champion added on 30 November.
-# Don't know what his stats are yet.
-# If the stats follow his 5e monster stat block from the Witchlight
-# book - he'll be Str+Con - and he'll be identical to Minsc.
-
-# ==== Lucius ====
-# On 30 November he's getting a +2 Intelligence feat.
-# This will allow him to benefit from Intelligence nodes.
-# And it will make him the 2nd dps to benefit from ALL stats.
-# Modest: 1.50e42% -> 2.18e44%. (Same as Artemis)
-# Strong: 1.90e41% -> 2.76e43%. (Needs new unique core +Int)
-# Magic:  3.52e49% -> 2.83e53%. (Same as Asharra)

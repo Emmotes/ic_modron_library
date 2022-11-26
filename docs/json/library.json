@@ -486,7 +486,8 @@
         "championIds": [
             27,
             64,
-            7
+            7,
+            116
         ],
         "dps": 1.16E+39,
         "coreId": 2,
@@ -497,7 +498,8 @@
         "coreLevel": 15,
         "championIds": [
             27,
-            64
+            64,
+            116
         ],
         "dps": 2.11E+38,
         "coreId": 1,
