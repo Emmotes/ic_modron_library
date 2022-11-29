@@ -35,7 +35,10 @@
     },
     {
         "coreLevel": 15,
-        "championIds": [54],
+        "championIds": [
+            54,
+            72
+        ],
         "dps": 2.18E+44,
         "coreId": 1,
         "type": "damage",
@@ -48,7 +51,8 @@
             33,
             16,
             76,
-            6
+            6,
+            72
         ],
         "dps": 2.83E+53,
         "coreId": 4,
@@ -128,10 +132,7 @@
     },
     {
         "coreLevel": 15,
-        "championIds": [
-            72,
-            102
-        ],
+        "championIds": [102],
         "dps": 3.52E+49,
         "coreId": 4,
         "type": "damage",
@@ -154,7 +155,6 @@
         "championIds": [
             61,
             11,
-            72,
             92
         ],
         "dps": 1.50E+42,
@@ -165,11 +165,11 @@
     {
         "coreLevel": 15,
         "championIds": [72],
-        "dps": 1.90E+41,
+        "dps": 2.76E+43,
         "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
-        "layoutId": "KjEWFei9wvMGIs_1ERllu"
+        "layoutId": "cIBAzt8UjhSQY1gj6MW1g"
     },
     {
         "coreLevel": 15,

@@ -8,22 +8,23 @@ Lucius benefits from the following stat nodes:
 * Strength
 * Dexterity
 * Constitution
+* Intelligence (with Feat)
 * Wisdom
 * Charisma
 
 Lucius is a magic champion.
 
 |---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) |   |   | Magic | [https://ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66](https://ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66) | 3.52e49% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed](https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed) | 1.50e42% |
-| ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/KjEWFei9wvMGIs_1ERllu](https://ic.byteglow.com/modron/KjEWFei9wvMGIs_1ERllu) | 1.90e41% |
+| ![Magic Icon](images/magic.png) |   |   | Magic | [https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek](https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek) | 2.83e53% |
+| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms](https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms) | 2.18e44% |
+| ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g](https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g) | 2.76e43% |
 | ![Lucius Icon](images/lucius.png) |   |   | Aerois | [https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C](https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C) | 1.27e33% |
 
-The main choice here is either the Magic core or the Modest core as the need for health on your tanks dictates. The difference in damage isn't as vast as it is with other magic champions though so really this comes down to personal preference.
+The clear winner here is the default Magic core by a wide margin. The difference in damage is so significant that I don't really think using the Modest core for health is worth it unless you're able to get to extremely high zones where health will be your limiting factor.
 
-Don't let the damage of the Aerois core fool you though. It might not seem even slightly comparable - but if you're using 4 or 5 members of the Aerois team - it's better than the Magic core.
+Don't let the damage of the Aerois core fool you though. It might not seem even slightly comparable - but if you're using 5 members of the Aerois team - it's better than the Magic core.
 
-The reason is fairly simple. While the Aerois nodes can't be supercharged - the two Aerois Synergy nodes do apply 2400% (at epic) to every single Aerois champions' Aerois Synergy ability. For a specific breakdown of how the core fares with amount of Aerois champions - check the table below.
+The reason is fairly simple. While the Aerois nodes can't be supercharged - the two Aerois Synergy nodes do apply 2400% (at epic) to every single Aerois champions' Aerois Synergy ability (if they have at least 1 stack). For a specific breakdown of how the core fares with amount of Aerois champions - check the table below.
 
 All that said though - the Aerois core doesn't have any health nodes - just like the Magic core - so they're both undesirable on that front.
 
