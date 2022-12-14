@@ -195,14 +195,6 @@
     },
     {
         "coreLevel": 15,
-        "championIds": [],
-        "dps": 2.43E+43,
-        "coreId": 2,
-        "type": "damage",
-        "layoutId": "SI2dcRz6izSQIPntS9Q0U"
-    },
-    {
-        "coreLevel": 15,
         "championIds": [25],
         "dps": 4.43E+42,
         "coreId": 1,
