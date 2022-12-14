@@ -195,7 +195,7 @@
     },
     {
         "coreLevel": 15,
-        "championIds": [60],
+        "championIds": [],
         "dps": 2.43E+43,
         "coreId": 2,
         "type": "damage",
@@ -203,10 +203,7 @@
     },
     {
         "coreLevel": 15,
-        "championIds": [
-            25,
-            60
-        ],
+        "championIds": [25],
         "dps": 4.43E+42,
         "coreId": 1,
         "type": "damage",
@@ -216,7 +213,6 @@
         "coreLevel": 15,
         "championIds": [
             25,
-            60,
             40,
             4,
             21,
