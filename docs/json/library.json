@@ -571,6 +571,15 @@
     },
     {
         "coreLevel": 15,
+        "championIds": [],
+        "dps": 9.73E+38,
+        "comment": "'Budget' Supercharged",
+        "coreId": 3,
+        "type": "damage",
+        "layoutId": "FN7JOvNteXk4heA0EY4ec"
+    },
+    {
+        "coreLevel": 15,
         "championIds": [102],
         "dps": 3.38E+32,
         "coreId": 3,

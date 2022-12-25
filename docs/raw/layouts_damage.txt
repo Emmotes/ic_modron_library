@@ -87,6 +87,7 @@ YI77XK6PgTTi-VmqXLPRM,2,6.52e34,NERDS,Non-Melee Variant
 smYCr8BklWmfvOFHziRtM,1,1.22e34,NERDS,
 
 ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,Fully Supercharged
+FN7JOvNteXk4heA0EY4ec,3,9.73e38,,'Budget' Supercharged
 sFACCyODesgDN9vkKD3U3,3,3.38e32,Nahara,
 
 # ==================

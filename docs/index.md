@@ -88,12 +88,15 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 <br />
 # Fast Cores
 
-I have only linked the Fast core on Nahara's page because it simply cannot compete - it will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have a fully supercharged design as well if you really want to use it.
+I have only linked the Fast core on Nahara's page because it simply cannot compete for most champions. It will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have some supercharged designs if you really want to use it.
 
 |---|---|---|---|---|---|
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Fully Supercharged | [https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv](https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv) | 1.03e39% |
+| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | "Budget" Supercharged | [https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec](https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec) | 9.73e38% |
 
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core's primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn't use gold nodes to possibly increase damage further.
+
+The "Budget" Supercharged design is a modification of the Fully Supercharged design - and uses fewer cross pipes to get similar levels of damage. It's only slightly easier to build (hence the quotation marks). The main benefit of this layout over the Fully Supercharged design is that it uses a slightly more forgiving flow-path on the right-hand side - which is useful if you don't have all the necessary pipes and need to downgrade sections.
 
 <br />
 # Reference Designs
