@@ -40,7 +40,7 @@ If you're unsure whether you've made the best design you can when you're done - 
 | [Azaka](Azaka.md) | [Dhadius](Dhadius.md) | [Jaheira](Jaheira.md) | [Lucius](Lucius.md) | [Orisha](Orisha.md) | [Warduke](Warduke.md) |
 | [Binwin](Binwin.md) | [Drizzt](Drizzt.md) | [Jamilah](Jamilah.md) | [Makos](Makos.md) | [Prudence](Prudence.md) | [Yorven](Yorven.md) |
 | [Birdsong](Birdsong.md) | [Farideh](Farideh.md) | [Jarlaxle](Jarlaxle.md) | [Minsc](Minsc.md) | [Rosie](Rosie.md) | [Zorbu](Zorbu.md) |
-| [Black Viper](Black Viper.md) | | | | | |
+| [Black Viper](Black Viper.md) | [Fen](Fen.md) | | | | |
 
 <br />
 # Achievement Cores
