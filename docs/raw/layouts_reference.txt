@@ -14,6 +14,9 @@
 # All damage numbers on the Modest Core should be based on
 # Artemis since he benefits from all nodes.
 
+# Emmote's References:
+WLo5rDwq6qkF02usUiNr6,1,15,0,,Emmote,Azaka Farm (No Damage)
+
 # Retaki's Guide References:
 95bmQkBUH9pH1x98144B-,1,1,1.60e03,,Retaki,
 HIer7L-vp1hVz5ZCdGU5b,1,2,7.22e05,,Retaki,

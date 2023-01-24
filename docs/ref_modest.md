@@ -22,6 +22,7 @@ These designs can be used for inspiration for piping your own core at various le
 | 12 | Retaki | 0 Epic Alternative | [https://ic.byteglow.com/modron/cVwUPmcXfoSxLyGzwNmw5](https://ic.byteglow.com/modron/cVwUPmcXfoSxLyGzwNmw5) |
 | 13 | Retaki |  | [https://ic.byteglow.com/modron/I-rqgKTMR-dq7PTnoDLEY](https://ic.byteglow.com/modron/I-rqgKTMR-dq7PTnoDLEY) |
 | 14 | Retaki |  | [https://ic.byteglow.com/modron/y5Nyg_FHh31td1MkHAToY](https://ic.byteglow.com/modron/y5Nyg_FHh31td1MkHAToY) |
+| 15 | Emmote | Azaka Farm (No Damage) | [https://ic.byteglow.com/modron/WLo5rDwq6qkF02usUiNr6](https://ic.byteglow.com/modron/WLo5rDwq6qkF02usUiNr6) |
 | 15 | Retaki |  | [https://ic.byteglow.com/modron/Qr18_CPZlXC9flrEZzn54](https://ic.byteglow.com/modron/Qr18_CPZlXC9flrEZzn54) |
 
 [Back to Top](#top)

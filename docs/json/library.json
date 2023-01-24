@@ -671,6 +671,16 @@
         "layoutId": "_z85vEeBAqIN3OZ3fZFjc"
     },
     {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 0,
+        "comment": "Azaka Farm (No Damage)",
+        "coreId": 1,
+        "type": "reference",
+        "layoutId": "WLo5rDwq6qkF02usUiNr6",
+        "authors": ["Emmote"]
+    },
+    {
         "coreLevel": 1,
         "championIds": [],
         "dps": 1.60E+3,
