@@ -9,7 +9,6 @@
 # 5 Aerois
 
 TX1H0Y2nx173iCfTXGn6r,4,3.83e45,Artemis|Drizzt|Zorbu|Rosie,Non-Magic Variant
-0NtVHv9bUEpmB-AimTfBq,2,3.43e45,Artemis,Less Health Variant
 8tmvHKX-Vku1Im0L9s1w5,2,3.09e45,Artemis|Nrakk,
 uTZfFAg-gxxwsNNpV9Gms,1,2.18e44,Artemis|Lucius,
 

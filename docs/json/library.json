@@ -15,15 +15,6 @@
     },
     {
         "coreLevel": 15,
-        "championIds": [54],
-        "dps": 3.43E+45,
-        "comment": "Less Health Variant",
-        "coreId": 2,
-        "type": "damage",
-        "layoutId": "0NtVHv9bUEpmB-AimTfBq"
-    },
-    {
-        "coreLevel": 15,
         "championIds": [
             54,
             24
