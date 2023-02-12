@@ -127,4 +127,4 @@ sFACCyODesgDN9vkKD3U3,3,3.38e32,Nahara,
 # The Unaffiliated Core
 
 # 6 Unaffiliated Core
-guW3VzHj_rsoOi5ARw6Sk,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Viper|Dhadius|Gromma|Ishi|Jarlaxle|Krond|Makos|NERDS|Nrakk|Warden|Warduke|Yorven|Zorbu,
+# guW3VzHj_rsoOi5ARw6Sk,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Viper|Dhadius|Gromma|Ishi|Jarlaxle|Krond|Makos|NERDS|Nrakk|Warden|Warduke|Yorven|Zorbu,
