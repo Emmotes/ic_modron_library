@@ -126,4 +126,5 @@ sFACCyODesgDN9vkKD3U3,3,3.38e32,Nahara,
 # With Season 3 - there'll be a new core.
 # The Unaffiliated Core
 
-# guW3VzHj_rsoOi5ARw6Sk,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Viper|Dhadius|Gromma|Ishi|Jarlaxle|Krond|Makos|NERDS|Nrakk|Warden|Warduke|Yorven|Zorbu,
+# 6 Unaffiliated Core
+guW3VzHj_rsoOi5ARw6Sk,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Viper|Dhadius|Gromma|Ishi|Jarlaxle|Krond|Makos|NERDS|Nrakk|Warden|Warduke|Yorven|Zorbu,
