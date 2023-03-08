@@ -4,8 +4,6 @@
 
 These designs can be used for inspiration for piping your own core at various levels - as well as getting it Full Epic with fewer or less rare pieces.
 
-These were made by me instead of `Retaki` and I may have gone overboard with some of the pipes. The main reason is that I tried to make each new level require as few changes as possible. If you can suggest improvements though - feel free to DM me them on Discord.
-
 | Level | Authors | Note | Link |
 |---|---|---|---|
 | 1 | Emmote |  | [https://ic.byteglow.com/modron/ZrUTTu1XAyGonDRfEzt1v](https://ic.byteglow.com/modron/ZrUTTu1XAyGonDRfEzt1v) |

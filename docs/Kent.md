@@ -1,10 +1,11 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/portraits/Kent.png)
+![Kent Portrait](images/portraits/Kent.png)
 
 # Kent
 
-Kent benefits from the following stat nodes:
+Kent is in the Rivals of Waterdeep affiliation and benefits from the following stat nodes:
+
 * Dexterity
 * Constitution
 * Intelligence
@@ -17,9 +18,7 @@ Kent is a melee champion.
 |   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX](https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX) | 1.68e41% |
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ](https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ) | 3.73e40% |
 
-The Strong and Modest cores are so similar in damage that you should use whichever you have the more favourable pipes for.
-
-The negligible difference in damage and the lack of health make the Magic core an undesirable choice.
+The listed cores are all similar enough in damage for Kent that you should use whichever you have the more favourable pipes for. Though I would not recommend the Magic core as it doesn't have any health nodes.
 
 [Back to Top](#top)
 

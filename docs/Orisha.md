@@ -1,10 +1,11 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/portraits/Orisha.png)
+![Orisha Portrait](images/portraits/Orisha.png)
 
 # Orisha
 
-Orisha benefits from the following stat nodes:
+Orisha is in the Sirens of the Realms affiliation and benefits from the following stat nodes:
+
 * Strength
 * Dexterity
 * Intelligence
@@ -18,7 +19,7 @@ Orisha is a magic champion.
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/i8ZPac6myhxjSWsHC2F2L](https://ic.byteglow.com/modron/i8ZPac6myhxjSWsHC2F2L) | 2.65e42% |
 | ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/NlG6hux1O9m9xz5pvKjkM](https://ic.byteglow.com/modron/NlG6hux1O9m9xz5pvKjkM) | 1.99e41% |
 
-The clear winner here is the default Magic core by a wide margin. The difference in damage is so significant that I don't really think using the Modest core for health is worth it unless you're able to get to extremely high zones where health will be your limiting factor.
+The Magic core is so far ahead of the other cores that it's really the only choice for Orisha. Though it is worth noting that it doesn't have any health nodes.
 
 [Back to Top](#top)
 

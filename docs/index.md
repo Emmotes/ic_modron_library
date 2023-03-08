@@ -1,3 +1,5 @@
+[Back to Main](index.md)
+
 # Highly Optimised Modrons Library
 
 This is designed to be a library where you can find more or less any modron core you need. Whether it be for a specific DPS champion - an achievement - or even reference designs for when levelling up your core.
@@ -5,6 +7,7 @@ This is designed to be a library where you can find more or less any modron core
 If you can improve any of the cores below or have ideas for types of cores that should be added - please do DM me on Discord. Add byteglow links as necessary.
 
 ## Index
+
 * [Damage Cores](#damage-cores)
 * [Achievement Cores](#achievement-cores)
 * [Fast Cores](#fast-cores)
@@ -14,6 +17,7 @@ If you can improve any of the cores below or have ideas for types of cores that 
 * [Feedback](#feedback)
 
 ## Key
+
 * ![Magic Icon](images/magic.png) - A core that's suitable for a magic champion.
 * ![Melee Icon](images/melee.png) - A core that's suitable for a melee champion.
 * ![Ranged Icon](images/ranged.png) - A core that's suitable for a ranged champion.
@@ -61,6 +65,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
 | Fast | [https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp](https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp) |
 | Magic | [https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh](https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh) |
 | Aerois | [https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K](https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K) |
+| Unaffiliated | [https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa](https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa) |
 
 ## Flow Shui
 
@@ -69,6 +74,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
 |---|---|
 | Magic | [https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF](https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF) |
 | Aerois | [https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB](https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB) |
+| Unaffiliated | [https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ](https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ) |
 
 ## Infinite Cosmic Power
 
@@ -76,14 +82,14 @@ This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% super
 
 |---|---|
 | Aerois | [https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc](https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc) |
+| Unaffiliated | [https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52](https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52) |
 
 ## Pipe Dream
 
 This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% supercharge bonus.
 
-|---|
-| *Currently Impossible.* |
-
+|---|---|
+| Unaffiliated | [https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0](https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0) |
 
 <br />
 # Fast Cores
@@ -108,6 +114,7 @@ The vast majority of these designs were built almost exclusively by `Retaki` in 
 * [Fast Core](ref_fast.md)
 * [Magic Core](ref_magic.md)
 * [Aerois Core](ref_aerois.md)
+* [Unaffiliated Core](ref_unaffiliated.md)
 * [Unofficial Leaderboards](ref_leaderboard.md)
 
 <br />
@@ -115,11 +122,13 @@ The vast majority of these designs were built almost exclusively by `Retaki` in 
 
 Just a list of frequently asked questions. If you have a question - feel free to DM me on Discord.
 
+## Which is the best gold find core?
+
+The Modest core has the highest gold bonus of 2.19e6% when fully epic - shortly followed by the Fast core at 1.20e6%.
+
 ## Why don't you pipe gold nodes?
 
 Using them often lowers flow to the damage nodes and damage is the whole point of supercharging. If you need gold then it's best to load a different layout temporarily or use a different core.
-
-The Modest core has the highest gold bonus of 2.19e6% when fully epic - shortly followed by the Fast core at 1.20e6%.
 
 ## Why do you pipe Health nodes in the Modest and Strong cores then?
 
@@ -133,6 +142,7 @@ Getting these highly optimised designs hasn't been a one person job. It's been a
 I personally want to thank `UniQP` most of all though. This is as much their project as mine - and they have easily contributed the most to this library with innumerable optimisations. It simply wouldn't be what it is without their input.
 
 Of course - others have contributed as well - and the most notable include:
+
 * `Retaki`
 * `Midander`
 * `Ridge`

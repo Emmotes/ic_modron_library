@@ -1,5 +1,5 @@
 # Format:
-# linkHash,coreId,dps,champions|pipe|separated,comment
+# linkHash,coreId,champions|pipe|separated,comment
 
 # coreIds
 # 1 Modest
@@ -7,49 +7,46 @@
 # 3 Fast
 # 4 Magic
 # 5 Aerois
+# 6 Unaffiliated
 
-iyChfx2296evcJfrAadzT,1,0,,Now We're Flowing (1)
-LbtIyA7gF3TVqJlGv-j7o,2,0,,Now We're Flowing (1)
-8VMtVFfG6dtt92fr8XMwp,3,0,,Now We're Flowing (1)
-5wV-LkarzUs19rX5uSdfh,4,0,,Now We're Flowing (1)
-VpXiPUQcapFGVtdmEvw6K,5,0,,Now We're Flowing (1)
-LI4aVDOyYdOreT-GsbNWF,4,0,,Flow Shui (2)
-UZyXpoTAZi_pkDzpBLMoB,5,0,,Flow Shui (2)
-_z85vEeBAqIN3OZ3fZFjc,5,0,,Infinite Cosmic Power (3)
+# ==================================
+# ==== Modest Core Achievements ====
+# ==================================
 
-# ==================
-# ==== Spoilers ====
-# ==================
+iyChfx2296evcJfrAadzT,1,,Now We're Flowing (1)
 
-# Don't say I didn't warn you.
+# ==================================
+# ==== Strong Core Achievements ====
+# ==================================
 
+LbtIyA7gF3TVqJlGv-j7o,2,,Now We're Flowing (1)
 
+# ================================
+# ==== Fast Core Achievements ====
+# ================================
 
+8VMtVFfG6dtt92fr8XMwp,3,,Now We're Flowing (1)
 
+# =================================
+# ==== Magic Core Achievements ====
+# =================================
 
+5wV-LkarzUs19rX5uSdfh,4,,Now We're Flowing (1)
+LI4aVDOyYdOreT-GsbNWF,4,,Flow Shui (2)
 
+# ==================================
+# ==== Aerois Core Achievements ====
+# ==================================
 
+VpXiPUQcapFGVtdmEvw6K,5,,Now We're Flowing (1)
+UZyXpoTAZi_pkDzpBLMoB,5,,Flow Shui (2)
+_z85vEeBAqIN3OZ3fZFjc,5,,Infinite Cosmic Power (3)
 
+# ========================================
+# ==== Unaffiliated Core Achievements ====
+# ========================================
 
-
-
-
-
-
-# I mean it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 6 Unaffiliated Core
-# UpbTLmPfINl4fEWGOzPfq,6,0,,Pipe Dream (4)
+trCCiKffGxG_talqlpZpa,6,,Now We're Flowing (1)
+yOEfAk0bySOnVnqUbKoAZ,6,,Flow Shui (2)
+n0dIctU7j62SU1AWsDl52,6,,Infinite Cosmic Power (3)
+WNzMofUqhm4X1fr7zFMY0,6,,Pipe Dream (4)

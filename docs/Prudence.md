@@ -1,10 +1,11 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/portraits/Prudence.png)
+![Prudence Portrait](images/portraits/Prudence.png)
 
 # Prudence
 
-Prudence benefits from the following stat nodes:
+Prudence is in the Oxventurers Guild affiliation and benefits from the following stat nodes:
+
 * Strength
 * Constitution
 * Intelligence
@@ -17,7 +18,7 @@ Prudence is a magic champion.
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/yWqFzHx5bvXJe990YOTjT](https://ic.byteglow.com/modron/yWqFzHx5bvXJe990YOTjT) | 3.05e40% |
 | ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/clGSazYoxokx7hljUdygz](https://ic.byteglow.com/modron/clGSazYoxokx7hljUdygz) | 1.37e39% |
 
-The clear winner here is the default Magic core by a wide margin. The difference in damage is so significant that I don't really think using the Modest core for health is worth it unless you're able to get to extremely high zones where health will be your limiting factor.
+The Magic core is so far ahead of the other cores that it's really the only choice for Prudence. Though it is worth noting that it doesn't have any health nodes.
 
 [Back to Top](#top)
 

@@ -1,10 +1,11 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/portraits/Catti-brie.png)
+![Catti-brie Portrait](images/portraits/Catti-brie.png)
 
 # Catti-brie
 
-Catti-brie benefits from the following stat nodes:
+Catti-brie is in the Companions of the Hall affiliation and benefits from the following stat nodes:
+
 * Strength
 * Dexterity
 * Constitution
@@ -18,9 +19,7 @@ Catti-brie is a ranged champion.
 |   | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4](https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4) | 2.19e41% |
 | ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/Or2UPhs-QEQXN63yQKkeE](https://ic.byteglow.com/modron/Or2UPhs-QEQXN63yQKkeE) | 1.99e41% |
 
-The Modest core wins by a very small margin over the non-melee variant of the Strong core. Enough that you may find either one out-performing the other based on the pipes you have. So use whichever you have the more favourable pipes for.
-
-I do not recommend the Magic core. It's practically identical in damage to the non-melee variant of the Strong core - but has no health.
+The listed cores are all similar enough in damage for Catti-brie that you should use whichever you have the more favourable pipes for. Though I would not recommend the Magic core as it doesn't have any health nodes.
 
 [Back to Top](#top)
 

@@ -1,10 +1,11 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/portraits/Rosie.png)
+![Rosie Portrait](images/portraits/Rosie.png)
 
 # Rosie
 
-Rosie benefits from the following stat nodes:
+Rosie is in the Acq Inc "C" Team affiliation and benefits from the following stat nodes:
+
 * Dexterity
 * Intelligence (with Feat)
 * Wisdom
@@ -17,7 +18,7 @@ Rosie is a melee champion.
 |   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/GYA9TYFSfcUnlfvbWr811](https://ic.byteglow.com/modron/GYA9TYFSfcUnlfvbWr811) | 1.47e41% |
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/uaxwwiADbr1-LgADkbgay](https://ic.byteglow.com/modron/uaxwwiADbr1-LgADkbgay) | 2.32e40% |
 
-The Magic core damage is the highest - but not by a great deal. So if health is a problem - use the Strong core. Though the Modest core could be an alternative to the Strong core with more favourable pipes since they are close enough.
+The Magic (Non-Magic Variant) core is far enough ahead of the other cores that it's the best one to use for Rosie. That said - you could potentially use the Strong or Modest core if the pipes you have favours one of them. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
 
 [Back to Top](#top)
 

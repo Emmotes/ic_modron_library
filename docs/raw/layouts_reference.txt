@@ -7,6 +7,7 @@
 # 3 Fast
 # 4 Magic
 # 5 Aerois
+# 6 Unaffiliated
 
 # ================================
 # ==== Modest Core References ====
@@ -14,10 +15,8 @@
 # All damage numbers on the Modest Core should be based on
 # Artemis since he benefits from all nodes.
 
-# Emmote's References:
 WLo5rDwq6qkF02usUiNr6,1,15,0,,Emmote,Azaka Farm (No Damage)
 
-# Retaki's Guide References:
 95bmQkBUH9pH1x98144B-,1,1,1.60e03,,Retaki,
 HIer7L-vp1hVz5ZCdGU5b,1,2,7.22e05,,Retaki,
 Zoa8v3UbNzZPVxKhFn3gl,1,3,1.23e07,,Retaki,
@@ -42,7 +41,6 @@ Qr18_CPZlXC9flrEZzn54,1,15,1.60e29,,Retaki,
 # All damage numbers on the Strong Core should be based on
 # Artemis since he benefits from all nodes.
 
-# Retaki's Guide References:
 zpH8DCom6FU8nlZqacwMO,2,1,1.60e03,,Retaki,
 80FnZBXljK16TDJOevTAP,2,2,8.07e05,,Retaki,
 _EExfsoHqRe-OTZ-3gosh,2,3,2.02e07,,Retaki,
@@ -65,10 +63,8 @@ g3SlbA3Oz6KrFFC9x5knJ,2,15,5.70e29,,Retaki,
 # All damage numbers on the Fast Core should be based on
 # Artemis since he benefits from all nodes.
 
-# Emmote's References
 T-TfCsTNdXfLHOULzOfHr,3,15,0,,Emmote,Minimal (No Damage)
 
-# Retaki's Guide References:
 jsI7jPCrM5UiP-FK7uz8S,3,1,1.60e03,,Retaki,Damage
 yk2BmrUpjs3UpnAKliAP3,3,1,5.00e01,,Retaki,Gold
 UfYoMXG7U_x-EmIoMuIBB,3,2,7.22e05,,Retaki,Damage
@@ -93,7 +89,6 @@ ZBrE0yNV6Ce0IS8qCHhuy,3,15,2.92e25,,Retaki,
 # All damage numbers on the Magic Core should be based on
 # Asharra since she benefits from all nodes.
 
-# Retaki's Guide References:
 Zsz6BQ0bcYd33VYvwU6Mz,4,1,4.24e04,,Retaki,
 6BA7tMTNA8er60QbG49hr,4,2,2.02e07,,Retaki,
 O7vdpZ12ktxccE2LLt3xd,4,3,1.26e10,,Retaki,
@@ -116,7 +111,6 @@ WzUI8sqtOTKO75EUpMqxb,4,15,2.23e35,,Retaki,
 # All damage numbers on the Aerois Core should be based on
 # Lucius since he benefits from all nodes.
 
-# Emmote's References
 ZrUTTu1XAyGonDRfEzt1v,5,1,1.60e03,,Emmote,
 p9r3JZEqgj1DLBzZDXtjK,5,2,3.22e04,,Emmote,
 Ro2xNfZGpf3Z9UuPXXan2,5,3,8.07e05,,Emmote,
@@ -132,3 +126,25 @@ mk0W-OXm2rmflppPDHc-K,5,12,4.25e17,,Emmote,
 yB-BhHT13KoMQRQCd4gvA,5,13,1.06e19,,Emmote,
 kon1UvsGsNV1YIxBPREYr,5,14,1.06e19,,Emmote,
 YX1lyqOJ0uATp3HRrlfzo,5,15,5.05e21,,Emmote,
+
+# ======================================
+# ==== Unaffiliated Core References ====
+# ======================================
+# All damage numbers on the Unaffiliated Core should be based on
+# Artemis since he benefits from all nodes.
+
+6SGb8xIuFm0blV3jmZxXx,6,1,1.16e04,,Emmote,
+49uY7mPzwK3Hq57dsfig2,6,2,2.64e06,,UniQP,
+OahIwimtK_O87ih0slGMu,6,3,4.33e09,,Emmote,
+Dl8hKP0t2fmq1jPaAozIG,6,4,3.61e12,,Emmote,
+hz43KW0EhHxhmVx5ZkGuT,6,5,6.86e13,,Emmote,
+n5a2jaTZpHHQBr4VTHslY,6,6,1.41e16,,Emmote,
+VZhPgrT2uWhdx9Tn29INc,6,7,3.51e17,,Emmote,
+PlZ7tJq929MxWmLMLGXiR,6,8,5.97e18,,Emmote,
+Oj5rXhS7l94MC_WCEmN0K,6,9,6.58e20,,Emmote,
+QJ5APqB9A7DT9rIdfEBAy,6,10,1.65e22,,Emmote,
+jOUCxyIsjaukEDj7emSYY,6,11,1.04e25,,Emmote,
+eIr4IfHWHRd5QjWToVnvv,6,12,1.61e27,,Emmote,
+QdjK2wK1yVq8nuUpykzmk,6,13,4.03e28,,Emmote,
+2pXG6_uH2lfgbYMzD5tcK,6,14,1.98e30,,Emmote,
+QF0LGplreQIl0OtZGlIxL,6,15,4.94e31,,Emmote,

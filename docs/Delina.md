@@ -1,10 +1,11 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/portraits/Delina.png)
+![Delina Portrait](images/portraits/Delina.png)
 
 # Delina
 
-Delina benefits from the following stat nodes:
+Delina is in the Heroes of Baldur's Gate affiliation and benefits from the following stat nodes:
+
 * Dexterity
 * Constitution
 * Intelligence
@@ -18,7 +19,7 @@ Delina is a magic champion.
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ](https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ) | 2.18e42% |
 | ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB](https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB) | 1.90e41% |
 
-The clear winner here is the default Magic core by a wide margin. The difference in damage is so significant that I don't really think using the Modest core for health is worth it unless you're able to get to extremely high zones where health will be your limiting factor.
+The Magic core is so far ahead of the other cores that it's really the only choice for Delina. Though it is worth noting that it doesn't have any health nodes.
 
 [Back to Top](#top)
 

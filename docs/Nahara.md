@@ -1,10 +1,11 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/portraits/Nahara.png)
+![Nahara Portrait](images/portraits/Nahara.png)
 
 # Nahara
 
-Nahara benefits from the following stat nodes:
+Nahara is in the Black Dice Society affiliation and benefits from the following stat nodes:
+
 * Dexterity
 * Constitution (with Feat)
 * Wisdom
@@ -18,9 +19,9 @@ Nahara is a magic champion.
 | ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/H3A0hgBGQNJ06mcruHs1V](https://ic.byteglow.com/modron/H3A0hgBGQNJ06mcruHs1V) | 1.31e39% |
 | ![Nahara Icon](images/nahara.png) |   |   | Fast | [https://ic.byteglow.com/modron/sFACCyODesgDN9vkKD3U3](https://ic.byteglow.com/modron/sFACCyODesgDN9vkKD3U3) | 3.38e32% |
 
-The clear winner here is the default Magic core by a wide margin. The difference in damage is so significant that I don't really think using the Modest core for health is worth it unless you're able to get to extremely high zones where health will be your limiting factor.
+The Magic core is so far ahead of the other cores that it's really the only choice for Nahara. Though it is worth noting that it doesn't have any health nodes.
 
-The Fast core has been added for Nahara not because it's viable for damage - but because she's sometimes used in gem farming runs - and she only provides her speed while she can one-hit-kill enemies. The more damage she has - the longer she can provide her speed.
+The Fast core is only listed because it could increase the longevity of Nahara's speed effects when gem farming.
 
 [Back to Top](#top)
 

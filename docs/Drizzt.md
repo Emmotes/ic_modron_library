@@ -1,10 +1,11 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/portraits/Drizzt.png)
+![Drizzt Portrait](images/portraits/Drizzt.png)
 
 # Drizzt
 
-Drizzt benefits from the following stat nodes:
+Drizzt is in the Companions of the Hall affiliation and benefits from the following stat nodes:
+
 * Dexterity
 * Constitution
 * Intelligence (with Feat)
@@ -18,7 +19,7 @@ Drizzt is a melee champion.
 |   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN](https://ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN) | 2.13e43% |
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ](https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ) | 2.18e42% |
 
-The choice is between the non-magic variant of the Magic core and the default Strong core. My personal recommendation is the default Strong core for health since the damage is fairly similar - though feel free to switch if you wish.
+The listed cores are all similar enough in damage for Drizzt that you should use whichever you have the more favourable pipes for. Though I would not recommend the Magic core as it doesn't have any health nodes.
 
 [Back to Top](#top)
 
