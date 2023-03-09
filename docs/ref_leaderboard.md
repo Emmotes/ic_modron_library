@@ -15,7 +15,7 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
 | Fast | Emmote | 74 | [https://ic.byteglow.com/modron/LPEwIiOxwfWpfb7RQo2Pw](https://ic.byteglow.com/modron/LPEwIiOxwfWpfb7RQo2Pw) |
 | Magic | Emmote | 76 | [https://ic.byteglow.com/modron/iBpZmEKggkM5IWYOLl9kf](https://ic.byteglow.com/modron/iBpZmEKggkM5IWYOLl9kf) |
 | Aerois | Emmote | 81 | [https://ic.byteglow.com/modron/taZalpaozjGYfEmEuegt5](https://ic.byteglow.com/modron/taZalpaozjGYfEmEuegt5) |
-| Unaffiliated | Emmote and UniQP | 84 | [https://ic.byteglow.com/modron/rYs0wqu6tapb1sBgTF0ot](https://ic.byteglow.com/modron/rYs0wqu6tapb1sBgTF0ot) |
+| Unaffiliated | Emmote | 83 | [https://ic.byteglow.com/modron/HHys4x0fUH8rcUPzXzT3y](https://ic.byteglow.com/modron/HHys4x0fUH8rcUPzXzT3y) |
 
 # Minimum Rarity
 

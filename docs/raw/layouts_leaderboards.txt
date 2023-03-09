@@ -28,7 +28,7 @@ lGg_BhwReysiilX-_yHGa,2,15,5.70e29,Darkbolt,Min Pipes: 77
 LPEwIiOxwfWpfb7RQo2Pw,3,15,2.92e25,Emmote,Min Pipes: 74
 iBpZmEKggkM5IWYOLl9kf,4,15,2.23e35,Emmote,Min Pipes: 76
 taZalpaozjGYfEmEuegt5,5,15,5.05e21,Emmote,Min Pipes: 81
-rYs0wqu6tapb1sBgTF0ot,6,15,4.94e31,Emmote|UniQP,Min Pipes: 84
+HHys4x0fUH8rcUPzXzT3y,6,15,4.94e31,Emmote,Min Pipes: 83
 
 # ========================
 # ==== Minimum Rarity ====

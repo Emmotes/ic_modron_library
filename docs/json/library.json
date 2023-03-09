@@ -1654,14 +1654,11 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 4.94E+31,
-        "comment": "Min Pipes: 84",
+        "comment": "Min Pipes: 83",
         "coreId": 6,
         "type": "reference",
-        "layoutId": "rYs0wqu6tapb1sBgTF0ot",
-        "authors": [
-            "Emmote",
-            "UniQP"
-        ]
+        "layoutId": "HHys4x0fUH8rcUPzXzT3y",
+        "authors": ["Emmote"]
     },
     {
         "coreLevel": 15,
