@@ -13,40 +13,40 @@
 # ==== Modest Core Achievements ====
 # ==================================
 
-iyChfx2296evcJfrAadzT,1,,Now We're Flowing (1)
+iyChfx2296evcJfrAadzT,1,,Tier1: Now We're Flowing
 
 # ==================================
 # ==== Strong Core Achievements ====
 # ==================================
 
-LbtIyA7gF3TVqJlGv-j7o,2,,Now We're Flowing (1)
+LbtIyA7gF3TVqJlGv-j7o,2,,Tier1: Now We're Flowing
 
 # ================================
 # ==== Fast Core Achievements ====
 # ================================
 
-8VMtVFfG6dtt92fr8XMwp,3,,Now We're Flowing (1)
+8VMtVFfG6dtt92fr8XMwp,3,,Tier1: Now We're Flowing
 
 # =================================
 # ==== Magic Core Achievements ====
 # =================================
 
-5wV-LkarzUs19rX5uSdfh,4,,Now We're Flowing (1)
-LI4aVDOyYdOreT-GsbNWF,4,,Flow Shui (2)
+5wV-LkarzUs19rX5uSdfh,4,,Tier1: Now We're Flowing
+LI4aVDOyYdOreT-GsbNWF,4,,Tier2: Flow Shui
 
 # ==================================
 # ==== Aerois Core Achievements ====
 # ==================================
 
-VpXiPUQcapFGVtdmEvw6K,5,,Now We're Flowing (1)
-UZyXpoTAZi_pkDzpBLMoB,5,,Flow Shui (2)
-_z85vEeBAqIN3OZ3fZFjc,5,,Infinite Cosmic Power (3)
+VpXiPUQcapFGVtdmEvw6K,5,,Tier1: Now We're Flowing
+UZyXpoTAZi_pkDzpBLMoB,5,,Tier2: Flow Shui
+_z85vEeBAqIN3OZ3fZFjc,5,,Tier3: Infinite Cosmic Power
 
 # ========================================
 # ==== Unaffiliated Core Achievements ====
 # ========================================
 
-trCCiKffGxG_talqlpZpa,6,,Now We're Flowing (1)
-yOEfAk0bySOnVnqUbKoAZ,6,,Flow Shui (2)
-n0dIctU7j62SU1AWsDl52,6,,Infinite Cosmic Power (3)
-WNzMofUqhm4X1fr7zFMY0,6,,Pipe Dream (4)
+trCCiKffGxG_talqlpZpa,6,,Tier1: Now We're Flowing
+yOEfAk0bySOnVnqUbKoAZ,6,,Tier2: Flow Shui
+n0dIctU7j62SU1AWsDl52,6,,Tier3: Infinite Cosmic Power
+WNzMofUqhm4X1fr7zFMY0,6,,Tier4: Pipe Dream

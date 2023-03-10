@@ -621,7 +621,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Now We're Flowing (1)",
+        "comment": "Tier1: Now We're Flowing",
         "coreId": 1,
         "type": "achievement",
         "layoutId": "iyChfx2296evcJfrAadzT"
@@ -630,7 +630,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Now We're Flowing (1)",
+        "comment": "Tier1: Now We're Flowing",
         "coreId": 2,
         "type": "achievement",
         "layoutId": "LbtIyA7gF3TVqJlGv-j7o"
@@ -639,7 +639,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Now We're Flowing (1)",
+        "comment": "Tier1: Now We're Flowing",
         "coreId": 3,
         "type": "achievement",
         "layoutId": "8VMtVFfG6dtt92fr8XMwp"
@@ -648,7 +648,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Now We're Flowing (1)",
+        "comment": "Tier1: Now We're Flowing",
         "coreId": 4,
         "type": "achievement",
         "layoutId": "5wV-LkarzUs19rX5uSdfh"
@@ -657,7 +657,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Flow Shui (2)",
+        "comment": "Tier2: Flow Shui",
         "coreId": 4,
         "type": "achievement",
         "layoutId": "LI4aVDOyYdOreT-GsbNWF"
@@ -666,7 +666,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Now We're Flowing (1)",
+        "comment": "Tier1: Now We're Flowing",
         "coreId": 5,
         "type": "achievement",
         "layoutId": "VpXiPUQcapFGVtdmEvw6K"
@@ -675,7 +675,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Flow Shui (2)",
+        "comment": "Tier2: Flow Shui",
         "coreId": 5,
         "type": "achievement",
         "layoutId": "UZyXpoTAZi_pkDzpBLMoB"
@@ -684,7 +684,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Infinite Cosmic Power (3)",
+        "comment": "Tier3: Infinite Cosmic Power",
         "coreId": 5,
         "type": "achievement",
         "layoutId": "_z85vEeBAqIN3OZ3fZFjc"
@@ -693,7 +693,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Now We're Flowing (1)",
+        "comment": "Tier1: Now We're Flowing",
         "coreId": 6,
         "type": "achievement",
         "layoutId": "trCCiKffGxG_talqlpZpa"
@@ -702,7 +702,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Flow Shui (2)",
+        "comment": "Tier2: Flow Shui",
         "coreId": 6,
         "type": "achievement",
         "layoutId": "yOEfAk0bySOnVnqUbKoAZ"
@@ -711,7 +711,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Infinite Cosmic Power (3)",
+        "comment": "Tier3: Infinite Cosmic Power",
         "coreId": 6,
         "type": "achievement",
         "layoutId": "n0dIctU7j62SU1AWsDl52"
@@ -720,7 +720,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Pipe Dream (4)",
+        "comment": "Tier4: Pipe Dream",
         "coreId": 6,
         "type": "achievement",
         "layoutId": "WNzMofUqhm4X1fr7zFMY0"
