@@ -4,7 +4,7 @@
 
 # Strix
 
-Strix is in the Waffle Crew affiliation and benefits from the following stat nodes:
+Strix is in the Acquisitions Incorporated and Waffle Crew affiliations and benefits from the following stat nodes:
 
 * Constitution
 * Intelligence
