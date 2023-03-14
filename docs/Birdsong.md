@@ -7,7 +7,6 @@
 Birdsong is unaffiliated and benefits from the following stat nodes:
 
 * Dexterity
-* Constitution (with Feat)
 * Intelligence
 * Charisma
 
