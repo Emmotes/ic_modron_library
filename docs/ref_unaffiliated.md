@@ -8,19 +8,19 @@ These designs can be used for inspiration for piping your own core at various le
 |---|---|---|---|
 | 1 | Emmote |  | [https://ic.byteglow.com/modron/6SGb8xIuFm0blV3jmZxXx](https://ic.byteglow.com/modron/6SGb8xIuFm0blV3jmZxXx) |
 | 2 | UniQP |  | [https://ic.byteglow.com/modron/49uY7mPzwK3Hq57dsfig2](https://ic.byteglow.com/modron/49uY7mPzwK3Hq57dsfig2) |
-| 3 | Emmote |  | [https://ic.byteglow.com/modron/OahIwimtK_O87ih0slGMu](https://ic.byteglow.com/modron/OahIwimtK_O87ih0slGMu) |
-| 4 | Emmote |  | [https://ic.byteglow.com/modron/Dl8hKP0t2fmq1jPaAozIG](https://ic.byteglow.com/modron/Dl8hKP0t2fmq1jPaAozIG) |
-| 5 | Emmote |  | [https://ic.byteglow.com/modron/hz43KW0EhHxhmVx5ZkGuT](https://ic.byteglow.com/modron/hz43KW0EhHxhmVx5ZkGuT) |
-| 6 | Emmote |  | [https://ic.byteglow.com/modron/n5a2jaTZpHHQBr4VTHslY](https://ic.byteglow.com/modron/n5a2jaTZpHHQBr4VTHslY) |
-| 7 | Emmote |  | [https://ic.byteglow.com/modron/VZhPgrT2uWhdx9Tn29INc](https://ic.byteglow.com/modron/VZhPgrT2uWhdx9Tn29INc) |
-| 8 | Emmote |  | [https://ic.byteglow.com/modron/PlZ7tJq929MxWmLMLGXiR](https://ic.byteglow.com/modron/PlZ7tJq929MxWmLMLGXiR) |
-| 9 | Emmote |  | [https://ic.byteglow.com/modron/Oj5rXhS7l94MC_WCEmN0K](https://ic.byteglow.com/modron/Oj5rXhS7l94MC_WCEmN0K) |
-| 10 | Emmote |  | [https://ic.byteglow.com/modron/QJ5APqB9A7DT9rIdfEBAy](https://ic.byteglow.com/modron/QJ5APqB9A7DT9rIdfEBAy) |
-| 11 | Emmote |  | [https://ic.byteglow.com/modron/jOUCxyIsjaukEDj7emSYY](https://ic.byteglow.com/modron/jOUCxyIsjaukEDj7emSYY) |
-| 12 | Emmote |  | [https://ic.byteglow.com/modron/eIr4IfHWHRd5QjWToVnvv](https://ic.byteglow.com/modron/eIr4IfHWHRd5QjWToVnvv) |
-| 13 | Emmote |  | [https://ic.byteglow.com/modron/QdjK2wK1yVq8nuUpykzmk](https://ic.byteglow.com/modron/QdjK2wK1yVq8nuUpykzmk) |
-| 14 | Emmote |  | [https://ic.byteglow.com/modron/2pXG6_uH2lfgbYMzD5tcK](https://ic.byteglow.com/modron/2pXG6_uH2lfgbYMzD5tcK) |
-| 15 | Emmote |  | [https://ic.byteglow.com/modron/QF0LGplreQIl0OtZGlIxL](https://ic.byteglow.com/modron/QF0LGplreQIl0OtZGlIxL) |
+| 3 | Retaki |  | [https://ic.byteglow.com/modron/F9doypTHcCu2Hy3JkUcYZ](https://ic.byteglow.com/modron/F9doypTHcCu2Hy3JkUcYZ) |
+| 4 | Retaki |  | [https://ic.byteglow.com/modron/5uDbIBD_EdReuXo5OrKUP](https://ic.byteglow.com/modron/5uDbIBD_EdReuXo5OrKUP) |
+| 5 | Retaki |  | [https://ic.byteglow.com/modron/1GVE47jjyZ7q9Z3SG_2vf](https://ic.byteglow.com/modron/1GVE47jjyZ7q9Z3SG_2vf) |
+| 6 | Retaki |  | [https://ic.byteglow.com/modron/y49qFukoaknM2yIeeDbvv](https://ic.byteglow.com/modron/y49qFukoaknM2yIeeDbvv) |
+| 7 | Retaki |  | [https://ic.byteglow.com/modron/E7P2B1KzFsRB1nJJkIiCX](https://ic.byteglow.com/modron/E7P2B1KzFsRB1nJJkIiCX) |
+| 8 | Retaki |  | [https://ic.byteglow.com/modron/b8DB6ESUxBJclnM8GyiVp](https://ic.byteglow.com/modron/b8DB6ESUxBJclnM8GyiVp) |
+| 9 | Retaki |  | [https://ic.byteglow.com/modron/R1SwFbNYeCx1dSgjOYB2c](https://ic.byteglow.com/modron/R1SwFbNYeCx1dSgjOYB2c) |
+| 10 | Retaki |  | [https://ic.byteglow.com/modron/XFxleBwvH2pSRHnRrygwj](https://ic.byteglow.com/modron/XFxleBwvH2pSRHnRrygwj) |
+| 11 | Retaki |  | [https://ic.byteglow.com/modron/alaCsZaLewLMZpLSR0GUx](https://ic.byteglow.com/modron/alaCsZaLewLMZpLSR0GUx) |
+| 12 | Retaki |  | [https://ic.byteglow.com/modron/tApZhrevWZ60GvuqdnuY5](https://ic.byteglow.com/modron/tApZhrevWZ60GvuqdnuY5) |
+| 13 | Retaki |  | [https://ic.byteglow.com/modron/GrZTlgOBQCnVyzhsUnPxk](https://ic.byteglow.com/modron/GrZTlgOBQCnVyzhsUnPxk) |
+| 14 | Retaki |  | [https://ic.byteglow.com/modron/fyIKuJyDW54jgJLo07vMk](https://ic.byteglow.com/modron/fyIKuJyDW54jgJLo07vMk) |
+| 15 | Retaki |  | [https://ic.byteglow.com/modron/zTRphrpK9skSmE924bxtT](https://ic.byteglow.com/modron/zTRphrpK9skSmE924bxtT) |
 
 [Back to Top](#top)
 

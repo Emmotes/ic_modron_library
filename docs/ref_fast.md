@@ -23,7 +23,8 @@ These designs can be used for inspiration for piping your own core at various le
 | 13 | Retaki |  | [https://ic.byteglow.com/modron/M4PMKCEW8oXz7vY_X2lRe](https://ic.byteglow.com/modron/M4PMKCEW8oXz7vY_X2lRe) |
 | 14 | Retaki |  | [https://ic.byteglow.com/modron/dzfoLYPMkhNZhhqffYIiM](https://ic.byteglow.com/modron/dzfoLYPMkhNZhhqffYIiM) |
 | 15 | Emmote | Minimal (No Damage) | [https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr](https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr) |
-| 15 | Retaki |  | [https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy](https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy) |
+| 15 | Retaki |  | [https://ic.byteglow.com/modron/7ZEFaipV2hBqOPGWLIw0c](https://ic.byteglow.com/modron/7ZEFaipV2hBqOPGWLIw0c) |
+| 15 | Retaki | Fewer Rares | [https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy](https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy) |
 
 [Back to Top](#top)
 

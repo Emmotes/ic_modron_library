@@ -1192,6 +1192,16 @@
         "dps": 2.92E+25,
         "coreId": 3,
         "type": "reference",
+        "layoutId": "7ZEFaipV2hBqOPGWLIw0c",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 2.92E+25,
+        "comment": "Fewer Rares",
+        "coreId": 3,
+        "type": "reference",
         "layoutId": "ZBrE0yNV6Ce0IS8qCHhuy",
         "authors": ["Retaki"]
     },
@@ -1489,8 +1499,8 @@
         "dps": 4.33E+9,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "OahIwimtK_O87ih0slGMu",
-        "authors": ["Emmote"]
+        "layoutId": "F9doypTHcCu2Hy3JkUcYZ",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 4,
@@ -1498,8 +1508,8 @@
         "dps": 3.61E+12,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "Dl8hKP0t2fmq1jPaAozIG",
-        "authors": ["Emmote"]
+        "layoutId": "5uDbIBD_EdReuXo5OrKUP",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 5,
@@ -1507,8 +1517,8 @@
         "dps": 6.86E+13,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "hz43KW0EhHxhmVx5ZkGuT",
-        "authors": ["Emmote"]
+        "layoutId": "1GVE47jjyZ7q9Z3SG_2vf",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 6,
@@ -1516,8 +1526,8 @@
         "dps": 1.41E+16,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "n5a2jaTZpHHQBr4VTHslY",
-        "authors": ["Emmote"]
+        "layoutId": "y49qFukoaknM2yIeeDbvv",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 7,
@@ -1525,8 +1535,8 @@
         "dps": 3.51E+17,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "VZhPgrT2uWhdx9Tn29INc",
-        "authors": ["Emmote"]
+        "layoutId": "E7P2B1KzFsRB1nJJkIiCX",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 8,
@@ -1534,8 +1544,8 @@
         "dps": 5.97E+18,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "PlZ7tJq929MxWmLMLGXiR",
-        "authors": ["Emmote"]
+        "layoutId": "b8DB6ESUxBJclnM8GyiVp",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 9,
@@ -1543,8 +1553,8 @@
         "dps": 6.58E+20,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "Oj5rXhS7l94MC_WCEmN0K",
-        "authors": ["Emmote"]
+        "layoutId": "R1SwFbNYeCx1dSgjOYB2c",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 10,
@@ -1552,8 +1562,8 @@
         "dps": 1.65E+22,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "QJ5APqB9A7DT9rIdfEBAy",
-        "authors": ["Emmote"]
+        "layoutId": "XFxleBwvH2pSRHnRrygwj",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 11,
@@ -1561,8 +1571,8 @@
         "dps": 1.04E+25,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "jOUCxyIsjaukEDj7emSYY",
-        "authors": ["Emmote"]
+        "layoutId": "alaCsZaLewLMZpLSR0GUx",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 12,
@@ -1570,8 +1580,8 @@
         "dps": 1.61E+27,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "eIr4IfHWHRd5QjWToVnvv",
-        "authors": ["Emmote"]
+        "layoutId": "tApZhrevWZ60GvuqdnuY5",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 13,
@@ -1579,8 +1589,8 @@
         "dps": 4.03E+28,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "QdjK2wK1yVq8nuUpykzmk",
-        "authors": ["Emmote"]
+        "layoutId": "GrZTlgOBQCnVyzhsUnPxk",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 14,
@@ -1588,8 +1598,8 @@
         "dps": 1.98E+30,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "2pXG6_uH2lfgbYMzD5tcK",
-        "authors": ["Emmote"]
+        "layoutId": "fyIKuJyDW54jgJLo07vMk",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 15,
@@ -1597,8 +1607,8 @@
         "dps": 4.94E+31,
         "coreId": 6,
         "type": "reference",
-        "layoutId": "QF0LGplreQIl0OtZGlIxL",
-        "authors": ["Emmote"]
+        "layoutId": "zTRphrpK9skSmE924bxtT",
+        "authors": ["Retaki"]
     },
     {
         "coreLevel": 15,
