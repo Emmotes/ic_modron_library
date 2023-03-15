@@ -20,8 +20,8 @@ These designs can be used for inspiration for piping your own core at various le
 | 10 | Retaki |  | [https://ic.byteglow.com/modron/GrbqBBuqypbkyft3yeU4T](https://ic.byteglow.com/modron/GrbqBBuqypbkyft3yeU4T) |
 | 11 | Retaki |  | [https://ic.byteglow.com/modron/1TfPibsmvmpP33ACYSbIR](https://ic.byteglow.com/modron/1TfPibsmvmpP33ACYSbIR) |
 | 12 | Retaki |  | [https://ic.byteglow.com/modron/AY-qd5H8EpbnrTfn_N-kZ](https://ic.byteglow.com/modron/AY-qd5H8EpbnrTfn_N-kZ) |
-| 13 | Retaki |  | [https://ic.byteglow.com/modron/dUQVECCbHjOfzVRxQwTlw](https://ic.byteglow.com/modron/dUQVECCbHjOfzVRxQwTlw) |
-| 14 | Retaki |  | [https://ic.byteglow.com/modron/4qDeLXrEIUN35HZoKp_9u](https://ic.byteglow.com/modron/4qDeLXrEIUN35HZoKp_9u) |
+| 13 | Retaki |  | [https://ic.byteglow.com/modron/M4PMKCEW8oXz7vY_X2lRe](https://ic.byteglow.com/modron/M4PMKCEW8oXz7vY_X2lRe) |
+| 14 | Retaki |  | [https://ic.byteglow.com/modron/dzfoLYPMkhNZhhqffYIiM](https://ic.byteglow.com/modron/dzfoLYPMkhNZhhqffYIiM) |
 | 15 | Emmote | Minimal (No Damage) | [https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr](https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr) |
 | 15 | Retaki |  | [https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy](https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy) |
 

@@ -79,8 +79,8 @@ dlgIP6QSOkeJ_oKO2xK0u,3,9,5.01e17,,Retaki,
 GrbqBBuqypbkyft3yeU4T,3,10,8.51e18,,Retaki,
 1TfPibsmvmpP33ACYSbIR,3,11,2.13e20,,Retaki,
 AY-qd5H8EpbnrTfn_N-kZ,3,12,6.87e22,,Retaki,
-dUQVECCbHjOfzVRxQwTlw,3,13,6.87e22,,Retaki,
-4qDeLXrEIUN35HZoKp_9u,3,14,1.17e24,,Retaki,
+M4PMKCEW8oXz7vY_X2lRe,3,13,6.87e22,,Retaki,
+dzfoLYPMkhNZhhqffYIiM,3,14,1.17e24,,Retaki,
 ZBrE0yNV6Ce0IS8qCHhuy,3,15,2.92e25,,Retaki,
 
 # ===============================
@@ -99,11 +99,11 @@ ttlZ6O3lv2sUmYEGk58ui,4,7,4.33e16,,Retaki,
 EgznkBWwyzdo2knZijEHE,4,8,2.06e19,,Retaki,
 BHXm28hQHBCfST-_urwDX,4,9,8.74e21,,Retaki,
 3wDpio5xZWdY7ZrGxpgPO,4,10,1.49e23,,Retaki,
-tRn3yixEZYUIa-QkhpxrJ,4,11,9.29e25,,Retaki,
-qt4k01rF4D3sxzzBuW7No,4,12,4.41e28,,Retaki,
-gzgXoZkwhOGDfbWGd1I6e,4,13,7.50e29,,Retaki,
-msUnitH_NjpSKiEn28hcU,4,14,3.56e32,,Retaki,
-WzUI8sqtOTKO75EUpMqxb,4,15,2.23e35,,Retaki,
+UtsA0hJAERqnL2LxXnzX0,4,11,9.29e25,,Retaki,
+yrdJOmKFn1q4ic0z1zbBP,4,12,4.41e28,,Retaki,
+0yJViKD9VUlycvX6_bIth,4,13,7.50e29,,Retaki,
+Ol1PVP9MtfxzUqDHxpSzj,4,14,3.56e32,,Retaki,
+jUxx0g1M07bmeFVk7vLyL,4,15,2.23e35,,Retaki,
 
 # ================================
 # ==== Aerois Core References ====
