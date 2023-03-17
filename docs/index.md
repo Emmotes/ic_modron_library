@@ -124,6 +124,8 @@ The vast majority of these designs were built almost exclusively by `Retaki` in 
 
 The damage of the Aerois core depends on whether you are using Lucius as your chosen DPS and how many other Heroes of Aerois champions you are using. Below is a table detailing those numbers.
 
+*Note: These tables assume 500% supercharge on all superchargeable nodes.*
+
 As you can see - the damage falls off rapidly when you are not using Lucius or many Aerois champions. As such - I've only added the Aerois core to [Lucius'](Lucius.md) champion page.
 
 | With Lucius DPS<br />Num Aerois in Formation | Bonus |   | Other DPS<br />Num Aerois in Formation | Bonus |
@@ -138,6 +140,8 @@ As you can see - the damage falls off rapidly when you are not using Lucius or m
 # Unaffiliated Core Damage Tables
 
 The damage of the Unaffiliated core depends on whether you are using an unaffiliated champion as your chosen DPS and how many other unaffiliated champions are in the formation. Below is a table detailing those numbers.
+
+*Note: These tables assume 500% supercharge on all superchargeable nodes.*
 
 As you can see - the damage is really poor for affiliated champions. As such - this core has only been added to unaffiliated dps champions' pages.
 
