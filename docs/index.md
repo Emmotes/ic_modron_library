@@ -12,6 +12,8 @@ If you can improve any of the cores below or have ideas for types of cores that 
 * [Achievement Cores](#achievement-cores)
 * [Fast Cores](#fast-cores)
 * [Reference Designs](#reference-designs)
+* [Aerois Core Damage Tables](#aerois-core-damage-tables)
+* [Unaffiliated Core Damage Tables](#unaffiliated-core-damage-tables)
 * [FAQs](#faqs)
 * [Credits](#credits)
 * [Feedback](#feedback)
@@ -116,6 +118,41 @@ The vast majority of these designs were built almost exclusively by `Retaki` in 
 * [Aerois Core](ref_aerois.md)
 * [Unaffiliated Core](ref_unaffiliated.md)
 * [Unofficial Leaderboards](ref_leaderboard.md)
+
+<br />
+# Aerois Core Damage Tables
+
+The damage of the Aerois core depends on whether you are using Lucius as your chosen DPS and how many other Heroes of Aerois champions you are using. Below is a table detailing those numbers.
+
+As you can see - the damage falls off rapidly when you are not using Lucius or many Aerois champions. As such - I've only added the Aerois core to [Lucius'](Lucius.md) champion page.
+
+| With Lucius DPS<br />Num Aerois in Formation | Bonus |   | Other DPS<br />Num Aerois in Formation | Bonus |
+|--:|--:|---|--:|--:|
+| 5 | 1.84e58% |   | 4 | 2.24e48% |
+| 4 | 4.72e52% |   | 3 | 5.74e42% |
+| 3 | 1.21e47% |   | 2 | 1.47e37% |
+| 2 | 3.09e41% |   | 1 | 3.76e31% |
+| 1 | 7.91e35% |   | 0 | 6.02e28% |
+
+<br />
+# Unaffiliated Core Damage Tables
+
+The damage of the Unaffiliated core depends on whether you are using an unaffiliated champion as your chosen DPS and how many other unaffiliated champions are in the formation. Below is a table detailing those numbers.
+
+As you can see - the damage is really poor for affiliated champions. As such - this core has only been added to unaffiliated dps champions' pages.
+
+| With Unaffiliated DPS<br />Num Unaffiliated in Formation | Bonus |   | With Affiliated DPS<br />Num Unaffiliated in Formation | Bonus |
+|--:|--:|---|--:|--:|
+| 10 | 1.04e53% |   | 9 | 8.24e38% |
+| 9 | 6.81e52% |   | 8 | 5.15e38% |
+| 8 | 4.26e52% |   | 7 | 3.03e38% |
+| 7 | 2.50e52% |   | 6 | 1.64e38% |
+| 6 | 1.35e52% |   | 5 | 7.93e37% |
+| 5 | 6.56e51% |   | 4 | 3.27e37% |
+| 4 | 2.70e51% |   | 3 | 1.04e37% |
+| 3 | 8.63e50% |   | 2 | 2.10e36% |
+| 2 | 1.74e50% |   | 1 | 1.39e35% |
+| 1 | 1.15e49% |   | 0 | 8.01e28% |
 
 <br />
 # FAQs
