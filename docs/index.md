@@ -169,12 +169,12 @@ The Modest core has the highest gold bonus of 2.19E06 when fully epic - while th
 
 | Core | Gold Find Bonus |
 |---|---|
-| Modest | 2.19E06 |
-| Fast | 1.20E06 |
-| Aerois | 3.78E05 |
-| Magic | 3.78E05 |
-| Strong | 3.78E05 |
-| Unaffiliated | 1.19E05 |
+| Modest | 2.19e06% |
+| Fast | 1.20e06% |
+| Aerois | 3.78e05% |
+| Magic | 3.78e05% |
+| Strong | 3.78e05% |
+| Unaffiliated | 1.19e05% |
 
 ## Why don't you pipe gold nodes?
 
