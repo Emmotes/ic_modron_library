@@ -165,7 +165,7 @@ Just a list of frequently asked questions. If you have a question - feel free to
 
 ## Which is the best gold find core?
 
-The Modest core has the highest gold bonus of 2.19E06 when fully epic - while the Fast core is the next best at 1.20E06.
+The Modest core has the highest gold bonus of 2.19e06% when fully epic - while the Fast core is the next best at 1.20e06%.
 
 | Core | Gold Find Bonus |
 |---|---|
