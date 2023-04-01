@@ -163,6 +163,17 @@ As you can see - the damage is really poor for affiliated champions. As such - t
 
 Just a list of frequently asked questions. If you have a question - feel free to DM me on Discord.
 
+## Where can each modron core be found?
+
+| Icon | Name | Id | Source |
+|---|---|---|---|
+| ![Modest Core](images/core_1_modest.png) | `Modest` | 1 | Split the Party 1 |
+| ![Strong Core](images/core_2_strong.png) | `Strong` | 2 | 500,000 Gems |
+| ![Fast Core](images/core_3_fast.png) | `Fast` | 3 | Split the Party 2 |
+| ![Magic Core](images/core_4_magic.png) | `Magic` | 4 | Split the Party 3 |
+| ![Aerois Core](images/core_5_aerois.png) | `Aerois` | 5 | Season 1 / Wild Offers (starting 23 May) |
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | `Unaffiliated` | 6 | Season 3 |
+
 ## Which is the best gold find core?
 
 The Modest core has the highest gold bonus of 2.19e06% when fully epic - while the Fast core is the next best at 1.20e06%.
