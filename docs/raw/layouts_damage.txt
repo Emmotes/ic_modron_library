@@ -138,6 +138,6 @@ dFFmh0JAwYRLfa9mH_uHt,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Vipe
 # ==================
 # Nixie on 3 May 2023
 # She'll be getting 3 novel cores. (Nobody else has 13+ in only Dex+Con+Cha.)
-# U3kqpMCLWnGA0lXYlVKiF,1,2.57e38,Nixie
+# u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,Nixie
 # 2ggHyhpYHJ0z7VinGTWio,2,9.45e36,Nixie
 # Ig_TEITfWozF2MZ8YbCJB,4,1.67e45,Nixie
