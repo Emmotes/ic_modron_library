@@ -73,6 +73,7 @@
     {
         "coreLevel": 15,
         "championIds": [
+            21,
             40,
             4,
             114
@@ -140,10 +141,7 @@
     },
     {
         "coreLevel": 15,
-        "championIds": [
-            21,
-            48
-        ],
+        "championIds": [48],
         "dps": 3.18E+38,
         "coreId": 1,
         "type": "damage",
@@ -306,6 +304,7 @@
     {
         "coreLevel": 15,
         "championIds": [
+            21,
             40,
             4,
             114
@@ -374,14 +373,6 @@
         "coreId": 2,
         "type": "damage",
         "layoutId": "T6WKqVL4iKEh9StNykvRh"
-    },
-    {
-        "coreLevel": 15,
-        "championIds": [21],
-        "dps": 1.16E+39,
-        "coreId": 2,
-        "type": "damage",
-        "layoutId": "OQCNfT5Mq5rk8tKtTbekT"
     },
     {
         "coreLevel": 15,

@@ -7,6 +7,7 @@
 Birdsong is unaffiliated and benefits from the following stat nodes:
 
 * Dexterity
+* Constitution (with Feat)
 * Intelligence
 * Charisma
 
@@ -15,8 +16,8 @@ Birdsong is a melee champion.
 |---|---|---|---|---|---|
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
 |   | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4](https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4) | 2.19e41% |
-|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/OQCNfT5Mq5rk8tKtTbekT](https://ic.byteglow.com/modron/OQCNfT5Mq5rk8tKtTbekT) | 1.16e39% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/NlZjPJ4DECNoQSfpQKnyQ](https://ic.byteglow.com/modron/NlZjPJ4DECNoQSfpQKnyQ) | 3.18e38% |
+|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX](https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX) | 1.68e41% |
+| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ](https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ) | 3.73e40% |
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Birdsong.
 

@@ -20,14 +20,14 @@ I_8g095yWaHD-a-z3QeAJ,1,2.18e42,Delina|Drizzt|Farideh|Zorbu,
 lgluJB7PHNndbkoL-5rdi,1,1.71e42,Nrakk,
 UBppioFeMIfJ4fE90nPYp,1,1.50e42,Gromma,
 6Yv_YlUxFfujj05FwG9ed,1,1.50e42,Jaheira|Jamilah|Yorven,
-gc_VGsRU1X_2_eI0BicHQ,1,3.73e40,Black Viper|Jarlaxle|Kent,
+gc_VGsRU1X_2_eI0BicHQ,1,3.73e40,Birdsong|Black Viper|Jarlaxle|Kent,
 Z3dqepoGNtSI25cJzrPbj,1,3.05e40,Arkhan|Azaka|Torogar|Warden,
 yWqFzHx5bvXJe990YOTjT,1,3.05e40,Prudence,
 uaxwwiADbr1-LgADkbgay,1,2.32e40,Rosie,
 tFUbbSl60Q161is_ovBxs,1,1.57e40,D'hani,
 G6VezXEgRas4EsTfbUfw0,1,1.50e40,Ishi|Nahara,
 LqCb1S8NMJP8HZ_omgw5-,1,1.18e40,Krond,
-NlZjPJ4DECNoQSfpQKnyQ,1,3.18e38,Birdsong|Jim,
+NlZjPJ4DECNoQSfpQKnyQ,1,3.18e38,Jim,
 eS2YlQByPi6gqBWarBSEA,1,2.57e38,Makos|Strix,
 8z5iuN2u8G544H6M8XcwL,1,2.11e38,Binwin|Grimm|Warduke,
 gst8woyENk7-Nwnobs0FK,1,1.60e38,Asharra,
@@ -49,14 +49,13 @@ Or2UPhs-QEQXN63yQKkeE,2,1.99e41,Catti-brie,Non-Melee Variant
 NlG6hux1O9m9xz5pvKjkM,2,1.99e41,Orisha,Non-Melee Variant
 YAOozf3I19s8u67slvOgB,2,1.90e41,Delina|Farideh|Zorbu,Non-Melee Variant
 LmsDNTq4JAhPK0GcyaGci,2,1.90e41,Gromma,Non-Melee Variant
-zvdcSaO2hUNuyOIJntutX,2,1.68e41,Black Viper|Jarlaxle|Kent,
+zvdcSaO2hUNuyOIJntutX,2,1.68e41,Birdsong|Black Viper|Jarlaxle|Kent,
 Gp0kNQ05tR2pJtzgovLKe,2,1.68e41,Arkhan|Azaka|Torogar|Warden,
 GYA9TYFSfcUnlfvbWr811,2,1.47e41,Rosie,
 2l93tt9KR1OBgSEtNVBPC,2,1.47e41,Ishi,
 clGSazYoxokx7hljUdygz,2,1.37e39,Prudence,Non-Melee Variant
 H3A0hgBGQNJ06mcruHs1V,2,1.31e39,Nahara,Non-Melee Variant
 T6WKqVL4iKEh9StNykvRh,2,1.16e39,Binwin|Grimm|Minsc|Warduke,
-OQCNfT5Mq5rk8tKtTbekT,2,1.16e39,Birdsong,
 pv1IBDYJeGoBaQpSTzCOE,2,9.45e36,Makos|Strix,Non-Melee Variant
 lQEnBfODyhtPXge_zQJWH,2,9.45e36,Jim,Non-Melee Variant
 LfmDCRpoylSuZhFAq3DP4,2,9.45e36,Asharra,Non-Melee Variant
@@ -138,6 +137,6 @@ dFFmh0JAwYRLfa9mH_uHt,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Vipe
 # ==================
 # Nixie on 3 May 2023
 # She'll be getting 3 novel cores. (Nobody else has 13+ in only Dex+Con+Cha.)
-# u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,Nixie
-# 2ggHyhpYHJ0z7VinGTWio,2,9.45e36,Nixie
-# Ig_TEITfWozF2MZ8YbCJB,4,1.67e45,Nixie
+#u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,Nixie
+#2ggHyhpYHJ0z7VinGTWio,2,9.45e36,Nixie
+#Ig_TEITfWozF2MZ8YbCJB,4,1.67e45,Nixie
