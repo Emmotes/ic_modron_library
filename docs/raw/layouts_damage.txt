@@ -9,9 +9,9 @@
 # 5 Aerois
 # 6 Unaffiliated
 
-# =============================
-# ==== Modest Core Layouts ====
-# =============================
+# ================================
+# ==== 1. Modest Core Layouts ====
+# ================================
 
 uTZfFAg-gxxwsNNpV9Gms,1,2.18e44,Artemis|Lucius,
 lxl77lg_2zUFrv6SLU6-E,1,4.43e42,Catti-brie|Fen,
@@ -34,10 +34,11 @@ gst8woyENk7-Nwnobs0FK,1,1.60e38,Asharra,
 j3JuHVefg7DnKYc9OuwAi,1,1.58e36,Minsc,
 77jM8zd3_f2N2CAE-k25K,1,1.60e34,Dhadius,
 smYCr8BklWmfvOFHziRtM,1,1.22e34,NERDS,
+u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,Nixie
 
-# =============================
-# ==== Strong Core Layouts ====
-# =============================
+# ================================
+# ==== 2. Strong Core Layouts ====
+# ================================
 
 8tmvHKX-Vku1Im0L9s1w5,2,3.09e45,Artemis|Nrakk,
 cIBAzt8UjhSQY1gj6MW1g,2,2.76e43,Lucius,Non-Melee Variant
@@ -62,18 +63,19 @@ LfmDCRpoylSuZhFAq3DP4,2,9.45e36,Asharra,Non-Melee Variant
 I9UdL9mQtfnaLPDvD8iCJ,2,7.97e36,NERDS,
 YI77XK6PgTTi-VmqXLPRM,2,6.52e34,NERDS,Non-Melee Variant
 gSNhfTzaPCp3-ROyUfIbz,2,6.52e34,Dhadius,Non-Melee Variant
+2ggHyhpYHJ0z7VinGTWio,2,9.45e36,Nixie
 
-# ===========================
-# ==== Fast Core Layouts ====
-# ===========================
+# ==============================
+# ==== 3. Fast Core Layouts ====
+# ==============================
 
 ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,Fully Supercharged
 FN7JOvNteXk4heA0EY4ec,3,9.73e38,,'Budget' Supercharged
 sFACCyODesgDN9vkKD3U3,3,3.38e32,Nahara,
 
-# ============================
-# ==== Magic Core Layouts ====
-# ============================
+# ===============================
+# ==== 4. Magic Core Layouts ====
+# ===============================
 
 8euk6u6PKHy_mmNX4S7ek,4,2.83e53,Asharra|Delina|Farideh|Gromma|Lucius|Orisha,
 py0fM4EedKfIniT2SGw66,4,3.52e49,Nahara,
@@ -85,25 +87,30 @@ VWE8AGgjNEWfILkyr-Nfs,4,8.16e44,Dhadius,
 Y-dm5dFF-poiLBflC5f17,4,1.91e41,D'hani|Nrakk,Non-Magic Variant
 c23hOzJAH6rdvgsf5yKeZ,4,1.82e41,Ishi|Jaheira|Jamilah|Yorven,Non-Magic Variant
 umP6sO2p9qV1JfI3m7abQ,4,7.96e40,NERDS,
+Ig_TEITfWozF2MZ8YbCJB,4,1.67e45,Nixie
 
-# =============================
-# ==== Aerois Core Layouts ====
-# =============================
+# ================================
+# ==== 5. Aerois Core Layouts ====
+# ================================
 
 CPsUZyBluqIEn96nwVj0C,5,7.91e35,Lucius,
 
-# ===================================
-# ==== Unaffiliated Core Layouts ====
-# ===================================
+# ======================================
+# ==== 6. Unaffiliated Core Layouts ====
+# ======================================
 
 dFFmh0JAwYRLfa9mH_uHt,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Viper|Dhadius|Grimm|Gromma|Ishi|Jarlaxle|Krond|Makos|NERDS|Nrakk|Warden|Warduke|Yorven|Zorbu,
+
 
 
 # ==================
 # ==== Spoilers ====
 # ==================
 
+
 # Don't say I didn't warn you.
+
+
 
 
 
@@ -132,11 +139,11 @@ dFFmh0JAwYRLfa9mH_uHt,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Vipe
 
 
 
+
+
 # ==================
 # ==== Spoilers ====
 # ==================
-# Nixie on 3 May 2023
-# She'll be getting 3 novel cores. (Nobody else has 13+ in only Dex+Con+Cha.)
-#u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,Nixie
-#2ggHyhpYHJ0z7VinGTWio,2,9.45e36,Nixie
-#Ig_TEITfWozF2MZ8YbCJB,4,1.67e45,Nixie
+# Nrakk
+# Will be getting a +2 Charisma feat on 24 May with Emergence 2.
+# Cores will be identical to Artemis'

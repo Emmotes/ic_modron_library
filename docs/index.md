@@ -40,13 +40,13 @@ If you try to copy/improvise these designs and you lack the pipes to reach 5.2e8
 If you're unsure whether you've made the best design you can when you're done - put the Byteglow link in the [#modron_core_layout](https://discord.com/channels/357247482247380994/733401533579788397) channel in the Discord and someone will usually be available to try to help find some optimisations.
 
 |---|---|---|---|---|---|
-| [Arkhan](Arkhan.md) | [Catti-brie](Catti-brie.md) | [Grimm](Grimm.md) | [Jim](Jim.md) | [NERDS](NERDS.md) | [Strix](Strix.md) |
-| [Artemis](Artemis.md) | [D'hani](D'hani.md) | [Gromma](Gromma.md) | [Kent](Kent.md) | [Nahara](Nahara.md) | [Torogar](Torogar.md) |
-| [Asharra](Asharra.md) | [Delina](Delina.md) | [Ishi](Ishi.md) | [Krond](Krond.md) | [Nrakk](Nrakk.md) | [Warden](Warden.md) |
-| [Azaka](Azaka.md) | [Dhadius](Dhadius.md) | [Jaheira](Jaheira.md) | [Lucius](Lucius.md) | [Orisha](Orisha.md) | [Warduke](Warduke.md) |
-| [Binwin](Binwin.md) | [Drizzt](Drizzt.md) | [Jamilah](Jamilah.md) | [Makos](Makos.md) | [Prudence](Prudence.md) | [Yorven](Yorven.md) |
-| [Birdsong](Birdsong.md) | [Farideh](Farideh.md) | [Jarlaxle](Jarlaxle.md) | [Minsc](Minsc.md) | [Rosie](Rosie.md) | [Zorbu](Zorbu.md) |
-| [Black Viper](Black Viper.md) | [Fen](Fen.md) | | | | |
+| [Arkhan](Arkhan.md) | [Catti-brie](Catti-brie.md) | [Grimm](Grimm.md) | [Kent](Kent.md) | [Nahara](Nahara.md) | [Strix](Strix.md) |
+| [Artemis](Artemis.md) | [D'hani](D'hani.md) | [Gromma](Gromma.md) | [Krond](Krond.md) | [Nixie](Nixie.md) | [Torogar](Torogar.md) |
+| [Asharra](Asharra.md) | [Delina](Delina.md) | [Ishi](Ishi.md) | [Lucius](Lucius.md) | [Nrakk](Nrakk.md) | [Warden](Warden.md) |
+| [Azaka](Azaka.md) | [Dhadius](Dhadius.md) | [Jaheira](Jaheira.md) | [Makos](Makos.md) | [Orisha](Orisha.md) | [Warduke](Warduke.md) |
+| [Binwin](Binwin.md) | [Drizzt](Drizzt.md) | [Jamilah](Jamilah.md) | [Minsc](Minsc.md) | [Prudence](Prudence.md) | [Yorven](Yorven.md) |
+| [Birdsong](Birdsong.md) | [Farideh](Farideh.md) | [Jarlaxle](Jarlaxle.md) | [NERDS](NERDS.md) | [Rosie](Rosie.md) | [Zorbu](Zorbu.md) |
+| [Black Viper](Black Viper.md) | [Fen](Fen.md) | [Jim](Jim.md) | | | |
 
 <br />
 # Achievement Cores

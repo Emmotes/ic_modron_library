@@ -204,6 +204,14 @@
     },
     {
         "coreLevel": 15,
+        "championIds": [123],
+        "dps": 2.57E+38,
+        "coreId": 1,
+        "type": "damage",
+        "layoutId": "u4thZ5VbiZ2xg2HxLjr7W"
+    },
+    {
+        "coreLevel": 15,
         "championIds": [
             54,
             24
@@ -432,6 +440,14 @@
     },
     {
         "coreLevel": 15,
+        "championIds": [123],
+        "dps": 9.45E+36,
+        "coreId": 2,
+        "type": "damage",
+        "layoutId": "2ggHyhpYHJ0z7VinGTWio"
+    },
+    {
+        "coreLevel": 15,
         "championIds": [],
         "dps": 1.03E+39,
         "comment": "Fully Supercharged",
@@ -571,6 +587,14 @@
         "coreId": 4,
         "type": "damage",
         "layoutId": "umP6sO2p9qV1JfI3m7abQ"
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [123],
+        "dps": 1.67E+45,
+        "coreId": 4,
+        "type": "damage",
+        "layoutId": "Ig_TEITfWozF2MZ8YbCJB"
     },
     {
         "coreLevel": 15,
