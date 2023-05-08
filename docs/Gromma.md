@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Gromma Portrait](images/portraits/Gromma.png)
+![Gromma Portrait](images/portraits/gromma.png)
 
 # Gromma
 

@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Ishi Portrait](images/portraits/Ishi.png)
+![Ishi Portrait](images/portraits/ishi.png)
 
 # Ishi
 

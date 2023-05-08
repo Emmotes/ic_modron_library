@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Torogar Portrait](images/portraits/Torogar.png)
+![Torogar Portrait](images/portraits/torogar.png)
 
 # Torogar
 

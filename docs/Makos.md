@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Makos Portrait](images/portraits/Makos.png)
+![Makos Portrait](images/portraits/makos.png)
 
 # Makos
 

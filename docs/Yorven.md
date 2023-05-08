@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Yorven Portrait](images/portraits/Yorven.png)
+![Yorven Portrait](images/portraits/yorven.png)
 
 # Yorven
 

@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Jim Portrait](images/portraits/Jim.png)
+![Jim Portrait](images/portraits/jim.png)
 
 # Jim
 

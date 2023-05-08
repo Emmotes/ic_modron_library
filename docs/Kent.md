@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Kent Portrait](images/portraits/Kent.png)
+![Kent Portrait](images/portraits/kent.png)
 
 # Kent
 

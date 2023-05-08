@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Strix Portrait](images/portraits/Strix.png)
+![Strix Portrait](images/portraits/strix.png)
 
 # Strix
 

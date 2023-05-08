@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Rosie Portrait](images/portraits/Rosie.png)
+![Rosie Portrait](images/portraits/rosie.png)
 
 # Rosie
 

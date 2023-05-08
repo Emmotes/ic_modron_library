@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Lucius Portrait](images/portraits/Lucius.png)
+![Lucius Portrait](images/portraits/lucius.png)
 
 # Lucius
 

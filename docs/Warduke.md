@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Warduke Portrait](images/portraits/Warduke.png)
+![Warduke Portrait](images/portraits/warduke.png)
 
 # Warduke
 

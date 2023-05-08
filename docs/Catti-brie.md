@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Catti-brie Portrait](images/portraits/Catti-brie.png)
+![Catti-brie Portrait](images/portraits/catti-brie.png)
 
 # Catti-brie
 

@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Drizzt Portrait](images/portraits/Drizzt.png)
+![Drizzt Portrait](images/portraits/drizzt.png)
 
 # Drizzt
 

@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Jaheira Portrait](images/portraits/Jaheira.png)
+![Jaheira Portrait](images/portraits/jaheira.png)
 
 # Jaheira
 

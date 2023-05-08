@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Delina Portrait](images/portraits/Delina.png)
+![Delina Portrait](images/portraits/delina.png)
 
 # Delina
 

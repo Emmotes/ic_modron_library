@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Nahara Portrait](images/portraits/Nahara.png)
+![Nahara Portrait](images/portraits/nahara.png)
 
 # Nahara
 

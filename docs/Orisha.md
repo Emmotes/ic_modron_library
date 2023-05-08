@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Orisha Portrait](images/portraits/Orisha.png)
+![Orisha Portrait](images/portraits/orisha.png)
 
 # Orisha
 

@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Zorbu Portrait](images/portraits/Zorbu.png)
+![Zorbu Portrait](images/portraits/zorbu.png)
 
 # Zorbu
 

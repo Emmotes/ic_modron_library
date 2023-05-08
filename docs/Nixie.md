@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Nixie Portrait](images/portraits/Nixie.png)
+![Nixie Portrait](images/portraits/nixie.png)
 
 # Nixie
 

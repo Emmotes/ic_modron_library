@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Artemis Portrait](images/portraits/Artemis.png)
+![Artemis Portrait](images/portraits/artemis.png)
 
 # Artemis
 

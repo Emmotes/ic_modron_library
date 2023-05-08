@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Arkhan Portrait](images/portraits/Arkhan.png)
+![Arkhan Portrait](images/portraits/arkhan.png)
 
 # Arkhan
 

@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Krond Portrait](images/portraits/Krond.png)
+![Krond Portrait](images/portraits/krond.png)
 
 # Krond
 

@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Dhadius Portrait](images/portraits/Dhadius.png)
+![Dhadius Portrait](images/portraits/dhadius.png)
 
 # Dhadius
 

@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Warden Portrait](images/portraits/Warden.png)
+![Warden Portrait](images/portraits/warden.png)
 
 # Warden
 

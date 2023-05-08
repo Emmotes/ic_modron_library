@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Farideh Portrait](images/portraits/Farideh.png)
+![Farideh Portrait](images/portraits/farideh.png)
 
 # Farideh
 

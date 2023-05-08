@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Binwin Portrait](images/portraits/Binwin.png)
+![Binwin Portrait](images/portraits/binwin.png)
 
 # Binwin
 

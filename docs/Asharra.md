@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Asharra Portrait](images/portraits/Asharra.png)
+![Asharra Portrait](images/portraits/asharra.png)
 
 # Asharra
 

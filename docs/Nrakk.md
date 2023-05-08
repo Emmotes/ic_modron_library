@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Nrakk Portrait](images/portraits/Nrakk.png)
+![Nrakk Portrait](images/portraits/nrakk.png)
 
 # Nrakk
 

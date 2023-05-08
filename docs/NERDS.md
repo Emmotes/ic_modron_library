@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![NERDS Portrait](images/portraits/NERDS.png)
+![NERDS Portrait](images/portraits/nerds.png)
 
 # NERDS
 

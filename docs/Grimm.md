@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Grimm Portrait](images/portraits/Grimm.png)
+![Grimm Portrait](images/portraits/b&g.png)
 
 # Grimm
 

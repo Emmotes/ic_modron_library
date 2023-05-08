@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Prudence Portrait](images/portraits/Prudence.png)
+![Prudence Portrait](images/portraits/prudence.png)
 
 # Prudence
 

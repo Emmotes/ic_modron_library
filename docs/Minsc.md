@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Minsc Portrait](images/portraits/Minsc.png)
+![Minsc Portrait](images/portraits/minsc.png)
 
 # Minsc
 

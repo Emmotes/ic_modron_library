@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Azaka Portrait](images/portraits/Azaka.png)
+![Azaka Portrait](images/portraits/azaka.png)
 
 # Azaka
 

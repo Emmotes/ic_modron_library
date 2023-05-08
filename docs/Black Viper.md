@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Black Viper Portrait](images/portraits/Black Viper.png)
+![Black Viper Portrait](images/portraits/blackviper.png)
 
 # Black Viper
 

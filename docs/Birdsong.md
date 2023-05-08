@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Birdsong Portrait](images/portraits/Birdsong.png)
+![Birdsong Portrait](images/portraits/birdsong.png)
 
 # Birdsong
 

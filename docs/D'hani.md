@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![D'hani Portrait](images/portraits/D'hani.png)
+![D'hani Portrait](images/portraits/dhani.png)
 
 # D'hani
 

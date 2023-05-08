@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Jamilah Portrait](images/portraits/Jamilah.png)
+![Jamilah Portrait](images/portraits/jamilah.png)
 
 # Jamilah
 

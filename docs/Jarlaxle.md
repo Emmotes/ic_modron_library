@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Jarlaxle Portrait](images/portraits/Jarlaxle.png)
+![Jarlaxle Portrait](images/portraits/jarlaxle.png)
 
 # Jarlaxle
 
