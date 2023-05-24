@@ -11,16 +11,17 @@ Nrakk is unaffiliated and benefits from the following stat nodes:
 * Constitution
 * Intelligence (with Feat)
 * Wisdom
+* Charisma (with Feat)
 
 Nrakk is a melee champion.
 
 |---|---|---|---|---|---|
 | ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
+|   | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r](https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r) | 3.83e45% |
 |   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5](https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5) | 3.09e45% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/lgluJB7PHNndbkoL-5rdi](https://ic.byteglow.com/modron/lgluJB7PHNndbkoL-5rdi) | 1.71e42% |
-|   | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17](https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17) | 1.91e41% |
+| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms](https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms) | 2.18e44% |
 
-The Unaffiliated core is far enough ahead of the Strong core that it's the best one to use for Nrakk. That said - you could potentially use the Strong core if the pipes you have favour it.
+The Unaffiliated core is far enough ahead of the other cores that it's the best one to use for Nrakk. That said - you could potentially use one of the other cores if the pipes you have favours one of them.
 
 Note that the damage of the Unaffiliated core varies depending on the number of unaffiliated champions in the formation. The damage numbers on the layout above account for just 1 (Nrakk only). For a specific breakdown of how the core fares with more unaffiliated champions - check the table below.
 

@@ -3,7 +3,8 @@
         "coreLevel": 15,
         "championIds": [
             54,
-            72
+            72,
+            24
         ],
         "dps": 2.18E+44,
         "coreId": 1,
@@ -41,14 +42,6 @@
         "coreId": 1,
         "type": "damage",
         "layoutId": "I_8g095yWaHD-a-z3QeAJ"
-    },
-    {
-        "coreLevel": 15,
-        "championIds": [24],
-        "dps": 1.71E+42,
-        "coreId": 1,
-        "type": "damage",
-        "layoutId": "lgluJB7PHNndbkoL-5rdi"
     },
     {
         "coreLevel": 15,
@@ -522,7 +515,8 @@
             54,
             18,
             41,
-            22
+            22,
+            24
         ],
         "dps": 3.83E+45,
         "comment": "Non-Magic Variant",
@@ -556,10 +550,7 @@
     },
     {
         "coreLevel": 15,
-        "championIds": [
-            89,
-            24
-        ],
+        "championIds": [89],
         "dps": 1.91E+41,
         "comment": "Non-Magic Variant",
         "coreId": 4,
