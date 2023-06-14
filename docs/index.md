@@ -216,7 +216,7 @@ If you improve any of the designs in this guide - you'll end up on this list too
 <br />
 # Feedback
 
-Please do feel free to contact me via a DM on the Discord if you can think of anything that might improve this guide. I'm Emmote#5443 - the one with the Prudence avatar.
+Please do feel free to contact me via a DM on the Discord if you can think of anything that might improve this guide. I'm `emmote` - the one with the Prudence avatar.
 
 I might not always agree with ideas offered - but I'll always read them and give them some thought.
 
