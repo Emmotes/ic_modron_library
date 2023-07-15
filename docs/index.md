@@ -1,5 +1,3 @@
-[Back to Main](index.md)
-
 # Highly Optimised Modrons Library
 
 This is designed to be a library where you can find more or less any modron core you need. Whether it be for a specific DPS champion - an achievement - or even reference designs for when levelling up your core.
