@@ -63,8 +63,8 @@ LfmDCRpoylSuZhFAq3DP4,2,9.45e36,Asharra,Non-Melee Variant
 I9UdL9mQtfnaLPDvD8iCJ,2,7.97e36,NERDS,
 YI77XK6PgTTi-VmqXLPRM,2,6.52e34,NERDS,Non-Melee Variant
 gSNhfTzaPCp3-ROyUfIbz,2,6.52e34,Dhadius,Non-Melee Variant
-2ggHyhpYHJ0z7VinGTWio,2,9.45e36,Nixie
-XUDJ2Q7UmM32kiZKSCnfT,2,1.37e39,Commodore Krux
+2ggHyhpYHJ0z7VinGTWio,2,9.45e36,Nixie,Non-Melee Variant
+XUDJ2Q7UmM32kiZKSCnfT,2,1.37e39,Commodore Krux,Non-Melee Variant
 
 # ==============================
 # ==== 3. Fast Core Layouts ====

@@ -443,6 +443,7 @@
         "coreLevel": 15,
         "championIds": [123],
         "dps": 9.45E+36,
+        "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
         "layoutId": "2ggHyhpYHJ0z7VinGTWio"
@@ -451,6 +452,7 @@
         "coreLevel": 15,
         "championIds": [136],
         "dps": 1.37E+39,
+        "comment": "Non-Melee Variant",
         "coreId": 2,
         "type": "damage",
         "layoutId": "XUDJ2Q7UmM32kiZKSCnfT"
