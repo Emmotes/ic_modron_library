@@ -34,6 +34,7 @@ j3JuHVefg7DnKYc9OuwAi,1,1.58e36,Minsc,
 77jM8zd3_f2N2CAE-k25K,1,1.60e34,Dhadius,
 smYCr8BklWmfvOFHziRtM,1,1.22e34,NERDS,
 u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,Nixie
+aAJ9uVjghhumjPzNRImWN,1,2.30e38,Commodore Krux
 
 # ================================
 # ==== 2. Strong Core Layouts ====
@@ -63,6 +64,7 @@ I9UdL9mQtfnaLPDvD8iCJ,2,7.97e36,NERDS,
 YI77XK6PgTTi-VmqXLPRM,2,6.52e34,NERDS,Non-Melee Variant
 gSNhfTzaPCp3-ROyUfIbz,2,6.52e34,Dhadius,Non-Melee Variant
 2ggHyhpYHJ0z7VinGTWio,2,9.45e36,Nixie
+XUDJ2Q7UmM32kiZKSCnfT,2,1.37e39,Commodore Krux
 
 # ==============================
 # ==== 3. Fast Core Layouts ====
@@ -98,7 +100,7 @@ CPsUZyBluqIEn96nwVj0C,5,7.91e35,Lucius,
 # ==== 6. Unaffiliated Core Layouts ====
 # ======================================
 
-dFFmh0JAwYRLfa9mH_uHt,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Viper|Dhadius|Grimm|Gromma|Ishi|Jarlaxle|Krond|Makos|NERDS|Nrakk|Warden|Warduke|Yorven|Zorbu,
+dFFmh0JAwYRLfa9mH_uHt,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Viper|Dhadius|Grimm|Gromma|Ishi|Jarlaxle|Krond|Commodore Krux|Makos|NERDS|Nrakk|Warden|Warduke|Yorven|Zorbu,
 
 
 
