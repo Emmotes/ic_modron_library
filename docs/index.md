@@ -76,7 +76,7 @@ Catti-brie
 </span>
 </a>
 <a href="D'hani.html">
-<span class="championLink" id="dhani" onmouseover="changeDhaniEegg(false)" onmouseout="changeDhaniEegg(true)" style="background-image:url(images/portraits/dhani.png">
+<span class="championLink" id="dhani" style="background-image:url(images/portraits/dhani.png">
 D'hani
 </span>
 </a>
@@ -257,14 +257,10 @@ function ins(str, index, value) {
 function randInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
 }
-function changeDhaniEegg(change) {
-    if (change) {
-        var dhaniEegg = "Dhani";
-        dhaniEegg = ins(dhaniEegg, randInt(1,4), "'");
-        document.getElementById("dhani").innerHTML = dhaniEegg;
-    } else {
-        document.getElementById("dhani").innerHTML = "D'hani";
-    }
+function changeDhaniEegg() {
+    var dhaniEegg = "Dhani";
+    dhaniEegg = ins(dhaniEegg, randInt(1,4), "'");
+    document.getElementById("dhani").innerHTML = dhaniEegg;
 }
 changeDhaniEegg();
 </script>
