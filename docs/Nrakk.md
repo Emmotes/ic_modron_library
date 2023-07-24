@@ -15,11 +15,11 @@ Nrakk is unaffiliated and benefits from the following stat nodes:
 
 Nrakk is a melee champion.
 
-|---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-|   | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r](https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r) | 3.83e45% |
-|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5](https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5) | 3.09e45% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms](https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms) | 2.18e44% |
+|---|---|---|---|
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
+| ![Magic Core](images/core_4_magic.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r](https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r) | 3.83e45% |
+| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5](https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5) | 3.09e45% |
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms](https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms) | 2.18e44% |
 
 The Unaffiliated core is far enough ahead of the other cores that it's the best one to use for Nrakk. That said - you could potentially use one of the other cores if the pipes you have favours one of them.
 

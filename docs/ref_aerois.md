@@ -1,8 +1,10 @@
 [Back to Main](index.md)
 
+![Aerois Core](images/core_5_aerois.png)
+
 # Aerois Core References
 
-These designs can be used for inspiration for piping your own core at various levels - as well as getting it Full Epic with fewer or less rare pieces.
+These designs can be used for inspiration for piping your own core at various levels - as well as getting it Full Epic with fewer or less-rare pieces.
 
 | Level | Authors | Note | Link |
 |---|---|---|---|

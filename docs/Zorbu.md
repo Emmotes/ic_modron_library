@@ -14,11 +14,11 @@ Zorbu is unaffiliated and benefits from the following stat nodes:
 
 Zorbu is a ranged champion.
 
-|---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-|   | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r](https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r) | 3.83e45% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ](https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ) | 2.18e42% |
-| ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB](https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB) | 1.90e41% |
+|---|---|---|---|
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
+| ![Magic Core](images/core_4_magic.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r](https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r) | 3.83e45% |
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ](https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ) | 2.18e42% |
+| ![Strong Core](images/core_2_strong.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB](https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB) | 1.90e41% |
 
 The Unaffiliated core is far enough ahead of the Magic (Non-Magic Variant) core that it's the best one to use for Zorbu. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 

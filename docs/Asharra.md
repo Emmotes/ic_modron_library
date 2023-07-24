@@ -12,11 +12,11 @@ Asharra is unaffiliated and benefits from the following stat nodes:
 
 Asharra is a magic champion.
 
-|---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) |   |   | Magic | [https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek](https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek) | 2.83e53% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK](https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK) | 1.60e38% |
-| ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4](https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4) | 9.45e36% |
+|---|---|---|---|
+| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek](https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek) | 2.83e53% |
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK](https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK) | 1.60e38% |
+| ![Strong Core](images/core_2_strong.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4](https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4) | 9.45e36% |
 
 The Magic core is far enough ahead of the Unaffiliated core that it's the best one to use for Asharra. That said - you could potentially use the Unaffiliated core if the pipes you have favour it. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
 

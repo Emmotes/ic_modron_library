@@ -12,10 +12,10 @@ Krux is unaffiliated and benefits from the following stat nodes:
 
 Krux is a ranged champion.
 
-|---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-| ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT](https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT) | 1.37e39% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN](https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN) | 2.30e38% |
+|---|---|---|---|
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
+| ![Strong Core](images/core_2_strong.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT](https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT) | 1.37e39% |
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN](https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN) | 2.30e38% |
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Krux.
 

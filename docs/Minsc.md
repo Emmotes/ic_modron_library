@@ -11,9 +11,9 @@ Minsc is in the Heroes of Baldur's Gate affiliation and benefits from the follow
 
 Minsc is a melee champion.
 
-|---|---|---|---|---|---|
-|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh](https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh) | 1.16e39% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/j3JuHVefg7DnKYc9OuwAi](https://ic.byteglow.com/modron/j3JuHVefg7DnKYc9OuwAi) | 1.58e36% |
+|---|---|---|---|
+| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh](https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh) | 1.16e39% |
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/j3JuHVefg7DnKYc9OuwAi](https://ic.byteglow.com/modron/j3JuHVefg7DnKYc9OuwAi) | 1.58e36% |
 
 The Strong core is far enough ahead of the Modest core that it's the best one to use for Minsc. That said - you could potentially use the Modest core if the pipes you have favour it.
 

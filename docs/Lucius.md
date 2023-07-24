@@ -15,11 +15,11 @@ Lucius is in the Heroes of Aerois affiliation and benefits from the following st
 
 Lucius is a magic champion.
 
-|---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) |   |   | Magic | [https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek](https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek) | 2.83e53% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms](https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms) | 2.18e44% |
-| ![Magic Icon](images/magic.png) |   | ![Ranged Icon](images/ranged.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g](https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g) | 2.76e43% |
-| ![Lucius Icon](images/lucius.png) |   |   | Aerois | [https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C](https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C) | 7.91e35% |
+|---|---|---|---|
+| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek](https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek) | 2.83e53% |
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms](https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms) | 2.18e44% |
+| ![Strong Core](images/core_2_strong.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g](https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g) | 2.76e43% |
+| ![Aerois Core](images/core_5_aerois.png) | Aerois | [https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C](https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C) | 7.91e35% |
 
 The Magic and Aerois cores are so far ahead of the other cores that they are really the only choices for Lucius. Choose whichever you have the more favourable pipes for.
 

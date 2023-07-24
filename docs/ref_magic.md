@@ -1,8 +1,10 @@
 [Back to Main](index.md)
 
+![Magic Core](images/core_4_magic.png)
+
 # Magic Core References
 
-These designs can be used for inspiration for piping your own core at various levels - as well as getting it Full Epic with fewer or less rare pieces.
+These designs can be used for inspiration for piping your own core at various levels - as well as getting it Full Epic with fewer or less-rare pieces.
 
 | Level | Authors | Note | Link |
 |---|---|---|---|

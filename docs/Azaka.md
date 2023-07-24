@@ -13,10 +13,10 @@ Azaka is unaffiliated and benefits from the following stat nodes:
 
 Azaka is a melee champion.
 
-|---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe](https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe) | 1.68e41% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj](https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj) | 3.05e40% |
+|---|---|---|---|
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
+| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe](https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe) | 1.68e41% |
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj](https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj) | 3.05e40% |
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Azaka.
 

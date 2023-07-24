@@ -16,12 +16,6 @@ If you can improve any of the cores below or have ideas for types of cores that 
 * [Credits](#credits)
 * [Feedback](#feedback)
 
-## Key
-
-* ![Magic Icon](images/magic.png) - A core that's suitable for a magic champion.
-* ![Melee Icon](images/melee.png) - A core that's suitable for a melee champion.
-* ![Ranged Icon](images/ranged.png) - A core that's suitable for a ranged champion.
-
 <br />
 # Damage Cores
 
@@ -37,14 +31,226 @@ If you try to copy/improvise these designs and you lack the pipes to reach 5.2e8
 
 If you're unsure whether you've made the best design you can when you're done - put the Byteglow link in the [#modron_core_layout](https://discord.com/channels/357247482247380994/733401533579788397) channel in the Discord and someone will usually be available to try to help find some optimisations.
 
-|---|---|---|---|---|---|
-| [Arkhan](Arkhan.md) | [Catti-brie](Catti-brie.md) | [Grimm](Grimm.md) | [Kent](Kent.md) | [Nahara](Nahara.md) | [Strix](Strix.md) |
-| [Artemis](Artemis.md) | [D'hani](D'hani.md) | [Gromma](Gromma.md) | [Krond](Krond.md) | [Nixie](Nixie.md) | [Torogar](Torogar.md) |
-| [Asharra](Asharra.md) | [Delina](Delina.md) | [Ishi](Ishi.md) | [Krux](Krux.md) | [Nrakk](Nrakk.md) | [Warden](Warden.md) |
-| [Azaka](Azaka.md) | [Dhadius](Dhadius.md) | [Jaheira](Jaheira.md) | [Lucius](Lucius.md) | [Orisha](Orisha.md) | [Warduke](Warduke.md) |
-| [Binwin](Binwin.md) | [Drizzt](Drizzt.md) | [Jamilah](Jamilah.md) | [Makos](Makos.md) | [Prudence](Prudence.md) | [Yorven](Yorven.md) |
-| [Birdsong](Birdsong.md) | [Farideh](Farideh.md) | [Jarlaxle](Jarlaxle.md) | [Minsc](Minsc.md) | [Rosie](Rosie.md) | [Zorbu](Zorbu.md) |
-| [Black Viper](Black Viper.md) | [Fen](Fen.md) | [Jim](Jim.md) | [NERDS](NERDS.md) | | |
+<span class="championLinkRow">
+<span class="championLinkColumn">
+<a href="Arkhan.html">
+<span class="championLink" style="background-image:url(images/portraits/arkhan.png">
+Arkhan
+</span>
+</a>
+<a href="Artemis.html">
+<span class="championLink" style="background-image:url(images/portraits/artemis.png">
+Artemis
+</span>
+</a>
+<a href="Asharra.html">
+<span class="championLink" style="background-image:url(images/portraits/asharra.png">
+Asharra
+</span>
+</a>
+<a href="Azaka.html">
+<span class="championLink" style="background-image:url(images/portraits/azaka.png">
+Azaka
+</span>
+</a>
+<a href="Binwin.html">
+<span class="championLink" style="background-image:url(images/portraits/binwin.png">
+Binwin
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="Birdsong.html">
+<span class="championLink" style="background-image:url(images/portraits/birdsong.png">
+Birdsong
+</span>
+</a>
+<a href="Black Viper.html">
+<span class="championLink" style="background-image:url(images/portraits/blackviper.png">
+Black Viper
+</span>
+</a>
+<a href="Catti-brie.html">
+<span class="championLink" style="background-image:url(images/portraits/catti-brie.png">
+Catti-brie
+</span>
+</a>
+<a href="D'hani.html">
+<span class="championLink" style="background-image:url(images/portraits/dhani.png">
+D'hani
+</span>
+</a>
+<a href="Delina.html">
+<span class="championLink" style="background-image:url(images/portraits/delina.png">
+Delina
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="Dhadius.html">
+<span class="championLink" style="background-image:url(images/portraits/dhadius.png">
+Dhadius
+</span>
+</a>
+<a href="Drizzt.html">
+<span class="championLink" style="background-image:url(images/portraits/drizzt.png">
+Drizzt
+</span>
+</a>
+<a href="Farideh.html">
+<span class="championLink" style="background-image:url(images/portraits/farideh.png">
+Farideh
+</span>
+</a>
+<a href="Fen.html">
+<span class="championLink" style="background-image:url(images/portraits/fen.png">
+Fen
+</span>
+</a>
+<a href="Grimm.html">
+<span class="championLink" style="background-image:url(images/portraits/b&g.png">
+Grimm
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="Gromma.html">
+<span class="championLink" style="background-image:url(images/portraits/gromma.png">
+Gromma
+</span>
+</a>
+<a href="Ishi.html">
+<span class="championLink" style="background-image:url(images/portraits/ishi.png">
+Ishi
+</span>
+</a>
+<a href="Jaheira.html">
+<span class="championLink" style="background-image:url(images/portraits/jaheira.png">
+Jaheira
+</span>
+</a>
+<a href="Jamilah.html">
+<span class="championLink" style="background-image:url(images/portraits/jamilah.png">
+Jamilah
+</span>
+</a>
+<a href="Jarlaxle.html">
+<span class="championLink" style="background-image:url(images/portraits/jarlaxle.png">
+Jarlaxle
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="Jim.html">
+<span class="championLink" style="background-image:url(images/portraits/jim.png">
+Jim
+</span>
+</a>
+<a href="Kent.html">
+<span class="championLink" style="background-image:url(images/portraits/kent.png">
+Kent
+</span>
+</a>
+<a href="Krond.html">
+<span class="championLink" style="background-image:url(images/portraits/krond.png">
+Krond
+</span>
+</a>
+<a href="Krux.html">
+<span class="championLink" style="background-image:url(images/portraits/krux.png">
+Krux
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="Lucius.html">
+<span class="championLink" style="background-image:url(images/portraits/lucius.png">
+Lucius
+</span>
+</a>
+<a href="Makos.html">
+<span class="championLink" style="background-image:url(images/portraits/makos.png">
+Makos
+</span>
+</a>
+<a href="Minsc.html">
+<span class="championLink" style="background-image:url(images/portraits/minsc.png">
+Minsc
+</span>
+</a>
+<a href="NERDS.html">
+<span class="championLink" style="background-image:url(images/portraits/nerds.png">
+NERDS
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="Nahara.html">
+<span class="championLink" style="background-image:url(images/portraits/nahara.png">
+Nahara
+</span>
+</a>
+<a href="Nixie.html">
+<span class="championLink" style="background-image:url(images/portraits/nixie.png">
+Nixie
+</span>
+</a>
+<a href="Nrakk.html">
+<span class="championLink" style="background-image:url(images/portraits/nrakk.png">
+Nrakk
+</span>
+</a>
+<a href="Orisha.html">
+<span class="championLink" style="background-image:url(images/portraits/orisha.png">
+Orisha
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="Prudence.html">
+<span class="championLink" style="background-image:url(images/portraits/prudence.png">
+Prudence
+</span>
+</a>
+<a href="Rosie.html">
+<span class="championLink" style="background-image:url(images/portraits/rosie.png">
+Rosie
+</span>
+</a>
+<a href="Strix.html">
+<span class="championLink" style="background-image:url(images/portraits/strix.png">
+Strix
+</span>
+</a>
+<a href="Torogar.html">
+<span class="championLink" style="background-image:url(images/portraits/torogar.png">
+Torogar
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="Warden.html">
+<span class="championLink" style="background-image:url(images/portraits/warden.png">
+Warden
+</span>
+</a>
+<a href="Warduke.html">
+<span class="championLink" style="background-image:url(images/portraits/warduke.png">
+Warduke
+</span>
+</a>
+<a href="Yorven.html">
+<span class="championLink" style="background-image:url(images/portraits/yorven.png">
+Yorven
+</span>
+</a>
+<a href="Zorbu.html">
+<span class="championLink" style="background-image:url(images/portraits/zorbu.png">
+Zorbu
+</span>
+</a>
+</span>
+</span>
 
 <br />
 # Achievement Cores
@@ -59,46 +265,46 @@ If a core is not listed - it's because it's impossible to get the achievement wi
 
 This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharge bonus.
 
-|---|---|
-| Modest | [https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT](https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT) |
-| Strong | [https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o](https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o) |
-| Fast | [https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp](https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp) |
-| Magic | [https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh](https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh) |
-| Aerois | [https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K](https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K) |
-| Unaffiliated | [https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa](https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa) |
+|---|---|---|
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT](https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT) |
+| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o](https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o) |
+| ![Fast Core](images/core_3_fast.png) | Fast | [https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp](https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp) |
+| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh](https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh) |
+| ![Aerois Core](images/core_5_aerois.png) | Aerois | [https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K](https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K) |
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa](https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa) |
 
 ## Flow Shui
 
 This achievement requires 128,000 (1.28e5) flow to every node for a 200% supercharge bonus.
 
-|---|---|
-| Magic | [https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF](https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF) |
-| Aerois | [https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB](https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB) |
-| Unaffiliated | [https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ](https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ) |
+|---|---|---|
+| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF](https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF) |
+| ![Aerois Core](images/core_5_aerois.png) | Aerois | [https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB](https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB) |
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ](https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ) |
 
 ## Infinite Cosmic Power
 
 This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% supercharge bonus.
 
-|---|---|
-| Aerois | [https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc](https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc) |
-| Unaffiliated | [https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52](https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52) |
+|---|---|---|
+| ![Aerois Core](images/core_5_aerois.png) | Aerois | [https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc](https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc) |
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52](https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52) |
 
 ## Pipe Dream
 
 This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% supercharge bonus.
 
-|---|---|
-| Unaffiliated | [https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0](https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0) |
+|---|---|---|
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0](https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0) |
 
 <br />
 # Fast Cores
 
 I have only linked the Fast core on Nahara's page because it simply cannot compete for most champions. It will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have some supercharged designs if you really want to use it.
 
-|---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Fully Supercharged | [https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv](https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv) | 1.03e39% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | "Budget" Supercharged | [https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec](https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec) | 9.73e38% |
+|---|---|---|---|
+| ![Fast Core](images/core_3_fast.png) | Fully Supercharged | [https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv](https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv) | 1.03e39% |
+| ![Fast Core](images/core_3_fast.png) | "Budget" Supercharged | [https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec](https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec) | 9.73e38% |
 
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core's primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn't use gold nodes to possibly increase damage further.
 
@@ -176,14 +382,14 @@ Just a list of frequently asked questions. If you have a question - feel free to
 
 The Modest core has the highest gold bonus of 2.19e06% when fully epic - while the Fast core is the next best at 1.20e06%.
 
-| Core | Gold Find Bonus |
-|---|---|
-| Modest | 2.19e06% |
-| Fast | 1.20e06% |
-| Aerois | 3.78e05% |
-| Magic | 3.78e05% |
-| Strong | 3.78e05% |
-| Unaffiliated | 1.19e05% |
+| Icon | Core | Gold Find Bonus |
+|---|---|---|
+| ![Modest Core](images/core_1_modest.png) | Modest | 2.19e06% |
+| ![Fast Core](images/core_3_fast.png) | Fast | 1.20e06% |
+| ![Aerois Core](images/core_5_aerois.png) | Aerois | 3.78e05% |
+| ![Magic Core](images/core_4_magic.png) | Magic | 3.78e05% |
+| ![Strong Core](images/core_2_strong.png) | Strong | 3.78e05% |
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 1.19e05% |
 
 ## Why don't you pipe gold nodes?
 

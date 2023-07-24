@@ -1,8 +1,10 @@
 [Back to Main](index.md)
 
+![Modest Core](images/core_1_modest.png)
+
 # Modest Core References
 
-These designs can be used for inspiration for piping your own core at various levels - as well as getting it Full Epic with fewer or less rare pieces.
+These designs can be used for inspiration for piping your own core at various levels - as well as getting it Full Epic with fewer or less-rare pieces.
 
 | Level | Authors | Note | Link |
 |---|---|---|---|

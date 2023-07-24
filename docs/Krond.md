@@ -13,11 +13,11 @@ Krond is unaffiliated and benefits from the following stat nodes:
 
 Krond is normally a melee champion but he also becomes magic after choosing a specialisation. This means he can benefit from both Melee and Magic nodes.
 
-|---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) |   |   | Magic | [https://ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE](https://ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE) | 1.35e49% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l](https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l) | 2.13e43% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/LqCb1S8NMJP8HZ_omgw5-](https://ic.byteglow.com/modron/LqCb1S8NMJP8HZ_omgw5-) | 1.18e40% |
+|---|---|---|---|
+| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE](https://ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE) | 1.35e49% |
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
+| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l](https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l) | 2.13e43% |
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/LqCb1S8NMJP8HZ_omgw5-](https://ic.byteglow.com/modron/LqCb1S8NMJP8HZ_omgw5-) | 1.18e40% |
 
 The Magic and Unaffiliated cores are so far ahead of the Strong core that they are really the only choices for Krond. Choose whichever you have the more favourable pipes for - though I would not recommend the Magic core as it doesn't have any health nodes.
 

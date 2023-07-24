@@ -12,6 +12,12 @@ header {
 section {
 	max-width: 850px;
 }
+h1 {
+	font-size: 30px;
+}
+h2 {
+	font-size: 22px;
+}
 h1,h2,h3 {
 	line-height: 1.5em;
 }
@@ -24,4 +30,34 @@ h6 {
 code{
     padding: 0px;
     border-radius: 0px;
+}
+.smallModron img {
+	width: 30px;
+}
+.championLinkRow {
+	display: flex;
+	width: 100%;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+	flex-wrap: nowrap;
+}
+.championLinkColumn {
+	display: flex;
+	width: 91px;
+	flex-direction: column;
+	align-item: flex-start;
+	flex-wrap: nowrap;
+}
+.championLink {
+	background-color: #141414;
+	background-size: contain;
+	background-repeat: no-repeat;
+	display: flex;
+	width: 87px;
+	height: 104px;
+	margin: 1px;
+	border: 1px solid black;
+	align-items: flex-end;
+	justify-content: center;
 }

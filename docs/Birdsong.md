@@ -13,11 +13,11 @@ Birdsong is unaffiliated and benefits from the following stat nodes:
 
 Birdsong is a melee champion.
 
-|---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-|   | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4](https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4) | 2.19e41% |
-|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX](https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX) | 1.68e41% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ](https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ) | 3.73e40% |
+|---|---|---|---|
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
+| ![Magic Core](images/core_4_magic.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4](https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4) | 2.19e41% |
+| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX](https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX) | 1.68e41% |
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ](https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ) | 3.73e40% |
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Birdsong.
 

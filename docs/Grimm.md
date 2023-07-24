@@ -12,10 +12,10 @@ Grimm is unaffiliated and benefits from the following stat nodes:
 
 Grimm is a melee champion.
 
-|---|---|---|---|---|---|
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-|   | ![Melee Icon](images/melee.png) |   | Strong | [https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh](https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh) | 1.16e39% |
-| ![Magic Icon](images/magic.png) | ![Melee Icon](images/melee.png) | ![Ranged Icon](images/ranged.png) | Modest | [https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL](https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL) | 2.11e38% |
+|---|---|---|---|
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
+| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh](https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh) | 1.16e39% |
+| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL](https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL) | 2.11e38% |
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Grimm.
 
