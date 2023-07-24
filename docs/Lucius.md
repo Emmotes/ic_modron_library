@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="lucius">
 ![Lucius Portrait](images/portraits/lucius.png)
+</span>
 
 # Lucius
 

@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="drizzt">
 ![Drizzt Portrait](images/portraits/drizzt.png)
+</span>
 
 # Drizzt
 

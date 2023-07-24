@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="catti-brie">
 ![Catti-brie Portrait](images/portraits/catti-brie.png)
+</span>
 
 # Catti-brie
 

@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="dhadius">
 ![Dhadius Portrait](images/portraits/dhadius.png)
+</span>
 
 # Dhadius
 

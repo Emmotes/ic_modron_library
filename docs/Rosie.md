@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="rosie">
 ![Rosie Portrait](images/portraits/rosie.png)
+</span>
 
 # Rosie
 

@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="prudence">
 ![Prudence Portrait](images/portraits/prudence.png)
+</span>
 
 # Prudence
 

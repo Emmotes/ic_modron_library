@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="azaka">
 ![Azaka Portrait](images/portraits/azaka.png)
+</span>
 
 # Azaka
 

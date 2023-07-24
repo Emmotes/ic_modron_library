@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="kent">
 ![Kent Portrait](images/portraits/kent.png)
+</span>
 
 # Kent
 

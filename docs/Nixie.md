@@ -1,6 +1,24 @@
 [Back to Main](index.md)
 
+<span id="nixie">
 ![Nixie Portrait](images/portraits/nixie.png)
+</span>
+{::nomarkdown}
+<script>
+function ins(str, index, value) {
+    return str.substr(0, index) + value + str.substr(index);
+}
+function randInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1) + min);
+}
+function nixieBlueIt() {
+    if (randInt(1,4) == 4) {
+        document.getElementById("nixie").innerHTML = "\n<img src=\"images/portraits/nixieBlue.png\" alt=\"Nixie Portrait\">\n";
+    }
+}
+nixieBlueIt();
+</script>
+{:/nomarkdown}
 
 # Nixie
 

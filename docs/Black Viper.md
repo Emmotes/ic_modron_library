@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="blackviper">
 ![Black Viper Portrait](images/portraits/blackviper.png)
+</span>
 
 # Black Viper
 

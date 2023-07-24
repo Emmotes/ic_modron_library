@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="krux">
 ![Krux Portrait](images/portraits/krux.png)
+</span>
 
 # Krux
 

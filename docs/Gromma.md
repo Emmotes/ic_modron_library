@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="gromma">
 ![Gromma Portrait](images/portraits/gromma.png)
+</span>
 
 # Gromma
 

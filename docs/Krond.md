@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="krond">
 ![Krond Portrait](images/portraits/krond.png)
+</span>
 
 # Krond
 

@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="dhani">
 ![D'hani Portrait](images/portraits/dhani.png)
+</span>
 
 # D'hani
 

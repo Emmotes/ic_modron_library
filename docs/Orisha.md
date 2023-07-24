@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="orisha">
 ![Orisha Portrait](images/portraits/orisha.png)
+</span>
 
 # Orisha
 

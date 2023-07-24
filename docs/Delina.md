@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="delina">
 ![Delina Portrait](images/portraits/delina.png)
+</span>
 
 # Delina
 

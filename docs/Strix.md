@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="strix">
 ![Strix Portrait](images/portraits/strix.png)
+</span>
 
 # Strix
 

@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="b&g">
 ![Grimm Portrait](images/portraits/b&g.png)
+</span>
 
 # Grimm
 

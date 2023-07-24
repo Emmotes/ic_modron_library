@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="nrakk">
 ![Nrakk Portrait](images/portraits/nrakk.png)
+</span>
 
 # Nrakk
 

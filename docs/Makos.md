@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="makos">
 ![Makos Portrait](images/portraits/makos.png)
+</span>
 
 # Makos
 

@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="nahara">
 ![Nahara Portrait](images/portraits/nahara.png)
+</span>
 
 # Nahara
 

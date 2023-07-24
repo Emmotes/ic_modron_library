@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="ishi">
 ![Ishi Portrait](images/portraits/ishi.png)
+</span>
 
 # Ishi
 

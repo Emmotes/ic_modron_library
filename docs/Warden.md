@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="warden">
 ![Warden Portrait](images/portraits/warden.png)
+</span>
 
 # Warden
 

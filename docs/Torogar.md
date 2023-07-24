@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="torogar">
 ![Torogar Portrait](images/portraits/torogar.png)
+</span>
 
 # Torogar
 

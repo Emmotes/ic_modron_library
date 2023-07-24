@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="nerds">
 ![NERDS Portrait](images/portraits/nerds.png)
+</span>
 
 # NERDS
 

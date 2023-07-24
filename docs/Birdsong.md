@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="birdsong">
 ![Birdsong Portrait](images/portraits/birdsong.png)
+</span>
 
 # Birdsong
 

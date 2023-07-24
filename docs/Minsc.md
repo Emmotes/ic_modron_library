@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="minsc">
 ![Minsc Portrait](images/portraits/minsc.png)
+</span>
 
 # Minsc
 

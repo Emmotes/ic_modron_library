@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="fen">
 ![Fen Portrait](images/portraits/fen.png)
+</span>
 
 # Fen
 

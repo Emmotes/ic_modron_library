@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="binwin">
 ![Binwin Portrait](images/portraits/binwin.png)
+</span>
 
 # Binwin
 

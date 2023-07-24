@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="zorbu">
 ![Zorbu Portrait](images/portraits/zorbu.png)
+</span>
 
 # Zorbu
 

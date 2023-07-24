@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="asharra">
 ![Asharra Portrait](images/portraits/asharra.png)
+</span>
 
 # Asharra
 

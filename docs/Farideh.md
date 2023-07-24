@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="farideh">
 ![Farideh Portrait](images/portraits/farideh.png)
+</span>
 
 # Farideh
 

@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
+<span id="jarlaxle">
 ![Jarlaxle Portrait](images/portraits/jarlaxle.png)
+</span>
 
 # Jarlaxle
 
