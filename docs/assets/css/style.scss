@@ -65,3 +65,64 @@ code{
 	border: 1px solid #FFEB9B;
 	background-color: #000000;
 }
+.modronColumn {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+	width: 830px;
+	margin: 2px;
+}
+.modronRow {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+	height: 49px;
+	margin: 2px;
+	background-color: #141414;
+	border: 1px solid black;
+}
+.modronRow:hover {
+	border: 1px solid #FFEB9B;
+	background-color: #000000;
+}
+.modronIcon,.modronIconFull {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 150px;
+	height: 49px;
+	margin: 0px;
+	border-right: 1px solid black;
+	color: #F0E7D5;
+}
+.modronIconFull {
+	width: 250px;
+}
+.modronIcon img {
+	margin: 5px;
+}
+.modronIconFull img {
+	margin: 5px;
+}
+.modronLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 420px;
+	height: 49px;
+	background-color: #1c1c1c;
+}
+.modronDamage {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100px;
+	height: 49px;
+	background-color: #141414;
+	color: #F0E7D5;
+	border-left: 1px solid black;
+}

@@ -30,10 +30,59 @@ Nixie is in the Awful Ones affiliation and benefits from the following stat node
 
 Nixie is a magic champion.
 
-|---|---|---|---|
-| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB](https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB) | 1.67e45% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/u4thZ5VbiZ2xg2HxLjr7W](https://ic.byteglow.com/modron/u4thZ5VbiZ2xg2HxLjr7W) | 2.57e38% |
-| ![Strong Core](images/core_2_strong.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/2ggHyhpYHJ0z7VinGTWio](https://ic.byteglow.com/modron/2ggHyhpYHJ0z7VinGTWio) | 9.45e36% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB
+        </span>
+        <span class="modronDamage">
+            1.67e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/u4thZ5VbiZ2xg2HxLjr7W">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/u4thZ5VbiZ2xg2HxLjr7W
+        </span>
+        <span class="modronDamage">
+            2.57e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/2ggHyhpYHJ0z7VinGTWio">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/2ggHyhpYHJ0z7VinGTWio
+        </span>
+        <span class="modronDamage">
+            9.45e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Magic core is so far ahead of the other cores that it's really the only choice for Nixie. Though it is worth noting that it doesn't have any health nodes.
 

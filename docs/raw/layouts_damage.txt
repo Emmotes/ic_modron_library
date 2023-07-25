@@ -145,3 +145,8 @@ dFFmh0JAwYRLfa9mH_uHt,6,1.15e49,Artemis|Asharra|Azaka|Binwin|Birdsong|Black Vipe
 # ==================
 # ==== Spoilers ====
 # ==================
+# Lae'zel
+# Benefits from STR + DEX + CON
+# Modest: Same as Krux
+# Strong: Same as Arkhan/Azaka/Warden/Torogar
+# Magic: Same as Minsc/Krux (which is to say - she won't have one)

@@ -17,11 +17,76 @@ Artemis is unaffiliated and benefits from the following stat nodes:
 
 Artemis is a melee champion.
 
-|---|---|---|---|
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-| ![Magic Core](images/core_4_magic.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r](https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r) | 3.83e45% |
-| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5](https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5) | 3.09e45% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms](https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms) | 2.18e44% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r
+        </span>
+        <span class="modronDamage">
+            3.83e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5
+        </span>
+        <span class="modronDamage">
+            3.09e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms
+        </span>
+        <span class="modronDamage">
+            2.18e44%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Unaffiliated core is far enough ahead of the other cores that it's the best one to use for Artemis. That said - you could potentially use one of the other cores if the pipes you have favours one of them.
 

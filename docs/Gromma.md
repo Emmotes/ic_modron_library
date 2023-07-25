@@ -16,11 +16,76 @@ Gromma is unaffiliated and benefits from the following stat nodes:
 
 Gromma is normally a melee champion but her Swamp specialisation will make her a magic attacker instead - and that is the specialisation you will use if she's a DPS.
 
-|---|---|---|---|
-| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek](https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek) | 2.83e53% |
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/UBppioFeMIfJ4fE90nPYp](https://ic.byteglow.com/modron/UBppioFeMIfJ4fE90nPYp) | 1.50e42% |
-| ![Strong Core](images/core_2_strong.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/LmsDNTq4JAhPK0GcyaGci](https://ic.byteglow.com/modron/LmsDNTq4JAhPK0GcyaGci) | 1.90e41% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek
+        </span>
+        <span class="modronDamage">
+            2.83e53%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/UBppioFeMIfJ4fE90nPYp">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/UBppioFeMIfJ4fE90nPYp
+        </span>
+        <span class="modronDamage">
+            1.50e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/LmsDNTq4JAhPK0GcyaGci">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/LmsDNTq4JAhPK0GcyaGci
+        </span>
+        <span class="modronDamage">
+            1.90e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Magic core is far enough ahead of the Unaffiliated core that it's the best one to use for Gromma. That said - you could potentially use the Unaffiliated core if the pipes you have favour it. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
 

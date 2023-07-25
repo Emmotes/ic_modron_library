@@ -13,9 +13,42 @@ Minsc is in the Heroes of Baldur's Gate affiliation and benefits from the follow
 
 Minsc is a melee champion.
 
-|---|---|---|---|
-| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh](https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh) | 1.16e39% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/j3JuHVefg7DnKYc9OuwAi](https://ic.byteglow.com/modron/j3JuHVefg7DnKYc9OuwAi) | 1.58e36% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh
+        </span>
+        <span class="modronDamage">
+            1.16e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/j3JuHVefg7DnKYc9OuwAi">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/j3JuHVefg7DnKYc9OuwAi
+        </span>
+        <span class="modronDamage">
+            1.58e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Strong core is far enough ahead of the Modest core that it's the best one to use for Minsc. That said - you could potentially use the Modest core if the pipes you have favour it.
 

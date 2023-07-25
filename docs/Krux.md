@@ -14,10 +14,59 @@ Krux is unaffiliated and benefits from the following stat nodes:
 
 Krux is a ranged champion.
 
-|---|---|---|---|
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-| ![Strong Core](images/core_2_strong.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT](https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT) | 1.37e39% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN](https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN) | 2.30e38% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT
+        </span>
+        <span class="modronDamage">
+            1.37e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN
+        </span>
+        <span class="modronDamage">
+            2.30e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Krux.
 

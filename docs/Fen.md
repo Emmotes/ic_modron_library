@@ -16,10 +16,59 @@ Fen is in the Black Dice Society affiliation and benefits from the following sta
 
 Fen is a melee champion.
 
-|---|---|---|---|
-| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/SI2dcRz6izSQIPntS9Q0U](https://ic.byteglow.com/modron/SI2dcRz6izSQIPntS9Q0U) | 2.43e43% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E](https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E) | 4.43e42% |
-| ![Magic Core](images/core_4_magic.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4](https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4) | 2.19e41% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/SI2dcRz6izSQIPntS9Q0U">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/SI2dcRz6izSQIPntS9Q0U
+        </span>
+        <span class="modronDamage">
+            2.43e43%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E
+        </span>
+        <span class="modronDamage">
+            4.43e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4
+        </span>
+        <span class="modronDamage">
+            2.19e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The listed cores are all similar enough in damage for Fen that you should use whichever you have the more favourable pipes for. Though I would not recommend the Magic core as it doesn't have any health nodes.
 

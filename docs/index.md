@@ -285,46 +285,239 @@ If a core is not listed - it's because it's impossible to get the achievement wi
 
 This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharge bonus.
 
-|---|---|---|
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT](https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT) |
-| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o](https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o) |
-| ![Fast Core](images/core_3_fast.png) | Fast | [https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp](https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp) |
-| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh](https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh) |
-| ![Aerois Core](images/core_5_aerois.png) | Aerois | [https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K](https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K) |
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa](https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa) |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Fast Core](images/core_3_fast.png)Fast
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Aerois Core](images/core_5_aerois.png)Aerois
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 ## Flow Shui
 
 This achievement requires 128,000 (1.28e5) flow to every node for a 200% supercharge bonus.
 
-|---|---|---|
-| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF](https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF) |
-| ![Aerois Core](images/core_5_aerois.png) | Aerois | [https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB](https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB) |
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ](https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ) |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Aerois Core](images/core_5_aerois.png)Aerois
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 ## Infinite Cosmic Power
 
 This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% supercharge bonus.
 
-|---|---|---|
-| ![Aerois Core](images/core_5_aerois.png) | Aerois | [https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc](https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc) |
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52](https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52) |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Aerois Core](images/core_5_aerois.png)Aerois
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 ## Pipe Dream
 
 This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% supercharge bonus.
 
-|---|---|---|
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0](https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0) |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 <br />
 # Fast Cores
 
 I have only linked the Fast core on Nahara's page because it simply cannot compete for most champions. It will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have some supercharged designs if you really want to use it.
 
-|---|---|---|---|
-| ![Fast Core](images/core_3_fast.png) | Fully Supercharged | [https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv](https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv) | 1.03e39% |
-| ![Fast Core](images/core_3_fast.png) | "Budget" Supercharged | [https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec](https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec) | 9.73e38% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Fast Core](images/core_3_fast.png)Fully Supercharged
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv
+        </span>
+        <span class="modronDamage">
+            1.03e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Fast Core](images/core_3_fast.png)"Budget" Supercharged
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec
+        </span>
+        <span class="modronDamage">
+            9.73e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core's primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn't use gold nodes to possibly increase damage further.
 

@@ -15,10 +15,59 @@ Azaka is unaffiliated and benefits from the following stat nodes:
 
 Azaka is a melee champion.
 
-|---|---|---|---|
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe](https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe) | 1.68e41% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj](https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj) | 3.05e40% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe
+        </span>
+        <span class="modronDamage">
+            1.68e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj
+        </span>
+        <span class="modronDamage">
+            3.05e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Azaka.
 

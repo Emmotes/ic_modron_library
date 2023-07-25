@@ -14,10 +14,59 @@ Binwin is unaffiliated and benefits from the following stat nodes:
 
 Binwin is a melee champion.
 
-|---|---|---|---|
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh](https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh) | 1.16e39% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL](https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL) | 2.11e38% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh
+        </span>
+        <span class="modronDamage">
+            1.16e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL
+        </span>
+        <span class="modronDamage">
+            2.11e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Binwin.
 

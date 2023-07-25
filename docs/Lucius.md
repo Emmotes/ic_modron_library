@@ -17,11 +17,76 @@ Lucius is in the Heroes of Aerois affiliation and benefits from the following st
 
 Lucius is a magic champion.
 
-|---|---|---|---|
-| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek](https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek) | 2.83e53% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms](https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms) | 2.18e44% |
-| ![Strong Core](images/core_2_strong.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g](https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g) | 2.76e43% |
-| ![Aerois Core](images/core_5_aerois.png) | Aerois | [https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C](https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C) | 7.91e35% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek
+        </span>
+        <span class="modronDamage">
+            2.83e53%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms
+        </span>
+        <span class="modronDamage">
+            2.18e44%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g
+        </span>
+        <span class="modronDamage">
+            2.76e43%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Aerois Core](images/core_5_aerois.png)Aerois
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C
+        </span>
+        <span class="modronDamage">
+            7.91e35%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Magic and Aerois cores are so far ahead of the other cores that they are really the only choices for Lucius. Choose whichever you have the more favourable pipes for.
 

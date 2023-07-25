@@ -16,11 +16,76 @@ Yorven is unaffiliated and benefits from the following stat nodes:
 
 Yorven is a melee champion.
 
-|---|---|---|---|
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-| ![Strong Core](images/core_2_strong.png) | Strong | [https://ic.byteglow.com/modron/P6YiBeAtM8eZSSjm6hI9H](https://ic.byteglow.com/modron/P6YiBeAtM8eZSSjm6hI9H) | 2.13e43% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed](https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed) | 1.50e42% |
-| ![Magic Core](images/core_4_magic.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ](https://ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ) | 1.82e41% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/P6YiBeAtM8eZSSjm6hI9H">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/P6YiBeAtM8eZSSjm6hI9H
+        </span>
+        <span class="modronDamage">
+            2.13e43%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed
+        </span>
+        <span class="modronDamage">
+            1.50e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ
+        </span>
+        <span class="modronDamage">
+            1.82e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Yorven.
 

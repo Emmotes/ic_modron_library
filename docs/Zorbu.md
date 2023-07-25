@@ -16,11 +16,76 @@ Zorbu is unaffiliated and benefits from the following stat nodes:
 
 Zorbu is a ranged champion.
 
-|---|---|---|---|
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-| ![Magic Core](images/core_4_magic.png) | Magic (Non-Magic Variant) | [https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r](https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r) | 3.83e45% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ](https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ) | 2.18e42% |
-| ![Strong Core](images/core_2_strong.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB](https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB) | 1.90e41% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r
+        </span>
+        <span class="modronDamage">
+            3.83e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
+        </span>
+        <span class="modronDamage">
+            2.18e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB
+        </span>
+        <span class="modronDamage">
+            1.90e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Unaffiliated core is far enough ahead of the Magic (Non-Magic Variant) core that it's the best one to use for Zorbu. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 

@@ -14,11 +14,76 @@ Asharra is unaffiliated and benefits from the following stat nodes:
 
 Asharra is a magic champion.
 
-|---|---|---|---|
-| ![Magic Core](images/core_4_magic.png) | Magic | [https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek](https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek) | 2.83e53% |
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | [https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt) | 1.15e49% |
-| ![Modest Core](images/core_1_modest.png) | Modest | [https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK](https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK) | 1.60e38% |
-| ![Strong Core](images/core_2_strong.png) | Strong (Non-Melee Variant) | [https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4](https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4) | 9.45e36% |
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek
+        </span>
+        <span class="modronDamage">
+            2.83e53%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK
+        </span>
+        <span class="modronDamage">
+            1.60e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4
+        </span>
+        <span class="modronDamage">
+            9.45e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 The Magic core is far enough ahead of the Unaffiliated core that it's the best one to use for Asharra. That said - you could potentially use the Unaffiliated core if the pipes you have favour it. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
 
