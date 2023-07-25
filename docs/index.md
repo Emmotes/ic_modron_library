@@ -293,7 +293,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
         <span class="modronIcon">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT
         </span>
     </span>
@@ -307,7 +307,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
         <span class="modronIcon">
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o
         </span>
     </span>
@@ -321,7 +321,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
         <span class="modronIcon">
             ![Fast Core](images/core_3_fast.png)Fast
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp
         </span>
     </span>
@@ -335,7 +335,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
         <span class="modronIcon">
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh
         </span>
     </span>
@@ -349,7 +349,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
         <span class="modronIcon">
             ![Aerois Core](images/core_5_aerois.png)Aerois
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K
         </span>
     </span>
@@ -363,7 +363,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
         <span class="modronIcon">
             ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa
         </span>
     </span>
@@ -384,7 +384,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
         <span class="modronIcon">
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF
         </span>
     </span>
@@ -398,7 +398,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
         <span class="modronIcon">
             ![Aerois Core](images/core_5_aerois.png)Aerois
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB
         </span>
     </span>
@@ -412,7 +412,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
         <span class="modronIcon">
             ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ
         </span>
     </span>
@@ -433,7 +433,7 @@ This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% super
         <span class="modronIcon">
             ![Aerois Core](images/core_5_aerois.png)Aerois
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc
         </span>
     </span>
@@ -447,7 +447,7 @@ This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% super
         <span class="modronIcon">
             ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52
         </span>
     </span>
@@ -468,7 +468,7 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
         <span class="modronIcon">
             ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
         </span>
-        <span class="modronLink">
+        <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0
         </span>
     </span>

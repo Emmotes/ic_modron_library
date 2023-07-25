@@ -74,7 +74,7 @@ code{
 	width: 830px;
 	margin: 2px;
 }
-.modronRow {
+.modronRow,.modronRowShort,.modronRowHeader,.modronRowShortHeader {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -85,21 +85,26 @@ code{
 	background-color: #141414;
 	border: 1px solid black;
 }
-.modronRow:hover {
+.modronRowShort,.modronRowShortHeader {
+	height: 25px;
+}
+.modronRowHeader,.modronRowShortHeader {
+	border-bottom: 4px ridge black;
+}
+.modronRow:hover,.modronRowShort:hover {
 	border: 1px solid #FFEB9B;
 	background-color: #000000;
 }
-.modronIcon,.modronIconFull {
+.modronIcon,.modronIconFull,.modronDamage {
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
 	width: 150px;
-	height: 49px;
+	height: 100%;
 	margin: 0px;
-	border-right: 1px solid black;
 	color: #F0E7D5;
 }
-.modronIconFull {
+.modronIconFull,.modronNote {
 	width: 250px;
 }
 .modronIcon img {
@@ -108,22 +113,72 @@ code{
 .modronIconFull img {
 	margin: 5px;
 }
-.modronLink {
+.modronLink,.modronLinkSmall,.modronLinkHeader {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	width: 420px;
-	height: 49px;
+	height: 100%;
 	background-color: #1c1c1c;
+	border-left: 1px solid black;
+}
+.modronLink,.modronLinkSmall {
 	font-family: monospace, monospace;
 	font-size: 0.95em;
 }
+.modronLink,.modronLinkHeader {
+	border-right: 1px solid black;
+}
 .modronDamage {
+	justify-content: center;
+	width: 100px;
+}
+.modronLevel {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 100px;
-	height: 49px;
+	width: 50px;
+	height: 100%;
+	margin: 0px;
+	margin-right: 5px;
 	color: #F0E7D5;
-	border-left: 1px solid black;
+}
+.modronAuthors {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 140px;
+	height: 100%;
+	margin: 0px;
+	margin-left: 5px;
+	color: #F0E7D5;
+}
+.modronRecordHolders {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 180px;
+	height: 100%;
+	margin: 0px;
+	margin-left: 5px;
+	color: #F0E7D5;
+}
+.modronRecord {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 60px;
+	height: 100%;
+	margin: 0px;
+	color: #F0E7D5;
+}
+.modronNote {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 200px;
+	height: 100%;
+	margin: 0px;
+	margin-left: 5px;
+	color: #F0E7D5;
 }

@@ -6,27 +6,402 @@
 
 These designs can be used for inspiration for piping your own core at various levels - as well as getting it Full Epic with fewer or less-rare pieces.
 
-| Level | Authors | Note | Link |
-|---|---|---|---|
-| 1 | Retaki | Damage | [https://ic.byteglow.com/modron/jsI7jPCrM5UiP-FK7uz8S](https://ic.byteglow.com/modron/jsI7jPCrM5UiP-FK7uz8S) |
-| 1 | Retaki | Gold | [https://ic.byteglow.com/modron/yk2BmrUpjs3UpnAKliAP3](https://ic.byteglow.com/modron/yk2BmrUpjs3UpnAKliAP3) |
-| 2 | Retaki | Damage | [https://ic.byteglow.com/modron/UfYoMXG7U_x-EmIoMuIBB](https://ic.byteglow.com/modron/UfYoMXG7U_x-EmIoMuIBB) |
-| 2 | Retaki | Gold | [https://ic.byteglow.com/modron/k2Mg3nBvQG1dwWA2qnzLb](https://ic.byteglow.com/modron/k2Mg3nBvQG1dwWA2qnzLb) |
-| 3 | Retaki |  | [https://ic.byteglow.com/modron/lcUoWEXOA2jDU-Ju20JYH](https://ic.byteglow.com/modron/lcUoWEXOA2jDU-Ju20JYH) |
-| 4 | Retaki |  | [https://ic.byteglow.com/modron/Iyoo7Jrrs6V9coLMvQ6QD](https://ic.byteglow.com/modron/Iyoo7Jrrs6V9coLMvQ6QD) |
-| 5 | Retaki |  | [https://ic.byteglow.com/modron/m2tKj5r74ri26m94HdOTf](https://ic.byteglow.com/modron/m2tKj5r74ri26m94HdOTf) |
-| 6 | Retaki |  | [https://ic.byteglow.com/modron/5ynlEjSVxmePUfkOkDIGP](https://ic.byteglow.com/modron/5ynlEjSVxmePUfkOkDIGP) |
-| 7 | Retaki |  | [https://ic.byteglow.com/modron/29sht3peA4PoMhOq18_aB](https://ic.byteglow.com/modron/29sht3peA4PoMhOq18_aB) |
-| 8 | Retaki |  | [https://ic.byteglow.com/modron/M3J0RionL3yp933OCgG_S](https://ic.byteglow.com/modron/M3J0RionL3yp933OCgG_S) |
-| 9 | Retaki |  | [https://ic.byteglow.com/modron/dlgIP6QSOkeJ_oKO2xK0u](https://ic.byteglow.com/modron/dlgIP6QSOkeJ_oKO2xK0u) |
-| 10 | Retaki |  | [https://ic.byteglow.com/modron/GrbqBBuqypbkyft3yeU4T](https://ic.byteglow.com/modron/GrbqBBuqypbkyft3yeU4T) |
-| 11 | Retaki |  | [https://ic.byteglow.com/modron/1TfPibsmvmpP33ACYSbIR](https://ic.byteglow.com/modron/1TfPibsmvmpP33ACYSbIR) |
-| 12 | Retaki |  | [https://ic.byteglow.com/modron/AY-qd5H8EpbnrTfn_N-kZ](https://ic.byteglow.com/modron/AY-qd5H8EpbnrTfn_N-kZ) |
-| 13 | Retaki |  | [https://ic.byteglow.com/modron/M4PMKCEW8oXz7vY_X2lRe](https://ic.byteglow.com/modron/M4PMKCEW8oXz7vY_X2lRe) |
-| 14 | Retaki |  | [https://ic.byteglow.com/modron/dzfoLYPMkhNZhhqffYIiM](https://ic.byteglow.com/modron/dzfoLYPMkhNZhhqffYIiM) |
-| 15 | Emmote | Minimal (No Damage) | [https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr](https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr) |
-| 15 | Retaki |  | [https://ic.byteglow.com/modron/7ZEFaipV2hBqOPGWLIw0c](https://ic.byteglow.com/modron/7ZEFaipV2hBqOPGWLIw0c) |
-| 15 | Retaki | Fewer Rares | [https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy](https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy) |
+<span class="modronColumn">
+    <span class="modronRowShortHeader">
+        <span class="modronLevel">
+            **Level**
+        </span>
+        <span class="modronAuthors">
+            **Authors**
+        </span>
+        <span class="modronLinkHeader">
+            **Layout**
+        </span>
+        <span class="modronNote">
+            **Notes**
+        </span>
+    </span>
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/jsI7jPCrM5UiP-FK7uz8S" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            1
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/jsI7jPCrM5UiP-FK7uz8S
+        </span>
+        <span class="modronNote">
+            Damage
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/yk2BmrUpjs3UpnAKliAP3" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            1
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/yk2BmrUpjs3UpnAKliAP3
+        </span>
+        <span class="modronNote">
+            Gold
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/UfYoMXG7U_x-EmIoMuIBB" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            2
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/UfYoMXG7U_x-EmIoMuIBB
+        </span>
+        <span class="modronNote">
+            Damage
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/k2Mg3nBvQG1dwWA2qnzLb" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            2
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/k2Mg3nBvQG1dwWA2qnzLb
+        </span>
+        <span class="modronNote">
+            Gold
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/lcUoWEXOA2jDU-Ju20JYH" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            3
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/lcUoWEXOA2jDU-Ju20JYH
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Iyoo7Jrrs6V9coLMvQ6QD" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            4
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/Iyoo7Jrrs6V9coLMvQ6QD
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/m2tKj5r74ri26m94HdOTf" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            5
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/m2tKj5r74ri26m94HdOTf
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/5ynlEjSVxmePUfkOkDIGP" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            6
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/5ynlEjSVxmePUfkOkDIGP
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/29sht3peA4PoMhOq18_aB" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            7
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/29sht3peA4PoMhOq18_aB
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/M3J0RionL3yp933OCgG_S" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            8
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/M3J0RionL3yp933OCgG_S
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dlgIP6QSOkeJ_oKO2xK0u" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            9
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dlgIP6QSOkeJ_oKO2xK0u
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/GrbqBBuqypbkyft3yeU4T" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            10
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/GrbqBBuqypbkyft3yeU4T
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/1TfPibsmvmpP33ACYSbIR" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            11
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/1TfPibsmvmpP33ACYSbIR
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/AY-qd5H8EpbnrTfn_N-kZ" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            12
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/AY-qd5H8EpbnrTfn_N-kZ
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/M4PMKCEW8oXz7vY_X2lRe" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            13
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/M4PMKCEW8oXz7vY_X2lRe
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dzfoLYPMkhNZhhqffYIiM" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            14
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dzfoLYPMkhNZhhqffYIiM
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            15
+        </span>
+        <span class="modronAuthors">
+            Emmote
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr
+        </span>
+        <span class="modronNote">
+            Minimal (No Damage)
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/7ZEFaipV2hBqOPGWLIw0c" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            15
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/7ZEFaipV2hBqOPGWLIw0c
+        </span>
+        <span class="modronNote">
+            &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            15
+        </span>
+        <span class="modronAuthors">
+            Retaki
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/ZBrE0yNV6Ce0IS8qCHhuy
+        </span>
+        <span class="modronNote">
+            Fewer Rares
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 [Back to Top](#top)
 
