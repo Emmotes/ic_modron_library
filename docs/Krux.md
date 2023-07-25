@@ -16,7 +16,7 @@ Krux is a ranged champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -33,7 +33,7 @@ Krux is a ranged champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT">
+    <a href="https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -50,7 +50,7 @@ Krux is a ranged champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN">
+    <a href="https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

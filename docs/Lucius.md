@@ -19,7 +19,7 @@ Lucius is a magic champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek">
+    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -36,7 +36,7 @@ Lucius is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms">
+    <a href="https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -53,7 +53,7 @@ Lucius is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g">
+    <a href="https://ic.byteglow.com/modron/cIBAzt8UjhSQY1gj6MW1g" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -70,7 +70,7 @@ Lucius is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C">
+    <a href="https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

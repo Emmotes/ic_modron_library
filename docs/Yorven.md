@@ -18,7 +18,7 @@ Yorven is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -35,7 +35,7 @@ Yorven is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/P6YiBeAtM8eZSSjm6hI9H">
+    <a href="https://ic.byteglow.com/modron/P6YiBeAtM8eZSSjm6hI9H" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -52,7 +52,7 @@ Yorven is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed">
+    <a href="https://ic.byteglow.com/modron/6Yv_YlUxFfujj05FwG9ed" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -69,7 +69,7 @@ Yorven is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ">
+    <a href="https://ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

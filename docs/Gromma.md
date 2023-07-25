@@ -18,7 +18,7 @@ Gromma is normally a melee champion but her Swamp specialisation will make her a
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek">
+    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -35,7 +35,7 @@ Gromma is normally a melee champion but her Swamp specialisation will make her a
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -52,7 +52,7 @@ Gromma is normally a melee champion but her Swamp specialisation will make her a
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/UBppioFeMIfJ4fE90nPYp">
+    <a href="https://ic.byteglow.com/modron/UBppioFeMIfJ4fE90nPYp" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -69,7 +69,7 @@ Gromma is normally a melee champion but her Swamp specialisation will make her a
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/LmsDNTq4JAhPK0GcyaGci">
+    <a href="https://ic.byteglow.com/modron/LmsDNTq4JAhPK0GcyaGci" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

@@ -17,7 +17,7 @@ Nahara is a magic champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66">
+    <a href="https://ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -34,7 +34,7 @@ Nahara is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0">
+    <a href="https://ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -51,7 +51,7 @@ Nahara is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/H3A0hgBGQNJ06mcruHs1V">
+    <a href="https://ic.byteglow.com/modron/H3A0hgBGQNJ06mcruHs1V" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -68,7 +68,7 @@ Nahara is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/sFACCyODesgDN9vkKD3U3">
+    <a href="https://ic.byteglow.com/modron/sFACCyODesgDN9vkKD3U3" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

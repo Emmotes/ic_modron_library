@@ -19,7 +19,7 @@ Nrakk is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -36,7 +36,7 @@ Nrakk is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r">
+    <a href="https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -53,7 +53,7 @@ Nrakk is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5">
+    <a href="https://ic.byteglow.com/modron/8tmvHKX-Vku1Im0L9s1w5" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -70,7 +70,7 @@ Nrakk is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms">
+    <a href="https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

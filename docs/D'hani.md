@@ -17,7 +17,7 @@ D'hani is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN">
+    <a href="https://ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -34,7 +34,7 @@ D'hani is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17">
+    <a href="https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -51,7 +51,7 @@ D'hani is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/tFUbbSl60Q161is_ovBxs">
+    <a href="https://ic.byteglow.com/modron/tFUbbSl60Q161is_ovBxs" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

@@ -17,7 +17,7 @@ Arkhan is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe">
+    <a href="https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -34,7 +34,7 @@ Arkhan is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj">
+    <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

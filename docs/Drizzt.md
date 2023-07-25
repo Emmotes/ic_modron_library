@@ -18,7 +18,7 @@ Drizzt is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r">
+    <a href="https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -35,7 +35,7 @@ Drizzt is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN">
+    <a href="https://ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -52,7 +52,7 @@ Drizzt is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ">
+    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

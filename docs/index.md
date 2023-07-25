@@ -287,7 +287,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT">
+    <a href="https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -301,7 +301,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o">
+    <a href="https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -315,7 +315,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp">
+    <a href="https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -329,7 +329,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh">
+    <a href="https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -343,7 +343,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K">
+    <a href="https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -357,7 +357,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa">
+    <a href="https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -378,7 +378,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF">
+    <a href="https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -392,7 +392,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB">
+    <a href="https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -406,7 +406,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ">
+    <a href="https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -427,7 +427,7 @@ This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% super
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc">
+    <a href="https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -441,7 +441,7 @@ This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% super
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52">
+    <a href="https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -462,7 +462,7 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0">
+    <a href="https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -484,7 +484,7 @@ I have only linked the Fast core on Nahara's page because it simply cannot compe
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv">
+    <a href="https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -501,7 +501,7 @@ I have only linked the Fast core on Nahara's page because it simply cannot compe
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec">
+    <a href="https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

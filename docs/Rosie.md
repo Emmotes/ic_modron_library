@@ -17,7 +17,7 @@ Rosie is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r">
+    <a href="https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -34,7 +34,7 @@ Rosie is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/GYA9TYFSfcUnlfvbWr811">
+    <a href="https://ic.byteglow.com/modron/GYA9TYFSfcUnlfvbWr811" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -51,7 +51,7 @@ Rosie is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/uaxwwiADbr1-LgADkbgay">
+    <a href="https://ic.byteglow.com/modron/uaxwwiADbr1-LgADkbgay" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

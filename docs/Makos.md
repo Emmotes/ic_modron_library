@@ -16,7 +16,7 @@ Makos is a magic champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l">
+    <a href="https://ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -33,7 +33,7 @@ Makos is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -50,7 +50,7 @@ Makos is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/eS2YlQByPi6gqBWarBSEA">
+    <a href="https://ic.byteglow.com/modron/eS2YlQByPi6gqBWarBSEA" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -67,7 +67,7 @@ Makos is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/pv1IBDYJeGoBaQpSTzCOE">
+    <a href="https://ic.byteglow.com/modron/pv1IBDYJeGoBaQpSTzCOE" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

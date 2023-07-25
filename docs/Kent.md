@@ -17,7 +17,7 @@ Kent is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4">
+    <a href="https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -34,7 +34,7 @@ Kent is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX">
+    <a href="https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -51,7 +51,7 @@ Kent is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ">
+    <a href="https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

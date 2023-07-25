@@ -14,7 +14,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -31,7 +31,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/umP6sO2p9qV1JfI3m7abQ">
+    <a href="https://ic.byteglow.com/modron/umP6sO2p9qV1JfI3m7abQ" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -48,7 +48,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/I9UdL9mQtfnaLPDvD8iCJ">
+    <a href="https://ic.byteglow.com/modron/I9UdL9mQtfnaLPDvD8iCJ" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -65,7 +65,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/YI77XK6PgTTi-VmqXLPRM">
+    <a href="https://ic.byteglow.com/modron/YI77XK6PgTTi-VmqXLPRM" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -82,7 +82,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/smYCr8BklWmfvOFHziRtM">
+    <a href="https://ic.byteglow.com/modron/smYCr8BklWmfvOFHziRtM" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
