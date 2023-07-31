@@ -1762,5 +1762,65 @@
         "type": "reference",
         "layoutId": "tkzbSmwWg180UBfXvogZp",
         "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 2,
+        "championIds": [],
+        "dps": 8.96E+5,
+        "comment": "Min Supercharge: 2",
+        "coreId": 1,
+        "type": "reference",
+        "layoutId": "P21RP5sE16o67MAAOACZG",
+        "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 3,
+        "championIds": [],
+        "dps": 5.07E+7,
+        "comment": "Min Supercharge: 3",
+        "coreId": 2,
+        "type": "reference",
+        "layoutId": "Kfym6fRfuKT0KiVAsLXG8",
+        "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 3,
+        "championIds": [],
+        "dps": 9.26E+8,
+        "comment": "Min Supercharge: 3",
+        "coreId": 3,
+        "type": "reference",
+        "layoutId": "VQ5vhPeWKAd8s7AevDNKE",
+        "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 4,
+        "championIds": [],
+        "dps": 1.65E+12,
+        "comment": "Min Supercharge: 4",
+        "coreId": 4,
+        "type": "reference",
+        "layoutId": "iRMyLNEN7_KGziXTQgwwk",
+        "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 3,
+        "championIds": [],
+        "dps": 8.07E+5,
+        "comment": "Min Supercharge: 3",
+        "coreId": 5,
+        "type": "reference",
+        "layoutId": "dQW_3sDcrQdLFwkGUUCm4",
+        "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 4,
+        "championIds": [],
+        "dps": 4.49E+12,
+        "comment": "Min Supercharge: 4",
+        "coreId": 6,
+        "type": "reference",
+        "layoutId": "lv6HGYAJqqqGart_Hqgam",
+        "authors": ["Emmote"]
     }
 ]

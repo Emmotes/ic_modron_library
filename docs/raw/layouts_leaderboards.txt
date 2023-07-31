@@ -41,3 +41,16 @@ MxgE51Uw1Z8UUwAwof8dx,3,15,2.92e25,Darkbolt|Vorkera_x,Min Rarity: 4 Rares
 tAEHsyw8mAqbtGKi1AN8L,4,15,2.23e35,UniQP|Emmote|Midander|Retaki,Min Rarity: 7 Rares
 YxVuZO8-ZrtTtbtmHR99t,5,15,5.05e21,UniQP,Min Rarity: 5 Rare
 tkzbSmwWg180UBfXvogZp,6,15,4.94e31,Emmote,Min Rarity: 0 Rares
+
+# =========================================
+# ==== Minimum Supercharged Core Level ====
+# =========================================
+# Cores that are FE with at least 1 supercharged node. Lower level is best.
+# Ties on level are decided by highest flow amount.
+
+P21RP5sE16o67MAAOACZG,1,2,8.96e05,Emmote,Min Supercharge: 2
+Kfym6fRfuKT0KiVAsLXG8,2,3,5.07e07,Emmote,Min Supercharge: 3
+VQ5vhPeWKAd8s7AevDNKE,3,3,9.26e08,Emmote,Min Supercharge: 3
+iRMyLNEN7_KGziXTQgwwk,4,4,1.65e12,Emmote,Min Supercharge: 4
+dQW_3sDcrQdLFwkGUUCm4,5,3,8.07e05,Emmote,Min Supercharge: 3
+lv6HGYAJqqqGart_Hqgam,6,4,4.49e12,Emmote,Min Supercharge: 4

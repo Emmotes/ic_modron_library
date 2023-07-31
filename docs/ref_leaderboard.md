@@ -286,6 +286,149 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
 {:/nomarkdown}
 </span>
 
+# Minimum Level Supercharge
+
+These designs try to get at least one supercharged node while still retaining at least epic on every other node and activating the automation node on the lowest level of the core as possible. There are no limits on the types of pipe used.
+
+*Note: For ties between core level - the record holder will be the one with the highest flow.*
+
+<span class="modronColumn">
+    <span class="modronRowHeader">
+        <span class="modronIcon">
+            <span style="margin-left: 8px;">**Modron**</span>
+        </span>
+        <span class="modronRecordHolders">
+            **Authors**
+        </span>
+        <span class="modronLinkHeader">
+            **Layout**
+        </span>
+        <span class="modronRecord">
+            **Record**
+        </span>
+    </span>
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/P21RP5sE16o67MAAOACZG" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronRecordHolders">
+            Emmote
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/P21RP5sE16o67MAAOACZG
+        </span>
+        <span class="modronRecord">
+            2
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Kfym6fRfuKT0KiVAsLXG8" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronRecordHolders">
+            Emmote
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/Kfym6fRfuKT0KiVAsLXG8
+        </span>
+        <span class="modronRecord">
+            3
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/VQ5vhPeWKAd8s7AevDNKE" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Fast Core](images/core_3_fast.png)Fast
+        </span>
+        <span class="modronRecordHolders">
+            Emmote
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/VQ5vhPeWKAd8s7AevDNKE
+        </span>
+        <span class="modronRecord">
+            3
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dQW_3sDcrQdLFwkGUUCm4" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Aerois Core](images/core_5_aerois.png)Aerois
+        </span>
+        <span class="modronRecordHolders">
+            Emmote
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dQW_3sDcrQdLFwkGUUCm4
+        </span>
+        <span class="modronRecord">
+            3
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/iRMyLNEN7_KGziXTQgwwk" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronRecordHolders">
+            Emmote
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/iRMyLNEN7_KGziXTQgwwk
+        </span>
+        <span class="modronRecord">
+            4
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/lv6HGYAJqqqGart_Hqgam" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronRecordHolders">
+            Emmote
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/lv6HGYAJqqqGart_Hqgam
+        </span>
+        <span class="modronRecord">
+            4
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*

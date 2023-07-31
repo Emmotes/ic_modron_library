@@ -33,8 +33,8 @@ gst8woyENk7-Nwnobs0FK,1,1.60e38,Asharra,
 j3JuHVefg7DnKYc9OuwAi,1,1.58e36,Minsc,
 77jM8zd3_f2N2CAE-k25K,1,1.60e34,Dhadius,
 smYCr8BklWmfvOFHziRtM,1,1.22e34,NERDS,
-u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,Nixie
-aAJ9uVjghhumjPzNRImWN,1,2.30e38,Commodore Krux
+u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,Nixie,
+aAJ9uVjghhumjPzNRImWN,1,2.30e38,Commodore Krux,
 
 # ================================
 # ==== 2. Strong Core Layouts ====
