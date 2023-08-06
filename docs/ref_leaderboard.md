@@ -308,17 +308,17 @@ These designs try to get at least one supercharged node while still retaining at
         </span>
     </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/P21RP5sE16o67MAAOACZG" target="_blank">
+    <a href="https://ic.byteglow.com/modron/0CEq8FvgfWK36mDitydgP" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronRecordHolders">
-            Emmote
+            UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/P21RP5sE16o67MAAOACZG
+            https://ic.byteglow.com/modron/0CEq8FvgfWK36mDitydgP
         </span>
         <span class="modronRecord">
             2
