@@ -161,6 +161,11 @@ Krond
 Krux
 </span>
 </a>
+<a href="Lae'zel.html">
+<span class="championLink" style="background-image:url(images/portraits/laezel.png)">
+Lae'zel
+</span>
+</a>
 </span>
 <span class="championLinkColumn">
 <a href="Lucius.html">

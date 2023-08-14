@@ -34,7 +34,7 @@ j3JuHVefg7DnKYc9OuwAi,1,1.58e36,Minsc,
 77jM8zd3_f2N2CAE-k25K,1,1.60e34,Dhadius,
 smYCr8BklWmfvOFHziRtM,1,1.22e34,NERDS,
 u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,Nixie,
-aAJ9uVjghhumjPzNRImWN,1,2.30e38,Commodore Krux,
+aAJ9uVjghhumjPzNRImWN,1,2.30e38,Commodore Krux|Lae'zel
 
 # ================================
 # ==== 2. Strong Core Layouts ====
@@ -51,7 +51,7 @@ NlG6hux1O9m9xz5pvKjkM,2,1.99e41,Orisha,Non-Melee Variant
 YAOozf3I19s8u67slvOgB,2,1.90e41,Delina|Farideh|Zorbu,Non-Melee Variant
 LmsDNTq4JAhPK0GcyaGci,2,1.90e41,Gromma,Non-Melee Variant
 zvdcSaO2hUNuyOIJntutX,2,1.68e41,Birdsong|Black Viper|Jarlaxle|Kent,
-Gp0kNQ05tR2pJtzgovLKe,2,1.68e41,Arkhan|Azaka|Torogar|Warden,
+Gp0kNQ05tR2pJtzgovLKe,2,1.68e41,Arkhan|Azaka|Torogar|Warden|Lae'zel,
 GYA9TYFSfcUnlfvbWr811,2,1.47e41,Rosie,
 2l93tt9KR1OBgSEtNVBPC,2,1.47e41,Ishi,
 clGSazYoxokx7hljUdygz,2,1.37e39,Prudence,Non-Melee Variant
