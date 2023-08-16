@@ -162,7 +162,7 @@ Krux
 </span>
 </a>
 <a href="Lae'zel.html">
-<span class="championLink" style="background-image:url(images/portraits/laezel.png)">
+<span class="championLink" id="laezel" style="background-image:url(images/portraits/laezel.png)">
 Lae'zel
 </span>
 </a>
@@ -262,17 +262,20 @@ function ins(str, index, value) {
 function randInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
 }
-function changeDhaniEegg() {
-    var dhaniEegg = "Dhani";
-    dhaniEegg = ins(dhaniEegg, randInt(1,4), "'");
-    document.getElementById("dhani").innerHTML = dhaniEegg;
+function nameEeggs() {
+    var dhani = "Dhani";
+    dhani = ins(dhani, randInt(1,4), "'");
+    document.getElementById("dhani").innerHTML = dhani;
+    var laezel = "Laezel";
+    laezel = ins(laezel, randInt(1,5), "'");
+    document.getElementById("laezel").innerHTML = laezel;
 }
 function nixieBlueIt() {
     if (randInt(1,4) == 4) {
         document.getElementById("nixie").style.backgroundImage = "url(images/portraits/nixieBlue.png)";
     }
 }
-changeDhaniEegg();
+nameEeggs();
 nixieBlueIt();
 </script>
 </span>
