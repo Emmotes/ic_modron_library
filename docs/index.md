@@ -34,44 +34,44 @@ If you're unsure whether you've made the best design you can when you're done - 
 <span class="championLinkRow">
 <span class="championLinkColumn">
 <a href="Arkhan.html">
-<span class="championLink" style="background-image:url(images/portraits/arkhan.png)">
+<span class="championLink" id="arkhan" style="background-image:url(images/portraits/arkhan.png)">
 Arkhan
 </span>
 </a>
 <a href="Artemis.html">
-<span class="championLink" style="background-image:url(images/portraits/artemis.png)">
+<span class="championLink" id="artemis" style="background-image:url(images/portraits/artemis.png)">
 Artemis
 </span>
 </a>
 <a href="Asharra.html">
-<span class="championLink" style="background-image:url(images/portraits/asharra.png)">
+<span class="championLink" id="asharra" style="background-image:url(images/portraits/asharra.png)">
 Asharra
 </span>
 </a>
 <a href="Azaka.html">
-<span class="championLink" style="background-image:url(images/portraits/azaka.png)">
+<span class="championLink" id="azaka" style="background-image:url(images/portraits/azaka.png)">
 Azaka
 </span>
 </a>
 <a href="Binwin.html">
-<span class="championLink" style="background-image:url(images/portraits/binwin.png)">
+<span class="championLink" id="binwin" style="background-image:url(images/portraits/binwin.png)">
 Binwin
 </span>
 </a>
 </span>
 <span class="championLinkColumn">
 <a href="Birdsong.html">
-<span class="championLink" style="background-image:url(images/portraits/birdsong.png)">
+<span class="championLink" id="birdsong" style="background-image:url(images/portraits/birdsong.png)">
 Birdsong
 </span>
 </a>
 <a href="Black Viper.html">
-<span class="championLink" style="background-image:url(images/portraits/blackviper.png)">
+<span class="championLink" id="blackviper" style="background-image:url(images/portraits/blackviper.png)">
 Black Viper
 </span>
 </a>
 <a href="Catti-brie.html">
-<span class="championLink" style="background-image:url(images/portraits/catti-brie.png)">
+<span class="championLink" id="catti-brie" style="background-image:url(images/portraits/catti-brie.png)">
 Catti-brie
 </span>
 </a>
@@ -81,83 +81,83 @@ D'hani
 </span>
 </a>
 <a href="Delina.html">
-<span class="championLink" style="background-image:url(images/portraits/delina.png)">
+<span class="championLink" id="delina" style="background-image:url(images/portraits/delina.png)">
 Delina
 </span>
 </a>
 </span>
 <span class="championLinkColumn">
 <a href="Dhadius.html">
-<span class="championLink" style="background-image:url(images/portraits/dhadius.png)">
+<span class="championLink" id="dhadius" style="background-image:url(images/portraits/dhadius.png)">
 Dhadius
 </span>
 </a>
 <a href="Drizzt.html">
-<span class="championLink" style="background-image:url(images/portraits/drizzt.png)">
+<span class="championLink" id="drizzt" style="background-image:url(images/portraits/drizzt.png)">
 Drizzt
 </span>
 </a>
 <a href="Farideh.html">
-<span class="championLink" style="background-image:url(images/portraits/farideh.png)">
+<span class="championLink" id="farideh" style="background-image:url(images/portraits/farideh.png)">
 Farideh
 </span>
 </a>
 <a href="Fen.html">
-<span class="championLink" style="background-image:url(images/portraits/fen.png)">
+<span class="championLink" id="fen" style="background-image:url(images/portraits/fen.png)">
 Fen
 </span>
 </a>
 <a href="Grimm.html">
-<span class="championLink" style="background-image:url(images/portraits/b&g.png)">
+<span class="championLink" id="b&g" style="background-image:url(images/portraits/b&g.png)">
 Grimm
 </span>
 </a>
 </span>
 <span class="championLinkColumn">
 <a href="Gromma.html">
-<span class="championLink" style="background-image:url(images/portraits/gromma.png)">
+<span class="championLink" id="gromma" style="background-image:url(images/portraits/gromma.png)">
 Gromma
 </span>
 </a>
 <a href="Ishi.html">
-<span class="championLink" style="background-image:url(images/portraits/ishi.png)">
+<span class="championLink" id="ishi" style="background-image:url(images/portraits/ishi.png)">
 Ishi
 </span>
 </a>
 <a href="Jaheira.html">
-<span class="championLink" style="background-image:url(images/portraits/jaheira.png)">
+<span class="championLink" id="jaheira" style="background-image:url(images/portraits/jaheira.png)">
 Jaheira
 </span>
 </a>
 <a href="Jamilah.html">
-<span class="championLink" style="background-image:url(images/portraits/jamilah.png)">
+<span class="championLink" id="jamilah" style="background-image:url(images/portraits/jamilah.png)">
 Jamilah
 </span>
 </a>
 <a href="Jarlaxle.html">
-<span class="championLink" style="background-image:url(images/portraits/jarlaxle.png)">
+<span class="championLink" id="jarlaxle" style="background-image:url(images/portraits/jarlaxle.png)">
 Jarlaxle
 </span>
 </a>
 </span>
 <span class="championLinkColumn">
 <a href="Jim.html">
-<span class="championLink" style="background-image:url(images/portraits/jim.png)">
+<span class="championLink" id="jim" style="background-image:url(images/portraits/jim.png)">
 Jim
 </span>
 </a>
 <a href="Kent.html">
-<span class="championLink" style="background-image:url(images/portraits/kent.png)">
+<span class="championLink" id="kent" style="background-image:url(images/portraits/kent.png)">
 Kent
 </span>
 </a>
 <a href="Krond.html">
-<span class="championLink" style="background-image:url(images/portraits/krond.png)">
+<span class="championLink" id="krond" style="background-image:url(images/portraits/krond.png)">
 Krond
 </span>
 </a>
 <a href="Krux.html">
-<span class="championLink" style="background-image:url(images/portraits/krux.png)">
+<span class="championLink" id="krux" style="background-image:url(images/portraits/krux.png)">
 Krux
 </span>
 </a>
@@ -169,29 +169,29 @@ Lae'zel
 </span>
 <span class="championLinkColumn">
 <a href="Lucius.html">
-<span class="championLink" style="background-image:url(images/portraits/lucius.png)">
+<span class="championLink" id="lucius" style="background-image:url(images/portraits/lucius.png)">
 Lucius
 </span>
 </a>
 <a href="Makos.html">
-<span class="championLink" style="background-image:url(images/portraits/makos.png)">
+<span class="championLink" id="makos" style="background-image:url(images/portraits/makos.png)">
 Makos
 </span>
 </a>
 <a href="Minsc.html">
-<span class="championLink" style="background-image:url(images/portraits/minsc.png)">
+<span class="championLink" id="minsc" style="background-image:url(images/portraits/minsc.png)">
 Minsc
 </span>
 </a>
 <a href="NERDS.html">
-<span class="championLink" style="background-image:url(images/portraits/nerds.png)">
+<span class="championLink" id="nerds" style="background-image:url(images/portraits/nerds.png)">
 NERDS
 </span>
 </a>
 </span>
 <span class="championLinkColumn">
 <a href="Nahara.html">
-<span class="championLink" style="background-image:url(images/portraits/nahara.png)">
+<span class="championLink" id="nahara" style="background-image:url(images/portraits/nahara.png)">
 Nahara
 </span>
 </a>
@@ -201,56 +201,56 @@ Nixie
 </span>
 </a>
 <a href="Nrakk.html">
-<span class="championLink" style="background-image:url(images/portraits/nrakk.png)">
+<span class="championLink" id="nrakk" style="background-image:url(images/portraits/nrakk.png)">
 Nrakk
 </span>
 </a>
 <a href="Orisha.html">
-<span class="championLink" style="background-image:url(images/portraits/orisha.png)">
+<span class="championLink" id="orisha" style="background-image:url(images/portraits/orisha.png)">
 Orisha
 </span>
 </a>
 </span>
 <span class="championLinkColumn">
 <a href="Prudence.html">
-<span class="championLink" style="background-image:url(images/portraits/prudence.png)">
+<span class="championLink" id="prudence" style="background-image:url(images/portraits/prudence.png)">
 Prudence
 </span>
 </a>
 <a href="Rosie.html">
-<span class="championLink" style="background-image:url(images/portraits/rosie.png)">
+<span class="championLink" id="rosie" style="background-image:url(images/portraits/rosie.png)">
 Rosie
 </span>
 </a>
 <a href="Strix.html">
-<span class="championLink" style="background-image:url(images/portraits/strix.png)">
+<span class="championLink" id="strix" style="background-image:url(images/portraits/strix.png)">
 Strix
 </span>
 </a>
 <a href="Torogar.html">
-<span class="championLink" style="background-image:url(images/portraits/torogar.png)">
+<span class="championLink" id="torogar" style="background-image:url(images/portraits/torogar.png)">
 Torogar
 </span>
 </a>
 </span>
 <span class="championLinkColumn">
 <a href="Warden.html">
-<span class="championLink" style="background-image:url(images/portraits/warden.png)">
+<span class="championLink" id="warden" style="background-image:url(images/portraits/warden.png)">
 Warden
 </span>
 </a>
 <a href="Warduke.html">
-<span class="championLink" style="background-image:url(images/portraits/warduke.png)">
+<span class="championLink" id="warduke" style="background-image:url(images/portraits/warduke.png)">
 Warduke
 </span>
 </a>
 <a href="Yorven.html">
-<span class="championLink" style="background-image:url(images/portraits/yorven.png)">
+<span class="championLink" id="yorven" style="background-image:url(images/portraits/yorven.png)">
 Yorven
 </span>
 </a>
 <a href="Zorbu.html">
-<span class="championLink" style="background-image:url(images/portraits/zorbu.png)">
+<span class="championLink" id="zorbu" style="background-image:url(images/portraits/zorbu.png)">
 Zorbu
 </span>
 </a>
@@ -269,6 +269,11 @@ function nameEeggs() {
     var laezel = "Laezel";
     laezel = ins(laezel, randInt(1,5), "'");
     document.getElementById("laezel").innerHTML = laezel;
+    var totoro = "Torogar";
+    if (randInt(1,8) == 7) {
+        totoro = "Totoro";
+    }
+    document.getElementById("torogar").innerHTML = totoro;
 }
 function nixieBlueIt() {
     if (randInt(1,4) == 4) {
