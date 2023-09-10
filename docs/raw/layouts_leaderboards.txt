@@ -50,7 +50,7 @@ tkzbSmwWg180UBfXvogZp,6,15,4.94e31,Emmote,Min Rarity: 0 Rares
 
 0CEq8FvgfWK36mDitydgP,1,2,8.96e05,UniQP,Min Supercharge: 2
 Kfym6fRfuKT0KiVAsLXG8,2,3,5.07e07,Emmote,Min Supercharge: 3
-RCk2kjf6Tpp8M6DE_g9Er,3,3,9.26e08,Emmote,Min Supercharge: 3
+RCk2kjf6Tpp8M6DE_g9Er,3,3,3.43e08,Emmote,Min Supercharge: 3
 iQFZgLbd4rC_6TcOYRrMa,4,4,1.59e12,UniQP,Min Supercharge: 4
 dQW_3sDcrQdLFwkGUUCm4,5,3,8.07e05,Emmote,Min Supercharge: 3
 lv6HGYAJqqqGart_Hqgam,6,4,4.49e12,Emmote,Min Supercharge: 4
