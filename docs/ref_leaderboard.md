@@ -348,7 +348,7 @@ These designs try to get at least one supercharged node while still retaining at
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/VQ5vhPeWKAd8s7AevDNKE" target="_blank">
+    <a href="https://ic.byteglow.com/modron/RCk2kjf6Tpp8M6DE_g9Er" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -358,7 +358,7 @@ These designs try to get at least one supercharged node while still retaining at
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/VQ5vhPeWKAd8s7AevDNKE
+            https://ic.byteglow.com/modron/RCk2kjf6Tpp8M6DE_g9Er
         </span>
         <span class="modronRecord">
             3
