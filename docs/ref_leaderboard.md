@@ -388,17 +388,17 @@ These designs try to get at least one supercharged node while still retaining at
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/iRMyLNEN7_KGziXTQgwwk" target="_blank">
+    <a href="https://ic.byteglow.com/modron/iQFZgLbd4rC_6TcOYRrMa" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronRecordHolders">
-            Emmote
+            UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/iRMyLNEN7_KGziXTQgwwk
+            https://ic.byteglow.com/modron/iQFZgLbd4rC_6TcOYRrMa
         </span>
         <span class="modronRecord">
             4

@@ -1800,12 +1800,12 @@
     {
         "coreLevel": 4,
         "championIds": [],
-        "dps": 1.65E+12,
+        "dps": 1.59E+12,
         "comment": "Min Supercharge: 4",
         "coreId": 4,
         "type": "reference",
-        "layoutId": "iRMyLNEN7_KGziXTQgwwk",
-        "authors": ["Emmote"]
+        "layoutId": "iQFZgLbd4rC_6TcOYRrMa",
+        "authors": ["UniQP"]
     },
     {
         "coreLevel": 3,
