@@ -368,26 +368,6 @@ These designs try to get at least one supercharged node while still retaining at
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dQW_3sDcrQdLFwkGUUCm4" target="_blank">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIcon">
-            ![Aerois Core](images/core_5_aerois.png)Aerois
-        </span>
-        <span class="modronRecordHolders">
-            Emmote
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/dQW_3sDcrQdLFwkGUUCm4
-        </span>
-        <span class="modronRecord">
-            3
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/iQFZgLbd4rC_6TcOYRrMa" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
@@ -402,6 +382,26 @@ These designs try to get at least one supercharged node while still retaining at
         </span>
         <span class="modronRecord">
             4
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dQW_3sDcrQdLFwkGUUCm4" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Aerois Core](images/core_5_aerois.png)Aerois
+        </span>
+        <span class="modronRecordHolders">
+            Emmote
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dQW_3sDcrQdLFwkGUUCm4
+        </span>
+        <span class="modronRecord">
+            3
         </span>
     </span>
 {::nomarkdown}
