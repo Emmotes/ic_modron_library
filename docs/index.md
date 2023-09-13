@@ -617,6 +617,24 @@ The Modest core has the highest gold bonus of 2.19e06% when fully epic - while t
 | ![Strong Core](images/core_2_strong.png) | Strong | 3.78e05% |
 | ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 1.19e05% |
 
+## Where is the best place to get modron pipes?
+
+The Modron Component Chests are - currently - the only source of modron pipes. You get 1 each time you level up a modron core - to a maximum level of 15. You can also get up to 4 each week by purchasing 1 from each patron's shop for 5,000 currency - and you should strive to unlock the patrons and get enough influence to be doing that ASAP.
+
+Other places to get component chests are from Seasons or Emergences - and the occasional giveaway. Also - the final variant in both Tomb of Annihilation and Waterdeep: Dragonheist campaigns each give 5 for completing them.
+
+## What should I spend Upgrade Components on?
+
+Nothing. Save them.
+
+The only time you should start spending components is when you have a handful of blue multi-in T pipes that need to be purple on fully supercharged layouts to get you to optimal. If you spend them before that - you could end up with too many of the upgraded pipe and not enough of another kind that you need and no more upgrade components to spend.
+
+## Is it worth dismantling pipes?
+
+No! Never dismantle pipes to get upgrade components! Ever! Don't even think about it! I cannot stress enough that dismantling pipes is a terrible idea!
+
+The conversion rate to upgrade components and the cost to upgrade pipes are absolutely terrible. You also never know when you might need that pipe you're thinking of dismantling.
+
 ## Why don't you pipe gold nodes?
 
 Using them often lowers flow to the damage nodes and damage is the whole point of supercharging. If you need gold then it's best to load a different layout temporarily or use a different core.
