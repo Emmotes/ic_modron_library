@@ -10,13 +10,15 @@ If you can improve any of the cores below or have ideas for types of cores that 
 * [Achievement Cores](#achievement-cores)
 * [Fast Cores](#fast-cores)
 * [Reference Designs](#reference-designs)
-* [Aerois Core Damage Tables](#aerois-core-damage-tables)
-* [Unaffiliated Core Damage Tables](#unaffiliated-core-damage-tables)
+* [Core Damage Tables](#core-damage-tables)
 * [FAQs](#faqs)
 * [Credits](#credits)
 * [Feedback](#feedback)
 
-<br />
+{::nomarkdown}
+<span class="fancyBorder">
+{:/nomarkdown}
+
 # Damage Cores
 
 These cores are the current best-known supercharge designs and essentially use unlimited pipes. Most people don't have enough to copy these layouts in their entirety - so some improvisation will be required.
@@ -285,7 +287,14 @@ nixieBlueIt();
 </script>
 </span>
 
-<br />
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
+{::nomarkdown}
+<span class="fancyBorder">
+{:/nomarkdown}
+
 # Achievement Cores
 
 These cores have been designed specifically to get the achievements and should not be used for damage - you will definitely be able to do better. We've also attempted to design these using the minimal pipes necessary to get the achievements - though of course depending on the pipes you have available improvisation will likely be required.
@@ -490,7 +499,15 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 {:/nomarkdown}
 </span>
 
-<br />
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
+{::nomarkdown}
+<span class="fancyBorder">
+{:/nomarkdown}
+
 # Fast Cores
 
 I have only linked the Fast core on Nahara's page because it simply cannot compete for most champions. It will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have some supercharged designs if you really want to use it.
@@ -536,8 +553,15 @@ The Fully Supercharged design - as its name implies - has linked every single no
 
 The "Budget" Supercharged design is a modification of the Fully Supercharged design - and uses fewer cross pipes to get similar levels of damage. It's only slightly easier to build (hence the quotation marks). The main benefit of this layout over the Fully Supercharged design is that it uses a slightly more forgiving flow-path on the right-hand side - which is useful if you don't have all the necessary pipes and need to downgrade sections.
 
-<br />
-# Reference Designs
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
+{::nomarkdown}
+<span class="fancyBorder">
+{:/nomarkdown}
+
+# Reference Cores
 
 The vast majority of these designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide. Whereas the damage cores above are all supercharged - these mostly contain general Full Epic layouts for levels 1 through 15 for their respective core.
 
@@ -549,10 +573,21 @@ The vast majority of these designs were built almost exclusively by `Retaki` in 
 * [Unaffiliated Core](ref_unaffiliated.md)
 * [Unofficial Leaderboards](ref_leaderboard.md)
 
-<br />
-# Aerois Core Damage Tables
+{::nomarkdown}
+</span>
+{:/nomarkdown}
 
-The damage of the Aerois core depends on whether you are using Lucius as your chosen DPS and how many other Heroes of Aerois champions you are using. Below is a table detailing those numbers.
+{::nomarkdown}
+<span class="fancyBorder">
+{:/nomarkdown}
+
+# Core Damage Tables
+
+Some modron cores have damage that is variable based on the composition of the champions in the formation. Below are some tables that detail the damage each one can provide at most based on the composition.
+
+## Aerois Core
+
+The damage of the Aerois core depends on whether you are using Lucius as your chosen DPS and how many other Heroes of Aerois champions you are using.
 
 *Note: These tables assume 500% supercharge on all superchargeable nodes.*
 
@@ -566,10 +601,9 @@ As you can see - the damage falls off rapidly when you are not using Lucius or m
 | 2 | 3.09e41% |   | 1 | 3.76e31% |
 | 1 | 7.91e35% |   | 0 | 6.02e28% |
 
-<br />
-# Unaffiliated Core Damage Tables
+## Unaffiliated Core
 
-The damage of the Unaffiliated core depends on whether you are using an unaffiliated champion as your chosen DPS and how many other unaffiliated champions are in the formation. Below is a table detailing those numbers.
+The damage of the Unaffiliated core depends on whether you are using an unaffiliated champion as your chosen DPS and how many other unaffiliated champions are in the formation.
 
 *Note: These tables assume 500% supercharge on all superchargeable nodes.*
 
@@ -588,7 +622,14 @@ As you can see - the damage is really poor for affiliated champions. As such - t
 | 2 | 1.74e50% |   | 1 | 1.39e35% |
 | 1 | 1.15e49% |   | 0 | 8.01e28% |
 
-<br />
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
+{::nomarkdown}
+<span class="fancyBorder">
+{:/nomarkdown}
+
 # FAQs
 
 Just a list of frequently asked questions. If you have a question - feel free to DM me on Discord.
@@ -643,7 +684,14 @@ Using them often lowers flow to the damage nodes and damage is the whole point o
 
 If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you're willing to lose damage because of it.
 
-<br />
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
+{::nomarkdown}
+<span class="fancyBorder">
+{:/nomarkdown}
+
 # Credits
 
 Getting these highly optimised designs hasn't been a one person job. It's been a huge community effort with a lot of back-and-forth of improvements between many people.
@@ -661,12 +709,25 @@ Also a big thank you to `Uffdah` for the modron tool on Byteglow.
 
 If you improve any of the designs in this guide - you'll end up on this list too (unless you specifically ask me otherwise).
 
-<br />
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
+{::nomarkdown}
+<span class="fancyBorder">
+{:/nomarkdown}
+
 # Feedback
 
 Please do feel free to contact me via a DM on the Discord if you can think of anything that might improve this guide. I'm `emmote` - the one with the Prudence avatar.
 
 I might not always agree with ideas offered - but I'll always read them and give them some thought.
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
+<br />
 
 [Back to Top](#top)
 

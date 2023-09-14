@@ -182,3 +182,14 @@ code{
 	margin-left: 5px;
 	color: #F0E7D5;
 }
+.fancyBorder {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	max-width: 848px;
+	margin-top: 30px;
+	padding: 12px 15px 0px 20px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: #1a1a1a;
+}
