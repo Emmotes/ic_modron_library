@@ -9,7 +9,7 @@ If you can improve any of the cores below or have ideas for types of cores that 
 * [Damage Cores](#damage-cores)
 * [Achievement Cores](#achievement-cores)
 * [Fast Cores](#fast-cores)
-* [Reference Designs](#reference-designs)
+* [Reference Cores](#reference-designs)
 * [Core Damage Tables](#core-damage-tables)
 * [FAQs](#faqs)
 * [Credits](#credits)
