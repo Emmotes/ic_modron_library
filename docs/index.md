@@ -4,22 +4,15 @@ This is designed to be a library where you can find more or less any modron core
 
 If you can improve any of the cores below or have ideas for types of cores that should be added - please do DM me on Discord. Add byteglow links as necessary.
 
-## Index
-
-* [Damage Cores](#damage-cores)
-* [Achievement Cores](#achievement-cores)
-* [Fast Cores](#fast-cores)
-* [Reference Cores](#reference-cores)
-* [Core Damage Tables](#core-damage-tables)
-* [FAQs](#faqs)
-* [Credits](#credits)
-* [Feedback](#feedback)
-
 {::nomarkdown}
-<span class="fancyBorder">
+<div class="tabs">
 {:/nomarkdown}
 
-# Damage Cores
+{::nomarkdown}
+<input type="radio" class="tabsRadio" name="modronicaTabs" id="damageTab" checked><label for="damageTab" class="tabsLabel">Damage</label><div class="tabsContent">
+{:/nomarkdown}
+
+# Supercharged Damage Designs
 
 These cores are the current best-known supercharge designs and essentially use unlimited pipes. Most people don't have enough to copy these layouts in their entirety - so some improvisation will be required.
 
@@ -288,14 +281,14 @@ nixieBlueIt();
 </span>
 
 {::nomarkdown}
-</span>
+</div>
 {:/nomarkdown}
 
 {::nomarkdown}
-<span class="fancyBorder">
+<input type="radio" class="tabsRadio" name="modronicaTabs" id="achievementTab"><label for="achievementTab" class="tabsLabel">Achievements</label><div class="tabsContent">
 {:/nomarkdown}
 
-# Achievement Cores
+# Achievement Designs
 
 These cores have been designed specifically to get the achievements and should not be used for damage - you will definitely be able to do better. We've also attempted to design these using the minimal pipes necessary to get the achievements - though of course depending on the pipes you have available improvisation will likely be required.
 
@@ -501,16 +494,16 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 
 
 {::nomarkdown}
-</span>
+</div>
 {:/nomarkdown}
 
 {::nomarkdown}
-<span class="fancyBorder">
+<input type="radio" class="tabsRadio" name="modronicaTabs" id="fastTab"><label for="fastTab" class="tabsLabel">Fast Cores</label><div class="tabsContent">
 {:/nomarkdown}
 
-# Fast Cores
+# Fast Core Layouts
 
-I have only linked the Fast core on Nahara's page because it simply cannot compete for most champions. It will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have some supercharged designs if you really want to use it.
+I have only linked the Fast core on Nahara's damage page because it simply cannot compete for most champions. It will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have some supercharged designs if you really want to use it.
 
 <span class="modronColumn">
 {::nomarkdown}
@@ -554,16 +547,18 @@ The Fully Supercharged design - as its name implies - has linked every single no
 The "Budget" Supercharged design is a modification of the Fully Supercharged design - and uses fewer cross pipes to get similar levels of damage. It's only slightly easier to build (hence the quotation marks). The main benefit of this layout over the Fully Supercharged design is that it uses a slightly more forgiving flow-path on the right-hand side - which is useful if you don't have all the necessary pipes and need to downgrade sections.
 
 {::nomarkdown}
-</span>
+</div>
 {:/nomarkdown}
 
 {::nomarkdown}
-<span class="fancyBorder">
+<input type="radio" class="tabsRadio" name="modronicaTabs" id="refTab"><label for="refTab" class="tabsLabel">Lvl 1-15</label><div class="tabsContent">
 {:/nomarkdown}
 
-# Reference Cores
+# Level 1-15 Reference Designs
 
-The vast majority of these designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide. Whereas the damage cores above are all supercharged - these mostly contain general Full Epic layouts for levels 1 through 15 for their respective core.
+These reference layouts contain full epic designs for levels 1 through 15. They are to be used as inspiration when levelling up your modron cores.
+
+These designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide.
 
 * [Modest Core](ref_modest.md)
 * [Strong Core](ref_strong.md)
@@ -574,14 +569,14 @@ The vast majority of these designs were built almost exclusively by `Retaki` in 
 * [Unofficial Leaderboards](ref_leaderboard.md)
 
 {::nomarkdown}
-</span>
+</div>
 {:/nomarkdown}
 
 {::nomarkdown}
-<span class="fancyBorder">
+<input type="radio" class="tabsRadio" name="modronicaTabs" id="tablesTab"><label for="tablesTab" class="tabsLabel">Variable Info</label><div class="tabsContent">
 {:/nomarkdown}
 
-# Core Damage Tables
+# Variable Core Damage Information
 
 Some modron cores have damage that is variable based on the composition of the champions in the formation. Below are some tables that detail the damage each one can provide at most based on the composition.
 
@@ -623,11 +618,11 @@ As you can see - the damage is really poor for affiliated champions. As such - t
 | 1 | 1.15e49% |   | 0 | 8.01e28% |
 
 {::nomarkdown}
-</span>
+</div>
 {:/nomarkdown}
 
 {::nomarkdown}
-<span class="fancyBorder">
+<input type="radio" class="tabsRadio" name="modronicaTabs" id="faqTab"><label for="faqTab" class="tabsLabel">FAQs</label><div class="tabsContent">
 {:/nomarkdown}
 
 # FAQs
@@ -638,12 +633,12 @@ Just a list of frequently asked questions. If you have a question - feel free to
 
 | Icon | Name | Id | Source |
 |---|---|---|---|
-| ![Modest Core](images/core_1_modest.png) | `Modest` | 1 | Split the Party 1 (2+ champions in all seats) |
-| ![Strong Core](images/core_2_strong.png) | `Strong` | 2 | 500,000 Gems |
-| ![Fast Core](images/core_3_fast.png) | `Fast` | 3 | Split the Party 2 (3+ champions in all seats) |
-| ![Magic Core](images/core_4_magic.png) | `Magic` | 4 | Split the Party 3 (4+ champions in all seats) |
-| ![Aerois Core](images/core_5_aerois.png) | `Aerois` | 5 | Season 1 / Wild Offers |
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | `Unaffiliated` | 6 | Season 3 |
+| ![Modest Core](images/core_1_modest.png) | Modest | 1 | Split the Party 1 (2+ champions in all seats) |
+| ![Strong Core](images/core_2_strong.png) | Strong | 2 | 500,000 Gems |
+| ![Fast Core](images/core_3_fast.png) | Fast | 3 | Split the Party 2 (3+ champions in all seats) |
+| ![Magic Core](images/core_4_magic.png) | Magic | 4 | Split the Party 3 (4+ champions in all seats) |
+| ![Aerois Core](images/core_5_aerois.png) | Aerois | 5 | Season 1 / Wild Offers |
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 6 | Season 3 |
 
 ## Which is the best gold find core?
 
@@ -685,11 +680,11 @@ Using them often lowers flow to the damage nodes and damage is the whole point o
 If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you're willing to lose damage because of it.
 
 {::nomarkdown}
-</span>
+</div>
 {:/nomarkdown}
 
 {::nomarkdown}
-<span class="fancyBorder">
+<input type="radio" class="tabsRadio" name="modronicaTabs" id="creditsTab"><label for="creditsTab" class="tabsLabel">Credits</label><div class="tabsContent">
 {:/nomarkdown}
 
 # Credits
@@ -709,14 +704,6 @@ Also a big thank you to `Uffdah` for the modron tool on Byteglow.
 
 If you improve any of the designs in this guide - you'll end up on this list too (unless you specifically ask me otherwise).
 
-{::nomarkdown}
-</span>
-{:/nomarkdown}
-
-{::nomarkdown}
-<span class="fancyBorder">
-{:/nomarkdown}
-
 # Feedback
 
 Please do feel free to contact me via a DM on the Discord if you can think of anything that might improve this guide. I'm `emmote` - the one with the Prudence avatar.
@@ -724,7 +711,11 @@ Please do feel free to contact me via a DM on the Discord if you can think of an
 I might not always agree with ideas offered - but I'll always read them and give them some thought.
 
 {::nomarkdown}
-</span>
+</div>
+{:/nomarkdown}
+
+{::nomarkdown}
+</div>
 {:/nomarkdown}
 
 <br />
