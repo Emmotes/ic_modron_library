@@ -90,6 +90,8 @@ code{
 }
 .modronRowHeader,.modronRowShortHeader {
 	border-bottom: 4px ridge black;
+	border-radius: 10px 10px 0 0;
+	height: 30px;
 }
 .modronRow:hover,.modronRowShort:hover {
 	border: 1px solid #FFEB9B;
