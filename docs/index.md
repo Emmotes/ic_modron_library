@@ -470,6 +470,28 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 {:/nomarkdown}
 
 {::nomarkdown}
+<input onClick="setHash('lvlsTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="lvlsTab"><label for="lvlsTab" class="tabsLabel">Lvl 1-15</label><div class="tabsContent">
+{:/nomarkdown}
+
+# Level 1-15 Reference Designs
+
+These reference layouts contain full epic designs for levels 1 through 15. They are to be used as inspiration when levelling up your modron cores.
+
+These designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide.
+
+* [Modest Core](ref_modest.md)
+* [Strong Core](ref_strong.md)
+* [Fast Core](ref_fast.md)
+* [Magic Core](ref_magic.md)
+* [Aerois Core](ref_aerois.md)
+* [Unaffiliated Core](ref_unaffiliated.md)
+* [Unofficial Leaderboards](ref_leaderboard.md)
+
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+
+{::nomarkdown}
 <input onClick="setHash('fastTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="fastTab"><label for="fastTab" class="tabsLabel">Fast Cores</label><div class="tabsContent">
 {:/nomarkdown}
 
@@ -517,28 +539,6 @@ I have only linked the Fast core on Nahara's damage page because it simply canno
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core's primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn't use gold nodes to possibly increase damage further.
 
 The "Budget" Supercharged design is a modification of the Fully Supercharged design - and uses fewer cross pipes to get similar levels of damage. It's only slightly easier to build (hence the quotation marks). The main benefit of this layout over the Fully Supercharged design is that it uses a slightly more forgiving flow-path on the right-hand side - which is useful if you don't have all the necessary pipes and need to downgrade sections.
-
-{::nomarkdown}
-</div>
-{:/nomarkdown}
-
-{::nomarkdown}
-<input onClick="setHash('lvlsTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="lvlsTab"><label for="lvlsTab" class="tabsLabel">Lvl 1-15</label><div class="tabsContent">
-{:/nomarkdown}
-
-# Level 1-15 Reference Designs
-
-These reference layouts contain full epic designs for levels 1 through 15. They are to be used as inspiration when levelling up your modron cores.
-
-These designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide.
-
-* [Modest Core](ref_modest.md)
-* [Strong Core](ref_strong.md)
-* [Fast Core](ref_fast.md)
-* [Magic Core](ref_magic.md)
-* [Aerois Core](ref_aerois.md)
-* [Unaffiliated Core](ref_unaffiliated.md)
-* [Unofficial Leaderboards](ref_leaderboard.md)
 
 {::nomarkdown}
 </div>
