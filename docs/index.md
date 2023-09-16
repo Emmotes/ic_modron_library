@@ -9,7 +9,7 @@ If you can improve any of the cores below or have ideas for types of cores that 
 {:/nomarkdown}
 
 {::nomarkdown}
-<input type="radio" class="tabsRadio" name="modronicaTabs" id="damageTab" checked><label for="damageTab" class="tabsLabel">Damage</label><div class="tabsContent">
+<input onClick="setHash('damageTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="damageTab" checked><label for="damageTab" class="tabsLabel">Damage</label><div class="tabsContent">
 {:/nomarkdown}
 
 # Supercharged Damage Designs
@@ -250,34 +250,6 @@ Zorbu
 </span>
 </a>
 </span>
-<script>
-function ins(str, index, value) {
-    return str.substr(0, index) + value + str.substr(index);
-}
-function randInt(min, max) {
-    return Math.floor(Math.random() * (max - min + 1) + min);
-}
-function nameEeggs() {
-    var dhani = "Dhani";
-    dhani = ins(dhani, randInt(1,4), "'");
-    document.getElementById("dhani").innerHTML = dhani;
-    var laezel = "Laezel";
-    laezel = ins(laezel, randInt(1,5), "'");
-    document.getElementById("laezel").innerHTML = laezel;
-    var totoro = "Torogar";
-    if (randInt(1,8) == 7) {
-        totoro = "Totoro";
-    }
-    document.getElementById("torogar").innerHTML = totoro;
-}
-function nixieBlueIt() {
-    if (randInt(1,4) == 4) {
-        document.getElementById("nixie").style.backgroundImage = "url(images/portraits/nixieBlue.png)";
-    }
-}
-nameEeggs();
-nixieBlueIt();
-</script>
 </span>
 
 {::nomarkdown}
@@ -285,7 +257,7 @@ nixieBlueIt();
 {:/nomarkdown}
 
 {::nomarkdown}
-<input type="radio" class="tabsRadio" name="modronicaTabs" id="achievementTab"><label for="achievementTab" class="tabsLabel">Achievements</label><div class="tabsContent">
+<input onClick="setHash('achievementsTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="achievementsTab"><label for="achievementsTab" class="tabsLabel">Achievements</label><div class="tabsContent">
 {:/nomarkdown}
 
 # Achievement Designs
@@ -498,7 +470,7 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 {:/nomarkdown}
 
 {::nomarkdown}
-<input type="radio" class="tabsRadio" name="modronicaTabs" id="fastTab"><label for="fastTab" class="tabsLabel">Fast Cores</label><div class="tabsContent">
+<input onClick="setHash('fastTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="fastTab"><label for="fastTab" class="tabsLabel">Fast Cores</label><div class="tabsContent">
 {:/nomarkdown}
 
 # Fast Core Layouts
@@ -551,7 +523,7 @@ The "Budget" Supercharged design is a modification of the Fully Supercharged des
 {:/nomarkdown}
 
 {::nomarkdown}
-<input type="radio" class="tabsRadio" name="modronicaTabs" id="refTab"><label for="refTab" class="tabsLabel">Lvl 1-15</label><div class="tabsContent">
+<input onClick="setHash('lvlsTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="lvlsTab"><label for="lvlsTab" class="tabsLabel">Lvl 1-15</label><div class="tabsContent">
 {:/nomarkdown}
 
 # Level 1-15 Reference Designs
@@ -573,7 +545,7 @@ These designs were built almost exclusively by `Retaki` in their [Modron Core Pi
 {:/nomarkdown}
 
 {::nomarkdown}
-<input type="radio" class="tabsRadio" name="modronicaTabs" id="tablesTab"><label for="tablesTab" class="tabsLabel">Variable Info</label><div class="tabsContent">
+<input onClick="setHash('variablesTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="variablesTab"><label for="variablesTab" class="tabsLabel">Variable Info</label><div class="tabsContent">
 {:/nomarkdown}
 
 # Variable Core Damage Information
@@ -622,7 +594,7 @@ As you can see - the damage is really poor for affiliated champions. As such - t
 {:/nomarkdown}
 
 {::nomarkdown}
-<input type="radio" class="tabsRadio" name="modronicaTabs" id="faqTab"><label for="faqTab" class="tabsLabel">FAQs</label><div class="tabsContent">
+<input onClick="setHash('faqsTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="faqsTab"><label for="faqsTab" class="tabsLabel">FAQs</label><div class="tabsContent">
 {:/nomarkdown}
 
 # FAQs
@@ -684,7 +656,7 @@ If you want less health and more damage then you're usually going to be much bet
 {:/nomarkdown}
 
 {::nomarkdown}
-<input type="radio" class="tabsRadio" name="modronicaTabs" id="creditsTab"><label for="creditsTab" class="tabsLabel">Credits</label><div class="tabsContent">
+<input onClick="setHash('creditsTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="creditsTab"><label for="creditsTab" class="tabsLabel">Credits</label><div class="tabsContent">
 {:/nomarkdown}
 
 # Credits
@@ -723,3 +695,5 @@ I might not always agree with ideas offered - but I'll always read them and give
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
+
+<script type="text/javascript" src="scripts/main.js"></script>
