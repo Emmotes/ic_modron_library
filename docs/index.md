@@ -495,7 +495,7 @@ These designs were built almost exclusively by `Retaki` in their [Modron Core Pi
 <input onClick="setHash('fastTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="fastTab"><label for="fastTab" class="tabsLabel">Fast Cores</label><div class="tabsContent">
 {:/nomarkdown}
 
-# Fast Core Layouts
+# Fast Core Supercharge Layouts
 
 I have only linked the Fast core on Nahara's damage page because it simply cannot compete for most champions. It will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have some supercharged designs if you really want to use it.
 
