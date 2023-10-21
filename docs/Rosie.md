@@ -17,17 +17,17 @@ Rosie is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r" target="_blank">
+    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/TX1H0Y2nx173iCfTXGn6r
+            https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
         </span>
         <span class="modronDamage">
-            3.83e45%
+            3.84e45%
         </span>
     </span>
 {::nomarkdown}

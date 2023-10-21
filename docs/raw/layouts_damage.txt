@@ -82,7 +82,7 @@ sFACCyODesgDN9vkKD3U3,3,3.38e32,Nahara,
 py0fM4EedKfIniT2SGw66,4,3.52e49,Nahara,
 1QAVPgKXTPpv6QyZmNM3l,4,1.71e49,Jim|Makos|Prudence|Strix,
 qeHJee7Hou-VGAQzaOonE,4,1.35e49,Krond,
-TX1H0Y2nx173iCfTXGn6r,4,3.83e45,Artemis|Drizzt|Rosie|Zorbu|Nrakk,Non-Magic Variant
+UFBP5fZasLTvqf_bkqfx5,4,3.84e45,Artemis|Drizzt|Rosie|Zorbu|Nrakk,Non-Magic Variant
 VWE8AGgjNEWfILkyr-Nfs,4,8.16e44,Dhadius,
 5qQI-zlqFfl1V2U9JUKC4,4,2.19e41,Birdsong|Black Viper|Catti-brie|Fen|Jarlaxle|Kent,Non-Magic Variant
 Y-dm5dFF-poiLBflC5f17,4,1.91e41,D'hani,Non-Magic Variant
