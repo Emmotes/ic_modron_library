@@ -68,14 +68,14 @@ Birdsong is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ" target="_blank">
+    <a href="https://ic.byteglow.com/modron/uPENWunG92vAP47zSu7uZ" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/gc_VGsRU1X_2_eI0BicHQ
+            https://ic.byteglow.com/modron/uPENWunG92vAP47zSu7uZ
         </span>
         <span class="modronDamage">
             3.73e40%

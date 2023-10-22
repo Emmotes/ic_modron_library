@@ -32,14 +32,14 @@ Minsc is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/j3JuHVefg7DnKYc9OuwAi" target="_blank">
+    <a href="https://ic.byteglow.com/modron/ZfqWE2FZDktWsEoi_xi9K" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/j3JuHVefg7DnKYc9OuwAi
+            https://ic.byteglow.com/modron/ZfqWE2FZDktWsEoi_xi9K
         </span>
         <span class="modronDamage">
             1.58e36%

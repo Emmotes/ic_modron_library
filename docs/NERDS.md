@@ -82,14 +82,14 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/smYCr8BklWmfvOFHziRtM" target="_blank">
+    <a href="https://ic.byteglow.com/modron/GAs3OcWHhKepgrt4wzHhy" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/smYCr8BklWmfvOFHziRtM
+            https://ic.byteglow.com/modron/GAs3OcWHhKepgrt4wzHhy
         </span>
         <span class="modronDamage">
             1.22e34%

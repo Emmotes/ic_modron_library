@@ -70,14 +70,14 @@ Nrakk is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms" target="_blank">
+    <a href="https://ic.byteglow.com/modron/DkOJBZGdGpnq4_K4yQont" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/uTZfFAg-gxxwsNNpV9Gms
+            https://ic.byteglow.com/modron/DkOJBZGdGpnq4_K4yQont
         </span>
         <span class="modronDamage">
             2.18e44%

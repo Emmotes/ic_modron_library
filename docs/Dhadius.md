@@ -65,14 +65,14 @@ Dhadius is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/77jM8zd3_f2N2CAE-k25K" target="_blank">
+    <a href="https://ic.byteglow.com/modron/O7kCMROWNQtSTcqCpprEe" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/77jM8zd3_f2N2CAE-k25K
+            https://ic.byteglow.com/modron/O7kCMROWNQtSTcqCpprEe
         </span>
         <span class="modronDamage">
             1.60e34%
