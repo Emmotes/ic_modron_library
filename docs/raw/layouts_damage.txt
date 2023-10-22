@@ -40,18 +40,18 @@ aAJ9uVjghhumjPzNRImWN,1,2.30e38,Commodore Krux|Lae'zel
 # ==== 2. Strong Core Layouts ====
 # ================================
 
-8tmvHKX-Vku1Im0L9s1w5,2,3.09e45,Artemis|Nrakk,
+b27B4yn_RIckxkXk_vYIp,2,3.09e45,Artemis|Nrakk,
 cIBAzt8UjhSQY1gj6MW1g,2,2.76e43,Lucius,Non-Melee Variant
-SI2dcRz6izSQIPntS9Q0U,2,2.43e43,Fen,
+DbTK3EhK9gEYs79rV5RON,2,2.43e43,Fen,
 qRYV43eYCC4HDxCzpQ05l,2,2.13e43,Krond,
 P6YiBeAtM8eZSSjm6hI9H,2,2.13e43,Jaheira|Jamilah|Yorven,
 JVe4p8EMGmubaD44vurWN,2,2.13e43,D'hani|Drizzt,
-Or2UPhs-QEQXN63yQKkeE,2,1.99e41,Catti-brie,Non-Melee Variant
-NlG6hux1O9m9xz5pvKjkM,2,1.99e41,Orisha,Non-Melee Variant
+kGCEUOXosTecWYEvHkJw2,2,1.99e41,Catti-brie,Non-Melee Variant
+LvBjECq5C6o4SKCXsmpMB,2,1.99e41,Orisha,Non-Melee Variant
 YAOozf3I19s8u67slvOgB,2,1.90e41,Delina|Farideh|Zorbu,Non-Melee Variant
 LmsDNTq4JAhPK0GcyaGci,2,1.90e41,Gromma,Non-Melee Variant
 zvdcSaO2hUNuyOIJntutX,2,1.68e41,Birdsong|Black Viper|Jarlaxle|Kent,
-Gp0kNQ05tR2pJtzgovLKe,2,1.68e41,Arkhan|Azaka|Torogar|Warden|Lae'zel,
+-jnUH55BSGiQ4QmDYXI36,2,1.68e41,Arkhan|Azaka|Torogar|Warden|Lae'zel,
 GYA9TYFSfcUnlfvbWr811,2,1.47e41,Rosie,
 2l93tt9KR1OBgSEtNVBPC,2,1.47e41,Ishi,
 clGSazYoxokx7hljUdygz,2,1.37e39,Prudence,Non-Melee Variant
@@ -84,7 +84,7 @@ py0fM4EedKfIniT2SGw66,4,3.52e49,Nahara,
 qeHJee7Hou-VGAQzaOonE,4,1.35e49,Krond,
 UFBP5fZasLTvqf_bkqfx5,4,3.84e45,Artemis|Drizzt|Rosie|Zorbu|Nrakk,Non-Magic Variant
 VWE8AGgjNEWfILkyr-Nfs,4,8.16e44,Dhadius,
-5qQI-zlqFfl1V2U9JUKC4,4,2.19e41,Birdsong|Black Viper|Catti-brie|Fen|Jarlaxle|Kent,Non-Magic Variant
+1GTgb0TcV1rE5D0W0Uoyj,4,2.19e41,Birdsong|Black Viper|Catti-brie|Fen|Jarlaxle|Kent,Non-Magic Variant
 Y-dm5dFF-poiLBflC5f17,4,1.91e41,D'hani,Non-Magic Variant
 c23hOzJAH6rdvgsf5yKeZ,4,1.82e41,Ishi|Jaheira|Jamilah|Yorven,Non-Magic Variant
 umP6sO2p9qV1JfI3m7abQ,4,7.96e40,NERDS,

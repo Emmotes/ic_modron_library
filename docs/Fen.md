@@ -18,14 +18,14 @@ Fen is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/SI2dcRz6izSQIPntS9Q0U" target="_blank">
+    <a href="https://ic.byteglow.com/modron/DbTK3EhK9gEYs79rV5RON" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/SI2dcRz6izSQIPntS9Q0U
+            https://ic.byteglow.com/modron/DbTK3EhK9gEYs79rV5RON
         </span>
         <span class="modronDamage">
             2.43e43%
@@ -52,14 +52,14 @@ Fen is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4" target="_blank">
+    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4
+            https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj
         </span>
         <span class="modronDamage">
             2.19e41%

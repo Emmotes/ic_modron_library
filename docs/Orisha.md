@@ -52,14 +52,14 @@ Orisha is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/NlG6hux1O9m9xz5pvKjkM" target="_blank">
+    <a href="https://ic.byteglow.com/modron/LvBjECq5C6o4SKCXsmpMB" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/NlG6hux1O9m9xz5pvKjkM
+            https://ic.byteglow.com/modron/LvBjECq5C6o4SKCXsmpMB
         </span>
         <span class="modronDamage">
             1.99e41%

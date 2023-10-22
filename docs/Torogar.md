@@ -17,14 +17,14 @@ Torogar is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe" target="_blank">
+    <a href="https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/Gp0kNQ05tR2pJtzgovLKe
+            https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36
         </span>
         <span class="modronDamage">
             1.68e41%

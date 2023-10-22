@@ -35,14 +35,14 @@ Catti-brie is a ranged champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4" target="_blank">
+    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/5qQI-zlqFfl1V2U9JUKC4
+            https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj
         </span>
         <span class="modronDamage">
             2.19e41%
@@ -52,14 +52,14 @@ Catti-brie is a ranged champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Or2UPhs-QEQXN63yQKkeE" target="_blank">
+    <a href="https://ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/Or2UPhs-QEQXN63yQKkeE
+            https://ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2
         </span>
         <span class="modronDamage">
             1.99e41%
