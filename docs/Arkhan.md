@@ -17,7 +17,7 @@ Arkhan is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36" target="_blank">
+    <a href="https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -34,7 +34,7 @@ Arkhan is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj" target="_blank">
+    <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -50,11 +50,26 @@ Arkhan is a melee champion.
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt" target="_blank" buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt
+        </span>
+        <span class="modronDamage">
+            1.04e37%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
-The listed cores are all similar enough in damage for Arkhan that you should use whichever you have the more favourable pipes for.
-
-The Magic core has not been included because it would be missing too many nodes to be a viable choice.
+The Strong and Modest cores are far enough ahead of the Magic (Non-Magic Variant) core that they are the best ones to use for Arkhan. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
 [Back to Top](#top)
 

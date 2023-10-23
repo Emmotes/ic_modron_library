@@ -16,7 +16,7 @@ Grimm is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -33,7 +33,58 @@ Grimm is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh" target="_blank">
+    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank" buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj
+        </span>
+        <span class="modronDamage">
+            2.19e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/DjhjKzreH_1MmsDWLg6hs" target="_blank" buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/DjhjKzreH_1MmsDWLg6hs
+        </span>
+        <span class="modronDamage">
+            1.68e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/yWqFzHx5bvXJe990YOTjT" target="_blank" buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/yWqFzHx5bvXJe990YOTjT
+        </span>
+        <span class="modronDamage">
+            3.05e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -50,7 +101,7 @@ Grimm is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL" target="_blank">
+    <a href="https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -66,11 +117,26 @@ Grimm is a melee champion.
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt" target="_blank" buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt
+        </span>
+        <span class="modronDamage">
+            1.04e37%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Grimm.
-
-The Magic core has not been included because it would be missing too many nodes to be a viable choice.
 
 Note that the damage of the Unaffiliated core varies depending on the number of unaffiliated champions in the formation. The damage numbers on the layout above account for just 1 (Grimm only). For a specific breakdown of how the core fares with more unaffiliated champions - check the table below.
 

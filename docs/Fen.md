@@ -18,7 +18,7 @@ Fen is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/DbTK3EhK9gEYs79rV5RON" target="_blank">
+    <a href="https://ic.byteglow.com/modron/DbTK3EhK9gEYs79rV5RON" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -35,7 +35,7 @@ Fen is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank">
+    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -52,7 +52,7 @@ Fen is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank">
+    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

@@ -17,7 +17,7 @@ Prudence is a magic champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l" target="_blank">
+    <a href="https://ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -34,7 +34,7 @@ Prudence is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yWqFzHx5bvXJe990YOTjT" target="_blank">
+    <a href="https://ic.byteglow.com/modron/yWqFzHx5bvXJe990YOTjT" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -51,7 +51,7 @@ Prudence is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/clGSazYoxokx7hljUdygz" target="_blank">
+    <a href="https://ic.byteglow.com/modron/clGSazYoxokx7hljUdygz" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

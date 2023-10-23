@@ -17,7 +17,7 @@ Krond is normally a melee champion but he also becomes magic after choosing a sp
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE" target="_blank">
+    <a href="https://ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -34,7 +34,7 @@ Krond is normally a melee champion but he also becomes magic after choosing a sp
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -51,7 +51,7 @@ Krond is normally a melee champion but he also becomes magic after choosing a sp
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l" target="_blank">
+    <a href="https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -68,7 +68,7 @@ Krond is normally a melee champion but he also becomes magic after choosing a sp
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/LqCb1S8NMJP8HZ_omgw5-" target="_blank">
+    <a href="https://ic.byteglow.com/modron/LqCb1S8NMJP8HZ_omgw5-" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

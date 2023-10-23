@@ -32,7 +32,7 @@ Nixie is a magic champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB" target="_blank">
+    <a href="https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -49,7 +49,7 @@ Nixie is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/u4thZ5VbiZ2xg2HxLjr7W" target="_blank">
+    <a href="https://ic.byteglow.com/modron/u4thZ5VbiZ2xg2HxLjr7W" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -66,7 +66,7 @@ Nixie is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/2ggHyhpYHJ0z7VinGTWio" target="_blank">
+    <a href="https://ic.byteglow.com/modron/2ggHyhpYHJ0z7VinGTWio" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

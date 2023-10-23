@@ -16,7 +16,7 @@ Asharra is a magic champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek" target="_blank">
+    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -33,7 +33,7 @@ Asharra is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -50,7 +50,7 @@ Asharra is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK" target="_blank">
+    <a href="https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -67,7 +67,7 @@ Asharra is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4" target="_blank">
+    <a href="https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

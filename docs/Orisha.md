@@ -18,7 +18,7 @@ Orisha is a magic champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek" target="_blank">
+    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -35,7 +35,7 @@ Orisha is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/i8ZPac6myhxjSWsHC2F2L" target="_blank">
+    <a href="https://ic.byteglow.com/modron/i8ZPac6myhxjSWsHC2F2L" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -52,7 +52,7 @@ Orisha is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/LvBjECq5C6o4SKCXsmpMB" target="_blank">
+    <a href="https://ic.byteglow.com/modron/LvBjECq5C6o4SKCXsmpMB" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

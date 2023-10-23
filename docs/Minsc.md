@@ -15,7 +15,7 @@ Minsc is a melee champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh" target="_blank">
+    <a href="https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -32,7 +32,7 @@ Minsc is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/ZfqWE2FZDktWsEoi_xi9K" target="_blank">
+    <a href="https://ic.byteglow.com/modron/ZfqWE2FZDktWsEoi_xi9K" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -48,11 +48,26 @@ Minsc is a melee champion.
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/hDKfifV4tRpUJ7BNj7MI9" target="_blank" buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/hDKfifV4tRpUJ7BNj7MI9
+        </span>
+        <span class="modronDamage">
+            4.96e32%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 The Strong core is far enough ahead of the Modest core that it's the best one to use for Minsc. That said - you could potentially use the Modest core if the pipes you have favour it.
-
-The Magic core has not been included because it would be missing too many nodes to be a viable choice.
 
 [Back to Top](#top)
 

@@ -16,7 +16,7 @@ Strix is a magic champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l" target="_blank">
+    <a href="https://ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -33,7 +33,7 @@ Strix is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/eS2YlQByPi6gqBWarBSEA" target="_blank">
+    <a href="https://ic.byteglow.com/modron/eS2YlQByPi6gqBWarBSEA" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -50,7 +50,7 @@ Strix is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/pv1IBDYJeGoBaQpSTzCOE" target="_blank">
+    <a href="https://ic.byteglow.com/modron/pv1IBDYJeGoBaQpSTzCOE" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

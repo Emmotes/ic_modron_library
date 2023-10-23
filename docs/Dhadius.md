@@ -14,7 +14,7 @@ Dhadius is a magic champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -31,7 +31,7 @@ Dhadius is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/VWE8AGgjNEWfILkyr-Nfs" target="_blank">
+    <a href="https://ic.byteglow.com/modron/VWE8AGgjNEWfILkyr-Nfs" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -48,7 +48,7 @@ Dhadius is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/gSNhfTzaPCp3-ROyUfIbz" target="_blank">
+    <a href="https://ic.byteglow.com/modron/gSNhfTzaPCp3-ROyUfIbz" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -65,7 +65,7 @@ Dhadius is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/O7kCMROWNQtSTcqCpprEe" target="_blank">
+    <a href="https://ic.byteglow.com/modron/O7kCMROWNQtSTcqCpprEe" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

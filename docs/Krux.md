@@ -16,7 +16,7 @@ Krux is a ranged champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -33,7 +33,24 @@ Krux is a ranged champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT" target="_blank">
+    <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj" target="_blank" buffs="Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj
+        </span>
+        <span class="modronDamage">
+            3.05e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/XUDJ2Q7UmM32kiZKSCnfT" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -50,14 +67,14 @@ Krux is a ranged champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN" target="_blank">
+    <a href="https://ic.byteglow.com/modron/AakI7P5b5DgmZY8yIo_aw" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/aAJ9uVjghhumjPzNRImWN
+            https://ic.byteglow.com/modron/AakI7P5b5DgmZY8yIo_aw
         </span>
         <span class="modronDamage">
             2.30e38%
@@ -66,11 +83,43 @@ Krux is a ranged champion.
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt" target="_blank" buffs="Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt
+        </span>
+        <span class="modronDamage">
+            1.04e37%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/hDKfifV4tRpUJ7BNj7MI9" target="_blank" buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/hDKfifV4tRpUJ7BNj7MI9
+        </span>
+        <span class="modronDamage">
+            4.96e32%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Krux.
-
-The Magic core has not been included because it would be missing too many nodes to be a viable choice.
 
 Note that the damage of the Unaffiliated core varies depending on the number of unaffiliated champions in the formation. The damage numbers on the layout above account for just 1 (Krux only). For a specific breakdown of how the core fares with more unaffiliated champions - check the table below.
 

@@ -18,7 +18,7 @@ Catti-brie is a ranged champion.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank">
+    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -35,7 +35,7 @@ Catti-brie is a ranged champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank">
+    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -52,7 +52,7 @@ Catti-brie is a ranged champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2" target="_blank">
+    <a href="https://ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
