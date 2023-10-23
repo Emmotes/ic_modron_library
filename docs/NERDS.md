@@ -14,7 +14,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -31,7 +31,41 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/umP6sO2p9qV1JfI3m7abQ" target="_blank">
+    <a href="https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB" target="_blank" buffs="Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB
+        </span>
+        <span class="modronDamage">
+            1.67e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/VWE8AGgjNEWfILkyr-Nfs" target="_blank" buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/VWE8AGgjNEWfILkyr-Nfs
+        </span>
+        <span class="modronDamage">
+            8.16e44%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/umP6sO2p9qV1JfI3m7abQ" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -48,7 +82,24 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/I9UdL9mQtfnaLPDvD8iCJ" target="_blank">
+    <a href="https://ic.byteglow.com/modron/INUi4NGrrvlyUy3659Fd7" target="_blank" buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/INUi4NGrrvlyUy3659Fd7
+        </span>
+        <span class="modronDamage">
+            1.16e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/I9UdL9mQtfnaLPDvD8iCJ" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -65,24 +116,41 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/YI77XK6PgTTi-VmqXLPRM" target="_blank">
+    <a href="https://ic.byteglow.com/modron/XrYsURBf5qXUI7NQKziYl" target="_blank" buffs="Smooth Negotiators" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+            ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/YI77XK6PgTTi-VmqXLPRM
+            https://ic.byteglow.com/modron/XrYsURBf5qXUI7NQKziYl
         </span>
         <span class="modronDamage">
-            6.52e34%
+            1.77e36%
         </span>
     </span>
 {::nomarkdown}
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/GAs3OcWHhKepgrt4wzHhy" target="_blank">
+    <a href="https://ic.byteglow.com/modron/flemAiU7XDQHU5osjDHYk" target="_blank" buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/flemAiU7XDQHU5osjDHYk
+        </span>
+        <span class="modronDamage">
+            1.77e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/GAs3OcWHhKepgrt4wzHhy" target="_blank" buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
