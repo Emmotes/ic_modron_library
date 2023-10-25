@@ -28,7 +28,7 @@
         <span class="buffboxRow" id="buffboxNone">
             <span class="buffboxRowCol">
                 <span class="buffboxRowNone">
-                    This champion does not benefit from any stat increasing formation abilities.
+                    Asharra does not benefit from any stat increasing formation abilities.
                 </span>
             </span>
         </span>
