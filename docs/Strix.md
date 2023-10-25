@@ -6,17 +6,61 @@
 
 # Strix
 
-Strix is in the Acquisitions Incorporated and Waffle Crew affiliations and benefits from the following stat nodes:
+<span class="champIntro">Strix is in the Acquisitions Incorporated and Waffle Crew affiliations and normally benefits from the following stat nodes:</span>
 
+{::nomarkdown}
+<div id="champStats">
+{:/nomarkdown}
 * Constitution
 * Intelligence
 * Charisma
 
-Strix is a magic champion.
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+
+
+<span class="champIntro">Strix is a magic champion.</span>
 
 <span class="modronColumn">
+    <span class="buffboxCol" id="buffbox">
+        <span class="buffboxRowHeader">**Stat Increasing Formation Abilities**</span>
+        <span class="buffboxRow" id="buffboxFeats to Spare">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="1" id="Feats to Spare" value="Feats to Spare">
+                    <label for="Feats to Spare">Thellora: Feats to Spare</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Constitution
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxBest And The Brightest">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowRadio">
+                    <input type="checkbox" name="5" id="Best And The Brightest" value="Best And The Brightest">
+                    <label for="Best And The Brightest">Certainty: Best And The Brightest</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Intelligence
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxSmooth Negotiators">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowRadio">
+                    <input type="checkbox" name="5" id="Smooth Negotiators" value="Smooth Negotiators">
+                    <label for="Smooth Negotiators">Certainty: Smooth Negotiators</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Charisma
+            </span>
+            </span>
+        </span>
+    </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -33,7 +77,7 @@ Strix is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/eS2YlQByPi6gqBWarBSEA" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/eS2YlQByPi6gqBWarBSEA" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -50,7 +94,7 @@ Strix is a magic champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/pv1IBDYJeGoBaQpSTzCOE" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/pv1IBDYJeGoBaQpSTzCOE" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -73,3 +117,4 @@ The Magic core is so far ahead of the other cores that it's really the only choi
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
+<script type="text/javascript" src="scripts/champion.js"></script>

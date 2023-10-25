@@ -6,18 +6,62 @@
 
 # D'hani
 
-D'hani is in the Rivals of Waterdeep affiliation and benefits from the following stat nodes:
+<span class="champIntro">D'hani is in the Rivals of Waterdeep affiliation and normally benefits from the following stat nodes:</span>
 
+{::nomarkdown}
+<div id="champStats">
+{:/nomarkdown}
 * Dexterity
 * Constitution
 * Intelligence (with Feat)
 * Wisdom
 
-D'hani is a melee champion.
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+
+
+<span class="champIntro">D'hani is a melee champion.</span>
 
 <span class="modronColumn">
+    <span class="buffboxCol" id="buffbox">
+        <span class="buffboxRowHeader">**Stat Increasing Formation Abilities**</span>
+        <span class="buffboxRow" id="buffboxFeats to Spare">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="1" id="Feats to Spare" value="Feats to Spare">
+                    <label for="Feats to Spare">Thellora: Feats to Spare</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Constitution
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxBest And The Brightest">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowRadio">
+                    <input type="checkbox" name="5" id="Best And The Brightest" value="Best And The Brightest">
+                    <label for="Best And The Brightest">Certainty: Best And The Brightest</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Intelligence
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxSmooth Negotiators">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowRadio">
+                    <input type="checkbox" name="5" id="Smooth Negotiators" value="Smooth Negotiators">
+                    <label for="Smooth Negotiators">Certainty: Smooth Negotiators</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Charisma
+            </span>
+            </span>
+        </span>
+    </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -34,7 +78,7 @@ D'hani is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -51,7 +95,7 @@ D'hani is a melee champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/tFUbbSl60Q161is_ovBxs" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/tFUbbSl60Q161is_ovBxs" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -74,3 +118,4 @@ The listed cores are all similar enough in damage for D'hani that you should use
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
+<script type="text/javascript" src="scripts/champion.js"></script>

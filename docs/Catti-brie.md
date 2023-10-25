@@ -6,19 +6,63 @@
 
 # Catti-brie
 
-Catti-brie is in the Companions of the Hall affiliation and benefits from the following stat nodes:
+<span class="champIntro">Catti-brie is in the Companions of the Hall affiliation and normally benefits from the following stat nodes:</span>
 
+{::nomarkdown}
+<div id="champStats">
+{:/nomarkdown}
 * Strength
 * Dexterity
 * Constitution
 * Intelligence
 * Charisma
 
-Catti-brie is a ranged champion.
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+
+
+<span class="champIntro">Catti-brie is a ranged champion.</span>
 
 <span class="modronColumn">
+    <span class="buffboxCol" id="buffbox">
+        <span class="buffboxRowHeader">**Stat Increasing Formation Abilities**</span>
+        <span class="buffboxRow" id="buffboxFeats to Spare">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="1" id="Feats to Spare" value="Feats to Spare">
+                    <label for="Feats to Spare">Thellora: Feats to Spare</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Constitution
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxBest And The Brightest">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowRadio">
+                    <input type="checkbox" name="5" id="Best And The Brightest" value="Best And The Brightest">
+                    <label for="Best And The Brightest">Certainty: Best And The Brightest</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Intelligence
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxSmooth Negotiators">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowRadio">
+                    <input type="checkbox" name="5" id="Smooth Negotiators" value="Smooth Negotiators">
+                    <label for="Smooth Negotiators">Certainty: Smooth Negotiators</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Charisma
+            </span>
+            </span>
+        </span>
+    </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -35,7 +79,7 @@ Catti-brie is a ranged champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -52,7 +96,7 @@ Catti-brie is a ranged champion.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -75,3 +119,4 @@ The listed cores are all similar enough in damage for Catti-brie that you should
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
+<script type="text/javascript" src="scripts/champion.js"></script>

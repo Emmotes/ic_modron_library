@@ -6,15 +6,59 @@
 
 # NERDS
 
-NERDS is unaffiliated and benefits from the following stat nodes:
+<span class="champIntro">NERDS is unaffiliated and normally benefits from the following stat nodes:</span>
 
+{::nomarkdown}
+<div id="champStats">
+{:/nomarkdown}
 * Constitution
 
-The NERDS can attack with all 3 types - depending on which Nerd is at the front - which is decided by the specialisation. The `Fighter` - `Cleric` and `Rogue` are melee. The `Ranger` is ranged. The `Bard` and `Wizard` are magic.
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+
+
+<span class="champIntro">The NERDS can attack with all 3 types - depending on which Nerd is at the front - which is decided by the specialisation. The `Fighter` - `Cleric` and `Rogue` are melee. The `Ranger` is ranged. The `Bard` and `Wizard` are magic.</span>
 
 <span class="modronColumn">
+    <span class="buffboxCol" id="buffbox">
+        <span class="buffboxRowHeader">**Stat Increasing Formation Abilities**</span>
+        <span class="buffboxRow" id="buffboxFeats to Spare">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="1" id="Feats to Spare" value="Feats to Spare">
+                    <label for="Feats to Spare">Thellora: Feats to Spare</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Constitution
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxBest And The Brightest">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowRadio">
+                    <input type="checkbox" name="5" id="Best And The Brightest" value="Best And The Brightest">
+                    <label for="Best And The Brightest">Certainty: Best And The Brightest</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Intelligence
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxSmooth Negotiators">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowRadio">
+                    <input type="checkbox" name="5" id="Smooth Negotiators" value="Smooth Negotiators">
+                    <label for="Smooth Negotiators">Certainty: Smooth Negotiators</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Charisma
+            </span>
+            </span>
+        </span>
+    </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" data-core-id="6" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -31,7 +75,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB" target="_blank" buffs="Smooth Negotiators" hidden>
+    <a href="https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB" target="_blank" data-core-id="4" data-buffs="Smooth Negotiators" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -48,7 +92,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/VWE8AGgjNEWfILkyr-Nfs" target="_blank" buffs="Best And The Brightest" hidden>
+    <a href="https://ic.byteglow.com/modron/VWE8AGgjNEWfILkyr-Nfs" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -65,7 +109,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/umP6sO2p9qV1JfI3m7abQ" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/umP6sO2p9qV1JfI3m7abQ" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -82,7 +126,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/INUi4NGrrvlyUy3659Fd7" target="_blank" buffs="Best And The Brightest" hidden>
+    <a href="https://ic.byteglow.com/modron/INUi4NGrrvlyUy3659Fd7" target="_blank" data-core-id="2" data-buffs="Best And The Brightest" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -99,7 +143,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/I9UdL9mQtfnaLPDvD8iCJ" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/I9UdL9mQtfnaLPDvD8iCJ" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -116,7 +160,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/XrYsURBf5qXUI7NQKziYl" target="_blank" buffs="Smooth Negotiators" hidden>
+    <a href="https://ic.byteglow.com/modron/XrYsURBf5qXUI7NQKziYl" target="_blank" data-core-id="1" data-buffs="Smooth Negotiators" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -133,7 +177,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/flemAiU7XDQHU5osjDHYk" target="_blank" buffs="Best And The Brightest" hidden>
+    <a href="https://ic.byteglow.com/modron/flemAiU7XDQHU5osjDHYk" target="_blank" data-core-id="1" data-buffs="Best And The Brightest" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -150,7 +194,7 @@ The NERDS can attack with all 3 types - depending on which Nerd is at the front 
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/GAs3OcWHhKepgrt4wzHhy" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/GAs3OcWHhKepgrt4wzHhy" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -188,3 +232,4 @@ Note that the damage of the Unaffiliated core varies depending on the number of 
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
+<script type="text/javascript" src="scripts/champion.js"></script>

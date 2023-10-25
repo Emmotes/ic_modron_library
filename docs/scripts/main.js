@@ -1,6 +1,6 @@
 function swapTab() {
 	var hash = window.location.hash.substring(1);
-	if (hash != "") {
+	if (hash != "" && document.getElementById(hash) != undefined) {
 		document.getElementById(hash).click();
 	}
 }

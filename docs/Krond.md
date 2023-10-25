@@ -6,18 +6,62 @@
 
 # Krond
 
-Krond is unaffiliated and benefits from the following stat nodes:
+<span class="champIntro">Krond is unaffiliated and normally benefits from the following stat nodes:</span>
 
+{::nomarkdown}
+<div id="champStats">
+{:/nomarkdown}
 * Strength
 * Constitution
 * Intelligence
 * Wisdom
 
-Krond is normally a melee champion but he also becomes magic after choosing a specialisation. This means he can benefit from both Melee and Magic nodes.
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+
+
+<span class="champIntro">Krond is normally a melee champion but he also becomes magic after choosing a specialisation. This means he can benefit from both Melee and Magic nodes.</span>
 
 <span class="modronColumn">
+    <span class="buffboxCol" id="buffbox">
+        <span class="buffboxRowHeader">**Stat Increasing Formation Abilities**</span>
+        <span class="buffboxRow" id="buffboxFeats to Spare">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="1" id="Feats to Spare" value="Feats to Spare">
+                    <label for="Feats to Spare">Thellora: Feats to Spare</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Constitution
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxBest And The Brightest">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowRadio">
+                    <input type="checkbox" name="5" id="Best And The Brightest" value="Best And The Brightest">
+                    <label for="Best And The Brightest">Certainty: Best And The Brightest</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Intelligence
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxSmooth Negotiators">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowRadio">
+                    <input type="checkbox" name="5" id="Smooth Negotiators" value="Smooth Negotiators">
+                    <label for="Smooth Negotiators">Certainty: Smooth Negotiators</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Charisma
+            </span>
+            </span>
+        </span>
+    </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -34,7 +78,7 @@ Krond is normally a melee champion but he also becomes magic after choosing a sp
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" data-core-id="6" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -51,7 +95,7 @@ Krond is normally a melee champion but he also becomes magic after choosing a sp
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -68,7 +112,7 @@ Krond is normally a melee champion but he also becomes magic after choosing a sp
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/LqCb1S8NMJP8HZ_omgw5-" target="_blank" buffs="">
+    <a href="https://ic.byteglow.com/modron/LqCb1S8NMJP8HZ_omgw5-" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -106,3 +150,4 @@ Note that the damage of the Unaffiliated core varies depending on the number of 
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
+<script type="text/javascript" src="scripts/champion.js"></script>

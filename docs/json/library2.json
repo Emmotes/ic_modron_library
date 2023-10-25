@@ -31,7 +31,7 @@
     "layouts": [
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 24},
                 {"id": 54},
                 {"id": 72}
@@ -43,7 +43,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 8},
                 {"id": 18},
                 {"id": 22},
@@ -64,7 +64,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 16}],
+            "championIds": [{"id": 16}],
             "dps": 1.50E+42,
             "coreId": 1,
             "type": "damage",
@@ -72,7 +72,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 76}],
+            "championIds": [{"id": 76}],
             "dps": 2.65E+42,
             "coreId": 1,
             "type": "damage",
@@ -80,7 +80,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 41}],
+            "championIds": [{"id": 41}],
             "dps": 2.32E+40,
             "coreId": 1,
             "type": "damage",
@@ -88,7 +88,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 6}],
+            "championIds": [{"id": 6}],
             "dps": 1.60E+38,
             "coreId": 1,
             "type": "damage",
@@ -96,7 +96,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 11},
                 {"id": 61},
                 {"id": 92}
@@ -108,7 +108,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 31},
                 {"id": 102}
             ],
@@ -119,7 +119,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 25},
                 {"id": 118}
             ],
@@ -130,7 +130,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 4},
                 {"id": 21},
                 {"id": 40},
@@ -143,7 +143,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {
                     "id": 64,
                     "buffs": ["Best And The Brightest"]
@@ -157,7 +157,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 9},
                 {"id": 23}
             ],
@@ -168,7 +168,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 48}],
+            "championIds": [{"id": 48}],
             "dps": 3.18E+38,
             "coreId": 1,
             "type": "damage",
@@ -176,7 +176,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 12},
                 {"id": 30},
                 {"id": 36},
@@ -193,7 +193,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 123}],
+            "championIds": [{"id": 123}],
             "dps": 2.57E+38,
             "coreId": 1,
             "type": "damage",
@@ -201,7 +201,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 27},
                 {"id": 64},
                 {"id": 116}
@@ -213,7 +213,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{
+            "championIds": [{
                 "id": 87,
                 "buffs": ["Smooth Negotiators"]
             }],
@@ -231,7 +231,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 89}],
+            "championIds": [{"id": 89}],
             "dps": 1.57E+40,
             "coreId": 1,
             "type": "damage",
@@ -239,7 +239,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 15}],
+            "championIds": [{"id": 15}],
             "dps": 1.18E+40,
             "coreId": 1,
             "type": "damage",
@@ -261,7 +261,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{
+            "championIds": [{
                 "id": 87,
                 "buffs": ["Best And The Brightest"]
             }],
@@ -279,7 +279,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 17}],
+            "championIds": [{"id": 17}],
             "dps": 1.60E+34,
             "coreId": 1,
             "type": "damage",
@@ -287,7 +287,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 128},
                 {"id": 136}
             ],
@@ -305,7 +305,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 7}],
+            "championIds": [{"id": 7}],
             "dps": 1.58E+36,
             "coreId": 1,
             "type": "damage",
@@ -313,7 +313,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 87}],
+            "championIds": [{"id": 87}],
             "dps": 1.22E+34,
             "coreId": 1,
             "type": "damage",
@@ -321,7 +321,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 24},
                 {"id": 54}
             ],
@@ -332,7 +332,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 18},
                 {
                     "id": 31,
@@ -351,7 +351,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 15}],
+            "championIds": [{"id": 15}],
             "dps": 2.13E+43,
             "coreId": 2,
             "type": "damage",
@@ -359,7 +359,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 41}],
+            "championIds": [{"id": 41}],
             "dps": 1.47E+41,
             "coreId": 2,
             "type": "damage",
@@ -367,7 +367,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 11},
                 {"id": 61},
                 {"id": 92}
@@ -379,7 +379,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 31}],
+            "championIds": [{"id": 31}],
             "dps": 1.47E+41,
             "coreId": 2,
             "type": "damage",
@@ -387,7 +387,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 118}],
+            "championIds": [{"id": 118}],
             "dps": 2.43E+43,
             "coreId": 2,
             "type": "damage",
@@ -395,7 +395,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 4},
                 {"id": 21},
                 {"id": 40},
@@ -408,7 +408,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{
+            "championIds": [{
                 "id": 64,
                 "buffs": ["Best And The Brightest"]
             }],
@@ -419,7 +419,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{
+            "championIds": [{
                 "id": 87,
                 "buffs": ["Best And The Brightest"]
             }],
@@ -430,7 +430,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 12},
                 {"id": 30},
                 {"id": 36},
@@ -452,7 +452,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 7},
                 {"id": 27},
                 {"id": 64},
@@ -465,7 +465,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 87}],
+            "championIds": [{"id": 87}],
             "dps": 7.97E+36,
             "coreId": 2,
             "type": "damage",
@@ -473,7 +473,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 72}],
+            "championIds": [{"id": 72}],
             "dps": 2.76E+43,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -482,7 +482,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 8},
                 {"id": 22},
                 {"id": 33}
@@ -495,7 +495,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 16}],
+            "championIds": [{"id": 16}],
             "dps": 1.90E+41,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -504,7 +504,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 76}],
+            "championIds": [{"id": 76}],
             "dps": 1.99E+41,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -521,7 +521,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 6}],
+            "championIds": [{"id": 6}],
             "dps": 9.45E+36,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -530,7 +530,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 102}],
+            "championIds": [{"id": 102}],
             "dps": 1.31E+39,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -539,7 +539,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 25}],
+            "championIds": [{"id": 25}],
             "dps": 1.99E+41,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -556,7 +556,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 84}],
+            "championIds": [{"id": 84}],
             "dps": 1.37E+39,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -565,7 +565,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 9},
                 {"id": 23}
             ],
@@ -577,7 +577,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 48}],
+            "championIds": [{"id": 48}],
             "dps": 9.45E+36,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -586,7 +586,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 17}],
+            "championIds": [{"id": 17}],
             "dps": 6.52E+34,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -595,7 +595,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 136}],
+            "championIds": [{"id": 136}],
             "dps": 1.37E+39,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -604,7 +604,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 123}],
+            "championIds": [{"id": 123}],
             "dps": 9.45E+36,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -629,7 +629,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 102}],
+            "championIds": [{"id": 102}],
             "dps": 3.38E+32,
             "coreId": 3,
             "type": "damage",
@@ -637,7 +637,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 6},
                 {"id": 8},
                 {"id": 16},
@@ -652,7 +652,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 102}],
+            "championIds": [{"id": 102}],
             "dps": 3.52E+49,
             "coreId": 4,
             "type": "damage",
@@ -660,7 +660,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 9},
                 {"id": 23},
                 {"id": 48},
@@ -673,7 +673,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {
                     "id": 87,
                     "buffs": ["Smooth Negotiators"]
@@ -687,7 +687,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 15}],
+            "championIds": [{"id": 15}],
             "dps": 1.35E+49,
             "coreId": 4,
             "type": "damage",
@@ -695,7 +695,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 17},
                 {
                     "id": 87,
@@ -709,7 +709,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 87}],
+            "championIds": [{"id": 87}],
             "dps": 7.96E+40,
             "coreId": 4,
             "type": "damage",
@@ -717,7 +717,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 18},
                 {"id": 22},
                 {"id": 24},
@@ -736,7 +736,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 11},
                 {"id": 31},
                 {"id": 61},
@@ -750,7 +750,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 4},
                 {"id": 21},
                 {"id": 25},
@@ -770,7 +770,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 12},
                 {"id": 27},
                 {"id": 30},
@@ -791,7 +791,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 89}],
+            "championIds": [{"id": 89}],
             "dps": 1.91E+41,
             "comment": "Non-Magic Variant",
             "coreId": 4,
@@ -808,7 +808,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 7},
                 {"id": 128},
                 {"id": 136}
@@ -821,7 +821,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [{"id": 72}],
+            "championIds": [{"id": 72}],
             "dps": 7.91E+35,
             "coreId": 5,
             "type": "damage",
@@ -829,7 +829,7 @@
         },
         {
             "coreLevel": 15,
-            "champs": [
+            "championIds": [
                 {"id": 4},
                 {"id": 6},
                 {"id": 9},
