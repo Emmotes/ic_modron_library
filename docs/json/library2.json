@@ -247,10 +247,10 @@
         },
         {
             "coreLevel": 15,
-            "dps": 2.30E+38,
+            "dps": 3.33E+40,
             "coreId": 1,
             "type": "damage",
-            "layoutId": "aAJ9uVjghhumjPzNRImWN"
+            "layoutId": "sGv2PkfUhcXsZAEQEDdvy"
         },
         {
             "coreLevel": 15,
@@ -445,7 +445,6 @@
         {
             "coreLevel": 15,
             "dps": 1.16E+39,
-            "comment": "Non-Melee Variant",
             "coreId": 2,
             "type": "damage",
             "layoutId": "6JLPFRhgLOs5DgPikpfPV"
