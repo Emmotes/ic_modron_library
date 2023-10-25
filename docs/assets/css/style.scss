@@ -245,13 +245,13 @@ code{
 	font-size: 0.9em;
 	display: none;
 }
-.buffboxRow,.buffboxRowHeader,.buffboxRowCheck,.buffboxRowRadio,.buffboxRowContent {
+.buffboxRow,.buffboxRowHeader,.buffboxRowCheck,.buffboxRowRadio,.buffboxRowNone,.buffboxRowContent {
 	display: flex;
 	flex-direction: row;
 	padding-top: 1px;
 }
-.buffboxRowCheck {
-	padding-left: 0px;
+.buffboxRowNone {
+	text-align: center;
 }
 .buffboxRow {
 	display: none;

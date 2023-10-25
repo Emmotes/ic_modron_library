@@ -29,6 +29,10 @@ function init() {
 			}
 		}
 	}
+	if (usedBuffs.length == 0) {
+		document.getElementById("buffbox").style.display = "flex";
+		document.getElementById("buffboxNone").style.display = "flex";
+	}
 	if (layouts.length > 0) {
 		for (let i=0; i<usedBuffs.length; i++) {
 			document.getElementById("buffbox" + usedBuffs[i]).style.display = "flex";
