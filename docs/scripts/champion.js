@@ -12,8 +12,8 @@ function init() {
 			}
 		}
 		if (links[i].dataset.buffs != undefined && links[i].dataset.buffs != "") {
-			if (document.getElementById("buffbox").style.display != "initial") {
-				document.getElementById("buffbox").style.display = "initial";
+			if (document.getElementById("buffbox").style.display != "flex") {
+				document.getElementById("buffbox").style.display = "flex";
 			}
 			var currBuffs = links[i].dataset.buffs;
 			if (typeof(currBuffs) == "string") {
@@ -31,7 +31,7 @@ function init() {
 	}
 	if (layouts.length > 0) {
 		for (let i=0; i<usedBuffs.length; i++) {
-			document.getElementById("buffbox" + usedBuffs[i]).style.display = "initial";
+			document.getElementById("buffbox" + usedBuffs[i]).style.display = "flex";
 		}
 	}
 	document.querySelector('#buffbox').onclick = function(ev) {

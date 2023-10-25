@@ -248,24 +248,29 @@ code{
 .buffboxRow,.buffboxRowHeader,.buffboxRowCheck,.buffboxRowRadio,.buffboxRowContent {
 	display: flex;
 	flex-direction: row;
-	padding: 5px;
+	padding-top: 1px;
+}
+.buffboxRowCheck {
+	padding-left: 0px;
 }
 .buffboxRow {
 	display: none;
+	padding-top: 5px;
+	border-bottom: 1px solid #444444;
 }
 .buffboxRowHeader {
-	display: flex;
-	flex-direction: row;
 	border-bottom: 4px ridge black;
 	font-size: 1.05em;
 	justify-content: center;
+	padding: 5px;
 }
 .buffboxRowCol {
 	display: flex;
 	flex-direction: column;
+	padding: 5px;
 }
 .buffboxRowContent {
-	margin: -10px 0 5px 50px;
+	margin-left: 50px;
 }
 input[type="checkbox"] {
 	-webkit-appearance: none;
