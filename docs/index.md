@@ -651,7 +651,7 @@ Using them often lowers flow to the damage nodes and damage is the whole point o
 
 If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you're willing to lose damage because of it.
 
-# Is the Aerois Core worth buying from Wild Offers?
+## Is the Aerois Core worth buying from Wild Offers?
 
 Not really no. It's only good if you use the entirety of the Aerois affiliation with Lucius as your dps. If don't use all of them - then the Magic core is better - even for Lucius. And the core itself is terrible for every other dps (see the [Variable Core Damage Information](#variablesTab) tab for more details).
 
