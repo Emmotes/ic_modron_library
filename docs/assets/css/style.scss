@@ -98,7 +98,7 @@ code{
 	border: 1px solid #FFEB9B;
 	background-color: #000000;
 }
-.modronIcon,.modronIconFull,.modronDamage {
+.modronIcon,.modronIconFull,.modronDamage,.modronDamageBuffed {
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
@@ -132,9 +132,12 @@ code{
 .modronLink,.modronLinkHeader {
 	border-right: 1px solid black;
 }
-.modronDamage {
+.modronDamage,.modronDamageBuffed {
 	justify-content: center;
 	width: 100px;
+}
+.modronDamageBuffed {
+	color: #70E065;
 }
 .modronLevel {
 	display: flex;

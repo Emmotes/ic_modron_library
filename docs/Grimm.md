@@ -86,7 +86,7 @@
         <span class="modronLink">
             https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj
         </span>
-        <span class="modronDamage">
+        <span class="modronDamageBuffed">
             2.19e41%
         </span>
     </span>
@@ -103,7 +103,7 @@
         <span class="modronLink">
             https://ic.byteglow.com/modron/DjhjKzreH_1MmsDWLg6hs
         </span>
-        <span class="modronDamage">
+        <span class="modronDamageBuffed">
             1.68e41%
         </span>
     </span>
@@ -120,7 +120,7 @@
         <span class="modronLink">
             https://ic.byteglow.com/modron/yWqFzHx5bvXJe990YOTjT
         </span>
-        <span class="modronDamage">
+        <span class="modronDamageBuffed">
             3.05e40%
         </span>
     </span>
