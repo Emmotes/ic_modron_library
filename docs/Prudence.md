@@ -29,7 +29,7 @@
         <span class="buffboxRow" id="buffboxNone">
             <span class="buffboxRowCol">
                 <span class="buffboxRowNone">
-                    Prudence does not benefit from any stat increasing formation abilities.
+                    Prudence does not gain the benefit of extra stat nodes from any stat increasing formation abilities.
                 </span>
             </span>
         </span>

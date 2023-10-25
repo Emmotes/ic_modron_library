@@ -28,7 +28,7 @@
         <span class="buffboxRow" id="buffboxNone">
             <span class="buffboxRowCol">
                 <span class="buffboxRowNone">
-                    Lae'zel does not benefit from any stat increasing formation abilities.
+                    Lae'zel does not gain the benefit of extra stat nodes from any stat increasing formation abilities.
                 </span>
             </span>
         </span>

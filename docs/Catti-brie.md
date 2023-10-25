@@ -30,7 +30,7 @@
         <span class="buffboxRow" id="buffboxNone">
             <span class="buffboxRowCol">
                 <span class="buffboxRowNone">
-                    Catti-brie does not benefit from any stat increasing formation abilities.
+                    Catti-brie does not gain the benefit of extra stat nodes from any stat increasing formation abilities.
                 </span>
             </span>
         </span>
