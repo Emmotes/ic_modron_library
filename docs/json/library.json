@@ -454,6 +454,22 @@
     },
     {
         "coreLevel": 15,
+        "dps": 1.03E+39,
+        "comment": "Fully Supercharged",
+        "coreId": 3,
+        "type": "damage",
+        "layoutId": "ozwp3wQr7O3VHUmKffQtv"
+    },
+    {
+        "coreLevel": 15,
+        "dps": 9.73E+38,
+        "comment": "'Budget' Supercharged",
+        "coreId": 3,
+        "type": "damage",
+        "layoutId": "FN7JOvNteXk4heA0EY4ec"
+    },
+    {
+        "coreLevel": 15,
         "championIds": [102],
         "dps": 3.38E+32,
         "coreId": 3,
@@ -816,7 +832,7 @@
         "coreLevel": 5,
         "championIds": [],
         "dps": 3.97E+9,
-        "comment": "1 Epic Alternative",
+        "comment": "Fewer Epics",
         "coreId": 1,
         "type": "reference",
         "layoutId": "REeLk3dw240gtF0Ot58qR",
@@ -889,7 +905,7 @@
         "coreLevel": 12,
         "championIds": [],
         "dps": 8.88E+23,
-        "comment": "0 Epic Alternative",
+        "comment": "No Epics",
         "coreId": 1,
         "type": "reference",
         "layoutId": "cVwUPmcXfoSxLyGzwNmw5",
