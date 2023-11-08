@@ -1,5 +1,5 @@
 # Format:
-# linkHash,coreId,champions|pipe|separated,comment
+# linkHash,coreId,achievementTier
 
 # coreIds
 # 1 Modest
@@ -9,44 +9,51 @@
 # 5 Aerois
 # 6 Unaffiliated
 
-# ==================================
-# ==== Modest Core Achievements ====
-# ==================================
+# ===================================
+# ==== Tier 1: Now We're Flowing ====
+# ===================================
 
-iyChfx2296evcJfrAadzT,1,,Tier1: Now We're Flowing
+iyChfx2296evcJfrAadzT,1,1
+LbtIyA7gF3TVqJlGv-j7o,2,1
+8VMtVFfG6dtt92fr8XMwp,3,1
+5wV-LkarzUs19rX5uSdfh,4,1
+VpXiPUQcapFGVtdmEvw6K,5,1
+trCCiKffGxG_talqlpZpa,6,1
+3x8kabhdP9vqd9BgYQuLX,7,1
 
-# ==================================
-# ==== Strong Core Achievements ====
-# ==================================
+# ===========================
+# ==== Tier 2: Flow Shui ====
+# ===========================
 
-LbtIyA7gF3TVqJlGv-j7o,2,,Tier1: Now We're Flowing
+#                     1,2 NOT POSSIBLE
+#                     2,2 NOT POSSIBLE
+#                     3,2 NOT POSSIBLE
+LI4aVDOyYdOreT-GsbNWF,4,2
+UZyXpoTAZi_pkDzpBLMoB,5,2
+yOEfAk0bySOnVnqUbKoAZ,6,2
+QXof7-6PGEM62LAbHXtI9,7,2
 
-# ================================
-# ==== Fast Core Achievements ====
-# ================================
 
-8VMtVFfG6dtt92fr8XMwp,3,,Tier1: Now We're Flowing
+# =======================================
+# ==== Tier 3: Infinite Cosmic Power ====
+# =======================================
 
-# =================================
-# ==== Magic Core Achievements ====
-# =================================
+#                     1,3 NOT POSSIBLE
+#                     2,3 NOT POSSIBLE
+#                     3,3 NOT POSSIBLE
+#                     4,3 NOT POSSIBLE
+_z85vEeBAqIN3OZ3fZFjc,5,3
+n0dIctU7j62SU1AWsDl52,6,3
+UQfQ1AeRVbE0Ooy5vUT6Q,7,3
 
-5wV-LkarzUs19rX5uSdfh,4,,Tier1: Now We're Flowing
-LI4aVDOyYdOreT-GsbNWF,4,,Tier2: Flow Shui
+# ============================
+# ==== Tier 4: Pipe Dream ====
+# ============================
 
-# ==================================
-# ==== Aerois Core Achievements ====
-# ==================================
-
-VpXiPUQcapFGVtdmEvw6K,5,,Tier1: Now We're Flowing
-UZyXpoTAZi_pkDzpBLMoB,5,,Tier2: Flow Shui
-_z85vEeBAqIN3OZ3fZFjc,5,,Tier3: Infinite Cosmic Power
-
-# ========================================
-# ==== Unaffiliated Core Achievements ====
-# ========================================
-
-trCCiKffGxG_talqlpZpa,6,,Tier1: Now We're Flowing
-yOEfAk0bySOnVnqUbKoAZ,6,,Tier2: Flow Shui
-n0dIctU7j62SU1AWsDl52,6,,Tier3: Infinite Cosmic Power
-WNzMofUqhm4X1fr7zFMY0,6,,Tier4: Pipe Dream
+#                     1,4 NOT POSSIBLE
+#                     2,4 NOT POSSIBLE
+#                     3,4 NOT POSSIBLE
+#                     4,4 NOT POSSIBLE
+#                     5,4 NOT POSSIBLE
+WNzMofUqhm4X1fr7zFMY0,6,4
+JSF2NUEtdg3yGoTSbM0Oq,7,4

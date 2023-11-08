@@ -156,13 +156,13 @@ Krond
 Krux
 </span>
 </a>
+</span>
+<span class="championLinkColumn">
 <a href="Lae'zel.html">
 <span class="championLink" id="laezel" style="background-image:url(images/portraits/laezel.png)">
 Lae'zel
 </span>
 </a>
-</span>
-<span class="championLinkColumn">
 <a href="Lucius.html">
 <span class="championLink" id="lucius" style="background-image:url(images/portraits/lucius.png)">
 Lucius
@@ -178,13 +178,13 @@ Makos
 Minsc
 </span>
 </a>
+</span>
+<span class="championLinkColumn">
 <a href="NERDS.html">
 <span class="championLink" id="nerds" style="background-image:url(images/portraits/nerds.png)">
 NERDS
 </span>
 </a>
-</span>
-<span class="championLinkColumn">
 <a href="Nahara.html">
 <span class="championLink" id="nahara" style="background-image:url(images/portraits/nahara.png)">
 Nahara
@@ -193,11 +193,6 @@ Nahara
 <a href="Nixie.html">
 <span class="championLink" id="nixie" style="background-image:url(images/portraits/nixie.png)">
 Nixie
-</span>
-</a>
-<a href="Nrakk.html">
-<span class="championLink" id="nrakk" style="background-image:url(images/portraits/nrakk.png)">
-Nrakk
 </span>
 </a>
 <a href="Orisha.html">
@@ -357,6 +352,20 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/3x8kabhdP9vqd9BgYQuLX" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
+        </span>
+        <span class="modronLinkSmall">
+            https://ic.byteglow.com/modron/3x8kabhdP9vqd9BgYQuLX
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 ## Flow Shui
@@ -406,6 +415,20 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/QXof7-6PGEM62LAbHXtI9" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
+        </span>
+        <span class="modronLinkSmall">
+            https://ic.byteglow.com/modron/QXof7-6PGEM62LAbHXtI9
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 ## Infinite Cosmic Power
@@ -441,6 +464,20 @@ This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% super
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/UQfQ1AeRVbE0Ooy5vUT6Q" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
+        </span>
+        <span class="modronLinkSmall">
+            https://ic.byteglow.com/modron/UQfQ1AeRVbE0Ooy5vUT6Q
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 ## Pipe Dream
@@ -457,6 +494,20 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
         </span>
         <span class="modronLinkSmall">
             https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/JSF2NUEtdg3yGoTSbM0Oq" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
+        </span>
+        <span class="modronLinkSmall">
+            https://ic.byteglow.com/modron/JSF2NUEtdg3yGoTSbM0Oq
         </span>
     </span>
 {::nomarkdown}
@@ -485,6 +536,7 @@ These designs were built almost exclusively by `Retaki` in their [Modron Core Pi
 * [Magic Core](ref_magic.md)
 * [Aerois Core](ref_aerois.md)
 * [Unaffiliated Core](ref_unaffiliated.md)
+* [Dexterous Core](ref_dexterous.md)
 * [Unofficial Leaderboards](ref_leaderboard.md)
 
 {::nomarkdown}
@@ -589,6 +641,27 @@ As you can see - the damage is really poor for affiliated champions. As such - t
 | 2 | 1.74e50% |   | 1 | 1.39e35% |
 | 1 | 1.15e49% |   | 0 | 8.01e28% |
 
+## Dexterous Core
+
+The damage of the Dexterous core depends on whether you are using a champion with 15+ Dexterity as your chosen DPS and how many other champions also have 15+ Dexterity in the formation.
+
+*Note: These tables assume 500% supercharge on all superchargeable nodes.*
+
+As you can see - the damage is really poor for low Dex champions. As such - this core has only been added to champions' pages of those who have 15+ Dexterity.
+
+| With 15+ Dex DPS<br />Num 15+ Dex in Formation | Bonus |   | With 14- Dex DPS<br />Num 15+ Dex in Formation | Bonus |
+|--:|--:|---|--:|--:|
+| 10 | 1.04e53% |   | 9 | 8.24e38% |
+| 9 | 6.81e52% |   | 8 | 5.15e38% |
+| 8 | 4.26e52% |   | 7 | 3.03e38% |
+| 7 | 2.50e52% |   | 6 | 1.64e38% |
+| 6 | 1.35e52% |   | 5 | 7.93e37% |
+| 5 | 6.56e51% |   | 4 | 3.27e37% |
+| 4 | 2.70e51% |   | 3 | 1.04e37% |
+| 3 | 8.63e50% |   | 2 | 2.10e36% |
+| 2 | 1.74e50% |   | 1 | 1.39e35% |
+| 1 | 1.15e49% |   | 0 | 8.01e28% |
+
 {::nomarkdown}
 </div>
 {:/nomarkdown}
@@ -611,6 +684,7 @@ Just a list of frequently asked questions. If you have a question - feel free to
 | ![Magic Core](images/core_4_magic.png) | Magic | 4 | Split the Party 3 (4+ champions in all seats) |
 | ![Aerois Core](images/core_5_aerois.png) | Aerois | 5 | Season 1 / Wild Offers |
 | ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 6 | Season 3 |
+| ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 7 | Season 6 |
 
 ## Which is the best gold find core?
 
@@ -623,6 +697,7 @@ The Modest core has the highest gold bonus of 2.19e06% when fully epic - while t
 | ![Aerois Core](images/core_5_aerois.png) | Aerois | 3.78e05% |
 | ![Magic Core](images/core_4_magic.png) | Magic | 3.78e05% |
 | ![Strong Core](images/core_2_strong.png) | Strong | 3.78e05% |
+| ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 1.19e05% |
 | ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 1.19e05% |
 
 ## Where is the best place to get modron pipes?
@@ -679,6 +754,7 @@ Of course - others have contributed as well - and the most notable include:
 * `Midander`
 * `Ridge`
 * `Cuddlegutz`
+* `Darkbolt`
 
 Also a big thank you to `Uffdah` for the modron tool on Byteglow.
 

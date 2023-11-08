@@ -2,7 +2,6 @@
     {
         "coreLevel": 15,
         "championIds": [
-            24,
             54,
             72
         ],
@@ -216,10 +215,7 @@
     },
     {
         "coreLevel": 15,
-        "championIds": [
-            24,
-            54
-        ],
+        "championIds": [54],
         "dps": 3.09E+45,
         "coreId": 2,
         "type": "damage",
@@ -551,7 +547,6 @@
         "championIds": [
             18,
             22,
-            24,
             41,
             54
         ],
@@ -649,7 +644,6 @@
             17,
             21,
             22,
-            24,
             27,
             30,
             31,
@@ -669,9 +663,36 @@
     },
     {
         "coreLevel": 15,
+        "championIds": [
+            4,
+            8,
+            12,
+            18,
+            21,
+            22,
+            25,
+            31,
+            36,
+            40,
+            41,
+            54,
+            61,
+            69,
+            89,
+            102,
+            114,
+            136
+        ],
+        "dps": 1.15E+49,
+        "coreId": 7,
+        "type": "damage",
+        "layoutId": "7114GoDxPsVq9PvgtiUYx"
+    },
+    {
+        "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Tier1: Now We're Flowing",
+        "comment": "Tier 1: Now We're Flowing",
         "coreId": 1,
         "type": "achievement",
         "layoutId": "iyChfx2296evcJfrAadzT"
@@ -680,7 +701,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Tier1: Now We're Flowing",
+        "comment": "Tier 1: Now We're Flowing",
         "coreId": 2,
         "type": "achievement",
         "layoutId": "LbtIyA7gF3TVqJlGv-j7o"
@@ -689,7 +710,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Tier1: Now We're Flowing",
+        "comment": "Tier 1: Now We're Flowing",
         "coreId": 3,
         "type": "achievement",
         "layoutId": "8VMtVFfG6dtt92fr8XMwp"
@@ -698,7 +719,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Tier1: Now We're Flowing",
+        "comment": "Tier 1: Now We're Flowing",
         "coreId": 4,
         "type": "achievement",
         "layoutId": "5wV-LkarzUs19rX5uSdfh"
@@ -707,16 +728,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Tier2: Flow Shui",
-        "coreId": 4,
-        "type": "achievement",
-        "layoutId": "LI4aVDOyYdOreT-GsbNWF"
-    },
-    {
-        "coreLevel": 15,
-        "championIds": [],
-        "dps": 0,
-        "comment": "Tier1: Now We're Flowing",
+        "comment": "Tier 1: Now We're Flowing",
         "coreId": 5,
         "type": "achievement",
         "layoutId": "VpXiPUQcapFGVtdmEvw6K"
@@ -725,25 +737,7 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Tier2: Flow Shui",
-        "coreId": 5,
-        "type": "achievement",
-        "layoutId": "UZyXpoTAZi_pkDzpBLMoB"
-    },
-    {
-        "coreLevel": 15,
-        "championIds": [],
-        "dps": 0,
-        "comment": "Tier3: Infinite Cosmic Power",
-        "coreId": 5,
-        "type": "achievement",
-        "layoutId": "_z85vEeBAqIN3OZ3fZFjc"
-    },
-    {
-        "coreLevel": 15,
-        "championIds": [],
-        "dps": 0,
-        "comment": "Tier1: Now We're Flowing",
+        "comment": "Tier 1: Now We're Flowing",
         "coreId": 6,
         "type": "achievement",
         "layoutId": "trCCiKffGxG_talqlpZpa"
@@ -752,7 +746,34 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Tier2: Flow Shui",
+        "comment": "Tier 1: Now We're Flowing",
+        "coreId": 7,
+        "type": "achievement",
+        "layoutId": "3x8kabhdP9vqd9BgYQuLX"
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 0,
+        "comment": "Tier 2: Flow Shui",
+        "coreId": 4,
+        "type": "achievement",
+        "layoutId": "LI4aVDOyYdOreT-GsbNWF"
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 0,
+        "comment": "Tier 2: Flow Shui",
+        "coreId": 5,
+        "type": "achievement",
+        "layoutId": "UZyXpoTAZi_pkDzpBLMoB"
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 0,
+        "comment": "Tier 2: Flow Shui",
         "coreId": 6,
         "type": "achievement",
         "layoutId": "yOEfAk0bySOnVnqUbKoAZ"
@@ -761,7 +782,25 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Tier3: Infinite Cosmic Power",
+        "comment": "Tier 2: Flow Shui",
+        "coreId": 7,
+        "type": "achievement",
+        "layoutId": "QXof7-6PGEM62LAbHXtI9"
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 0,
+        "comment": "Tier 3: Infinite Cosmic Power",
+        "coreId": 5,
+        "type": "achievement",
+        "layoutId": "_z85vEeBAqIN3OZ3fZFjc"
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 0,
+        "comment": "Tier 3: Infinite Cosmic Power",
         "coreId": 6,
         "type": "achievement",
         "layoutId": "n0dIctU7j62SU1AWsDl52"
@@ -770,7 +809,16 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Tier4: Pipe Dream",
+        "comment": "Tier 3: Infinite Cosmic Power",
+        "coreId": 7,
+        "type": "achievement",
+        "layoutId": "UQfQ1AeRVbE0Ooy5vUT6Q"
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 0,
+        "comment": "Tier 4: Pipe Dream",
         "coreId": 6,
         "type": "achievement",
         "layoutId": "WNzMofUqhm4X1fr7zFMY0"
@@ -779,7 +827,16 @@
         "coreLevel": 15,
         "championIds": [],
         "dps": 0,
-        "comment": "Azaka Farm (No Damage)",
+        "comment": "Tier 4: Pipe Dream",
+        "coreId": 7,
+        "type": "achievement",
+        "layoutId": "JSF2NUEtdg3yGoTSbM0Oq"
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 0,
+        "comment": "Gold Find (No Damage)",
         "coreId": 1,
         "type": "reference",
         "layoutId": "WLo5rDwq6qkF02usUiNr6",
@@ -1661,6 +1718,161 @@
         "authors": ["Retaki"]
     },
     {
+        "coreLevel": 1,
+        "championIds": [],
+        "dps": 1.16E+4,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "yP8AtNGqXAQRcSz4H7VU0",
+        "authors": ["Retaki"]
+    },
+    {
+        "coreLevel": 2,
+        "championIds": [],
+        "dps": 9.14E+5,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "KHNcuGxlaOl-GIaTBkNHJ",
+        "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 3,
+        "championIds": [],
+        "dps": 1.33E+8,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "5wUfVRU576x_-ylfyFXqh",
+        "authors": ["UniQP"]
+    },
+    {
+        "coreLevel": 4,
+        "championIds": [],
+        "dps": 1.66E+11,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "h00HmOf8QUv5JWtnREs3p",
+        "authors": ["UniQP"]
+    },
+    {
+        "coreLevel": 5,
+        "championIds": [],
+        "dps": 3.15E+12,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "_pUwf0GvcKhb8odIxsa7y",
+        "authors": ["UniQP"]
+    },
+    {
+        "coreLevel": 6,
+        "championIds": [],
+        "dps": 9.92E+13,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "wAS5rjBbwvG-au_xtws0K",
+        "authors": ["UniQP"]
+    },
+    {
+        "coreLevel": 7,
+        "championIds": [],
+        "dps": 2.48E+15,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "oRMlwMofXwubWupXpVc75",
+        "authors": ["UniQP"]
+    },
+    {
+        "coreLevel": 8,
+        "championIds": [],
+        "dps": 5.97E+18,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "NqV03vfHZw1XDp93mgWiJ",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 9,
+        "championIds": [],
+        "dps": 6.58E+20,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "GUxGr2lErt8XZfJ12sDMP",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 10,
+        "championIds": [],
+        "dps": 1.65E+22,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "aCdnbn8otCGpb8oJOaOx0",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 11,
+        "championIds": [],
+        "dps": 1.04E+25,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "5fsSHUHuTu1zapNMX1qx8",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 11,
+        "championIds": [],
+        "dps": 1.04E+25,
+        "comment": "No Cross Pipes",
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "kjMP30inxTqFq48XcTZLx",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 12,
+        "championIds": [],
+        "dps": 1.61E+27,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "0YKylbiA0DtiSxqT5As9i",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 12,
+        "championIds": [],
+        "dps": 1.61E+27,
+        "comment": "No Epics",
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "RViADcjNiQx8baAZKOVIs",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 13,
+        "championIds": [],
+        "dps": 4.03E+28,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "e0wVkcrE9q_tuw8QDtd5C",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 14,
+        "championIds": [],
+        "dps": 1.98E+30,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "T1UEgokDLILt5jm6Dr4WJ",
+        "authors": ["Darkbolt"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 4.94E+31,
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "lZfp8UfqKZo3wXTjXXeOA",
+        "authors": ["Darkbolt"]
+    },
+    {
         "coreLevel": 15,
         "championIds": [],
         "dps": 1.60E+29,
@@ -1718,6 +1930,16 @@
         "coreId": 6,
         "type": "reference",
         "layoutId": "HHys4x0fUH8rcUPzXzT3y",
+        "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 4.94E+31,
+        "comment": "Min Pipes: 78",
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "641C3uzNU-JG1tOjyDEp1",
         "authors": ["Emmote"]
     },
     {
@@ -1789,6 +2011,16 @@
         "authors": ["Emmote"]
     },
     {
+        "coreLevel": 15,
+        "championIds": [],
+        "dps": 4.94E+31,
+        "comment": "Min Rarity: 0 Rares",
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "f5xMGPZWZRxn6lk2CFGQj",
+        "authors": ["UniQP"]
+    },
+    {
         "coreLevel": 2,
         "championIds": [],
         "dps": 8.96E+5,
@@ -1847,5 +2079,18 @@
         "type": "reference",
         "layoutId": "lv6HGYAJqqqGart_Hqgam",
         "authors": ["Emmote"]
+    },
+    {
+        "coreLevel": 8,
+        "championIds": [],
+        "dps": 3.73E+22,
+        "comment": "Min Supercharge: 8",
+        "coreId": 7,
+        "type": "reference",
+        "layoutId": "zTgqPh8-Txh0mFImERhoX",
+        "authors": [
+            "UniQP",
+            "Emmote"
+        ]
     }
 ]

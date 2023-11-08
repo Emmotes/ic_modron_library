@@ -1,8 +1,8 @@
 [Back to Main](index.md)
 
-![Modest Core](images/core_1_modest.png)
+![Dexterous Core](images/core_7_dexterous.png)
 
-# Modest Core References
+# Dexterous Core References
 
 These designs can be used for inspiration for piping your own core at various levels - as well as getting it Full Epic with fewer or less-rare pieces.
 
@@ -22,7 +22,7 @@ These designs can be used for inspiration for piping your own core at various le
         </span>
     </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/95bmQkBUH9pH1x98144B-" target="_blank">
+    <a href="https://ic.byteglow.com/modron/yP8AtNGqXAQRcSz4H7VU0" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
@@ -32,7 +32,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/95bmQkBUH9pH1x98144B-
+            https://ic.byteglow.com/modron/yP8AtNGqXAQRcSz4H7VU0
         </span>
         <span class="modronNote">
             &nbsp;
@@ -42,17 +42,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/HIer7L-vp1hVz5ZCdGU5b" target="_blank">
+    <a href="https://ic.byteglow.com/modron/KHNcuGxlaOl-GIaTBkNHJ" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             2
         </span>
         <span class="modronAuthors">
-            Retaki
+            Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/HIer7L-vp1hVz5ZCdGU5b
+            https://ic.byteglow.com/modron/KHNcuGxlaOl-GIaTBkNHJ
         </span>
         <span class="modronNote">
             &nbsp;
@@ -62,17 +62,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Zoa8v3UbNzZPVxKhFn3gl" target="_blank">
+    <a href="https://ic.byteglow.com/modron/5wUfVRU576x_-ylfyFXqh" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             3
         </span>
         <span class="modronAuthors">
-            Retaki
+            UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/Zoa8v3UbNzZPVxKhFn3gl
+            https://ic.byteglow.com/modron/5wUfVRU576x_-ylfyFXqh
         </span>
         <span class="modronNote">
             &nbsp;
@@ -82,17 +82,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1vh1mhmEG7B-9vx-U7QMk" target="_blank">
+    <a href="https://ic.byteglow.com/modron/h00HmOf8QUv5JWtnREs3p" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             4
         </span>
         <span class="modronAuthors">
-            Retaki
+            UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/1vh1mhmEG7B-9vx-U7QMk
+            https://ic.byteglow.com/modron/h00HmOf8QUv5JWtnREs3p
         </span>
         <span class="modronNote">
             &nbsp;
@@ -102,17 +102,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1f8spUwuzcO5U4zHMKSPQ" target="_blank">
+    <a href="https://ic.byteglow.com/modron/_pUwf0GvcKhb8odIxsa7y" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             5
         </span>
         <span class="modronAuthors">
-            Retaki
+            UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/1f8spUwuzcO5U4zHMKSPQ
+            https://ic.byteglow.com/modron/_pUwf0GvcKhb8odIxsa7y
         </span>
         <span class="modronNote">
             &nbsp;
@@ -122,37 +122,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/REeLk3dw240gtF0Ot58qR" target="_blank">
-{:/nomarkdown}
-    <span class="modronRowShort">
-        <span class="modronLevel">
-            5
-        </span>
-        <span class="modronAuthors">
-            Retaki
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/REeLk3dw240gtF0Ot58qR
-        </span>
-        <span class="modronNote">
-            Fewer Epics
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/AZqVjx4NFY09GDqwvDlO0" target="_blank">
+    <a href="https://ic.byteglow.com/modron/wAS5rjBbwvG-au_xtws0K" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             6
         </span>
         <span class="modronAuthors">
-            Retaki
+            UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/AZqVjx4NFY09GDqwvDlO0
+            https://ic.byteglow.com/modron/wAS5rjBbwvG-au_xtws0K
         </span>
         <span class="modronNote">
             &nbsp;
@@ -162,17 +142,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dhAxBKNUh3PW5gceSF1wN" target="_blank">
+    <a href="https://ic.byteglow.com/modron/oRMlwMofXwubWupXpVc75" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             7
         </span>
         <span class="modronAuthors">
-            Retaki
+            UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/dhAxBKNUh3PW5gceSF1wN
+            https://ic.byteglow.com/modron/oRMlwMofXwubWupXpVc75
         </span>
         <span class="modronNote">
             &nbsp;
@@ -182,17 +162,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/7dDNyJAk0urYvYcDGZy0D" target="_blank">
+    <a href="https://ic.byteglow.com/modron/NqV03vfHZw1XDp93mgWiJ" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             8
         </span>
         <span class="modronAuthors">
-            Retaki
+            Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/7dDNyJAk0urYvYcDGZy0D
+            https://ic.byteglow.com/modron/NqV03vfHZw1XDp93mgWiJ
         </span>
         <span class="modronNote">
             &nbsp;
@@ -202,17 +182,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Oe_8L8WwwW3WjDp8mZ6Mn" target="_blank">
+    <a href="https://ic.byteglow.com/modron/GUxGr2lErt8XZfJ12sDMP" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             9
         </span>
         <span class="modronAuthors">
-            Retaki
+            Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/Oe_8L8WwwW3WjDp8mZ6Mn
+            https://ic.byteglow.com/modron/GUxGr2lErt8XZfJ12sDMP
         </span>
         <span class="modronNote">
             &nbsp;
@@ -222,17 +202,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/0rXSlApqvm-RpNHm6rCGN" target="_blank">
+    <a href="https://ic.byteglow.com/modron/aCdnbn8otCGpb8oJOaOx0" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             10
         </span>
         <span class="modronAuthors">
-            Retaki
+            Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/0rXSlApqvm-RpNHm6rCGN
+            https://ic.byteglow.com/modron/aCdnbn8otCGpb8oJOaOx0
         </span>
         <span class="modronNote">
             &nbsp;
@@ -242,17 +222,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/ZD_QEu4QiETXVOF4w5RVR" target="_blank">
+    <a href="https://ic.byteglow.com/modron/5fsSHUHuTu1zapNMX1qx8" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             11
         </span>
         <span class="modronAuthors">
-            Retaki
+            Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/ZD_QEu4QiETXVOF4w5RVR
+            https://ic.byteglow.com/modron/5fsSHUHuTu1zapNMX1qx8
         </span>
         <span class="modronNote">
             &nbsp;
@@ -262,17 +242,37 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/nJoJFSDvdD7b1rZPrBalL" target="_blank">
+    <a href="https://ic.byteglow.com/modron/kjMP30inxTqFq48XcTZLx" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            11
+        </span>
+        <span class="modronAuthors">
+            Darkbolt
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/kjMP30inxTqFq48XcTZLx
+        </span>
+        <span class="modronNote">
+            No Cross Pipes
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/0YKylbiA0DtiSxqT5As9i" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             12
         </span>
         <span class="modronAuthors">
-            Retaki
+            Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/nJoJFSDvdD7b1rZPrBalL
+            https://ic.byteglow.com/modron/0YKylbiA0DtiSxqT5As9i
         </span>
         <span class="modronNote">
             &nbsp;
@@ -282,17 +282,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/cVwUPmcXfoSxLyGzwNmw5" target="_blank">
+    <a href="https://ic.byteglow.com/modron/RViADcjNiQx8baAZKOVIs" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             12
         </span>
         <span class="modronAuthors">
-            Retaki
+            Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/cVwUPmcXfoSxLyGzwNmw5
+            https://ic.byteglow.com/modron/RViADcjNiQx8baAZKOVIs
         </span>
         <span class="modronNote">
             No Epics
@@ -302,17 +302,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/I-rqgKTMR-dq7PTnoDLEY" target="_blank">
+    <a href="https://ic.byteglow.com/modron/e0wVkcrE9q_tuw8QDtd5C" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             13
         </span>
         <span class="modronAuthors">
-            Retaki
+            Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/I-rqgKTMR-dq7PTnoDLEY
+            https://ic.byteglow.com/modron/e0wVkcrE9q_tuw8QDtd5C
         </span>
         <span class="modronNote">
             &nbsp;
@@ -322,17 +322,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/y5Nyg_FHh31td1MkHAToY" target="_blank">
+    <a href="https://ic.byteglow.com/modron/T1UEgokDLILt5jm6Dr4WJ" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             14
         </span>
         <span class="modronAuthors">
-            Retaki
+            Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/y5Nyg_FHh31td1MkHAToY
+            https://ic.byteglow.com/modron/T1UEgokDLILt5jm6Dr4WJ
         </span>
         <span class="modronNote">
             &nbsp;
@@ -342,37 +342,17 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/WLo5rDwq6qkF02usUiNr6" target="_blank">
+    <a href="https://ic.byteglow.com/modron/lZfp8UfqKZo3wXTjXXeOA" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
             15
         </span>
         <span class="modronAuthors">
-            Emmote
+            Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/WLo5rDwq6qkF02usUiNr6
-        </span>
-        <span class="modronNote">
-            Gold Find (No Damage)
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Qr18_CPZlXC9flrEZzn54" target="_blank">
-{:/nomarkdown}
-    <span class="modronRowShort">
-        <span class="modronLevel">
-            15
-        </span>
-        <span class="modronAuthors">
-            Retaki
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/Qr18_CPZlXC9flrEZzn54
+            https://ic.byteglow.com/modron/lZfp8UfqKZo3wXTjXXeOA
         </span>
         <span class="modronNote">
             &nbsp;

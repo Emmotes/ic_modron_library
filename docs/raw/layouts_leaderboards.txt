@@ -1,6 +1,3 @@
-# Format:
-# linkHash,coreId,coreLevel,dps,record|holder|pipe|separated,comment
-
 # coreIds
 # 1 Modest
 # 2 Strong
@@ -8,15 +5,20 @@
 # 4 Magic
 # 5 Aerois
 # 6 Unaffiliated
+# 7 Dexterous
+
+# Format:
+# linkHash,coreId,coreLevel,dps,record|holder|pipe|separated,comment
 
 # Champions to base DPS numbers on
 # because they benefit from every node:
-#    Modest:       Artemis
-#    Strong:       Artemis
-#    Fast:         Artemis
-#    Magic:        Asharra
-#    Aerois:       Lucius
-#    Unaffiliated: Artemis
+#         Modest: Artemis
+#         Strong: Artemis
+#           Fast: Artemis
+#          Magic: Asharra
+#         Aerois: Lucius
+#   Unaffiliated: Artemis
+#      Dexterous: Artemis
 
 # =======================
 # ==== Minimum Pipes ====
@@ -29,6 +31,7 @@ LPEwIiOxwfWpfb7RQo2Pw,3,15,2.92e25,Emmote,Min Pipes: 74
 iBpZmEKggkM5IWYOLl9kf,4,15,2.23e35,Emmote,Min Pipes: 76
 taZalpaozjGYfEmEuegt5,5,15,5.05e21,Emmote,Min Pipes: 81
 HHys4x0fUH8rcUPzXzT3y,6,15,4.94e31,Emmote,Min Pipes: 83
+641C3uzNU-JG1tOjyDEp1,7,15,4.94e31,Emmote,Min Pipes: 78
 
 # ========================
 # ==== Minimum Rarity ====
@@ -41,6 +44,7 @@ MxgE51Uw1Z8UUwAwof8dx,3,15,2.92e25,Darkbolt|Vorkera_x,Min Rarity: 4 Rares
 tAEHsyw8mAqbtGKi1AN8L,4,15,2.23e35,UniQP|Emmote|Midander|Retaki,Min Rarity: 7 Rares
 YxVuZO8-ZrtTtbtmHR99t,5,15,5.05e21,UniQP,Min Rarity: 5 Rare
 tkzbSmwWg180UBfXvogZp,6,15,4.94e31,Emmote,Min Rarity: 0 Rares
+f5xMGPZWZRxn6lk2CFGQj,7,15,4.94e31,UniQP,Min Rarity: 0 Rares
 
 # =========================================
 # ==== Minimum Supercharged Core Level ====
@@ -54,3 +58,4 @@ RCk2kjf6Tpp8M6DE_g9Er,3,3,3.43e08,Emmote,Min Supercharge: 3
 iQFZgLbd4rC_6TcOYRrMa,4,4,1.59e12,UniQP,Min Supercharge: 4
 dQW_3sDcrQdLFwkGUUCm4,5,3,8.07e05,Emmote,Min Supercharge: 3
 lv6HGYAJqqqGart_Hqgam,6,4,4.49e12,Emmote,Min Supercharge: 4
+zTgqPh8-Txh0mFImERhoX,7,8,3.73e22,UniQP|Emmote,Min Supercharge: 8

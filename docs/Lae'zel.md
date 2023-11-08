@@ -11,9 +11,9 @@
 {::nomarkdown}
 <div id="champStats">
 {:/nomarkdown}
-* Strength
-* Dexterity
-* Constitution
+* 13+ Strength
+* 13+ Dexterity
+* 13+ Constitution
 
 {::nomarkdown}
 </div>
@@ -62,6 +62,50 @@
                 </span>
             <span class="buffboxRowContent">
                 +1 Charisma
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxWolf Pack">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="12" id="Wolf Pack" value="Wolf Pack">
+                    <label for="Wolf Pack">Zorbu: Wolf Pack</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Dexterity
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxSamurai Training">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="2" id="Samurai Training" value="Samurai Training">
+                    <label for="Samurai Training">Korth: Samurai Training</label>
+                </span>
+            <span class="buffboxRowContent">
+                Set Dexterity to 16 (if lower)
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxSamurai Training">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="2" id="Samurai Training" value="Samurai Training">
+                    <label for="Samurai Training">Korth: Samurai Training</label>
+                </span>
+            <span class="buffboxRowContent">
+                Set Dexterity to 16 (if lower)
+            </span>
+            </span>
+        </span>
+        <span class="buffboxRow" id="buffboxSamurai Training">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="2" id="Samurai Training" value="Samurai Training">
+                    <label for="Samurai Training">Korth: Samurai Training</label>
+                </span>
+            <span class="buffboxRowContent">
+                Set Dexterity to 16 (if lower)
             </span>
             </span>
         </span>
@@ -119,7 +163,7 @@
 {:/nomarkdown}
 </span>
 
-The Strong core is far enough ahead of the Modest core that it's the best one to use for Lae'zel. That said - you could potentially use the Modest core if the pipes you have favour it.
+The Strong and Modest cores are so far ahead of the Magic (Non-Magic Variant) core that they are really the only choices for Lae'zel. Choose whichever you have the more favourable pipes for.
 
 [Back to Top](#top)
 

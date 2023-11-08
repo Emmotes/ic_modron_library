@@ -143,11 +143,33 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/641C3uzNU-JG1tOjyDEp1" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
+        </span>
+        <span class="modronRecordHolders">
+            Emmote
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/641C3uzNU-JG1tOjyDEp1
+        </span>
+        <span class="modronRecord">
+            78
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 # Minimum Rarity
 
 These designs use no epic pipes and the fewest rare pipes to Full Epic a modron. The use of common or uncommon pipes is unrestricted.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: If 0 rares is possible - the record holder will be the one with fewest uncommons.*
 
 <span class="modronColumn">
     <span class="modronRowHeader">
@@ -284,13 +306,33 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/f5xMGPZWZRxn6lk2CFGQj" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
+        </span>
+        <span class="modronRecordHolders">
+            UniQP
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/f5xMGPZWZRxn6lk2CFGQj
+        </span>
+        <span class="modronRecord">
+            0
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 # Minimum Level Supercharge
 
 These designs try to get at least one supercharged node while still retaining at least epic on every other node and activating the automation node on the lowest level of the core as possible. There are no limits on the types of pipe used.
 
-*Note: For ties between core level - the record holder will be the one with the highest flow.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: For ties between core level - the record holder will be the one with the highest flow.*
 
 <span class="modronColumn">
     <span class="modronRowHeader">
@@ -422,6 +464,26 @@ These designs try to get at least one supercharged node while still retaining at
         </span>
         <span class="modronRecord">
             4
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/zTgqPh8-Txh0mFImERhoX" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
+        </span>
+        <span class="modronRecordHolders">
+            UniQP and Emmote
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/zTgqPh8-Txh0mFImERhoX
+        </span>
+        <span class="modronRecord">
+            8
         </span>
     </span>
 {::nomarkdown}

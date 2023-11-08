@@ -15,23 +15,18 @@ function init() {
 			if (document.getElementById("buffbox").style.display != "flex") {
 				document.getElementById("buffbox").style.display = "flex";
 			}
-			var currBuffs = links[i].dataset.buffs;
-			if (typeof(currBuffs) == "string") {
-				if (!usedBuffs.includes(currBuffs)) {
-					usedBuffs.push(currBuffs);
-				}
-			} else {
-				for (let k=0; k<links[i].dataset.buffs.length; k++) {
-					if (!usedBuffs.includes(links[i].dataset.buffs[k])) {
-						usedBuffs.push(links[i].dataset.buffs[k]);
-					}
+			var currBuffs = links[i].dataset.buffs.split(",");
+			for (let k=0; k<currBuffs.length; k++) {
+				if (!usedBuffs.includes(currBuffs[k])) {
+					usedBuffs.push(currBuffs[k]);
 				}
 			}
 		}
 	}
 	if (usedBuffs.length == 0) {
-		document.getElementById("buffbox").style.display = "flex";
-		document.getElementById("buffboxNone").style.display = "flex";
+		document.getElementById("buffbox").style.display = "none";
+		//document.getElementById("buffbox").style.display = "flex";
+		//document.getElementById("buffboxNone").style.display = "flex";
 	}
 	if (layouts.length > 0) {
 		for (let i=0; i<usedBuffs.length; i++) {
@@ -62,17 +57,16 @@ function magic(target) {
 			buffs.push(inputs[i].value);
 		}
 	}
+	buffs.sort();
 	for (let i=0; i<layouts.length; i++) {
 		if (layouts[i].dataset.buffs != undefined) {
 			var otherCoresWithSameId = similarCoreId(layouts[i].dataset.coreId);
-			if (!otherCoresWithSameId) {
+			if (!otherCoresWithSameId && layouts[i].dataset.buffs == "") {
 				continue;
 			}
-			var currBuffs = layouts[i].dataset.buffs;
-			if (typeof(currBuffs) == "string") {
-				currBuffs = [currBuffs];
-			}
-			if (buffs.sort().toString() == currBuffs.sort().toString()) {
+			var currBuffs = layouts[i].dataset.buffs.split(",");
+			currBuffs.sort();
+			if (buffs.toString() == currBuffs.toString()) {
 				layouts[i].hidden = false;
 			} else {
 				layouts[i].hidden = true;
@@ -83,7 +77,28 @@ function magic(target) {
 		var allSimilarCoreIdsHidden = similarCoreIdsHidden(coreIds[i]);
 		if (allSimilarCoreIdsHidden) {
 			var layout = findMostAptlyMatchedLayout(coreIds[i], buffs);
-			layout.hidden = false;
+			if (layout != -1) {
+				layout.hidden = false;
+			}
+		}
+	}
+	var mixedUnaffDexTable = document.getElementById("mixedUnaffDexTable");
+	var unaffTable = document.getElementById("unaffTable");
+	var dexTable = document.getElementById("dexTable");
+	if (mixedUnaffDexTable != null && unaffTable != null) {
+		if (!similarCoreIdsHidden(7)) {
+			mixedUnaffDexTable.hidden = false;
+			unaffTable.hidden = true;
+		} else {
+			mixedUnaffDexTable.hidden = true;
+			unaffTable.hidden = false;
+		}
+	}
+	if (dexTable != null) {
+		if (!similarCoreIdsHidden(7)) {
+			dexTable.hidden = false;
+		} else {
+			dexTable.hidden = true;
 		}
 	}
 }
@@ -149,6 +164,9 @@ function findMostAptlyMatchedLayout(coreId, buffs) {
 				break;
 			}
 		}
+	}
+	if (mostMatchedIndex == -1) {
+		return -1;
 	}
 	return sameIdLayouts[mostMatchedIndex];
 }
