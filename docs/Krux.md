@@ -88,28 +88,6 @@
             </span>
             </span>
         </span>
-        <span class="buffboxRow" id="buffboxSamurai Training">
-            <span class="buffboxRowCol">
-                <span class="buffboxRowCheck">
-                    <input type="checkbox" name="2" id="Samurai Training" value="Samurai Training">
-                    <label for="Samurai Training">Korth: Samurai Training</label>
-                </span>
-            <span class="buffboxRowContent">
-                Set Dexterity to 16 (if lower)
-            </span>
-            </span>
-        </span>
-        <span class="buffboxRow" id="buffboxSamurai Training">
-            <span class="buffboxRowCol">
-                <span class="buffboxRowCheck">
-                    <input type="checkbox" name="2" id="Samurai Training" value="Samurai Training">
-                    <label for="Samurai Training">Korth: Samurai Training</label>
-                </span>
-            <span class="buffboxRowContent">
-                Set Dexterity to 16 (if lower)
-            </span>
-            </span>
-        </span>
     </span>
 {::nomarkdown}
     <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" data-core-id="6" data-buffs="">

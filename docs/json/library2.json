@@ -62,14 +62,6 @@
                     "id": 16,
                     "buffs": ["Samurai Training"]
                 },
-                {
-                    "id": 16,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 16,
-                    "buffs": ["Samurai Training"]
-                },
                 {"id": 54},
                 {"id": 72}
             ],
@@ -150,14 +142,6 @@
                 "int": true
             },
             "championIds": [
-                {
-                    "id": 6,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 6,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 6,
                     "buffs": ["Samurai Training"]
@@ -249,14 +233,6 @@
                 },
                 {
                     "id": 84,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 84,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 84,
                     "buffs": ["Wolf Pack"]
                 },
                 {"id": 118}
@@ -282,23 +258,7 @@
                     "id": 9,
                     "buffs": ["Samurai Training"]
                 },
-                {
-                    "id": 9,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 9,
-                    "buffs": ["Samurai Training"]
-                },
                 {"id": 21},
-                {
-                    "id": 23,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 23,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 23,
                     "buffs": ["Samurai Training"]
@@ -388,24 +348,8 @@
                     "id": 27,
                     "buffs": ["Samurai Training"]
                 },
-                {
-                    "id": 27,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 27,
-                    "buffs": ["Samurai Training"]
-                },
                 {"id": 30},
                 {"id": 36},
-                {
-                    "id": 64,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 64,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 64,
                     "buffs": ["Samurai Training"]
@@ -415,14 +359,6 @@
                     "buffs": ["Wolf Pack"]
                 },
                 {"id": 69},
-                {
-                    "id": 116,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 116,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 116,
                     "buffs": ["Samurai Training"]
@@ -512,14 +448,6 @@
                 "int": true
             },
             "championIds": [
-                {
-                    "id": 15,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 15,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 15,
                     "buffs": ["Samurai Training"]
@@ -640,14 +568,6 @@
                 },
                 {
                     "id": 17,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 17,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 17,
                     "buffs": ["Wolf Pack"]
                 }
             ],
@@ -689,14 +609,6 @@
                 },
                 {
                     "id": 7,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 7,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 7,
                     "buffs": ["Wolf Pack"]
                 },
                 {"id": 128},
@@ -718,14 +630,6 @@
                 "int": false
             },
             "championIds": [
-                {
-                    "id": 87,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 87,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 87,
                     "buffs": ["Samurai Training"]
@@ -783,14 +687,6 @@
                 "int": true
             },
             "championIds": [
-                {
-                    "id": 15,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 15,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 15,
                     "buffs": ["Samurai Training"]
@@ -1009,25 +905,9 @@
                 },
                 {
                     "id": 7,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 7,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 7,
                     "buffs": ["Wolf Pack"]
                 },
                 {"id": 12},
-                {
-                    "id": 27,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 27,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 27,
                     "buffs": ["Samurai Training"]
@@ -1040,25 +920,9 @@
                 },
                 {
                     "id": 64,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 64,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 64,
                     "buffs": ["Wolf Pack"]
                 },
                 {"id": 69},
-                {
-                    "id": 116,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 116,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 116,
                     "buffs": ["Samurai Training"]
@@ -1081,14 +945,6 @@
                 "int": false
             },
             "championIds": [
-                {
-                    "id": 87,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 87,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 87,
                     "buffs": ["Samurai Training"]
@@ -1151,14 +1007,6 @@
                 "int": true
             },
             "championIds": [
-                {
-                    "id": 16,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 16,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 16,
                     "buffs": ["Samurai Training"]
@@ -1236,20 +1084,10 @@
                 "melee": false,
                 "int": true
             },
-            "championIds": [
-                {
-                    "id": 6,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 6,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 6,
-                    "buffs": ["Samurai Training"]
-                }
-            ],
+            "championIds": [{
+                "id": 6,
+                "buffs": ["Samurai Training"]
+            }],
             "dps": 1.37E+39,
             "comment": "Non-Melee Variant",
             "coreId": 2,
@@ -1308,14 +1146,6 @@
                 },
                 {
                     "id": 84,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 84,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 84,
                     "buffs": ["Wolf Pack"]
                 }
             ],
@@ -1338,22 +1168,6 @@
             "championIds": [
                 {
                     "id": 9,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 9,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 9,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 23,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 23,
                     "buffs": ["Samurai Training"]
                 },
                 {
@@ -1419,14 +1233,6 @@
                 "int": true
             },
             "championIds": [
-                {
-                    "id": 17,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 17,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 17,
                     "buffs": ["Samurai Training"]
@@ -1835,44 +1641,12 @@
                     "buffs": ["Samurai Training"]
                 },
                 {
-                    "id": 6,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 6,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 7,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 7,
-                    "buffs": ["Samurai Training"]
-                },
-                {
                     "id": 7,
                     "buffs": ["Samurai Training"]
                 },
                 {"id": 8},
                 {
                     "id": 9,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 9,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 9,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 11,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 11,
                     "buffs": ["Samurai Training"]
                 },
                 {
@@ -1889,31 +1663,7 @@
                     "buffs": ["Samurai Training"]
                 },
                 {
-                    "id": 15,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 15,
-                    "buffs": ["Samurai Training"]
-                },
-                {
                     "id": 16,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 16,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 16,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 17,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 17,
                     "buffs": ["Samurai Training"]
                 },
                 {
@@ -1927,33 +1677,9 @@
                     "id": 23,
                     "buffs": ["Samurai Training"]
                 },
-                {
-                    "id": 23,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 23,
-                    "buffs": ["Samurai Training"]
-                },
                 {"id": 25},
                 {
                     "id": 27,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 27,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 27,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 30,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 30,
                     "buffs": ["Samurai Training"]
                 },
                 {
@@ -1961,14 +1687,6 @@
                     "buffs": ["Samurai Training"]
                 },
                 {"id": 31},
-                {
-                    "id": 33,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 33,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 33,
                     "buffs": ["Samurai Training"]
@@ -1986,26 +1704,10 @@
                 },
                 {
                     "id": 48,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 48,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 48,
                     "buffs": ["Wolf Pack"]
                 },
                 {"id": 54},
                 {"id": 61},
-                {
-                    "id": 64,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 64,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 64,
                     "buffs": ["Samurai Training"]
@@ -2017,14 +1719,6 @@
                 },
                 {
                     "id": 72,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 72,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 72,
                     "buffs": ["Wolf Pack"]
                 },
                 {
@@ -2032,31 +1726,7 @@
                     "buffs": ["Samurai Training"]
                 },
                 {
-                    "id": 76,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 76,
-                    "buffs": ["Samurai Training"]
-                },
-                {
                     "id": 84,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 84,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 84,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 87,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 87,
                     "buffs": ["Samurai Training"]
                 },
                 {
@@ -2064,14 +1734,6 @@
                     "buffs": ["Samurai Training"]
                 },
                 {"id": 89},
-                {
-                    "id": 92,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 92,
-                    "buffs": ["Samurai Training"]
-                },
                 {
                     "id": 92,
                     "buffs": ["Samurai Training"]
@@ -2087,36 +1749,12 @@
                     "buffs": ["Samurai Training"]
                 },
                 {
-                    "id": 116,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 116,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 118,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 118,
-                    "buffs": ["Samurai Training"]
-                },
-                {
                     "id": 118,
                     "buffs": ["Samurai Training"]
                 },
                 {
                     "id": 118,
                     "buffs": ["Wolf Pack"]
-                },
-                {
-                    "id": 123,
-                    "buffs": ["Samurai Training"]
-                },
-                {
-                    "id": 123,
-                    "buffs": ["Samurai Training"]
                 },
                 {
                     "id": 123,

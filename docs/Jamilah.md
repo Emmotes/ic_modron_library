@@ -89,63 +89,7 @@
             </span>
             </span>
         </span>
-        <span class="buffboxRow" id="buffboxSamurai Training">
-            <span class="buffboxRowCol">
-                <span class="buffboxRowCheck">
-                    <input type="checkbox" name="2" id="Samurai Training" value="Samurai Training">
-                    <label for="Samurai Training">Korth: Samurai Training</label>
-                </span>
-            <span class="buffboxRowContent">
-                Set Dexterity to 16 (if lower)
-            </span>
-            </span>
-        </span>
-        <span class="buffboxRow" id="buffboxSamurai Training">
-            <span class="buffboxRowCol">
-                <span class="buffboxRowCheck">
-                    <input type="checkbox" name="2" id="Samurai Training" value="Samurai Training">
-                    <label for="Samurai Training">Korth: Samurai Training</label>
-                </span>
-            <span class="buffboxRowContent">
-                Set Dexterity to 16 (if lower)
-            </span>
-            </span>
-        </span>
     </span>
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
-        </span>
-        <span class="modronDamageBuffed">
-            1.15e49%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
-        </span>
-        <span class="modronDamageBuffed">
-            1.15e49%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
 {::nomarkdown}
     <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}

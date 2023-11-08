@@ -87,28 +87,6 @@
             </span>
             </span>
         </span>
-        <span class="buffboxRow" id="buffboxSamurai Training">
-            <span class="buffboxRowCol">
-                <span class="buffboxRowCheck">
-                    <input type="checkbox" name="2" id="Samurai Training" value="Samurai Training">
-                    <label for="Samurai Training">Korth: Samurai Training</label>
-                </span>
-            <span class="buffboxRowContent">
-                Set Dexterity to 16 (if lower)
-            </span>
-            </span>
-        </span>
-        <span class="buffboxRow" id="buffboxSamurai Training">
-            <span class="buffboxRowCol">
-                <span class="buffboxRowCheck">
-                    <input type="checkbox" name="2" id="Samurai Training" value="Samurai Training">
-                    <label for="Samurai Training">Korth: Samurai Training</label>
-                </span>
-            <span class="buffboxRowContent">
-                Set Dexterity to 16 (if lower)
-            </span>
-            </span>
-        </span>
     </span>
 {::nomarkdown}
     <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" data-core-id="6" data-buffs="">
@@ -121,40 +99,6 @@
             https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
         </span>
         <span class="modronDamage">
-            1.15e49%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
-        </span>
-        <span class="modronDamageBuffed">
-            1.15e49%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
-        </span>
-        <span class="modronDamageBuffed">
             1.15e49%
         </span>
     </span>
@@ -264,40 +208,6 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36
-        </span>
-        <span class="modronDamageBuffed">
-            1.68e41%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36
-        </span>
-        <span class="modronDamageBuffed">
-            1.68e41%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36" target="_blank" data-core-id="2" data-buffs="Wolf Pack" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -323,40 +233,6 @@
         </span>
         <span class="modronLink">
             https://ic.byteglow.com/modron/yWqFzHx5bvXJe990YOTjT
-        </span>
-        <span class="modronDamageBuffed">
-            3.05e40%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj" target="_blank" data-core-id="1" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj
-        </span>
-        <span class="modronDamageBuffed">
-            3.05e40%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj" target="_blank" data-core-id="1" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj
         </span>
         <span class="modronDamageBuffed">
             3.05e40%
