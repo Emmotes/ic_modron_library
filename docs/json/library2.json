@@ -497,6 +497,22 @@
         {
             "coreLevel": 15,
             "nodes": {
+                "str": false,
+                "wis": true,
+                "con": false,
+                "dex": true,
+                "cha": false,
+                "int": true
+            },
+            "championIds": [],
+            "dps": 1.60E+38,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "8hE9ZcjRkmb-_Y9n3uJoo"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
                 "str": true,
                 "wis": false,
                 "con": true,
