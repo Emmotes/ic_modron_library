@@ -1,3 +1,98 @@
+const nondps = {
+	active: (localStorage.modronicaShowNonDps == 1 ? true : false),
+	storage: "modronicaShowNonDps",
+	name: "Show Non-DPS Mode",
+	nick: "damageTabNonDPS",
+	description: "Lets the Damage tab on the main page display non-dps champions.",
+	map: new Map()
+};
+const allModes = [];
+
+function init() {
+	var edit = !(document.location.pathname.includes("/modes.html"));
+	updateModes(edit);
+	
+	if (!edit) {
+		var list = document.getElementById(`modesList`);
+		var contents = ``;
+		for (let i = 0; i < allModes.length; i++) {
+			var curr = allModes[i];
+			contents += `<span class="modesColInner"><span class="modesRow"><span class="modesType"><input type="checkbox" class="modesCheckbox" id="${curr.nick}" name="${curr.nick}" onClick="toggleMode('${curr.nick}')"`+(curr.active?` checked`:``)+`><label for="${curr.nick}" class="modesLabel">${curr.name}</label></span><span class="modesDetails" id="${curr.nick}Details"><a onClick="modesDetails('${curr.nick}')" id="${curr.nick}Link">[show]</a></span></span><span class="modesContent" id="${curr.nick}Content" style="display:none;">&nbsp;</span></span>`;
+		}
+		list.innerHTML = contents;
+	} else {
+		nameEeggs();
+		nixieBlueIt();
+		window.addEventListener('hashchange',() =>{
+			swapTab();
+		});
+		swapTab();
+	}
+}
+
+function updateModes(edit) {
+	var modes = `<br /><a href="modes.html">Modes</a>`;
+	if (allModes.length == 0) {
+		modes = ``;
+	}
+	for (let i = 0; i < allModes.length; i++) {
+		var curr = allModes[i];
+		if (curr.active) {
+			modes += `<br />${curr.name} Active`;
+			if (edit) {
+				if (curr.nick = "damageTabNonDPS") {
+					document.getElementById(curr.nick).hidden = false;
+				}
+			}
+		} else {
+			if (edit) {
+				document.getElementById(curr.nick).hidden = true;
+			}
+		}
+	}
+	var element = document.getElementById("modes");
+	element.innerHTML = modes;
+}
+
+function modesDetails(type) {
+	for (let i=0; i<allModes.length; i++) {
+		var curr = allModes[i];
+		if (curr.nick != type) {
+			continue;
+		}
+		var element = document.getElementById(`${curr.nick}Content`);
+		var link = document.getElementById(`${curr.nick}Link`);
+		if (link.innerHTML == "[show]") {
+			var content = `<span class="modesContentRowHeader">${curr.description}</span>`;
+			element.innerHTML = content;
+			element.style.display = ``;
+			link.innerHTML = `[hide]`;
+		} else {
+			element.innerHTML = `&nbsp;`;
+			element.style.display = `none`;
+			link.innerHTML = `[show]`;
+		}
+	}
+}
+
+function toggleMode(type) {
+	for (let i=0; i<allModes.length; i++) {
+		var curr = allModes[i];
+		if (curr.nick != type) {
+			continue;
+		}
+		var checked = document.getElementById(`${curr.nick}`).checked;
+		if (checked) {
+			localStorage[curr.storage] = 1;
+			curr.active = true;
+		} else {
+			localStorage[curr.storage] = 0;
+			curr.active = false;
+		}
+	}
+	updateModes();
+}
+
 function swapTab() {
 	var hash = window.location.hash.substring(1);
 	if (hash != "" && document.getElementById(hash) != undefined) {
@@ -42,9 +137,4 @@ function nixieBlueIt() {
     }
 }
 
-nameEeggs();
-nixieBlueIt();
-window.addEventListener('hashchange',() =>{
-	swapTab();
-});
-swapTab();
+init();

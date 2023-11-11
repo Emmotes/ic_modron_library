@@ -1,18 +1,20 @@
 [Back to Main](index.md)
 
-<span id="grimm">
-![Grimm Portrait](images/portraits/grimm.png)
+<span id="strongheart">
+![Strongheart Portrait](images/portraits/strongheart.png)
 </span>
 
-# Grimm
+# Strongheart
 
-<span class="champIntro">Grimm is unaffiliated and normally benefits from the following stat nodes:</span>
+<span class="champIntro">Strongheart is unaffiliated and normally benefits from the following stat nodes:</span>
 
 {::nomarkdown}
 <div id="champStats">
 {:/nomarkdown}
 * 13+ Strength
 * 13+ Constitution
+* 13+ Intelligence (with Feat)
+* 13+ Wisdom
 * 13+ Charisma
 
 {::nomarkdown}
@@ -20,7 +22,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Grimm is a melee champion.</span>
+<span class="champIntro">Strongheart is a melee champion.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -28,7 +30,7 @@
         <span class="buffboxRow" id="buffboxNone">
             <span class="buffboxRowCol">
                 <span class="buffboxRowNone">
-                    Grimm does not gain the benefit of extra stat nodes from any stat increasing formation abilities.
+                    Strongheart does not gain the benefit of extra stat nodes from any stat increasing formation abilities.
                 </span>
             </span>
         </span>
@@ -123,204 +125,119 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/DbTK3EhK9gEYs79rV5RON" target="_blank" data-core-id="2" data-buffs="Best And The Brightest,Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/DbTK3EhK9gEYs79rV5RON
-        </span>
-        <span class="modronDamageBuffed">
-            2.43e43%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank" data-core-id="1" data-buffs="Best And The Brightest,Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E
-        </span>
-        <span class="modronDamageBuffed">
-            4.43e42%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
+    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj
-        </span>
-        <span class="modronDamageBuffed">
-            2.19e41%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/DjhjKzreH_1MmsDWLg6hs" target="_blank" data-core-id="2" data-buffs="Best And The Brightest" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/DjhjKzreH_1MmsDWLg6hs
-        </span>
-        <span class="modronDamageBuffed">
-            1.68e41%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36
-        </span>
-        <span class="modronDamageBuffed">
-            1.68e41%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36" target="_blank" data-core-id="2" data-buffs="Wolf Pack" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/-jnUH55BSGiQ4QmDYXI36
-        </span>
-        <span class="modronDamageBuffed">
-            1.68e41%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yWqFzHx5bvXJe990YOTjT" target="_blank" data-core-id="1" data-buffs="Best And The Brightest" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/yWqFzHx5bvXJe990YOTjT
-        </span>
-        <span class="modronDamageBuffed">
-            3.05e40%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj" target="_blank" data-core-id="1" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj
-        </span>
-        <span class="modronDamageBuffed">
-            3.05e40%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj" target="_blank" data-core-id="1" data-buffs="Wolf Pack" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj
-        </span>
-        <span class="modronDamageBuffed">
-            3.05e40%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh" target="_blank" data-core-id="2" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong
-        </span>
-        <span class="modronLink">
-            https://ic.byteglow.com/modron/T6WKqVL4iKEh9StNykvRh
+            https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
         </span>
         <span class="modronDamage">
-            1.16e39%
+            3.84e45%
         </span>
     </span>
 {::nomarkdown}
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL" target="_blank" data-core-id="1" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/b27B4yn_RIckxkXk_vYIp" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/b27B4yn_RIckxkXk_vYIp
+        </span>
+        <span class="modronDamageBuffed">
+            3.09e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/b27B4yn_RIckxkXk_vYIp" target="_blank" data-core-id="2" data-buffs="Wolf Pack" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/b27B4yn_RIckxkXk_vYIp
+        </span>
+        <span class="modronDamageBuffed">
+            3.09e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/DkOJBZGdGpnq4_K4yQont" target="_blank" data-core-id="1" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/8z5iuN2u8G544H6M8XcwL
+            https://ic.byteglow.com/modron/DkOJBZGdGpnq4_K4yQont
         </span>
-        <span class="modronDamage">
-            2.11e38%
+        <span class="modronDamageBuffed">
+            2.18e44%
         </span>
     </span>
 {::nomarkdown}
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt" target="_blank" data-core-id="4" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/DkOJBZGdGpnq4_K4yQont" target="_blank" data-core-id="1" data-buffs="Wolf Pack" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+            ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt
+            https://ic.byteglow.com/modron/DkOJBZGdGpnq4_K4yQont
+        </span>
+        <span class="modronDamageBuffed">
+            2.18e44%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l
         </span>
         <span class="modronDamage">
-            1.04e37%
+            2.13e43%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/UBppioFeMIfJ4fE90nPYp" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/UBppioFeMIfJ4fE90nPYp
+        </span>
+        <span class="modronDamage">
+            1.50e42%
         </span>
     </span>
 {::nomarkdown}
@@ -328,14 +245,14 @@
 {:/nomarkdown}
 </span>
 
-The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Grimm.
+The Unaffiliated core is far enough ahead of the other cores that it's the best one to use for Strongheart. That said - you could potentially use one of the other cores if the pipes you have favours one of them.
 
 {::nomarkdown}
 <span id="mixedUnaffDexTable" hidden>
 {:/nomarkdown}
 
 
-Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Grimm only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
+Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Strongheart only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
 
 | Core | Num Unaffiliated in Formation | Total Damage | | Core | Num 15+ Dex in Formation | Total Damage |
 |---|---|---|---|---|---|---|
@@ -355,7 +272,7 @@ Note that the damage of the Unaffiliated and Dexterous cores vary depending on t
 {:/nomarkdown}
 
 
-Note that the damage of the Unaffiliated core varies depending on the number of unaffiliated champions in the formation. The damage numbers on the layout above account for just 1 (Grimm only). For a specific breakdown of how the core fares with more unaffiliated champions - check the table below.
+Note that the damage of the Unaffiliated core varies depending on the number of unaffiliated champions in the formation. The damage numbers on the layout above account for just 1 (Strongheart only). For a specific breakdown of how the core fares with more unaffiliated champions - check the table below.
 
 | Core | Num Unaffiliated in Formation | Total Damage |
 |---|---|---|
