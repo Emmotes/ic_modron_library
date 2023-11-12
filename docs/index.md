@@ -1049,14 +1049,14 @@ I have only linked the Fast core on Nahara's damage page because it simply canno
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec" target="_blank">
+    <a href="https://ic.byteglow.com/modron/a3egkSdwZEtornHzWM6Q9" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Fast Core](images/core_3_fast.png)"Budget" Supercharged
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/FN7JOvNteXk4heA0EY4ec
+            https://ic.byteglow.com/modron/a3egkSdwZEtornHzWM6Q9
         </span>
         <span class="modronDamage">
             9.73e38%
@@ -1227,13 +1227,14 @@ Getting these highly optimised designs hasn't been a one person job. It's been a
 
 I personally want to thank `UniQP` most of all though. This is as much their project as mine - and they have easily contributed the most to this library with innumerable optimisations. It simply wouldn't be what it is without their input.
 
-Of course - others have contributed as well - and the most notable include:
+Of course - others have contributed as well:
 
 * `Retaki`
 * `Midander`
 * `Ridge`
 * `Cuddlegutz`
 * `Darkbolt`
+* `Leon4rdo`
 
 Also a big thank you to `Uffdah` for the modron tool on Byteglow.
 
