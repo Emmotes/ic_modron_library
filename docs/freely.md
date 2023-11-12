@@ -123,6 +123,40 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/gkSrGgzXRfYioKRKXDvjW" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/gkSrGgzXRfYioKRKXDvjW
+        </span>
+        <span class="modronDamage">
+            2.87e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/c7wOTCb6WAA8JMdfsrNM5" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/c7wOTCb6WAA8JMdfsrNM5
+        </span>
+        <span class="modronDamage">
+            9.45e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 The Dexterous core is far enough ahead of the Magic core that it's the best one to use for Freely. I do not recommend even trying the Magic core because it doesn't have any health nodes.

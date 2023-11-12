@@ -156,9 +156,119 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/zovLaJ-GgcANIRNOoRb4X" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/zovLaJ-GgcANIRNOoRb4X
+        </span>
+        <span class="modronDamage">
+            1.47e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/p1p7iGg0p3A9Oj6ud6RsF" target="_blank" data-core-id="1" data-buffs="Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/p1p7iGg0p3A9Oj6ud6RsF
+        </span>
+        <span class="modronDamageBuffed">
+            1.08e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/ENRsq3GEvoUCpVFXy6t8j" target="_blank" data-core-id="1" data-buffs="Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/ENRsq3GEvoUCpVFXy6t8j
+        </span>
+        <span class="modronDamageBuffed">
+            1.04e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/wKHuZ_w2G6TfjR4QRPry7" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/wKHuZ_w2G6TfjR4QRPry7
+        </span>
+        <span class="modronDamage">
+            7.46e37%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/y9CoTUR3HQcKJ9AATFo2L" target="_blank" data-core-id="4" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/y9CoTUR3HQcKJ9AATFo2L
+        </span>
+        <span class="modronDamage">
+            9.06e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
-There are no viable cores for Omin.
+The Strong core is far enough ahead of the other cores that it's the best one to use for Omin. That said - you could potentially use the Modest or Magic (Non-Magic Variant) core if the pipes you have favours one of them.
+
+{::nomarkdown}
+<span id="dexTable" hidden>
+{:/nomarkdown}
+
+
+Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Omin only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
+
+| Core | Num 15+ Dex in Formation | Total Damage |
+|---|---|---|
+| Dexterous | 10 | 1.04e53% |
+| Dexterous | 9 | 6.81e52% |
+| Dexterous | 8 | 4.26e52% |
+| Dexterous | 7 | 2.50e52% |
+| Dexterous | 6 | 1.35e52% |
+| Dexterous | 5 | 6.56e51% |
+| Dexterous | 4 | 2.70e51% |
+| Dexterous | 3 | 8.63e50% |
+| Dexterous | 2 | 1.74e50% |
+| Dexterous | 1 | 1.15e49% |
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
 
 [Back to Top](#top)
 

@@ -141,6 +141,23 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/aWc_YdbTTWfuHw7khJt03" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/aWc_YdbTTWfuHw7khJt03
+        </span>
+        <span class="modronDamage">
+            1.68e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/sGv2PkfUhcXsZAEQEDdvy" target="_blank" data-core-id="1" data-buffs="Feats to Spare" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -152,6 +169,23 @@
         </span>
         <span class="modronDamageBuffed">
             3.33e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/EX_CnsXKrgbbgo165f2aN" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/EX_CnsXKrgbbgo165f2aN
+        </span>
+        <span class="modronDamage">
+            2.87e38%
         </span>
     </span>
 {::nomarkdown}
@@ -176,7 +210,7 @@
 {:/nomarkdown}
 </span>
 
-The Unaffiliated and Dexterous cores are so far ahead of the Magic (Non-Magic Variant) core that they are really the only choices for Beadle. Choose whichever you have the more favourable pipes for.
+The Unaffiliated and Dexterous cores are so far ahead of the Strong core that they are really the only choices for Beadle. Choose whichever you have the more favourable pipes for.
 
 Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Beadle only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
 

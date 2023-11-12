@@ -211,7 +211,7 @@
 {:/nomarkdown}
 </span>
 
-The Unaffiliated and Dexterous cores are so far ahead of the other cores that they are really the only choices for Stoki. Choose whichever you have the more favourable pipes for.
+The Unaffiliated and Dexterous cores are so far ahead of the Strong core that they are really the only choices for Stoki. Choose whichever you have the more favourable pipes for.
 
 Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Stoki only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
 

@@ -248,6 +248,482 @@ Zorbu
 </span>
 
 
+{::nomarkdown}
+<span id="damageTabNonDPS" hidden>
+{:/nomarkdown}
+
+## Non-DPS Champions
+
+Because it's become clear that some people (myself included) are using non-dps champions as dps champions - either for the meme or just because they want to - I've decided to add non-dps champions to the modron library.
+
+*Note: These champions will not be selectable on byteglow's layout library to avoid bloat from something few people will use.*
+
+<span class="championLinkRow">
+<span class="championLinkColumn">
+<a href="aila.html">
+<span class="championLink" id="aila" style="background-image:url(images/portraits/aila.png)">
+Aila
+</span>
+</a>
+<a href="alyndra.html">
+<span class="championLink" id="alyndra" style="background-image:url(images/portraits/alyndra.png)">
+Alyndra
+</span>
+</a>
+<a href="antrius.html">
+<span class="championLink" id="antrius" style="background-image:url(images/portraits/antrius.png)">
+Antrius
+</span>
+</a>
+<a href="astarion.html">
+<span class="championLink" id="astarion" style="background-image:url(images/portraits/astarion.png)">
+Astarion
+</span>
+</a>
+<a href="avren.html">
+<span class="championLink" id="avren" style="background-image:url(images/portraits/avren.png)">
+Avren
+</span>
+</a>
+<a href="bbeg.html">
+<span class="championLink" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">
+BBEG
+</span>
+</a>
+<a href="baeloth.html">
+<span class="championLink" id="baeloth" style="background-image:url(images/portraits/baeloth.png)">
+Baeloth
+</span>
+</a>
+<a href="barrowin.html">
+<span class="championLink" id="barrowin" style="background-image:url(images/portraits/barrowin.png)">
+Barrowin
+</span>
+</a>
+<a href="beadle.html">
+<span class="championLink" id="beadle" style="background-image:url(images/portraits/beadle.png)">
+Beadle
+</span>
+</a>
+<a href="blooshi.html">
+<span class="championLink" id="blooshi" style="background-image:url(images/portraits/blooshi.png)">
+Blooshi
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="brig.html">
+<span class="championLink" id="brig" style="background-image:url(images/portraits/brig.png)">
+Brig
+</span>
+</a>
+<a href="briv.html">
+<span class="championLink" id="briv" style="background-image:url(images/portraits/briv.png)">
+Briv
+</span>
+</a>
+<a href="bruenor.html">
+<span class="championLink" id="bruenor" style="background-image:url(images/portraits/bruenor.png)">
+Bruenor
+</span>
+</a>
+<a href="calliope.html">
+<span class="championLink" id="calliope" style="background-image:url(images/portraits/calliope.png)">
+Calliope
+</span>
+</a>
+<a href="celeste.html">
+<span class="championLink" id="celeste" style="background-image:url(images/portraits/celeste.png)">
+Celeste
+</span>
+</a>
+<a href="certainty.html">
+<span class="championLink" id="certainty" style="background-image:url(images/portraits/certainty.png)">
+Certainty
+</span>
+</a>
+<a href="corazon.html">
+<span class="championLink" id="corazon" style="background-image:url(images/portraits/corazon.png)">
+Corazón
+</span>
+</a>
+<a href="deekin.html">
+<span class="championLink" id="deekin" style="background-image:url(images/portraits/deekin.png)">
+Deekin
+</span>
+</a>
+<a href="desmond.html">
+<span class="championLink" id="desmond" style="background-image:url(images/portraits/desmond.png)">
+Desmond
+</span>
+</a>
+<a href="dob.html">
+<span class="championLink" id="dob" style="background-image:url(images/portraits/dob.png)">
+Dob
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="donaar.html">
+<span class="championLink" id="donaar" style="background-image:url(images/portraits/donaar.png)">
+Donaar
+</span>
+</a>
+<a href="dragonbait.html">
+<span class="championLink" id="dragonbait" style="background-image:url(images/portraits/dragonbait.png)">
+Dragonbait
+</span>
+</a>
+<a href="dm.html">
+<span class="championLink" id="dm" style="background-image:url(images/portraits/dm.png)">
+DM
+</span>
+</a>
+<a href="egbert.html">
+<span class="championLink" id="egbert" style="background-image:url(images/portraits/egbert.png)">
+Egbert
+</span>
+</a>
+<a href="ellywick.html">
+<span class="championLink" id="ellywick" style="background-image:url(images/portraits/ellywick.png)">
+Ellywick
+</span>
+</a>
+<a href="evandra.html">
+<span class="championLink" id="evandra" style="background-image:url(images/portraits/evandra.png)">
+Evandra
+</span>
+</a>
+<a href="evelyn.html">
+<span class="championLink" id="evelyn" style="background-image:url(images/portraits/evelyn.png)">
+Evelyn
+</span>
+</a>
+<a href="ezmerelda.html">
+<span class="championLink" id="ezmerelda" style="background-image:url(images/portraits/ezmerelda.png)">
+Ezmerelda
+</span>
+</a>
+<a href="freely.html">
+<span class="championLink" id="freely" style="background-image:url(images/portraits/freely.png)">
+Freely
+</span>
+</a>
+<a href="gazrick.html">
+<span class="championLink" id="gazrick" style="background-image:url(images/portraits/gazrick.png)">
+Gazrick
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="havilar.html">
+<span class="championLink" id="havilar" style="background-image:url(images/portraits/havilar.png)">
+Havilar
+</span>
+</a>
+<a href="hewmaan.html">
+<span class="championLink" id="hewmaan" style="background-image:url(images/portraits/hewmaan.png)">
+Hew Maan
+</span>
+</a>
+<a href="hitch.html">
+<span class="championLink" id="hitch" style="background-image:url(images/portraits/hitch.png)">
+Hitch
+</span>
+</a>
+<a href="imoen.html">
+<span class="championLink" id="imoen" style="background-image:url(images/portraits/imoen.png)">
+Imoen
+</span>
+</a>
+<a href="jangsao.html">
+<span class="championLink" id="jangsao" style="background-image:url(images/portraits/jangsao.png)">
+Jang Sao
+</span>
+</a>
+<a href="kthriss.html">
+<span class="championLink" id="kthriss" style="background-image:url(images/portraits/kthriss.png)">
+K'thriss
+</span>
+</a>
+<a href="korth.html">
+<span class="championLink" id="korth" style="background-image:url(images/portraits/korth.png)">
+Korth
+</span>
+</a>
+<a href="krull.html">
+<span class="championLink" id="krull" style="background-image:url(images/portraits/krull.png)">
+Krull
+</span>
+</a>
+<a href="krydle.html">
+<span class="championLink" id="krydle" style="background-image:url(images/portraits/krydle.png)">
+Krydle
+</span>
+</a>
+<a href="lazaapz.html">
+<span class="championLink" id="lazaapz" style="background-image:url(images/portraits/lazaapz.png)">
+Lazaapz
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="mehen.html">
+<span class="championLink" id="mehen" style="background-image:url(images/portraits/mehen.png)">
+Mehen
+</span>
+</a>
+<a href="melf.html">
+<span class="championLink" id="melf" style="background-image:url(images/portraits/melf.png)">
+Melf
+</span>
+</a>
+<a href="merilwen.html">
+<span class="championLink" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">
+Merilwen
+</span>
+</a>
+<a href="miria.html">
+<span class="championLink" id="miria" style="background-image:url(images/portraits/miria.png)">
+Miria
+</span>
+</a>
+<a href="morgaen.html">
+<span class="championLink" id="morgaen" style="background-image:url(images/portraits/morgaen.png)">
+Môrgæn
+</span>
+</a>
+<a href="nayeli.html">
+<span class="championLink" id="nayeli" style="background-image:url(images/portraits/nayeli.png)">
+Nayeli
+</span>
+</a>
+<a href="nerys.html">
+<span class="championLink" id="nerys" style="background-image:url(images/portraits/nerys.png)">
+Nerys
+</span>
+</a>
+<a href="nordom.html">
+<span class="championLink" id="nordom" style="background-image:url(images/portraits/nordom.png)">
+Nordom
+</span>
+</a>
+<a href="nova.html">
+<span class="championLink" id="nova" style="background-image:url(images/portraits/nova.png)">
+Nova
+</span>
+</a>
+<a href="nrakk.html">
+<span class="championLink" id="nrakk" style="background-image:url(images/portraits/nrakk.png)">
+Nrakk
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="omin.html">
+<span class="championLink" id="omin" style="background-image:url(images/portraits/omin.png)">
+Omin
+</span>
+</a>
+<a href="orkira.html">
+<span class="championLink" id="orkira" style="background-image:url(images/portraits/orkira.png)">
+Orkira
+</span>
+</a>
+<a href="paultin.html">
+<span class="championLink" id="paultin" style="background-image:url(images/portraits/paultin.png)">
+Paultin
+</span>
+</a>
+<a href="penelope.html">
+<span class="championLink" id="penelope" style="background-image:url(images/portraits/penelope.png)">
+Penelope
+</span>
+</a>
+<a href="pwent.html">
+<span class="championLink" id="pwent" style="background-image:url(images/portraits/pwent.png)">
+Pwent
+</span>
+</a>
+<a href="qillek.html">
+<span class="championLink" id="qillek" style="background-image:url(images/portraits/qillek.png)">
+Qillek
+</span>
+</a>
+<a href="regis.html">
+<span class="championLink" id="regis" style="background-image:url(images/portraits/regis.png)">
+Regis
+</span>
+</a>
+<a href="reya.html">
+<span class="championLink" id="reya" style="background-image:url(images/portraits/reya.png)">
+Reya
+</span>
+</a>
+<a href="rust.html">
+<span class="championLink" id="rust" style="background-image:url(images/portraits/rust.png)">
+Rust
+</span>
+</a>
+<a href="selise.html">
+<span class="championLink" id="selise" style="background-image:url(images/portraits/selise.png)">
+Selise
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="sentry.html">
+<span class="championLink" id="sentry" style="background-image:url(images/portraits/sentry.png)">
+Sentry
+</span>
+</a>
+<a href="sgt.knox.html">
+<span class="championLink" id="sgt.knox" style="background-image:url(images/portraits/sgt.knox.png)">
+Sgt. Knox
+</span>
+</a>
+<a href="shaka.html">
+<span class="championLink" id="shaka" style="background-image:url(images/portraits/shaka.png)">
+Shaka
+</span>
+</a>
+<a href="shandie.html">
+<span class="championLink" id="shandie" style="background-image:url(images/portraits/shandie.png)">
+Shandie
+</span>
+</a>
+<a href="sisaspia.html">
+<span class="championLink" id="sisaspia" style="background-image:url(images/portraits/sisaspia.png)">
+Sisaspia
+</span>
+</a>
+<a href="solaak.html">
+<span class="championLink" id="solaak" style="background-image:url(images/portraits/solaak.png)">
+Solaak
+</span>
+</a>
+<a href="spurt.html">
+<span class="championLink" id="spurt" style="background-image:url(images/portraits/spurt.png)">
+Spurt
+</span>
+</a>
+<a href="stoki.html">
+<span class="championLink" id="stoki" style="background-image:url(images/portraits/stoki.png)">
+Stoki
+</span>
+</a>
+<a href="strongheart.html">
+<span class="championLink" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">
+Strongheart
+</span>
+</a>
+<a href="talin.html">
+<span class="championLink" id="talin" style="background-image:url(images/portraits/talin.png)">
+Talin
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="tatyana.html">
+<span class="championLink" id="tatyana" style="background-image:url(images/portraits/tatyana.png)">
+Tatyana
+</span>
+</a>
+<a href="thellora.html">
+<span class="championLink" id="thellora" style="background-image:url(images/portraits/thellora.png)">
+Thellora
+</span>
+</a>
+<a href="turiel.html">
+<span class="championLink" id="turiel" style="background-image:url(images/portraits/turiel.png)">
+Turiel
+</span>
+</a>
+<a href="tyril.html">
+<span class="championLink" id="tyril" style="background-image:url(images/portraits/tyril.png)">
+Tyril
+</span>
+</a>
+<a href="ulkoria.html">
+<span class="championLink" id="ulkoria" style="background-image:url(images/portraits/ulkoria.png)">
+Ulkoria
+</span>
+</a>
+<a href="uriah.html">
+<span class="championLink" id="uriah" style="background-image:url(images/portraits/uriah.png)">
+Uriah
+</span>
+</a>
+<a href="valentine.html">
+<span class="championLink" id="valentine" style="background-image:url(images/portraits/valentine.png)">
+Valentine
+</span>
+</a>
+<a href="vi.html">
+<span class="championLink" id="vi" style="background-image:url(images/portraits/vi.png)">
+Vi
+</span>
+</a>
+<a href="viconia.html">
+<span class="championLink" id="viconia" style="background-image:url(images/portraits/viconia.png)">
+Viconia
+</span>
+</a>
+</span>
+<span class="championLinkColumn">
+<a href="vinursa.html">
+<span class="championLink" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">
+Vin Ursa
+</span>
+</a>
+<a href="virgil.html">
+<span class="championLink" id="virgil" style="background-image:url(images/portraits/virgil.png)">
+Virgil
+</span>
+</a>
+<a href="vlahnya.html">
+<span class="championLink" id="vlahnya" style="background-image:url(images/portraits/vlahnya.png)">
+Vlahnya
+</span>
+</a>
+<a href="voronika.html">
+<span class="championLink" id="voronika" style="background-image:url(images/portraits/voronika.png)">
+Voronika
+</span>
+</a>
+<a href="walnut.html">
+<span class="championLink" id="walnut" style="background-image:url(images/portraits/walnut.png)">
+Walnut
+</span>
+</a>
+<a href="widdle.html">
+<span class="championLink" id="widdle" style="background-image:url(images/portraits/widdle.png)">
+Widdle
+</span>
+</a>
+<a href="wulfgar.html">
+<span class="championLink" id="wulfgar" style="background-image:url(images/portraits/wulfgar.png)">
+Wulfgar
+</span>
+</a>
+<a href="xander.html">
+<span class="championLink" id="xander" style="background-image:url(images/portraits/xander.png)">
+Xander
+</span>
+</a>
+<a href="xerophon.html">
+<span class="championLink" id="xerophon" style="background-image:url(images/portraits/xerophon.png)">
+Xerophon
+</span>
+</a>
+</span>
+</span>
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
+
 
 
 {::nomarkdown}

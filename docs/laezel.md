@@ -141,7 +141,7 @@
 {:/nomarkdown}
 </span>
 
-The Strong and Modest cores are so far ahead of the Magic (Non-Magic Variant) core that they are really the only choices for Lae'zel. Choose whichever you have the more favourable pipes for.
+The Strong core is far enough ahead of the Modest core that it's the best one to use for Lae'zel. That said - you could potentially use the Modest core if the pipes you have favour it.
 
 [Back to Top](#top)
 

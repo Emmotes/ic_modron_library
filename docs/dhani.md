@@ -160,7 +160,7 @@
 {:/nomarkdown}
 </span>
 
-The Dexterous core is so far ahead of the other cores that it's really the only choice for D'hani.
+The Dexterous core is so far ahead of the Strong core that it's really the only choice for D'hani.
 
 Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (D'hani only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
 

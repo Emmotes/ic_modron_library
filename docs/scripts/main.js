@@ -6,7 +6,7 @@ const nondps = {
 	description: "Lets the Damage tab on the main page display non-dps champions.",
 	map: new Map()
 };
-const allModes = [];
+const allModes = [nondps];
 
 function init() {
 	var edit = !(document.location.pathname.includes("/modes.html"));

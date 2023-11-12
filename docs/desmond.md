@@ -107,6 +107,40 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/o0ODj8tGJ44QI-WGfWwcH" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/o0ODj8tGJ44QI-WGfWwcH
+        </span>
+        <span class="modronDamage">
+            1.16e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/gkSrGgzXRfYioKRKXDvjW" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/gkSrGgzXRfYioKRKXDvjW
+        </span>
+        <span class="modronDamage">
+            2.87e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
@@ -125,7 +159,7 @@
 {:/nomarkdown}
 </span>
 
-The Dexterous core is so far ahead of the Magic (Non-Magic Variant) core that it's really the only choice for Desmond.
+The Dexterous core is so far ahead of the other cores that it's really the only choice for Desmond.
 
 Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Desmond only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
 

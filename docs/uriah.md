@@ -190,6 +190,23 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko
+        </span>
+        <span class="modronDamageBuffed">
+            1.50e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -218,6 +235,23 @@
         </span>
         <span class="modronDamageBuffed">
             1.37e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/0hViuQyNyGNbVXcOsWJU6" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/0hViuQyNyGNbVXcOsWJU6
+        </span>
+        <span class="modronDamageBuffed">
+            1.31e39%
         </span>
     </span>
 {::nomarkdown}
@@ -258,6 +292,40 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Y6cDJ0LRJbeSFFUgDFfc6" target="_blank" data-core-id="1" data-buffs="Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/Y6cDJ0LRJbeSFFUgDFfc6
+        </span>
+        <span class="modronDamageBuffed">
+            1.60e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/6XeOgeeTMx4w-kRz0Xfxp" target="_blank" data-core-id="1" data-buffs="Feats to Spare" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/6XeOgeeTMx4w-kRz0Xfxp
+        </span>
+        <span class="modronDamageBuffed">
+            1.04e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4" target="_blank" data-core-id="2" data-buffs="Best And The Brightest" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -274,9 +342,102 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/rChO3nzogPTRWPSbHREca" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/rChO3nzogPTRWPSbHREca
+        </span>
+        <span class="modronDamageBuffed">
+            9.45e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/GYJsc-ZtzLNWR2kUmrfH-" target="_blank" data-core-id="2" data-buffs="Feats to Spare" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/GYJsc-ZtzLNWR2kUmrfH-
+        </span>
+        <span class="modronDamageBuffed">
+            9.06e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/vBw5kDMFWXx5Pd6HEWElR" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/vBw5kDMFWXx5Pd6HEWElR
+        </span>
+        <span class="modronDamage">
+            1.10e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/7pKR72mT9NmrRQLrt9mkq" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/7pKR72mT9NmrRQLrt9mkq
+        </span>
+        <span class="modronDamage">
+            6.52e34%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
-The Magic core is the only viable option for Uriah.
+The Magic core is so far ahead of the other cores that it's really the only choice for Uriah. Though it is worth noting that it doesn't have any health nodes.
+
+{::nomarkdown}
+<span id="dexTable" hidden>
+{:/nomarkdown}
+
+
+Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Uriah only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
+
+| Core | Num 15+ Dex in Formation | Total Damage |
+|---|---|---|
+| Dexterous | 10 | 1.04e53% |
+| Dexterous | 9 | 6.81e52% |
+| Dexterous | 8 | 4.26e52% |
+| Dexterous | 7 | 2.50e52% |
+| Dexterous | 6 | 1.35e52% |
+| Dexterous | 5 | 6.56e51% |
+| Dexterous | 4 | 2.70e51% |
+| Dexterous | 3 | 8.63e50% |
+| Dexterous | 2 | 1.74e50% |
+| Dexterous | 1 | 1.15e49% |
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
 
 [Back to Top](#top)
 

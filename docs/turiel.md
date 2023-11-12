@@ -174,6 +174,40 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko
+        </span>
+        <span class="modronDamage">
+            1.50e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/0hViuQyNyGNbVXcOsWJU6" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/0hViuQyNyGNbVXcOsWJU6
+        </span>
+        <span class="modronDamage">
+            1.31e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 The Magic core is far enough ahead of the Unaffiliated core that it's the best one to use for Turiel. That said - you could potentially use the Unaffiliated core if the pipes you have favour it. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.

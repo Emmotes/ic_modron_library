@@ -245,7 +245,7 @@
 {:/nomarkdown}
 </span>
 
-The Unaffiliated core is far enough ahead of the other cores that it's the best one to use for Strongheart. That said - you could potentially use one of the other cores if the pipes you have favours one of them.
+The Unaffiliated core is far enough ahead of the Magic (Non-Magic Variant) core that it's the best one to use for Strongheart. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
 {::nomarkdown}
 <span id="mixedUnaffDexTable" hidden>

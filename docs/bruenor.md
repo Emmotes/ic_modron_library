@@ -157,9 +157,68 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/zovLaJ-GgcANIRNOoRb4X" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/zovLaJ-GgcANIRNOoRb4X
+        </span>
+        <span class="modronDamage">
+            1.47e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/ENRsq3GEvoUCpVFXy6t8j" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/ENRsq3GEvoUCpVFXy6t8j
+        </span>
+        <span class="modronDamage">
+            1.04e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
-The Magic core is the only viable option for Bruenor.
+The listed cores are all similar enough in damage for Bruenor that you should use whichever you have the more favourable pipes for. Though I would not recommend the Magic core as it doesn't have any health nodes.
+
+{::nomarkdown}
+<span id="dexTable" hidden>
+{:/nomarkdown}
+
+
+Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Bruenor only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
+
+| Core | Num 15+ Dex in Formation | Total Damage |
+|---|---|---|
+| Dexterous | 10 | 1.04e53% |
+| Dexterous | 9 | 6.81e52% |
+| Dexterous | 8 | 4.26e52% |
+| Dexterous | 7 | 2.50e52% |
+| Dexterous | 6 | 1.35e52% |
+| Dexterous | 5 | 6.56e51% |
+| Dexterous | 4 | 2.70e51% |
+| Dexterous | 3 | 8.63e50% |
+| Dexterous | 2 | 1.74e50% |
+| Dexterous | 1 | 1.15e49% |
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
 
 [Back to Top](#top)
 

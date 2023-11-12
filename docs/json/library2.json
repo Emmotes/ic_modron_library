@@ -118,6 +118,23 @@
         {
             "coreLevel": 15,
             "nodes": {
+                "str": false,
+                "wis": true,
+                "con": true,
+                "dex": false,
+                "cha": true,
+                "int": true
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.50E+40,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "GVzF80oaJtc0Nm_DA9Mko"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
                 "str": true,
                 "wis": true,
                 "con": false,
@@ -152,6 +169,23 @@
             "coreId": 1,
             "type": "damage",
             "layoutId": "uaxwwiADbr1-LgADkbgay"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
+                "wis": true,
+                "con": false,
+                "dex": false,
+                "cha": true,
+                "int": true
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.83E+40,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "IESmXYEl4VeiXJdJHbh5G"
         },
         {
             "coreLevel": 15,
@@ -207,6 +241,74 @@
             "coreId": 1,
             "type": "damage",
             "layoutId": "G6VezXEgRas4EsTfbUfw0"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
+                "wis": true,
+                "con": true,
+                "dex": false,
+                "cha": true,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.04E+40,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "ENRsq3GEvoUCpVFXy6t8j"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": false,
+                "wis": true,
+                "con": true,
+                "dex": false,
+                "cha": true,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.04E+38,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "6XeOgeeTMx4w-kRz0Xfxp"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": false,
+                "wis": true,
+                "con": false,
+                "dex": true,
+                "cha": true,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.60E+38,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "Y6cDJ0LRJbeSFFUgDFfc6"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": false,
+                "wis": true,
+                "con": false,
+                "dex": false,
+                "cha": true,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.10E+36,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "vBw5kDMFWXx5Pd6HEWElR"
         },
         {
             "coreLevel": 15,
@@ -448,6 +550,23 @@
             "coreLevel": 15,
             "nodes": {
                 "str": true,
+                "wis": false,
+                "con": false,
+                "dex": true,
+                "cha": true,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 2.87E+38,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "gkSrGgzXRfYioKRKXDvjW"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
                 "wis": true,
                 "con": true,
                 "dex": true,
@@ -506,6 +625,23 @@
             "nodes": {
                 "str": false,
                 "wis": true,
+                "con": true,
+                "dex": false,
+                "cha": false,
+                "int": true
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.08E+38,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "mm30BPhg7xZC98FvtWvQp"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": false,
+                "wis": true,
                 "con": false,
                 "dex": true,
                 "cha": false,
@@ -517,6 +653,74 @@
             "coreId": 1,
             "type": "damage",
             "layoutId": "8hE9ZcjRkmb-_Y9n3uJoo"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
+                "wis": true,
+                "con": true,
+                "dex": true,
+                "cha": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.08E+40,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "p1p7iGg0p3A9Oj6ud6RsF"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": false,
+                "wis": true,
+                "con": true,
+                "dex": true,
+                "cha": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.08E+38,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "hb3RxqzSrDI7mURvMfAS4"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
+                "wis": true,
+                "con": true,
+                "dex": false,
+                "cha": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 7.46E+37,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "wKHuZ_w2G6TfjR4QRPry7"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": false,
+                "wis": true,
+                "con": false,
+                "dex": false,
+                "cha": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 7.61E+33,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "CSaKhYTuWTdYXqjaSba82"
         },
         {
             "coreLevel": 15,
@@ -575,6 +779,23 @@
             "coreId": 1,
             "type": "damage",
             "layoutId": "flemAiU7XDQHU5osjDHYk"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
+                "wis": false,
+                "con": false,
+                "dex": true,
+                "cha": false,
+                "int": true
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 2.87E+38,
+            "coreId": 1,
+            "type": "damage",
+            "layoutId": "EX_CnsXKrgbbgo165f2aN"
         },
         {
             "coreLevel": 15,
@@ -773,6 +994,23 @@
         {
             "coreLevel": 15,
             "nodes": {
+                "str": true,
+                "wis": true,
+                "con": false,
+                "dex": true,
+                "melee": true,
+                "int": true
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 2.13E+43,
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "jLJmVii_4gFAkxy35uEqm"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
                 "str": false,
                 "wis": true,
                 "con": false,
@@ -785,6 +1023,23 @@
             "coreId": 2,
             "type": "damage",
             "layoutId": "GYA9TYFSfcUnlfvbWr811"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
+                "wis": true,
+                "con": false,
+                "dex": false,
+                "melee": true,
+                "int": true
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.47E+41,
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "PD1wncyA6rTkO59op_WRh"
         },
         {
             "coreLevel": 15,
@@ -821,6 +1076,23 @@
             "coreId": 2,
             "type": "damage",
             "layoutId": "2l93tt9KR1OBgSEtNVBPC"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
+                "wis": true,
+                "con": true,
+                "dex": false,
+                "melee": true,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.47E+41,
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "zovLaJ-GgcANIRNOoRb4X"
         },
         {
             "coreLevel": 15,
@@ -914,6 +1186,23 @@
             "coreId": 2,
             "type": "damage",
             "layoutId": "INUi4NGrrvlyUy3659Fd7"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
+                "wis": false,
+                "con": false,
+                "dex": true,
+                "melee": true,
+                "int": true
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.68E+41,
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "aWc_YdbTTWfuHw7khJt03"
         },
         {
             "coreLevel": 15,
@@ -1032,6 +1321,23 @@
             "coreLevel": 15,
             "nodes": {
                 "str": true,
+                "wis": false,
+                "con": false,
+                "dex": true,
+                "melee": true,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.16E+39,
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "o0ODj8tGJ44QI-WGfWwcH"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
                 "wis": true,
                 "con": true,
                 "dex": true,
@@ -1092,6 +1398,24 @@
         {
             "coreLevel": 15,
             "nodes": {
+                "str": false,
+                "wis": true,
+                "con": true,
+                "dex": false,
+                "melee": false,
+                "int": true
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.31E+39,
+            "comment": "Non-Melee Variant",
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "0hViuQyNyGNbVXcOsWJU6"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
                 "str": true,
                 "wis": true,
                 "con": false,
@@ -1129,6 +1453,24 @@
         {
             "coreLevel": 15,
             "nodes": {
+                "str": true,
+                "wis": true,
+                "con": false,
+                "dex": false,
+                "melee": false,
+                "int": true
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.37E+39,
+            "comment": "Non-Melee Variant",
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "Ju-DFVZ3C4-zB5pvaPM-s"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
                 "str": false,
                 "wis": true,
                 "con": false,
@@ -1146,6 +1488,24 @@
         {
             "coreLevel": 15,
             "nodes": {
+                "str": true,
+                "wis": true,
+                "con": true,
+                "dex": true,
+                "melee": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 1.90E+41,
+            "comment": "Non-Melee Variant",
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "bd03ACpsU3tK3pj6_BGO-"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
                 "str": false,
                 "wis": true,
                 "con": true,
@@ -1159,6 +1519,60 @@
             "coreId": 2,
             "type": "damage",
             "layoutId": "H3A0hgBGQNJ06mcruHs1V"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": false,
+                "wis": true,
+                "con": true,
+                "dex": false,
+                "melee": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 9.06E+36,
+            "comment": "Non-Melee Variant",
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "GYJsc-ZtzLNWR2kUmrfH-"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": false,
+                "wis": true,
+                "con": false,
+                "dex": true,
+                "melee": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 9.45E+36,
+            "comment": "Non-Melee Variant",
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "rChO3nzogPTRWPSbHREca"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": false,
+                "wis": true,
+                "con": false,
+                "dex": false,
+                "melee": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 6.52E+34,
+            "comment": "Non-Melee Variant",
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "7pKR72mT9NmrRQLrt9mkq"
         },
         {
             "coreLevel": 15,
@@ -1331,6 +1745,42 @@
             "coreId": 2,
             "type": "damage",
             "layoutId": "2ggHyhpYHJ0z7VinGTWio"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
+                "wis": false,
+                "con": true,
+                "dex": false,
+                "melee": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 9.45E+36,
+            "comment": "Non-Melee Variant",
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "vlwGcag-awI-eRp5jy2Ba"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "str": true,
+                "wis": false,
+                "con": false,
+                "dex": true,
+                "melee": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 9.45E+36,
+            "comment": "Non-Melee Variant",
+            "coreId": 2,
+            "type": "damage",
+            "layoutId": "c7wOTCb6WAA8JMdfsrNM5"
         },
         {
             "coreLevel": 15,
@@ -1595,6 +2045,22 @@
             "coreId": 4,
             "type": "damage",
             "layoutId": "Y-dm5dFF-poiLBflC5f17"
+        },
+        {
+            "coreLevel": 15,
+            "nodes": {
+                "wis": true,
+                "magic": false,
+                "cha": false,
+                "int": false
+            },
+            "championIds": [],
+            "hidden": true,
+            "dps": 9.06E+36,
+            "comment": "Non-Magic Variant",
+            "coreId": 4,
+            "type": "damage",
+            "layoutId": "y9CoTUR3HQcKJ9AATFo2L"
         },
         {
             "coreLevel": 15,

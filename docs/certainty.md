@@ -259,9 +259,68 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/IESmXYEl4VeiXJdJHbh5G" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/IESmXYEl4VeiXJdJHbh5G
+        </span>
+        <span class="modronDamage">
+            1.83e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Ju-DFVZ3C4-zB5pvaPM-s" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/Ju-DFVZ3C4-zB5pvaPM-s
+        </span>
+        <span class="modronDamage">
+            1.37e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
-The Magic core is the only viable option for Certainty.
+The Magic core is so far ahead of the other cores that it's really the only choice for Certainty. Though it is worth noting that it doesn't have any health nodes.
+
+{::nomarkdown}
+<span id="dexTable" hidden>
+{:/nomarkdown}
+
+
+Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Certainty only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
+
+| Core | Num 15+ Dex in Formation | Total Damage |
+|---|---|---|
+| Dexterous | 10 | 1.04e53% |
+| Dexterous | 9 | 6.81e52% |
+| Dexterous | 8 | 4.26e52% |
+| Dexterous | 7 | 2.50e52% |
+| Dexterous | 6 | 1.35e52% |
+| Dexterous | 5 | 6.56e51% |
+| Dexterous | 4 | 2.70e51% |
+| Dexterous | 3 | 8.63e50% |
+| Dexterous | 2 | 1.74e50% |
+| Dexterous | 1 | 1.15e49% |
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
 
 [Back to Top](#top)
 

@@ -178,7 +178,7 @@
 {:/nomarkdown}
 </span>
 
-The Unaffiliated and Dexterous cores are far enough ahead of the other cores that they are the best ones to use for Xerophon. That said - you could potentially use one of the other cores if the pipes you have favours one of them.
+The Unaffiliated and Dexterous cores are far enough ahead of the Magic (Non-Magic Variant) core that they are the best ones to use for Xerophon. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
 Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Xerophon only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
 

@@ -192,7 +192,7 @@
 {:/nomarkdown}
 </span>
 
-The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Pwent.
+The Unaffiliated core is so far ahead of the Strong core that it's really the only choice for Pwent.
 
 {::nomarkdown}
 <span id="mixedUnaffDexTable" hidden>

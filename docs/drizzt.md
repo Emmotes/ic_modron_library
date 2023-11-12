@@ -161,7 +161,7 @@
 {:/nomarkdown}
 </span>
 
-The Dexterous core is far enough ahead of the other cores that it's the best one to use for Drizzt. That said - you could potentially use one of the other cores if the pipes you have favours one of them.
+The Dexterous core is far enough ahead of the Magic (Non-Magic Variant) core that it's the best one to use for Drizzt. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
 Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Drizzt only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
 

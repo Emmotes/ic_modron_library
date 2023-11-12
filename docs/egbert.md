@@ -176,7 +176,7 @@
 {:/nomarkdown}
 </span>
 
-The listed cores are all similar enough in damage for Egbert that you should use whichever you have the more favourable pipes for. Though I would not recommend the Magic core as it doesn't have any health nodes.
+The Modest and Strong (Non-Melee Variant) cores are far enough ahead of the Magic (Non-Magic Variant) core that they are the best ones to use for Egbert. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
 {::nomarkdown}
 <span id="dexTable" hidden>

@@ -244,7 +244,7 @@
 {:/nomarkdown}
 </span>
 
-The Unaffiliated core is so far ahead of the other cores that it's really the only choice for Barrowin.
+The Unaffiliated core is so far ahead of the Strong core that it's really the only choice for Barrowin.
 
 {::nomarkdown}
 <span id="mixedUnaffDexTable" hidden>

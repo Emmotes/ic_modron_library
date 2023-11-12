@@ -225,7 +225,7 @@
 {:/nomarkdown}
 </span>
 
-The Strong and Modest cores are far enough ahead of the Magic (Non-Magic Variant) core that they are the best ones to use for Minsc. I do not recommend even trying the Magic core because it doesn't have any health nodes.
+The Strong core is far enough ahead of the Modest core that it's the best one to use for Minsc. That said - you could potentially use the Modest core if the pipes you have favour it.
 
 {::nomarkdown}
 <span id="dexTable" hidden>
