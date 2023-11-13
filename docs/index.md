@@ -1083,7 +1083,7 @@ The "Budget" Supercharged design is a modification of the Fully Supercharged des
 
 Some modron cores have damage that is variable based on the composition of the champions in the formation. Below are some tables that detail the damage each one can provide at most based on the composition.
 
-## Aerois Core
+## ![Aerois Core Icon](images/core_5_aerois.png) Aerois Core
 
 The damage of the Aerois core depends on whether you are using Lucius as your chosen DPS and how many other Heroes of Aerois champions you are using.
 
@@ -1099,7 +1099,7 @@ As you can see - the damage falls off rapidly when you are not using Lucius or m
 | 2 | 3.09e41% |   | 1 | 3.76e31% |
 | 1 | 7.91e35% |   | 0 | 6.02e28% |
 
-## Unaffiliated Core
+## ![Unaffiliated Core Icon](images/core_6_unaffiliated.png) Unaffiliated Core
 
 The damage of the Unaffiliated core depends on whether you are using an unaffiliated champion as your chosen DPS and how many other unaffiliated champions are in the formation.
 
@@ -1120,7 +1120,7 @@ As you can see - the damage is really poor for affiliated champions. As such - t
 | 2 | 1.74e50% |   | 1 | 1.39e35% |
 | 1 | 1.15e49% |   | 0 | 8.01e28% |
 
-## Dexterous Core
+## ![Dexterous Core Icon](images/core_7_dexterous.png) Dexterous Core
 
 The damage of the Dexterous core depends on whether you are using a champion with 15+ Dexterity as your chosen DPS and how many other champions also have 15+ Dexterity in the formation.
 
