@@ -1162,7 +1162,7 @@ Just a list of frequently asked questions. If you have a question - feel free to
 | ![Fast Core](images/core_3_fast.png) | Fast | 3 | Split the Party 2 (3+ champions in all seats) |
 | ![Magic Core](images/core_4_magic.png) | Magic | 4 | Split the Party 3 (4+ champions in all seats) |
 | ![Aerois Core](images/core_5_aerois.png) | Aerois | 5 | Season 1 / Wild Offers |
-| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 6 | Season 3 / 500,000 Gems (from 24 November) (Guess) |
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 6 | Season 3 / 500,000 Gems |
 | ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 7 | Season 6 |
 
 ## Which is the best gold find core?
@@ -1205,6 +1205,10 @@ Using them often lowers flow to the damage nodes and damage is the whole point o
 
 If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you're willing to lose damage because of it.
 
+## Is the Strong Core worth buying for gems?
+
+Nope. It's only the strongest core for a rare few champions - and even then other cores can generally get very similar numbers. It really is just a fairly bad core.
+
 ## Is the Aerois Core worth buying from Wild Offers?
 
 Not really no. It's only good if you use the entirety of the Aerois affiliation with Lucius as your dps. If don't use all of them - then the Magic core is better - even for Lucius. And the core itself is terrible for every other dps (see the [Variable Core Damage Information](#variablesTab) tab for more details).
@@ -1212,6 +1216,12 @@ Not really no. It's only good if you use the entirety of the Aerois affiliation 
 There are only two small tangible benefits to the Aerois core. The first is that it starts out with the Automation node available at level 1 - which means it's good for background parties immediately. The second is that levelling it to 15 nets you 14 Modron Component Chests.
 
 In the end though - it's your money - and we all value things differently. So it's up to you to decide if those minor benefits are worth it for you.
+
+## Is the Unaffiliated Core worth buying for gems?
+
+That depends. If the champion you use as your primary dps is unaffiliated then the answer is almost certainly yes. If not then no.
+
+The only modron core that's competitive with it is the Dexterous core - and not only is that a season 6 exclusive - but it needs a DPS champion with 15+ Dexterity - which may or may not be the case for you.
 
 {::nomarkdown}
 </div>
