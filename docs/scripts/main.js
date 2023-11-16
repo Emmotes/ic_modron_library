@@ -17,7 +17,7 @@ function init() {
 		var contents = ``;
 		for (let i = 0; i < allModes.length; i++) {
 			var curr = allModes[i];
-			contents += `<span class="modesColInner"><span class="modesRow"><span class="modesType"><input type="checkbox" class="modesCheckbox" id="${curr.nick}" name="${curr.nick}" onClick="toggleMode('${curr.nick}')"`+(curr.active?` checked`:``)+`><label for="${curr.nick}" class="modesLabel">${curr.name}</label></span><span class="modesDetails" id="${curr.nick}Details"><a onClick="modesDetails('${curr.nick}')" id="${curr.nick}Link">[show]</a></span></span><span class="modesContent" id="${curr.nick}Content" style="display:none;">&nbsp;</span></span>`;
+			contents += `<span class="modesColInner"><span class="modesRow"><span class="modesType"><input type="checkbox" class="modesCheckbox" id="${curr.nick}" name="${curr.nick}" onClick="toggleMode('${curr.nick}')"`+(curr.active?` checked`:``)+`><label for="${curr.nick}" class="modesLabel">${curr.name}</label></span><span class="modesDetails" id="${curr.nick}Details"><a onClick="modesDetails('${curr.nick}')" id="${curr.nick}Link">[details]</a></span></span><span class="modesContent" id="${curr.nick}Content" style="display:none;">&nbsp;</span></span>`;
 		}
 		list.innerHTML = contents;
 	} else {
@@ -62,7 +62,7 @@ function modesDetails(type) {
 		}
 		var element = document.getElementById(`${curr.nick}Content`);
 		var link = document.getElementById(`${curr.nick}Link`);
-		if (link.innerHTML == "[show]") {
+		if (link.innerHTML == "[details]") {
 			var content = `<span class="modesContentRowHeader">${curr.description}</span>`;
 			element.innerHTML = content;
 			element.style.display = ``;
@@ -70,7 +70,7 @@ function modesDetails(type) {
 		} else {
 			element.innerHTML = `&nbsp;`;
 			element.style.display = `none`;
-			link.innerHTML = `[show]`;
+			link.innerHTML = `[details]`;
 		}
 	}
 }
