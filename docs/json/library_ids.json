@@ -188,11 +188,9 @@
             118
         ],
         "dps": 4.43E+42,
-        "beadle": false,
         "coreId": 1,
         "type": "damage",
-        "layoutId": "lxl77lg_2zUFrv6SLU6-E",
-        "grimm": true
+        "layoutId": "lxl77lg_2zUFrv6SLU6-E"
     },
     {
         "coreLevel": 15,
@@ -225,11 +223,9 @@
             124
         ],
         "dps": 3.05E+40,
-        "beadle": false,
         "coreId": 1,
         "type": "damage",
-        "layoutId": "yWqFzHx5bvXJe990YOTjT",
-        "grimm": true
+        "layoutId": "yWqFzHx5bvXJe990YOTjT"
     },
     {
         "coreLevel": 15,
@@ -267,11 +263,9 @@
             113
         ],
         "dps": 3.05E+40,
-        "beadle": false,
         "coreId": 1,
         "type": "damage",
-        "layoutId": "Z3dqepoGNtSI25cJzrPbj",
-        "grimm": true
+        "layoutId": "Z3dqepoGNtSI25cJzrPbj"
     },
     {
         "coreLevel": 15,
@@ -429,11 +423,9 @@
             100
         ],
         "dps": 3.33E+40,
-        "beadle": true,
         "coreId": 1,
         "type": "damage",
-        "layoutId": "sGv2PkfUhcXsZAEQEDdvy",
-        "grimm": false
+        "layoutId": "sGv2PkfUhcXsZAEQEDdvy"
     },
     {
         "coreLevel": 15,
@@ -637,11 +629,9 @@
             118
         ],
         "dps": 2.43E+43,
-        "beadle": true,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "DbTK3EhK9gEYs79rV5RON",
-        "grimm": true
+        "layoutId": "DbTK3EhK9gEYs79rV5RON"
     },
     {
         "coreLevel": 15,
@@ -668,11 +658,9 @@
             124
         ],
         "dps": 1.68E+41,
-        "beadle": false,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "DjhjKzreH_1MmsDWLg6hs",
-        "grimm": true
+        "layoutId": "DjhjKzreH_1MmsDWLg6hs"
     },
     {
         "coreLevel": 15,
@@ -708,11 +696,9 @@
             128
         ],
         "dps": 1.68E+41,
-        "beadle": false,
         "coreId": 2,
         "type": "damage",
-        "layoutId": "-jnUH55BSGiQ4QmDYXI36",
-        "grimm": true
+        "layoutId": "-jnUH55BSGiQ4QmDYXI36"
     },
     {
         "coreLevel": 15,
@@ -1237,12 +1223,10 @@
             124
         ],
         "dps": 2.19E+41,
-        "beadle": false,
         "comment": "Non-Magic Variant",
         "coreId": 4,
         "type": "damage",
-        "layoutId": "1GTgb0TcV1rE5D0W0Uoyj",
-        "grimm": true
+        "layoutId": "1GTgb0TcV1rE5D0W0Uoyj"
     },
     {
         "coreLevel": 15,
