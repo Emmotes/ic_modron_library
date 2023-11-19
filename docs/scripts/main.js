@@ -1,3 +1,11 @@
+const spoilers = {
+	active: (localStorage.modronicaSpoilers == 1 ? true : false),
+	storage: "modronicaSpoilers",
+	name: "Show Spoilers",
+	nick: "spoilers",
+	description: "Lets the Damage tab show spoiler champions.",
+	map: new Map()
+};
 const allModes = [];
 
 function init() {

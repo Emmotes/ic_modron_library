@@ -65,8 +65,8 @@ Birdsong
 Black Viper
 </span>
 </a>
-<a href="catti-brie.html">
-<span class="championLink" id="catti-brie" style="background-image:url(images/portraits/catti-brie.png)">
+<a href="cattibrie.html">
+<span class="championLink" id="cattibrie" style="background-image:url(images/portraits/cattibrie.png)">
 Catti-brie
 </span>
 </a>
@@ -572,8 +572,8 @@ Selise
 Sentry
 </span>
 </a>
-<a href="sgt.knox.html">
-<span class="championLink" id="sgt.knox" style="background-image:url(images/portraits/sgt.knox.png)">
+<a href="sgtknox.html">
+<span class="championLink" id="sgtknox" style="background-image:url(images/portraits/sgtknox.png)">
 Sgt. Knox
 </span>
 </a>
