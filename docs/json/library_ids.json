@@ -189,7 +189,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 49,
                 98
@@ -230,7 +229,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 81,
                 138
@@ -277,7 +275,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 1,
                 52
@@ -307,7 +304,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [119],
             "dps": 1.10E+36,
             "coreId": 1,
@@ -445,7 +441,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 63,
                 96
@@ -491,7 +486,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [95],
             "dps": 1.08E+38,
             "coreId": 1,
@@ -500,7 +494,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 55,
                 127,
@@ -513,7 +506,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 42,
                 53
@@ -525,7 +517,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [46],
             "dps": 1.08E+38,
             "coreId": 1,
@@ -534,7 +525,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [65],
             "dps": 7.46E+37,
             "coreId": 1,
@@ -552,7 +542,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 59,
                 91,
@@ -565,7 +554,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [66],
             "dps": 2.57E+38,
             "coreId": 1,
@@ -583,7 +571,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [64],
             "dps": 2.87E+38,
             "beadle": true,
@@ -623,7 +610,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [43],
             "dps": 1.77E+36,
             "coreId": 1,
@@ -688,7 +674,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [90],
             "dps": 2.13E+43,
             "coreId": 2,
@@ -710,7 +695,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [81],
             "dps": 1.47E+41,
             "coreId": 2,
@@ -747,7 +731,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 1,
                 52,
@@ -789,7 +772,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 80,
                 82,
@@ -812,7 +794,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [64],
             "dps": 1.68E+41,
             "beadle": true,
@@ -841,7 +822,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [94],
             "dps": 1.16E+39,
             "coreId": 2,
@@ -875,7 +855,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [96],
             "dps": 1.16E+39,
             "coreId": 2,
@@ -933,7 +912,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 49,
                 95,
@@ -956,7 +934,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 35,
                 44,
@@ -975,7 +952,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [138],
             "dps": 1.37E+39,
             "comment": "Non-Melee Variant",
@@ -994,7 +970,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [78],
             "dps": 1.90E+41,
             "comment": "Non-Melee Variant",
@@ -1033,7 +1008,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [119],
             "dps": 6.52E+34,
             "comment": "Non-Melee Variant",
@@ -1057,7 +1031,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 51,
                 73,
@@ -1144,7 +1117,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [34],
             "dps": 9.45E+36,
             "comment": "Non-Melee Variant",
@@ -1154,7 +1126,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [63],
             "dps": 9.45E+36,
             "comment": "Non-Melee Variant",
@@ -1418,7 +1389,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 42,
                 46,
@@ -1433,7 +1403,6 @@
         },
         {
             "coreLevel": 15,
-            "hidden": true,
             "championIds": [
                 59,
                 64,
