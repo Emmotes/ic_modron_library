@@ -247,11 +247,6 @@ Zorbu
 </span>
 </span>
 
-
-{::nomarkdown}
-<span id="damageTabNonDPS" hidden>
-{:/nomarkdown}
-
 ## Non-DPS Champions
 
 Because it's become clear that some people (myself included) are using non-dps champions as dps champions - either for the meme or just because they want to - I've decided to add non-dps champions to the modron library.
@@ -718,13 +713,6 @@ Xerophon
 </a>
 </span>
 </span>
-
-{::nomarkdown}
-</span>
-{:/nomarkdown}
-
-
-
 
 {::nomarkdown}
 </div>

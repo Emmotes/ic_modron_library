@@ -1,12 +1,4 @@
-const nondps = {
-	active: (localStorage.modronicaShowNonDps == 1 ? true : false),
-	storage: "modronicaShowNonDps",
-	name: "Show Non-DPS Mode",
-	nick: "damageTabNonDPS",
-	description: "Lets the Damage tab on the main page display non-dps champions.",
-	map: new Map()
-};
-const allModes = [nondps];
+const allModes = [];
 
 function init() {
 	var edit = !(document.location.pathname.includes("/modes.html"));
