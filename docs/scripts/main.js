@@ -4,6 +4,10 @@ function init() {
 	var edit = !(document.location.pathname.includes("/modes.html"));
 	updateModes(edit);
 	
+	if(localStorage.modronicaShowNonDps != undefined) {
+		localStorage.removeItem("modronicaShowNonDps");
+	}
+	
 	if (!edit) {
 		var list = document.getElementById(`modesList`);
 		var contents = ``;
