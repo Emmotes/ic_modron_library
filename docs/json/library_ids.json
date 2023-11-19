@@ -436,8 +436,8 @@
         },
         {
             "coreLevel": 15,
-            "championIds": [],
             "hidden": true,
+            "championIds": [],
             "dps": 1.77E+36,
             "coreId": 1,
             "type": "damage",
@@ -457,8 +457,8 @@
         },
         {
             "coreLevel": 15,
-            "championIds": [],
             "hidden": true,
+            "championIds": [],
             "dps": 1.71E+42,
             "coreId": 1,
             "type": "damage",
@@ -565,6 +565,7 @@
         },
         {
             "coreLevel": 15,
+            "hidden": true,
             "championIds": [66],
             "dps": 2.57E+38,
             "coreId": 1,
@@ -573,8 +574,8 @@
         },
         {
             "coreLevel": 15,
-            "championIds": [],
             "hidden": true,
+            "championIds": [],
             "dps": 1.77E+36,
             "coreId": 1,
             "type": "damage",
@@ -593,8 +594,8 @@
         },
         {
             "coreLevel": 15,
-            "championIds": [],
             "hidden": true,
+            "championIds": [],
             "dps": 2.32E+36,
             "coreId": 1,
             "type": "damage",
@@ -622,6 +623,7 @@
         },
         {
             "coreLevel": 15,
+            "hidden": true,
             "championIds": [43],
             "dps": 1.77E+36,
             "coreId": 1,
@@ -787,6 +789,7 @@
         },
         {
             "coreLevel": 15,
+            "hidden": true,
             "championIds": [
                 80,
                 82,
@@ -800,8 +803,8 @@
         },
         {
             "coreLevel": 15,
-            "championIds": [],
             "hidden": true,
+            "championIds": [],
             "dps": 1.16E+39,
             "coreId": 2,
             "type": "damage",
@@ -838,6 +841,7 @@
         },
         {
             "coreLevel": 15,
+            "hidden": true,
             "championIds": [94],
             "dps": 1.16E+39,
             "coreId": 2,
@@ -952,6 +956,7 @@
         },
         {
             "coreLevel": 15,
+            "hidden": true,
             "championIds": [
                 35,
                 44,
@@ -1052,6 +1057,7 @@
         },
         {
             "coreLevel": 15,
+            "hidden": true,
             "championIds": [
                 51,
                 73,
@@ -1604,7 +1610,7 @@
             "coreId": 7,
             "type": "damage",
             "layoutId": "7114GoDxPsVq9PvgtiUYx",
-            "grimm": true
+            "grimm": false
         },
         {
             "coreLevel": 15,
