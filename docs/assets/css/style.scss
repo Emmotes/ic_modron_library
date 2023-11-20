@@ -52,21 +52,27 @@ section #title .credits.right {
 	align-item: flex-start;
 	flex-wrap: nowrap;
 }
-.championLink {
+.championLink,.championLinkHeader {
 	background-color: #141414;
 	background-size: contain;
 	background-repeat: no-repeat;
 	display: flex;
-	width: 87px;
-	height: 104px;
+	width: 64px;
+	height: 76px;
 	margin: 1px;
 	border: 1px solid black;
 	align-items: flex-end;
 	justify-content: center;
+	font-size: 0.8em;
 }
 .championLink:hover {
 	border: 1px solid #FFEB9B;
 	background-color: #000000;
+}
+.championLinkHeader {
+	font-size: 1.1em;
+	align-items: center;
+	height: 30px;
 }
 .modronColumn {
     display: flex;
