@@ -393,7 +393,8 @@
             "type": "damage",
             "dps": 1.08E+38,
             "championIds": [
-                46
+                46,
+                141
             ]
         },
         {
@@ -892,7 +893,8 @@
             "dps": 1.31E+39,
             "comment": "Non-Melee Variant",
             "championIds": [
-                102
+                102,
+                141
             ]
         },
         {
@@ -1174,8 +1176,9 @@
             "layoutId": "WFKQC_XoBwO6aZQWEDRJ2",
             "type": "damage",
             "dps": 6.40E+44,
-            "hidden": true,
-            "championIds": []
+            "championIds": [
+                141
+            ]
         },
         {
             "coreId": 4,

@@ -376,6 +376,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Fen
     </span>
   </a>
+  <a href="shadowheart.html">
+    <span class="championLink" id="shadowheart" style="background-image:url(images/portraits/shadowheart.png)">
+      Shadowheart
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
