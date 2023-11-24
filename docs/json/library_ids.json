@@ -1,142 +1,11 @@
 {
-    "filenames": {
-        "88": "xerophon",
-        "89": "dhani",
-        "113": "egbert",
-        "114": "kent",
-        "115": "virgil",
-        "116": "warduke",
-        "90": "brig",
-        "117": "imoen",
-        "91": "widdle",
-        "118": "fen",
-        "92": "yorven",
-        "119": "uriah",
-        "93": "viconia",
-        "94": "rust",
-        "95": "vi",
-        "96": "desmond",
-        "97": "tatyana",
-        "10": "tyril",
-        "98": "gazrick",
-        "11": "jamilah",
-        "99": "dm",
-        "12": "arkhan",
-        "13": "hitch",
-        "14": "stoki",
-        "15": "krond",
-        "16": "gromma",
-        "17": "dhadius",
-        "18": "drizzt",
-        "19": "barrowin",
-        "120": "solaak",
-        "121": "miria",
-        "1": "bruenor",
-        "122": "antrius",
-        "2": "celeste",
-        "123": "nixie",
-        "3": "nayeli",
-        "124": "evandra",
-        "4": "jarlaxle",
-        "125": "bbeg",
-        "5": "calliope",
-        "126": "strongheart",
-        "6": "asharra",
-        "127": "vinursa",
-        "7": "minsc",
-        "128": "laezel",
-        "8": "delina",
-        "129": "astarion",
-        "9": "makos",
-        "20": "regis",
-        "21": "birdsong",
-        "22": "zorbu",
-        "23": "strix",
-        "24": "nrakk",
-        "25": "cattibrie",
-        "26": "evelyn",
-        "27": "binwin",
-        "28": "deekin",
-        "29": "xander",
-        "136": "krux",
-        "138": "certainty",
-        "139": "thellora",
-        "30": "azaka",
-        "31": "ishi",
-        "32": "wulfgar",
-        "33": "farideh",
-        "34": "donaar",
-        "35": "vlahnya",
-        "36": "warden",
-        "37": "nerys",
-        "38": "kthriss",
-        "39": "paultin",
-        "140": "jangsao",
-        "141": "shadowheart",
-        "142": "wyll",
-        "143": "karlach",
-        "40": "blackviper",
-        "41": "rosie",
-        "42": "aila",
-        "43": "spurt",
-        "44": "qillek",
-        "45": "korth",
-        "46": "walnut",
-        "47": "shandie",
-        "48": "jim",
-        "49": "turiel",
-        "50": "pwent",
-        "51": "avren",
-        "52": "sentry",
-        "53": "krull",
-        "54": "artemis",
-        "55": "morgaen",
-        "56": "havilar",
-        "57": "sisaspia",
-        "58": "briv",
-        "59": "melf",
-        "60": "krydle",
-        "61": "jaheira",
-        "62": "nova",
-        "63": "freely",
-        "64": [
-            "beadle",
-            "grimm"
-        ],
-        "65": "omin",
-        "66": "lazaapz",
-        "67": "dragonbait",
-        "68": "ulkoria",
-        "69": "torogar",
-        "70": "ezmerelda",
-        "71": "penelope",
-        "72": "lucius",
-        "73": "baeloth",
-        "74": "talin",
-        "75": "hewmaan",
-        "76": "orisha",
-        "77": "alyndra",
-        "78": "orkira",
-        "79": "shaka",
-        "100": "nordom",
-        "101": "merilwen",
-        "102": "nahara",
-        "103": "valentine",
-        "104": "voronika",
-        "105": "dob",
-        "106": "blooshi",
-        "80": "mehen",
-        "81": "selise",
-        "82": "sgtknox",
-        "83": "ellywick",
-        "84": "prudence",
-        "85": "corazon",
-        "86": "reya",
-        "87": "nerds"
-    },
     "layouts": [
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "DkOJBZGdGpnq4_K4yQont",
+            "type": "damage",
+            "dps": 2.18E+44,
             "championIds": [
                 10,
                 24,
@@ -148,14 +17,14 @@
                 85,
                 99,
                 120
-            ],
-            "dps": 2.18E+44,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "DkOJBZGdGpnq4_K4yQont"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "I_8g095yWaHD-a-z3QeAJ",
+            "type": "damage",
+            "dps": 2.18E+42,
             "championIds": [
                 8,
                 18,
@@ -170,47 +39,47 @@
                 104,
                 105,
                 121
-            ],
-            "dps": 2.18E+42,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "I_8g095yWaHD-a-z3QeAJ"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "UBppioFeMIfJ4fE90nPYp",
+            "type": "damage",
+            "dps": 1.50E+42,
             "championIds": [
                 16,
                 126
-            ],
-            "dps": 1.50E+42,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "UBppioFeMIfJ4fE90nPYp"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "GVzF80oaJtc0Nm_DA9Mko",
+            "type": "damage",
+            "dps": 1.50E+40,
             "championIds": [
                 49,
                 98
-            ],
-            "dps": 1.50E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "GVzF80oaJtc0Nm_DA9Mko"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "i8ZPac6myhxjSWsHC2F2L",
+            "type": "damage",
+            "dps": 2.65E+42,
             "championIds": [
                 76,
                 90
-            ],
-            "dps": 2.65E+42,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "i8ZPac6myhxjSWsHC2F2L"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "uaxwwiADbr1-LgADkbgay",
+            "type": "damage",
+            "dps": 2.32E+40,
             "championIds": [
                 13,
                 29,
@@ -221,33 +90,35 @@
                 74,
                 93,
                 125
-            ],
-            "dps": 2.32E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "uaxwwiADbr1-LgADkbgay"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "IESmXYEl4VeiXJdJHbh5G",
+            "type": "damage",
+            "dps": 1.83E+40,
             "championIds": [
                 81,
                 138
-            ],
-            "dps": 1.83E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "IESmXYEl4VeiXJdJHbh5G"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [6],
+            "layoutId": "gst8woyENk7-Nwnobs0FK",
+            "type": "damage",
             "dps": 1.60E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "gst8woyENk7-Nwnobs0FK"
+            "championIds": [
+                6
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "6Yv_YlUxFfujj05FwG9ed",
+            "type": "damage",
+            "dps": 1.50E+42,
             "championIds": [
                 11,
                 45,
@@ -255,77 +126,79 @@
                 78,
                 92,
                 97
-            ],
-            "dps": 1.50E+42,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "6Yv_YlUxFfujj05FwG9ed"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "G6VezXEgRas4EsTfbUfw0",
+            "type": "damage",
+            "dps": 1.50E+40,
             "championIds": [
                 31,
                 71,
                 102
-            ],
-            "dps": 1.50E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "G6VezXEgRas4EsTfbUfw0"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "ENRsq3GEvoUCpVFXy6t8j",
+            "type": "damage",
+            "dps": 1.04E+40,
             "championIds": [
                 1,
                 52
-            ],
-            "dps": 1.04E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "ENRsq3GEvoUCpVFXy6t8j"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "hidden": true,
-            "championIds": [],
+            "layoutId": "6XeOgeeTMx4w-kRz0Xfxp",
+            "type": "damage",
             "dps": 1.04E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "6XeOgeeTMx4w-kRz0Xfxp"
-        },
-        {
-            "coreLevel": 15,
             "hidden": true,
-            "championIds": [],
+            "championIds": []
+        },
+        {
+            "coreId": 1,
+            "coreLevel": 15,
+            "layoutId": "Y6cDJ0LRJbeSFFUgDFfc6",
+            "type": "damage",
             "dps": 1.60E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "Y6cDJ0LRJbeSFFUgDFfc6"
+            "hidden": true,
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [119],
+            "layoutId": "vBw5kDMFWXx5Pd6HEWElR",
+            "type": "damage",
             "dps": 1.10E+36,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "vBw5kDMFWXx5Pd6HEWElR"
+            "championIds": [
+                119
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "lxl77lg_2zUFrv6SLU6-E",
+            "type": "damage",
+            "dps": 4.43E+42,
             "championIds": [
                 25,
                 26,
                 60,
                 70,
                 118
-            ],
-            "dps": 4.43E+42,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "lxl77lg_2zUFrv6SLU6-E"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "uPENWunG92vAP47zSu7uZ",
+            "type": "damage",
+            "dps": 3.73E+40,
             "championIds": [
                 4,
                 20,
@@ -339,51 +212,51 @@
                 114,
                 115,
                 117
-            ],
-            "dps": 3.73E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "uPENWunG92vAP47zSu7uZ"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "yWqFzHx5bvXJe990YOTjT",
+            "type": "damage",
+            "dps": 3.05E+40,
             "championIds": [
                 80,
                 82,
                 84,
                 86,
                 124
-            ],
-            "dps": 3.05E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "yWqFzHx5bvXJe990YOTjT"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "eS2YlQByPi6gqBWarBSEA",
+            "type": "damage",
+            "dps": 2.57E+38,
             "championIds": [
                 9,
                 23,
                 75
-            ],
-            "dps": 2.57E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "eS2YlQByPi6gqBWarBSEA"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "NlZjPJ4DECNoQSfpQKnyQ",
+            "type": "damage",
+            "dps": 3.18E+38,
             "championIds": [
                 38,
                 48
-            ],
-            "dps": 3.18E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "NlZjPJ4DECNoQSfpQKnyQ"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "Z3dqepoGNtSI25cJzrPbj",
+            "type": "damage",
+            "dps": 3.05E+40,
             "championIds": [
                 12,
                 30,
@@ -393,28 +266,30 @@
                 58,
                 69,
                 113
-            ],
-            "dps": 3.05E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "Z3dqepoGNtSI25cJzrPbj"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "u4thZ5VbiZ2xg2HxLjr7W",
+            "type": "damage",
+            "dps": 2.57E+38,
             "championIds": [
                 5,
                 28,
                 94,
                 122,
                 123
-            ],
-            "dps": 2.57E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "u4thZ5VbiZ2xg2HxLjr7W"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "8z5iuN2u8G544H6M8XcwL",
+            "type": "damage",
+            "dps": 2.11E+38,
+            "beadle": false,
+            "grimm": true,
             "championIds": [
                 3,
                 27,
@@ -422,218 +297,234 @@
                 64,
                 116,
                 139
-            ],
-            "dps": 2.11E+38,
-            "beadle": false,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "8z5iuN2u8G544H6M8XcwL",
-            "grimm": true
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "hidden": true,
-            "championIds": [],
+            "layoutId": "XrYsURBf5qXUI7NQKziYl",
+            "type": "damage",
             "dps": 1.77E+36,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "XrYsURBf5qXUI7NQKziYl"
+            "hidden": true,
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "gkSrGgzXRfYioKRKXDvjW",
+            "type": "damage",
+            "dps": 2.87E+38,
             "championIds": [
                 63,
                 96
-            ],
-            "dps": 2.87E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "gkSrGgzXRfYioKRKXDvjW"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "hidden": true,
-            "championIds": [],
+            "layoutId": "_m6XZ-qfY25-S8QZrLXD-",
+            "type": "damage",
             "dps": 1.71E+42,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "_m6XZ-qfY25-S8QZrLXD-"
+            "hidden": true,
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "tFUbbSl60Q161is_ovBxs",
+            "type": "damage",
+            "dps": 1.57E+40,
             "championIds": [
                 14,
                 77,
                 89,
                 129
-            ],
-            "dps": 1.57E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "tFUbbSl60Q161is_ovBxs"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "LqCb1S8NMJP8HZ_omgw5-",
+            "type": "damage",
+            "dps": 1.18E+40,
             "championIds": [
                 2,
                 15,
                 19
-            ],
-            "dps": 1.18E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "LqCb1S8NMJP8HZ_omgw5-"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [95],
+            "layoutId": "mm30BPhg7xZC98FvtWvQp",
+            "type": "damage",
             "dps": 1.08E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "mm30BPhg7xZC98FvtWvQp"
+            "championIds": [
+                95
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "8hE9ZcjRkmb-_Y9n3uJoo",
+            "type": "damage",
+            "dps": 1.60E+38,
             "championIds": [
                 55,
                 127,
                 140
-            ],
-            "dps": 1.60E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "8hE9ZcjRkmb-_Y9n3uJoo"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "p1p7iGg0p3A9Oj6ud6RsF",
+            "type": "damage",
+            "dps": 1.08E+40,
             "championIds": [
                 42,
                 53
-            ],
-            "dps": 1.08E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "p1p7iGg0p3A9Oj6ud6RsF"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [46],
+            "layoutId": "hb3RxqzSrDI7mURvMfAS4",
+            "type": "damage",
             "dps": 1.08E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "hb3RxqzSrDI7mURvMfAS4"
+            "championIds": [
+                46
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [65],
+            "layoutId": "wKHuZ_w2G6TfjR4QRPry7",
+            "type": "damage",
             "dps": 7.46E+37,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "wKHuZ_w2G6TfjR4QRPry7"
+            "championIds": [
+                65
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "hidden": true,
-            "championIds": [],
+            "layoutId": "CSaKhYTuWTdYXqjaSba82",
+            "type": "damage",
             "dps": 7.61E+33,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "CSaKhYTuWTdYXqjaSba82"
+            "hidden": true,
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "sGv2PkfUhcXsZAEQEDdvy",
+            "type": "damage",
+            "dps": 3.33E+40,
             "championIds": [
                 59,
                 91,
                 100
-            ],
-            "dps": 3.33E+40,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "sGv2PkfUhcXsZAEQEDdvy"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [66],
+            "layoutId": "ZDdVjG8jV5E03Xzrus1Ix",
+            "type": "damage",
             "dps": 2.57E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "ZDdVjG8jV5E03Xzrus1Ix"
+            "championIds": [
+                66
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "hidden": true,
-            "championIds": [],
+            "layoutId": "flemAiU7XDQHU5osjDHYk",
+            "type": "damage",
             "dps": 1.77E+36,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "flemAiU7XDQHU5osjDHYk"
+            "hidden": true,
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [64],
+            "layoutId": "EX_CnsXKrgbbgo165f2aN",
+            "type": "damage",
             "dps": 2.87E+38,
             "beadle": true,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "EX_CnsXKrgbbgo165f2aN",
-            "grimm": false
+            "grimm": false,
+            "championIds": [
+                64
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "hidden": true,
-            "championIds": [],
+            "layoutId": "DsVh4JSKxCnsYuKIstsHI",
+            "type": "damage",
             "dps": 2.32E+36,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "DsVh4JSKxCnsYuKIstsHI"
+            "hidden": true,
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [17],
+            "layoutId": "O7kCMROWNQtSTcqCpprEe",
+            "type": "damage",
             "dps": 1.60E+34,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "O7kCMROWNQtSTcqCpprEe"
+            "championIds": [
+                17
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
+            "layoutId": "AakI7P5b5DgmZY8yIo_aw",
+            "type": "damage",
+            "dps": 2.30E+38,
             "championIds": [
                 50,
                 128,
                 136
-            ],
-            "dps": 2.30E+38,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "AakI7P5b5DgmZY8yIo_aw"
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [43],
+            "layoutId": "r7km5hQkiVaIMYHtx5Y5G",
+            "type": "damage",
             "dps": 1.77E+36,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "r7km5hQkiVaIMYHtx5Y5G"
+            "championIds": [
+                43
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [7],
+            "layoutId": "ZfqWE2FZDktWsEoi_xi9K",
+            "type": "damage",
             "dps": 1.58E+36,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "ZfqWE2FZDktWsEoi_xi9K"
+            "championIds": [
+                7
+            ]
         },
         {
+            "coreId": 1,
             "coreLevel": 15,
-            "championIds": [87],
+            "layoutId": "GAs3OcWHhKepgrt4wzHhy",
+            "type": "damage",
             "dps": 1.22E+34,
-            "coreId": 1,
-            "type": "damage",
-            "layoutId": "GAs3OcWHhKepgrt4wzHhy"
+            "championIds": [
+                87
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "b27B4yn_RIckxkXk_vYIp",
+            "type": "damage",
+            "dps": 3.09E+45,
             "championIds": [
                 10,
                 24,
@@ -641,68 +532,72 @@
                 54,
                 67,
                 85
-            ],
-            "dps": 3.09E+45,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "b27B4yn_RIckxkXk_vYIp"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "JVe4p8EMGmubaD44vurWN",
+            "type": "damage",
+            "dps": 2.13E+43,
             "championIds": [
                 14,
                 18,
                 88,
                 89
-            ],
-            "dps": 2.13E+43,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "JVe4p8EMGmubaD44vurWN"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "qRYV43eYCC4HDxCzpQ05l",
+            "type": "damage",
+            "dps": 2.13E+43,
             "championIds": [
                 15,
                 19,
                 126
-            ],
-            "dps": 2.13E+43,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "qRYV43eYCC4HDxCzpQ05l"
+            ]
         },
         {
-            "coreLevel": 15,
-            "championIds": [90],
-            "dps": 2.13E+43,
             "coreId": 2,
+            "coreLevel": 15,
+            "layoutId": "jLJmVii_4gFAkxy35uEqm",
             "type": "damage",
-            "layoutId": "jLJmVii_4gFAkxy35uEqm"
+            "dps": 2.13E+43,
+            "championIds": [
+                90
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "GYA9TYFSfcUnlfvbWr811",
+            "type": "damage",
+            "dps": 1.47E+41,
             "championIds": [
                 13,
                 29,
                 41,
                 74
-            ],
-            "dps": 1.47E+41,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "GYA9TYFSfcUnlfvbWr811"
+            ]
         },
         {
-            "coreLevel": 15,
-            "championIds": [81],
-            "dps": 1.47E+41,
             "coreId": 2,
+            "coreLevel": 15,
+            "layoutId": "PD1wncyA6rTkO59op_WRh",
             "type": "damage",
-            "layoutId": "PD1wncyA6rTkO59op_WRh"
+            "dps": 1.47E+41,
+            "championIds": [
+                81
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "P6YiBeAtM8eZSSjm6hI9H",
+            "type": "damage",
+            "dps": 2.13E+43,
             "championIds": [
                 11,
                 42,
@@ -711,51 +606,51 @@
                 61,
                 92,
                 97
-            ],
-            "dps": 2.13E+43,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "P6YiBeAtM8eZSSjm6hI9H"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "2l93tt9KR1OBgSEtNVBPC",
+            "type": "damage",
+            "dps": 1.47E+41,
             "championIds": [
                 31,
                 46,
                 71
-            ],
-            "dps": 1.47E+41,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "2l93tt9KR1OBgSEtNVBPC"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "zovLaJ-GgcANIRNOoRb4X",
+            "type": "damage",
+            "dps": 1.47E+41,
             "championIds": [
                 1,
                 52,
                 65
-            ],
-            "dps": 1.47E+41,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "zovLaJ-GgcANIRNOoRb4X"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "DbTK3EhK9gEYs79rV5RON",
+            "type": "damage",
+            "dps": 2.43E+43,
             "championIds": [
                 26,
                 59,
                 60,
                 118
-            ],
-            "dps": 2.43E+43,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "DbTK3EhK9gEYs79rV5RON"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "zvdcSaO2hUNuyOIJntutX",
+            "type": "damage",
+            "dps": 1.68E+41,
             "championIds": [
                 4,
                 20,
@@ -764,46 +659,48 @@
                 62,
                 66,
                 114
-            ],
-            "dps": 1.68E+41,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "zvdcSaO2hUNuyOIJntutX"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "DjhjKzreH_1MmsDWLg6hs",
+            "type": "damage",
+            "dps": 1.68E+41,
             "championIds": [
                 80,
                 82,
                 86,
                 124
-            ],
-            "dps": 1.68E+41,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "DjhjKzreH_1MmsDWLg6hs"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "hidden": true,
-            "championIds": [],
+            "layoutId": "INUi4NGrrvlyUy3659Fd7",
+            "type": "damage",
             "dps": 1.16E+39,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "INUi4NGrrvlyUy3659Fd7"
+            "hidden": true,
+            "championIds": []
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [64],
+            "layoutId": "aWc_YdbTTWfuHw7khJt03",
+            "type": "damage",
             "dps": 1.68E+41,
             "beadle": true,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "aWc_YdbTTWfuHw7khJt03",
-            "grimm": false
+            "grimm": false,
+            "championIds": [
+                64
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "-jnUH55BSGiQ4QmDYXI36",
+            "type": "damage",
+            "dps": 1.68E+41,
             "championIds": [
                 12,
                 30,
@@ -814,22 +711,26 @@
                 58,
                 69,
                 128
-            ],
-            "dps": 1.68E+41,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "-jnUH55BSGiQ4QmDYXI36"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [94],
+            "layoutId": "6JLPFRhgLOs5DgPikpfPV",
+            "type": "damage",
             "dps": 1.16E+39,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "6JLPFRhgLOs5DgPikpfPV"
+            "championIds": [
+                94
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "T6WKqVL4iKEh9StNykvRh",
+            "type": "damage",
+            "dps": 1.16E+39,
+            "beadle": false,
+            "grimm": true,
             "championIds": [
                 3,
                 7,
@@ -837,46 +738,49 @@
                 64,
                 116,
                 139
-            ],
-            "dps": 1.16E+39,
-            "beadle": false,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "T6WKqVL4iKEh9StNykvRh",
-            "grimm": true
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [87],
+            "layoutId": "I9UdL9mQtfnaLPDvD8iCJ",
+            "type": "damage",
             "dps": 7.97E+36,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "I9UdL9mQtfnaLPDvD8iCJ"
+            "championIds": [
+                87
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [96],
+            "layoutId": "o0ODj8tGJ44QI-WGfWwcH",
+            "type": "damage",
             "dps": 1.16E+39,
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "o0ODj8tGJ44QI-WGfWwcH"
+            "championIds": [
+                96
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "cIBAzt8UjhSQY1gj6MW1g",
+            "type": "damage",
+            "dps": 2.76E+43,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 39,
                 72,
                 99,
                 120
-            ],
-            "dps": 2.76E+43,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "cIBAzt8UjhSQY1gj6MW1g"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "YAOozf3I19s8u67slvOgB",
+            "type": "damage",
+            "dps": 1.90E+41,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 8,
                 22,
@@ -891,49 +795,51 @@
                 105,
                 121,
                 129
-            ],
-            "dps": 1.90E+41,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "YAOozf3I19s8u67slvOgB"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "LmsDNTq4JAhPK0GcyaGci",
+            "type": "damage",
+            "dps": 1.90E+41,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 2,
                 16
-            ],
-            "dps": 1.90E+41,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "LmsDNTq4JAhPK0GcyaGci"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "0hViuQyNyGNbVXcOsWJU6",
+            "type": "damage",
+            "dps": 1.31E+39,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 49,
                 95,
                 98
-            ],
-            "dps": 1.31E+39,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "0hViuQyNyGNbVXcOsWJU6"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [76],
+            "layoutId": "LvBjECq5C6o4SKCXsmpMB",
+            "type": "damage",
             "dps": 1.99E+41,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "LvBjECq5C6o4SKCXsmpMB"
+            "championIds": [
+                76
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "8JBi_ekkbieZ-CVuus8bh",
+            "type": "damage",
+            "dps": 1.37E+39,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 35,
                 44,
@@ -943,94 +849,104 @@
                 125,
                 127,
                 140
-            ],
-            "dps": 1.37E+39,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "8JBi_ekkbieZ-CVuus8bh"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [138],
+            "layoutId": "Ju-DFVZ3C4-zB5pvaPM-s",
+            "type": "damage",
             "dps": 1.37E+39,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "Ju-DFVZ3C4-zB5pvaPM-s"
+            "championIds": [
+                138
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [6],
+            "layoutId": "LfmDCRpoylSuZhFAq3DP4",
+            "type": "damage",
             "dps": 9.45E+36,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "LfmDCRpoylSuZhFAq3DP4"
+            "championIds": [
+                6
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [78],
+            "layoutId": "bd03ACpsU3tK3pj6_BGO-",
+            "type": "damage",
             "dps": 1.90E+41,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "bd03ACpsU3tK3pj6_BGO-"
+            "championIds": [
+                78
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [102],
+            "layoutId": "H3A0hgBGQNJ06mcruHs1V",
+            "type": "damage",
             "dps": 1.31E+39,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "H3A0hgBGQNJ06mcruHs1V"
+            "championIds": [
+                102
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "hidden": true,
-            "championIds": [],
+            "layoutId": "GYJsc-ZtzLNWR2kUmrfH-",
+            "type": "damage",
             "dps": 9.06E+36,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "GYJsc-ZtzLNWR2kUmrfH-"
+            "hidden": true,
+            "championIds": []
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "hidden": true,
-            "championIds": [],
+            "layoutId": "rChO3nzogPTRWPSbHREca",
+            "type": "damage",
             "dps": 9.45E+36,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "rChO3nzogPTRWPSbHREca"
+            "hidden": true,
+            "championIds": []
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [119],
+            "layoutId": "7pKR72mT9NmrRQLrt9mkq",
+            "type": "damage",
             "dps": 6.52E+34,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "7pKR72mT9NmrRQLrt9mkq"
+            "championIds": [
+                119
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "kGCEUOXosTecWYEvHkJw2",
+            "type": "damage",
+            "dps": 1.99E+41,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 25,
                 70,
                 91,
                 100
-            ],
-            "dps": 1.99E+41,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "kGCEUOXosTecWYEvHkJw2"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "cDunXGo8TO0L5MG_spi7z",
+            "type": "damage",
+            "dps": 1.39E+39,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 51,
                 73,
@@ -1038,129 +954,138 @@
                 106,
                 115,
                 117
-            ],
-            "dps": 1.39E+39,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "cDunXGo8TO0L5MG_spi7z"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [84],
+            "layoutId": "clGSazYoxokx7hljUdygz",
+            "type": "damage",
             "dps": 1.37E+39,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "clGSazYoxokx7hljUdygz"
+            "championIds": [
+                84
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "pv1IBDYJeGoBaQpSTzCOE",
+            "type": "damage",
+            "dps": 9.45E+36,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 9,
                 23,
                 75
-            ],
-            "dps": 9.45E+36,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "pv1IBDYJeGoBaQpSTzCOE"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "lQEnBfODyhtPXge_zQJWH",
+            "type": "damage",
+            "dps": 9.45E+36,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 38,
                 48
-            ],
-            "dps": 9.45E+36,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "lQEnBfODyhtPXge_zQJWH"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [17],
+            "layoutId": "gSNhfTzaPCp3-ROyUfIbz",
+            "type": "damage",
             "dps": 6.52E+34,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "gSNhfTzaPCp3-ROyUfIbz"
+            "championIds": [
+                17
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "XUDJ2Q7UmM32kiZKSCnfT",
+            "type": "damage",
+            "dps": 1.37E+39,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 113,
                 136
-            ],
-            "dps": 1.37E+39,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "XUDJ2Q7UmM32kiZKSCnfT"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
+            "layoutId": "2ggHyhpYHJ0z7VinGTWio",
+            "type": "damage",
+            "dps": 9.45E+36,
+            "comment": "Non-Melee Variant",
             "championIds": [
                 5,
                 28,
                 43,
                 122,
                 123
-            ],
-            "dps": 9.45E+36,
-            "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "2ggHyhpYHJ0z7VinGTWio"
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [34],
+            "layoutId": "vlwGcag-awI-eRp5jy2Ba",
+            "type": "damage",
             "dps": 9.45E+36,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "vlwGcag-awI-eRp5jy2Ba"
+            "championIds": [
+                34
+            ]
         },
         {
+            "coreId": 2,
             "coreLevel": 15,
-            "championIds": [63],
+            "layoutId": "c7wOTCb6WAA8JMdfsrNM5",
+            "type": "damage",
             "dps": 9.45E+36,
             "comment": "Non-Melee Variant",
-            "coreId": 2,
-            "type": "damage",
-            "layoutId": "c7wOTCb6WAA8JMdfsrNM5"
+            "championIds": [
+                63
+            ]
         },
         {
+            "coreId": 3,
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "ozwp3wQr7O3VHUmKffQtv",
+            "type": "damage",
             "dps": 1.03E+39,
             "comment": "Fully Supercharged",
-            "coreId": 3,
-            "type": "damage",
-            "layoutId": "ozwp3wQr7O3VHUmKffQtv"
+            "championIds": []
         },
         {
+            "coreId": 3,
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "a3egkSdwZEtornHzWM6Q9",
+            "type": "damage",
             "dps": 9.73E+38,
             "comment": "'Budget' Supercharged",
-            "coreId": 3,
-            "type": "damage",
-            "layoutId": "a3egkSdwZEtornHzWM6Q9"
+            "championIds": []
         },
         {
+            "coreId": 3,
             "coreLevel": 15,
-            "championIds": [102],
+            "layoutId": "sFACCyODesgDN9vkKD3U3",
+            "type": "damage",
             "dps": 3.38E+32,
-            "coreId": 3,
-            "type": "damage",
-            "layoutId": "sFACCyODesgDN9vkKD3U3"
+            "championIds": [
+                102
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "8euk6u6PKHy_mmNX4S7ek",
+            "type": "damage",
+            "dps": 2.83E+53,
             "championIds": [
                 6,
                 8,
@@ -1183,26 +1108,26 @@
                 121,
                 125,
                 138
-            ],
-            "dps": 2.83E+53,
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "8euk6u6PKHy_mmNX4S7ek"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "py0fM4EedKfIniT2SGw66",
+            "type": "damage",
+            "dps": 3.52E+49,
             "championIds": [
                 78,
                 102,
                 119
-            ],
-            "dps": 3.52E+49,
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "py0fM4EedKfIniT2SGw66"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "1QAVPgKXTPpv6QyZmNM3l",
+            "type": "damage",
+            "dps": 1.71E+49,
             "championIds": [
                 9,
                 23,
@@ -1215,59 +1140,71 @@
                 84,
                 106,
                 115
-            ],
-            "dps": 1.71E+49,
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "1QAVPgKXTPpv6QyZmNM3l"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "Ig_TEITfWozF2MZ8YbCJB",
+            "type": "damage",
+            "dps": 1.67E+45,
             "championIds": [
                 5,
                 34,
                 63,
                 122,
                 123
-            ],
-            "dps": 1.67E+45,
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "Ig_TEITfWozF2MZ8YbCJB"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "qeHJee7Hou-VGAQzaOonE",
+            "type": "damage",
+            "dps": 1.35E+49,
             "championIds": [
                 2,
                 15,
                 77
-            ],
-            "dps": 1.35E+49,
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "qeHJee7Hou-VGAQzaOonE"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "WFKQC_XoBwO6aZQWEDRJ2",
+            "type": "damage",
+            "dps": 6.40E+44,
+            "hidden": true,
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 15,
+            "layoutId": "VWE8AGgjNEWfILkyr-Nfs",
+            "type": "damage",
+            "dps": 8.16E+44,
             "championIds": [
                 17,
                 91
-            ],
-            "dps": 8.16E+44,
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "VWE8AGgjNEWfILkyr-Nfs"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
-            "championIds": [87],
+            "layoutId": "umP6sO2p9qV1JfI3m7abQ",
+            "type": "damage",
             "dps": 7.96E+40,
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "umP6sO2p9qV1JfI3m7abQ"
+            "championIds": [
+                87
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "UFBP5fZasLTvqf_bkqfx5",
+            "type": "damage",
+            "dps": 3.84E+45,
+            "comment": "Non-Magic Variant",
             "championIds": [
                 10,
                 13,
@@ -1289,15 +1226,15 @@
                 93,
                 120,
                 126
-            ],
-            "dps": 3.84E+45,
-            "comment": "Non-Magic Variant",
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "UFBP5fZasLTvqf_bkqfx5"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "c23hOzJAH6rdvgsf5yKeZ",
+            "type": "damage",
+            "dps": 1.82E+41,
+            "comment": "Non-Magic Variant",
             "championIds": [
                 1,
                 11,
@@ -1308,15 +1245,15 @@
                 71,
                 92,
                 97
-            ],
-            "dps": 1.82E+41,
-            "comment": "Non-Magic Variant",
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "c23hOzJAH6rdvgsf5yKeZ"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "1GTgb0TcV1rE5D0W0Uoyj",
+            "type": "damage",
+            "dps": 2.19E+41,
+            "comment": "Non-Magic Variant",
             "championIds": [
                 4,
                 20,
@@ -1334,15 +1271,17 @@
                 117,
                 118,
                 124
-            ],
-            "dps": 2.19E+41,
-            "comment": "Non-Magic Variant",
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "1GTgb0TcV1rE5D0W0Uoyj"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "GvRCQNy_OdugNFOjnqZZt",
+            "type": "damage",
+            "dps": 1.04E+37,
+            "comment": "Non-Magic Variant",
+            "beadle": false,
+            "grimm": true,
             "championIds": [
                 3,
                 12,
@@ -1360,17 +1299,15 @@
                 113,
                 116,
                 139
-            ],
-            "dps": 1.04E+37,
-            "beadle": false,
-            "comment": "Non-Magic Variant",
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "GvRCQNy_OdugNFOjnqZZt",
-            "grimm": true
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "Y-dm5dFF-poiLBflC5f17",
+            "type": "damage",
+            "dps": 1.91E+41,
+            "comment": "Non-Magic Variant",
             "championIds": [
                 14,
                 19,
@@ -1380,68 +1317,71 @@
                 127,
                 129,
                 140
-            ],
-            "dps": 1.91E+41,
-            "comment": "Non-Magic Variant",
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "Y-dm5dFF-poiLBflC5f17"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "y9CoTUR3HQcKJ9AATFo2L",
+            "type": "damage",
+            "dps": 9.06E+36,
+            "comment": "Non-Magic Variant",
             "championIds": [
                 42,
                 46,
                 53,
                 65
-            ],
-            "dps": 9.06E+36,
-            "comment": "Non-Magic Variant",
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "y9CoTUR3HQcKJ9AATFo2L"
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "80K7ITgZH227LMZ8Z-Xr2",
+            "type": "damage",
+            "dps": 1.04E+37,
+            "comment": "Non-Magic Variant",
+            "beadle": true,
+            "grimm": false,
             "championIds": [
                 59,
                 64,
                 66,
                 100
-            ],
-            "dps": 1.04E+37,
-            "beadle": true,
-            "comment": "Non-Magic Variant",
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "80K7ITgZH227LMZ8Z-Xr2",
-            "grimm": false
+            ]
         },
         {
+            "coreId": 4,
             "coreLevel": 15,
+            "layoutId": "hDKfifV4tRpUJ7BNj7MI9",
+            "type": "damage",
+            "dps": 4.96E+32,
+            "comment": "Non-Magic Variant",
             "championIds": [
                 7,
                 43,
                 50,
                 128,
                 136
-            ],
-            "dps": 4.96E+32,
-            "comment": "Non-Magic Variant",
-            "coreId": 4,
-            "type": "damage",
-            "layoutId": "hDKfifV4tRpUJ7BNj7MI9"
+            ]
         },
         {
-            "coreLevel": 15,
-            "championIds": [72],
-            "dps": 7.91E+35,
             "coreId": 5,
+            "coreLevel": 15,
+            "layoutId": "CPsUZyBluqIEn96nwVj0C",
             "type": "damage",
-            "layoutId": "CPsUZyBluqIEn96nwVj0C"
+            "dps": 7.91E+35,
+            "championIds": [
+                72
+            ]
         },
         {
+            "coreId": 6,
             "coreLevel": 15,
+            "layoutId": "dFFmh0JAwYRLfa9mH_uHt",
+            "type": "damage",
+            "dps": 1.15E+49,
+            "beadle": true,
+            "grimm": true,
             "championIds": [
                 2,
                 3,
@@ -1493,16 +1433,16 @@
                 126,
                 127,
                 136
-            ],
-            "dps": 1.15E+49,
-            "beadle": true,
-            "coreId": 6,
-            "type": "damage",
-            "layoutId": "dFFmh0JAwYRLfa9mH_uHt",
-            "grimm": true
+            ]
         },
         {
+            "coreId": 7,
             "coreLevel": 15,
+            "layoutId": "7114GoDxPsVq9PvgtiUYx",
+            "type": "damage",
+            "dps": 1.15E+49,
+            "beadle": true,
+            "grimm": false,
             "championIds": [
                 4,
                 5,
@@ -1573,1418 +1513,1810 @@
                 129,
                 136,
                 140
-            ],
-            "dps": 1.15E+49,
-            "beadle": true,
-            "coreId": 7,
-            "type": "damage",
-            "layoutId": "7114GoDxPsVq9PvgtiUYx",
-            "grimm": false
+            ]
         },
         {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 0,
-            "comment": "Tier 1: Now We're Flowing",
             "coreId": 1,
-            "type": "achievement",
-            "layoutId": "iyChfx2296evcJfrAadzT"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "iyChfx2296evcJfrAadzT",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 1: Now We're Flowing",
+            "championIds": []
+        },
+        {
             "coreId": 2,
-            "type": "achievement",
-            "layoutId": "LbtIyA7gF3TVqJlGv-j7o"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "LbtIyA7gF3TVqJlGv-j7o",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 1: Now We're Flowing",
+            "championIds": []
+        },
+        {
             "coreId": 3,
-            "type": "achievement",
-            "layoutId": "8VMtVFfG6dtt92fr8XMwp"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "8VMtVFfG6dtt92fr8XMwp",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 1: Now We're Flowing",
+            "championIds": []
+        },
+        {
             "coreId": 4,
-            "type": "achievement",
-            "layoutId": "5wV-LkarzUs19rX5uSdfh"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "5wV-LkarzUs19rX5uSdfh",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 1: Now We're Flowing",
+            "championIds": []
+        },
+        {
             "coreId": 5,
-            "type": "achievement",
-            "layoutId": "VpXiPUQcapFGVtdmEvw6K"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "VpXiPUQcapFGVtdmEvw6K",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 1: Now We're Flowing",
+            "championIds": []
+        },
+        {
             "coreId": 6,
-            "type": "achievement",
-            "layoutId": "trCCiKffGxG_talqlpZpa"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "trCCiKffGxG_talqlpZpa",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 1: Now We're Flowing",
-            "coreId": 7,
-            "type": "achievement",
-            "layoutId": "3x8kabhdP9vqd9BgYQuLX"
+            "championIds": []
         },
         {
+            "coreId": 7,
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "3x8kabhdP9vqd9BgYQuLX",
+            "type": "achievement",
             "dps": 0,
-            "comment": "Tier 2: Flow Shui",
+            "comment": "Tier 1: Now We're Flowing",
+            "championIds": []
+        },
+        {
             "coreId": 4,
-            "type": "achievement",
-            "layoutId": "LI4aVDOyYdOreT-GsbNWF"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "LI4aVDOyYdOreT-GsbNWF",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 2: Flow Shui",
+            "championIds": []
+        },
+        {
             "coreId": 5,
-            "type": "achievement",
-            "layoutId": "UZyXpoTAZi_pkDzpBLMoB"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "UZyXpoTAZi_pkDzpBLMoB",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 2: Flow Shui",
+            "championIds": []
+        },
+        {
             "coreId": 6,
-            "type": "achievement",
-            "layoutId": "yOEfAk0bySOnVnqUbKoAZ"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "yOEfAk0bySOnVnqUbKoAZ",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 2: Flow Shui",
-            "coreId": 7,
-            "type": "achievement",
-            "layoutId": "QXof7-6PGEM62LAbHXtI9"
+            "championIds": []
         },
         {
+            "coreId": 7,
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "QXof7-6PGEM62LAbHXtI9",
+            "type": "achievement",
             "dps": 0,
-            "comment": "Tier 3: Infinite Cosmic Power",
+            "comment": "Tier 2: Flow Shui",
+            "championIds": []
+        },
+        {
             "coreId": 5,
-            "type": "achievement",
-            "layoutId": "_z85vEeBAqIN3OZ3fZFjc"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "_z85vEeBAqIN3OZ3fZFjc",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 3: Infinite Cosmic Power",
+            "championIds": []
+        },
+        {
             "coreId": 6,
-            "type": "achievement",
-            "layoutId": "n0dIctU7j62SU1AWsDl52"
-        },
-        {
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "n0dIctU7j62SU1AWsDl52",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 3: Infinite Cosmic Power",
-            "coreId": 7,
-            "type": "achievement",
-            "layoutId": "UQfQ1AeRVbE0Ooy5vUT6Q"
+            "championIds": []
         },
         {
+            "coreId": 7,
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "UQfQ1AeRVbE0Ooy5vUT6Q",
+            "type": "achievement",
+            "dps": 0,
+            "comment": "Tier 3: Infinite Cosmic Power",
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 15,
+            "layoutId": "WNzMofUqhm4X1fr7zFMY0",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 4: Pipe Dream",
-            "coreId": 6,
-            "type": "achievement",
-            "layoutId": "WNzMofUqhm4X1fr7zFMY0"
+            "championIds": []
         },
         {
+            "coreId": 7,
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "JSF2NUEtdg3yGoTSbM0Oq",
+            "type": "achievement",
             "dps": 0,
             "comment": "Tier 4: Pipe Dream",
-            "coreId": 7,
-            "type": "achievement",
-            "layoutId": "JSF2NUEtdg3yGoTSbM0Oq"
+            "championIds": []
         },
         {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 0,
-            "comment": "Gold Find (No Damage)",
             "coreId": 1,
-            "type": "reference",
+            "coreLevel": 15,
             "layoutId": "WLo5rDwq6qkF02usUiNr6",
-            "authors": ["Emmote"]
+            "type": "reference",
+            "dps": 0,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Gold Find (No Damage)",
+            "championIds": []
         },
         {
-            "coreLevel": 1,
-            "championIds": [],
-            "dps": 1.60E+3,
             "coreId": 1,
-            "type": "reference",
+            "coreLevel": 1,
             "layoutId": "95bmQkBUH9pH1x98144B-",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 2,
-            "championIds": [],
-            "dps": 7.22E+5,
-            "coreId": 1,
             "type": "reference",
-            "layoutId": "HIer7L-vp1hVz5ZCdGU5b",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 3,
-            "championIds": [],
-            "dps": 1.23E+7,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "Zoa8v3UbNzZPVxKhFn3gl",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 4,
-            "championIds": [],
-            "dps": 2.09E+8,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "1vh1mhmEG7B-9vx-U7QMk",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 5,
-            "championIds": [],
-            "dps": 3.97E+9,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "1f8spUwuzcO5U4zHMKSPQ",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 5,
-            "championIds": [],
-            "dps": 3.97E+9,
-            "comment": "Fewer Epics",
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "REeLk3dw240gtF0Ot58qR",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 6,
-            "championIds": [],
-            "dps": 1.88E+12,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "AZqVjx4NFY09GDqwvDlO0",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 7,
-            "championIds": [],
-            "dps": 3.20E+13,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "dhAxBKNUh3PW5gceSF1wN",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 8,
-            "championIds": [],
-            "dps": 1.36E+16,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "7dDNyJAk0urYvYcDGZy0D",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 9,
-            "championIds": [],
-            "dps": 5.79E+18,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "Oe_8L8WwwW3WjDp8mZ6Mn",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 10,
-            "championIds": [],
-            "dps": 9.84E+19,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "0rXSlApqvm-RpNHm6rCGN",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 11,
-            "championIds": [],
-            "dps": 1.87E+21,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "ZD_QEu4QiETXVOF4w5RVR",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 12,
-            "championIds": [],
-            "dps": 8.88E+23,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "nJoJFSDvdD7b1rZPrBalL",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 12,
-            "championIds": [],
-            "dps": 8.88E+23,
-            "comment": "No Epics",
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "cVwUPmcXfoSxLyGzwNmw5",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 13,
-            "championIds": [],
-            "dps": 1.51E+25,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "I-rqgKTMR-dq7PTnoDLEY",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 14,
-            "championIds": [],
-            "dps": 2.57E+26,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "y5Nyg_FHh31td1MkHAToY",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 1.60E+29,
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "Qr18_CPZlXC9flrEZzn54",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 1,
-            "championIds": [],
             "dps": 1.60E+3,
-            "coreId": 2,
-            "type": "reference",
-            "layoutId": "zpH8DCom6FU8nlZqacwMO",
-            "authors": ["Retaki"]
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 2,
-            "championIds": [],
-            "dps": 8.07E+5,
-            "coreId": 2,
+            "layoutId": "HIer7L-vp1hVz5ZCdGU5b",
             "type": "reference",
-            "layoutId": "80FnZBXljK16TDJOevTAP",
-            "authors": ["Retaki"]
+            "dps": 7.22E+5,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 3,
-            "championIds": [],
-            "dps": 2.02E+7,
-            "coreId": 2,
+            "layoutId": "Zoa8v3UbNzZPVxKhFn3gl",
             "type": "reference",
-            "layoutId": "_EExfsoHqRe-OTZ-3gosh",
-            "authors": ["Retaki"]
+            "dps": 1.23E+7,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 4,
-            "championIds": [],
-            "dps": 3.43E+8,
-            "coreId": 2,
+            "layoutId": "1vh1mhmEG7B-9vx-U7QMk",
             "type": "reference",
-            "layoutId": "ORudEwWbbeNno4HvOMC9l",
-            "authors": ["Retaki"]
+            "dps": 2.09E+8,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 5,
-            "championIds": [],
-            "dps": 8.58E+9,
-            "coreId": 2,
+            "layoutId": "1f8spUwuzcO5U4zHMKSPQ",
             "type": "reference",
-            "layoutId": "tdH6wdK8yHlnwoAseNcGT",
-            "authors": ["Retaki"]
+            "dps": 3.97E+9,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
+            "coreLevel": 5,
+            "layoutId": "REeLk3dw240gtF0Ot58qR",
+            "type": "reference",
+            "dps": 3.97E+9,
+            "authors": [
+                "Retaki"
+            ],
+            "comment": "Fewer Epics",
+            "championIds": []
+        },
+        {
+            "coreId": 1,
             "coreLevel": 6,
-            "championIds": [],
-            "dps": 3.65E+12,
-            "coreId": 2,
+            "layoutId": "AZqVjx4NFY09GDqwvDlO0",
             "type": "reference",
-            "layoutId": "J6J0-gLUN_BOjM68KeSqN",
-            "authors": ["Retaki"]
+            "dps": 1.88E+12,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 7,
-            "championIds": [],
-            "dps": 1.73E+15,
-            "coreId": 2,
+            "layoutId": "dhAxBKNUh3PW5gceSF1wN",
             "type": "reference",
-            "layoutId": "gtPCs5l1mySk2o7xx296l",
-            "authors": ["Retaki"]
+            "dps": 3.20E+13,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 8,
-            "championIds": [],
-            "dps": 7.36E+17,
-            "coreId": 2,
+            "layoutId": "7dDNyJAk0urYvYcDGZy0D",
             "type": "reference",
-            "layoutId": "IGllUBqnQsfzskxBMoVnt",
-            "authors": ["Retaki"]
+            "dps": 1.36E+16,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 9,
-            "championIds": [],
-            "dps": 1.40E+19,
-            "coreId": 2,
+            "layoutId": "Oe_8L8WwwW3WjDp8mZ6Mn",
             "type": "reference",
-            "layoutId": "4uG5864YKxD-KAa8BgX-d",
-            "authors": ["Retaki"]
+            "dps": 5.79E+18,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 10,
-            "championIds": [],
-            "dps": 3.50E+20,
-            "coreId": 2,
+            "layoutId": "0rXSlApqvm-RpNHm6rCGN",
             "type": "reference",
-            "layoutId": "gdIBkD3TgT1niTV-1UiiT",
-            "authors": ["Retaki"]
+            "dps": 9.84E+19,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 11,
-            "championIds": [],
-            "dps": 1.49E+23,
-            "coreId": 2,
+            "layoutId": "ZD_QEu4QiETXVOF4w5RVR",
             "type": "reference",
-            "layoutId": "BHREouvgPeF9X4lRJ9xft",
-            "authors": ["Retaki"]
+            "dps": 1.87E+21,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 1,
             "coreLevel": 12,
-            "championIds": [],
-            "dps": 7.06E+25,
-            "coreId": 2,
+            "layoutId": "nJoJFSDvdD7b1rZPrBalL",
             "type": "reference",
+            "dps": 8.88E+23,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 1,
+            "coreLevel": 12,
+            "layoutId": "cVwUPmcXfoSxLyGzwNmw5",
+            "type": "reference",
+            "dps": 8.88E+23,
+            "authors": [
+                "Retaki"
+            ],
+            "comment": "No Epics",
+            "championIds": []
+        },
+        {
+            "coreId": 1,
+            "coreLevel": 13,
+            "layoutId": "I-rqgKTMR-dq7PTnoDLEY",
+            "type": "reference",
+            "dps": 1.51E+25,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 1,
+            "coreLevel": 14,
+            "layoutId": "y5Nyg_FHh31td1MkHAToY",
+            "type": "reference",
+            "dps": 2.57E+26,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 1,
+            "coreLevel": 15,
+            "layoutId": "Qr18_CPZlXC9flrEZzn54",
+            "type": "reference",
+            "dps": 1.60E+29,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 1,
+            "layoutId": "zpH8DCom6FU8nlZqacwMO",
+            "type": "reference",
+            "dps": 1.60E+3,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 2,
+            "layoutId": "80FnZBXljK16TDJOevTAP",
+            "type": "reference",
+            "dps": 8.07E+5,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 3,
+            "layoutId": "_EExfsoHqRe-OTZ-3gosh",
+            "type": "reference",
+            "dps": 2.02E+7,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 4,
+            "layoutId": "ORudEwWbbeNno4HvOMC9l",
+            "type": "reference",
+            "dps": 3.43E+8,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 5,
+            "layoutId": "tdH6wdK8yHlnwoAseNcGT",
+            "type": "reference",
+            "dps": 8.58E+9,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 6,
+            "layoutId": "J6J0-gLUN_BOjM68KeSqN",
+            "type": "reference",
+            "dps": 3.65E+12,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 7,
+            "layoutId": "gtPCs5l1mySk2o7xx296l",
+            "type": "reference",
+            "dps": 1.73E+15,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 8,
+            "layoutId": "IGllUBqnQsfzskxBMoVnt",
+            "type": "reference",
+            "dps": 7.36E+17,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 9,
+            "layoutId": "4uG5864YKxD-KAa8BgX-d",
+            "type": "reference",
+            "dps": 1.40E+19,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 10,
+            "layoutId": "gdIBkD3TgT1niTV-1UiiT",
+            "type": "reference",
+            "dps": 3.50E+20,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 11,
+            "layoutId": "BHREouvgPeF9X4lRJ9xft",
+            "type": "reference",
+            "dps": 1.49E+23,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 12,
             "layoutId": "lBjkY9UquiPPrUNDqrUh4",
+            "type": "reference",
+            "dps": 7.06E+25,
             "authors": [
                 "Retaki",
                 "Emmote"
-            ]
+            ],
+            "championIds": []
         },
         {
-            "coreLevel": 13,
-            "championIds": [],
-            "dps": 1.20E+27,
             "coreId": 2,
-            "type": "reference",
+            "coreLevel": 13,
             "layoutId": "sl9h0IwSV-3pJt5eNk6BR",
-            "authors": ["Retaki"]
+            "type": "reference",
+            "dps": 1.20E+27,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
-            "coreLevel": 14,
-            "championIds": [],
-            "dps": 2.28E+28,
             "coreId": 2,
-            "type": "reference",
+            "coreLevel": 14,
             "layoutId": "38CCIVtSHaIoFRZXekobU",
-            "authors": ["Retaki"]
+            "type": "reference",
+            "dps": 2.28E+28,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 5.70E+29,
             "coreId": 2,
-            "type": "reference",
+            "coreLevel": 15,
             "layoutId": "g3SlbA3Oz6KrFFC9x5knJ",
-            "authors": ["Retaki"]
+            "type": "reference",
+            "dps": 5.70E+29,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 0,
-            "comment": "Minimal (No Damage)",
             "coreId": 3,
-            "type": "reference",
+            "coreLevel": 15,
             "layoutId": "T-TfCsTNdXfLHOULzOfHr",
-            "authors": ["Emmote"]
+            "type": "reference",
+            "dps": 0,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Minimal (No Damage)",
+            "championIds": []
         },
         {
-            "coreLevel": 1,
-            "championIds": [],
-            "dps": 1.60E+3,
-            "comment": "Damage",
             "coreId": 3,
-            "type": "reference",
+            "coreLevel": 1,
             "layoutId": "jsI7jPCrM5UiP-FK7uz8S",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 1,
-            "championIds": [],
-            "dps": 50,
-            "comment": "Gold",
-            "coreId": 3,
             "type": "reference",
-            "layoutId": "yk2BmrUpjs3UpnAKliAP3",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 2,
-            "championIds": [],
-            "dps": 7.22E+5,
-            "comment": "Damage",
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "UfYoMXG7U_x-EmIoMuIBB",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 2,
-            "championIds": [],
-            "dps": 6.37E+4,
-            "comment": "Gold",
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "k2Mg3nBvQG1dwWA2qnzLb",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 3,
-            "championIds": [],
-            "dps": 1.37E+7,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "lcUoWEXOA2jDU-Ju20JYH",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 4,
-            "championIds": [],
-            "dps": 5.83E+9,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "Iyoo7Jrrs6V9coLMvQ6QD",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 5,
-            "championIds": [],
-            "dps": 5.83E+9,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "m2tKj5r74ri26m94HdOTf",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 6,
-            "championIds": [],
-            "dps": 2.48E+12,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "5ynlEjSVxmePUfkOkDIGP",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 7,
-            "championIds": [],
-            "dps": 2.48E+12,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "29sht3peA4PoMhOq18_aB",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 8,
-            "championIds": [],
-            "dps": 8.01E+14,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "M3J0RionL3yp933OCgG_S",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 9,
-            "championIds": [],
-            "dps": 5.01E+17,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "dlgIP6QSOkeJ_oKO2xK0u",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 10,
-            "championIds": [],
-            "dps": 8.51E+18,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "GrbqBBuqypbkyft3yeU4T",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 11,
-            "championIds": [],
-            "dps": 2.13E+20,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "1TfPibsmvmpP33ACYSbIR",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 12,
-            "championIds": [],
-            "dps": 6.87E+22,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "AY-qd5H8EpbnrTfn_N-kZ",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 13,
-            "championIds": [],
-            "dps": 6.87E+22,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "M4PMKCEW8oXz7vY_X2lRe",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 14,
-            "championIds": [],
-            "dps": 1.17E+24,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "dzfoLYPMkhNZhhqffYIiM",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 2.92E+25,
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "7ZEFaipV2hBqOPGWLIw0c",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 2.92E+25,
-            "comment": "Fewer Rares",
-            "coreId": 3,
-            "type": "reference",
-            "layoutId": "ZBrE0yNV6Ce0IS8qCHhuy",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 1,
-            "championIds": [],
-            "dps": 4.24E+4,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "Zsz6BQ0bcYd33VYvwU6Mz",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 2,
-            "championIds": [],
-            "dps": 2.02E+7,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "6BA7tMTNA8er60QbG49hr",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 3,
-            "championIds": [],
-            "dps": 1.26E+10,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "O7vdpZ12ktxccE2LLt3xd",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 4,
-            "championIds": [],
-            "dps": 2.14E+11,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "NdnN_kNAofT8HIUDGMILI",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 5,
-            "championIds": [],
-            "dps": 1.02E+14,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "b-eOhZJ9RlF75jJOgzS5C",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 6,
-            "championIds": [],
-            "dps": 1.73E+15,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "WDIczxmxL6XVy7CKIyABp",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 7,
-            "championIds": [],
-            "dps": 4.33E+16,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "ttlZ6O3lv2sUmYEGk58ui",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 8,
-            "championIds": [],
-            "dps": 2.06E+19,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "EgznkBWwyzdo2knZijEHE",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 9,
-            "championIds": [],
-            "dps": 8.74E+21,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "BHXm28hQHBCfST-_urwDX",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 10,
-            "championIds": [],
-            "dps": 1.49E+23,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "3wDpio5xZWdY7ZrGxpgPO",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 11,
-            "championIds": [],
-            "dps": 9.29E+25,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "UtsA0hJAERqnL2LxXnzX0",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 12,
-            "championIds": [],
-            "dps": 4.41E+28,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "yrdJOmKFn1q4ic0z1zbBP",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 13,
-            "championIds": [],
-            "dps": 7.50E+29,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "0yJViKD9VUlycvX6_bIth",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 14,
-            "championIds": [],
-            "dps": 3.56E+32,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "Ol1PVP9MtfxzUqDHxpSzj",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 2.23E+35,
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "jUxx0g1M07bmeFVk7vLyL",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 1,
-            "championIds": [],
             "dps": 1.60E+3,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "ZrUTTu1XAyGonDRfEzt1v",
-            "authors": ["Emmote"]
+            "authors": [
+                "Retaki"
+            ],
+            "comment": "Damage",
+            "championIds": []
         },
         {
+            "coreId": 3,
+            "coreLevel": 1,
+            "layoutId": "yk2BmrUpjs3UpnAKliAP3",
+            "type": "reference",
+            "dps": 50.0,
+            "authors": [
+                "Retaki"
+            ],
+            "comment": "Gold",
+            "championIds": []
+        },
+        {
+            "coreId": 3,
             "coreLevel": 2,
-            "championIds": [],
-            "dps": 3.22E+4,
-            "coreId": 5,
+            "layoutId": "UfYoMXG7U_x-EmIoMuIBB",
             "type": "reference",
-            "layoutId": "p9r3JZEqgj1DLBzZDXtjK",
-            "authors": ["Emmote"]
+            "dps": 7.22E+5,
+            "authors": [
+                "Retaki"
+            ],
+            "comment": "Damage",
+            "championIds": []
         },
         {
+            "coreId": 3,
+            "coreLevel": 2,
+            "layoutId": "k2Mg3nBvQG1dwWA2qnzLb",
+            "type": "reference",
+            "dps": 6.37E+4,
+            "authors": [
+                "Retaki"
+            ],
+            "comment": "Gold",
+            "championIds": []
+        },
+        {
+            "coreId": 3,
             "coreLevel": 3,
-            "championIds": [],
-            "dps": 8.07E+5,
-            "coreId": 5,
+            "layoutId": "lcUoWEXOA2jDU-Ju20JYH",
             "type": "reference",
-            "layoutId": "Ro2xNfZGpf3Z9UuPXXan2",
-            "authors": ["Emmote"]
-        },
-        {
-            "coreLevel": 4,
-            "championIds": [],
             "dps": 1.37E+7,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "POGFl7Z7xbjQ0puBRibS_",
-            "authors": ["Emmote"]
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
-            "coreLevel": 5,
-            "championIds": [],
-            "dps": 2.61E+8,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "_cnjFMbJghPE7k32q5Zv4",
-            "authors": ["Emmote"]
-        },
-        {
-            "coreLevel": 6,
-            "championIds": [],
-            "dps": 6.52E+9,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "WP4ykQWq1-9KcglksyRwz",
-            "authors": ["Emmote"]
-        },
-        {
-            "coreLevel": 7,
-            "championIds": [],
-            "dps": 1.11E+11,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "pA0F7LTce6No1Mn3KFO6E",
-            "authors": ["Emmote"]
-        },
-        {
-            "coreLevel": 8,
-            "championIds": [],
-            "dps": 2.77E+12,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "L52iUcapR8CoLI9u0zu37",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 9,
-            "championIds": [],
-            "dps": 5.27E+13,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "63m9wbi_BsJuPzUEm7k_u",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 10,
-            "championIds": [],
-            "dps": 1.32E+15,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "pwYBPVsGkcfVPCR9Ln_u2",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 11,
-            "championIds": [],
-            "dps": 2.24E+16,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "lWMPRnOTwZBWIz5nvCQbt",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 12,
-            "championIds": [],
-            "dps": 4.25E+17,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "zTOmbLgqe7g4AkKvk_62Q",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 13,
-            "championIds": [],
-            "dps": 1.06E+19,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "tWk2IEWakg36sL40G0pVu",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 14,
-            "championIds": [],
-            "dps": 1.06E+19,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "8w0C3SH_34F6_ClFvcISR",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 5.05E+21,
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "CYtif3uuyefKikSXPGGKx",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 1,
-            "championIds": [],
-            "dps": 1.16E+4,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "6SGb8xIuFm0blV3jmZxXx",
-            "authors": ["Emmote"]
-        },
-        {
-            "coreLevel": 2,
-            "championIds": [],
-            "dps": 2.64E+6,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "49uY7mPzwK3Hq57dsfig2",
-            "authors": ["UniQP"]
-        },
-        {
-            "coreLevel": 3,
-            "championIds": [],
-            "dps": 4.33E+9,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "F9doypTHcCu2Hy3JkUcYZ",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 4,
-            "championIds": [],
-            "dps": 3.61E+12,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "5uDbIBD_EdReuXo5OrKUP",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 5,
-            "championIds": [],
-            "dps": 6.86E+13,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "1GVE47jjyZ7q9Z3SG_2vf",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 6,
-            "championIds": [],
-            "dps": 1.41E+16,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "y49qFukoaknM2yIeeDbvv",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 7,
-            "championIds": [],
-            "dps": 3.51E+17,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "E7P2B1KzFsRB1nJJkIiCX",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 8,
-            "championIds": [],
-            "dps": 5.97E+18,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "b8DB6ESUxBJclnM8GyiVp",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 9,
-            "championIds": [],
-            "dps": 6.58E+20,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "R1SwFbNYeCx1dSgjOYB2c",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 10,
-            "championIds": [],
-            "dps": 1.65E+22,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "XFxleBwvH2pSRHnRrygwj",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 11,
-            "championIds": [],
-            "dps": 1.04E+25,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "alaCsZaLewLMZpLSR0GUx",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 12,
-            "championIds": [],
-            "dps": 1.61E+27,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "tApZhrevWZ60GvuqdnuY5",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 13,
-            "championIds": [],
-            "dps": 4.03E+28,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "GrZTlgOBQCnVyzhsUnPxk",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 14,
-            "championIds": [],
-            "dps": 1.98E+30,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "fyIKuJyDW54jgJLo07vMk",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 4.94E+31,
-            "coreId": 6,
-            "type": "reference",
-            "layoutId": "zTRphrpK9skSmE924bxtT",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 1,
-            "championIds": [],
-            "dps": 1.16E+4,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "yP8AtNGqXAQRcSz4H7VU0",
-            "authors": ["Retaki"]
-        },
-        {
-            "coreLevel": 2,
-            "championIds": [],
-            "dps": 9.14E+5,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "KHNcuGxlaOl-GIaTBkNHJ",
-            "authors": ["Emmote"]
-        },
-        {
-            "coreLevel": 3,
-            "championIds": [],
-            "dps": 1.33E+8,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "5wUfVRU576x_-ylfyFXqh",
-            "authors": ["UniQP"]
-        },
-        {
-            "coreLevel": 4,
-            "championIds": [],
-            "dps": 1.66E+11,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "h00HmOf8QUv5JWtnREs3p",
-            "authors": ["UniQP"]
-        },
-        {
-            "coreLevel": 5,
-            "championIds": [],
-            "dps": 3.15E+12,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "_pUwf0GvcKhb8odIxsa7y",
-            "authors": ["UniQP"]
-        },
-        {
-            "coreLevel": 6,
-            "championIds": [],
-            "dps": 9.92E+13,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "wAS5rjBbwvG-au_xtws0K",
-            "authors": ["UniQP"]
-        },
-        {
-            "coreLevel": 7,
-            "championIds": [],
-            "dps": 2.48E+15,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "oRMlwMofXwubWupXpVc75",
-            "authors": ["UniQP"]
-        },
-        {
-            "coreLevel": 8,
-            "championIds": [],
-            "dps": 5.97E+18,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "NqV03vfHZw1XDp93mgWiJ",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 9,
-            "championIds": [],
-            "dps": 6.58E+20,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "GUxGr2lErt8XZfJ12sDMP",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 10,
-            "championIds": [],
-            "dps": 1.65E+22,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "aCdnbn8otCGpb8oJOaOx0",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 11,
-            "championIds": [],
-            "dps": 1.04E+25,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "5fsSHUHuTu1zapNMX1qx8",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 11,
-            "championIds": [],
-            "dps": 1.04E+25,
-            "comment": "No Cross Pipes",
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "kjMP30inxTqFq48XcTZLx",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 12,
-            "championIds": [],
-            "dps": 1.61E+27,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "0YKylbiA0DtiSxqT5As9i",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 12,
-            "championIds": [],
-            "dps": 1.61E+27,
-            "comment": "No Epics",
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "RViADcjNiQx8baAZKOVIs",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 13,
-            "championIds": [],
-            "dps": 4.03E+28,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "e0wVkcrE9q_tuw8QDtd5C",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 14,
-            "championIds": [],
-            "dps": 1.98E+30,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "T1UEgokDLILt5jm6Dr4WJ",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 4.94E+31,
-            "coreId": 7,
-            "type": "reference",
-            "layoutId": "lZfp8UfqKZo3wXTjXXeOA",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 1.60E+29,
-            "comment": "Min Pipes: 81",
-            "coreId": 1,
-            "type": "reference",
-            "layoutId": "3RLSXOvfhj-9x1knFdA9B",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 5.70E+29,
-            "comment": "Min Pipes: 77",
-            "coreId": 2,
-            "type": "reference",
-            "layoutId": "lGg_BhwReysiilX-_yHGa",
-            "authors": ["Darkbolt"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 2.92E+25,
-            "comment": "Min Pipes: 74",
             "coreId": 3,
+            "coreLevel": 4,
+            "layoutId": "Iyoo7Jrrs6V9coLMvQ6QD",
             "type": "reference",
-            "layoutId": "LPEwIiOxwfWpfb7RQo2Pw",
-            "authors": ["Emmote"]
+            "dps": 5.83E+9,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 3,
+            "coreLevel": 5,
+            "layoutId": "m2tKj5r74ri26m94HdOTf",
+            "type": "reference",
+            "dps": 5.83E+9,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 6,
+            "layoutId": "5ynlEjSVxmePUfkOkDIGP",
+            "type": "reference",
+            "dps": 2.48E+12,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 7,
+            "layoutId": "29sht3peA4PoMhOq18_aB",
+            "type": "reference",
+            "dps": 2.48E+12,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 8,
+            "layoutId": "M3J0RionL3yp933OCgG_S",
+            "type": "reference",
+            "dps": 8.01E+14,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 9,
+            "layoutId": "dlgIP6QSOkeJ_oKO2xK0u",
+            "type": "reference",
+            "dps": 5.01E+17,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 10,
+            "layoutId": "GrbqBBuqypbkyft3yeU4T",
+            "type": "reference",
+            "dps": 8.51E+18,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 11,
+            "layoutId": "1TfPibsmvmpP33ACYSbIR",
+            "type": "reference",
+            "dps": 2.13E+20,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 12,
+            "layoutId": "AY-qd5H8EpbnrTfn_N-kZ",
+            "type": "reference",
+            "dps": 6.87E+22,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 13,
+            "layoutId": "M4PMKCEW8oXz7vY_X2lRe",
+            "type": "reference",
+            "dps": 6.87E+22,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 14,
+            "layoutId": "dzfoLYPMkhNZhhqffYIiM",
+            "type": "reference",
+            "dps": 1.17E+24,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
             "coreLevel": 15,
-            "championIds": [],
-            "dps": 2.23E+35,
-            "comment": "Min Pipes: 76",
+            "layoutId": "7ZEFaipV2hBqOPGWLIw0c",
+            "type": "reference",
+            "dps": 2.92E+25,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 15,
+            "layoutId": "ZBrE0yNV6Ce0IS8qCHhuy",
+            "type": "reference",
+            "dps": 2.92E+25,
+            "authors": [
+                "Retaki"
+            ],
+            "comment": "Fewer Rares",
+            "championIds": []
+        },
+        {
             "coreId": 4,
+            "coreLevel": 1,
+            "layoutId": "Zsz6BQ0bcYd33VYvwU6Mz",
             "type": "reference",
-            "layoutId": "iBpZmEKggkM5IWYOLl9kf",
-            "authors": ["Emmote"]
+            "dps": 4.24E+4,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 4,
+            "coreLevel": 2,
+            "layoutId": "6BA7tMTNA8er60QbG49hr",
+            "type": "reference",
+            "dps": 2.02E+7,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 3,
+            "layoutId": "O7vdpZ12ktxccE2LLt3xd",
+            "type": "reference",
+            "dps": 1.26E+10,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 4,
+            "layoutId": "NdnN_kNAofT8HIUDGMILI",
+            "type": "reference",
+            "dps": 2.14E+11,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 5,
+            "layoutId": "b-eOhZJ9RlF75jJOgzS5C",
+            "type": "reference",
+            "dps": 1.02E+14,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 6,
+            "layoutId": "WDIczxmxL6XVy7CKIyABp",
+            "type": "reference",
+            "dps": 1.73E+15,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 7,
+            "layoutId": "ttlZ6O3lv2sUmYEGk58ui",
+            "type": "reference",
+            "dps": 4.33E+16,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 8,
+            "layoutId": "EgznkBWwyzdo2knZijEHE",
+            "type": "reference",
+            "dps": 2.06E+19,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 9,
+            "layoutId": "BHXm28hQHBCfST-_urwDX",
+            "type": "reference",
+            "dps": 8.74E+21,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 10,
+            "layoutId": "3wDpio5xZWdY7ZrGxpgPO",
+            "type": "reference",
+            "dps": 1.49E+23,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 11,
+            "layoutId": "UtsA0hJAERqnL2LxXnzX0",
+            "type": "reference",
+            "dps": 9.29E+25,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 12,
+            "layoutId": "yrdJOmKFn1q4ic0z1zbBP",
+            "type": "reference",
+            "dps": 4.41E+28,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 13,
+            "layoutId": "0yJViKD9VUlycvX6_bIth",
+            "type": "reference",
+            "dps": 7.50E+29,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 14,
+            "layoutId": "Ol1PVP9MtfxzUqDHxpSzj",
+            "type": "reference",
+            "dps": 3.56E+32,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 4,
             "coreLevel": 15,
-            "championIds": [],
-            "dps": 5.05E+21,
-            "comment": "Min Pipes: 81",
+            "layoutId": "jUxx0g1M07bmeFVk7vLyL",
+            "type": "reference",
+            "dps": 2.23E+35,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
             "coreId": 5,
+            "coreLevel": 1,
+            "layoutId": "ZrUTTu1XAyGonDRfEzt1v",
             "type": "reference",
-            "layoutId": "taZalpaozjGYfEmEuegt5",
-            "authors": ["Emmote"]
+            "dps": 1.60E+3,
+            "authors": [
+                "Emmote"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 5,
+            "coreLevel": 2,
+            "layoutId": "p9r3JZEqgj1DLBzZDXtjK",
+            "type": "reference",
+            "dps": 3.22E+4,
+            "authors": [
+                "Emmote"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 3,
+            "layoutId": "Ro2xNfZGpf3Z9UuPXXan2",
+            "type": "reference",
+            "dps": 8.07E+5,
+            "authors": [
+                "Emmote"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 4,
+            "layoutId": "POGFl7Z7xbjQ0puBRibS_",
+            "type": "reference",
+            "dps": 1.37E+7,
+            "authors": [
+                "Emmote"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 5,
+            "layoutId": "_cnjFMbJghPE7k32q5Zv4",
+            "type": "reference",
+            "dps": 2.61E+8,
+            "authors": [
+                "Emmote"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 6,
+            "layoutId": "WP4ykQWq1-9KcglksyRwz",
+            "type": "reference",
+            "dps": 6.52E+9,
+            "authors": [
+                "Emmote"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 7,
+            "layoutId": "pA0F7LTce6No1Mn3KFO6E",
+            "type": "reference",
+            "dps": 1.11E+11,
+            "authors": [
+                "Emmote"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 8,
+            "layoutId": "L52iUcapR8CoLI9u0zu37",
+            "type": "reference",
+            "dps": 2.77E+12,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 9,
+            "layoutId": "63m9wbi_BsJuPzUEm7k_u",
+            "type": "reference",
+            "dps": 5.27E+13,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 10,
+            "layoutId": "pwYBPVsGkcfVPCR9Ln_u2",
+            "type": "reference",
+            "dps": 1.32E+15,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 11,
+            "layoutId": "lWMPRnOTwZBWIz5nvCQbt",
+            "type": "reference",
+            "dps": 2.24E+16,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 12,
+            "layoutId": "zTOmbLgqe7g4AkKvk_62Q",
+            "type": "reference",
+            "dps": 4.25E+17,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 13,
+            "layoutId": "tWk2IEWakg36sL40G0pVu",
+            "type": "reference",
+            "dps": 1.06E+19,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 14,
+            "layoutId": "8w0C3SH_34F6_ClFvcISR",
+            "type": "reference",
+            "dps": 1.06E+19,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 5,
             "coreLevel": 15,
-            "championIds": [],
-            "dps": 4.94E+31,
-            "comment": "Min Pipes: 83",
+            "layoutId": "CYtif3uuyefKikSXPGGKx",
+            "type": "reference",
+            "dps": 5.05E+21,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
             "coreId": 6,
+            "coreLevel": 1,
+            "layoutId": "6SGb8xIuFm0blV3jmZxXx",
             "type": "reference",
-            "layoutId": "HHys4x0fUH8rcUPzXzT3y",
-            "authors": ["Emmote"]
+            "dps": 1.16E+4,
+            "authors": [
+                "Emmote"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 6,
+            "coreLevel": 2,
+            "layoutId": "49uY7mPzwK3Hq57dsfig2",
+            "type": "reference",
+            "dps": 2.64E+6,
+            "authors": [
+                "UniQP"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 3,
+            "layoutId": "F9doypTHcCu2Hy3JkUcYZ",
+            "type": "reference",
+            "dps": 4.33E+9,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 4,
+            "layoutId": "5uDbIBD_EdReuXo5OrKUP",
+            "type": "reference",
+            "dps": 3.61E+12,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 5,
+            "layoutId": "1GVE47jjyZ7q9Z3SG_2vf",
+            "type": "reference",
+            "dps": 6.86E+13,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 6,
+            "layoutId": "y49qFukoaknM2yIeeDbvv",
+            "type": "reference",
+            "dps": 1.41E+16,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 7,
+            "layoutId": "E7P2B1KzFsRB1nJJkIiCX",
+            "type": "reference",
+            "dps": 3.51E+17,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 8,
+            "layoutId": "b8DB6ESUxBJclnM8GyiVp",
+            "type": "reference",
+            "dps": 5.97E+18,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 9,
+            "layoutId": "R1SwFbNYeCx1dSgjOYB2c",
+            "type": "reference",
+            "dps": 6.58E+20,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 10,
+            "layoutId": "XFxleBwvH2pSRHnRrygwj",
+            "type": "reference",
+            "dps": 1.65E+22,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 11,
+            "layoutId": "alaCsZaLewLMZpLSR0GUx",
+            "type": "reference",
+            "dps": 1.04E+25,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 12,
+            "layoutId": "tApZhrevWZ60GvuqdnuY5",
+            "type": "reference",
+            "dps": 1.61E+27,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 13,
+            "layoutId": "GrZTlgOBQCnVyzhsUnPxk",
+            "type": "reference",
+            "dps": 4.03E+28,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 14,
+            "layoutId": "fyIKuJyDW54jgJLo07vMk",
+            "type": "reference",
+            "dps": 1.98E+30,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 6,
             "coreLevel": 15,
-            "championIds": [],
+            "layoutId": "zTRphrpK9skSmE924bxtT",
+            "type": "reference",
             "dps": 4.94E+31,
-            "comment": "Min Pipes: 78",
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
+        },
+        {
             "coreId": 7,
+            "coreLevel": 1,
+            "layoutId": "yP8AtNGqXAQRcSz4H7VU0",
             "type": "reference",
-            "layoutId": "641C3uzNU-JG1tOjyDEp1",
-            "authors": ["Emmote"]
+            "dps": 1.16E+4,
+            "authors": [
+                "Retaki"
+            ],
+            "championIds": []
         },
         {
+            "coreId": 7,
+            "coreLevel": 2,
+            "layoutId": "KHNcuGxlaOl-GIaTBkNHJ",
+            "type": "reference",
+            "dps": 9.14E+5,
+            "authors": [
+                "Emmote"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 3,
+            "layoutId": "5wUfVRU576x_-ylfyFXqh",
+            "type": "reference",
+            "dps": 1.33E+8,
+            "authors": [
+                "UniQP"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 4,
+            "layoutId": "h00HmOf8QUv5JWtnREs3p",
+            "type": "reference",
+            "dps": 1.66E+11,
+            "authors": [
+                "UniQP"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 5,
+            "layoutId": "_pUwf0GvcKhb8odIxsa7y",
+            "type": "reference",
+            "dps": 3.15E+12,
+            "authors": [
+                "UniQP"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 6,
+            "layoutId": "wAS5rjBbwvG-au_xtws0K",
+            "type": "reference",
+            "dps": 9.92E+13,
+            "authors": [
+                "UniQP"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 7,
+            "layoutId": "oRMlwMofXwubWupXpVc75",
+            "type": "reference",
+            "dps": 2.48E+15,
+            "authors": [
+                "UniQP"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 8,
+            "layoutId": "NqV03vfHZw1XDp93mgWiJ",
+            "type": "reference",
+            "dps": 5.97E+18,
+            "authors": [
+                "Darkbolt"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 9,
+            "layoutId": "GUxGr2lErt8XZfJ12sDMP",
+            "type": "reference",
+            "dps": 6.58E+20,
+            "authors": [
+                "Darkbolt"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 10,
+            "layoutId": "aCdnbn8otCGpb8oJOaOx0",
+            "type": "reference",
+            "dps": 1.65E+22,
+            "authors": [
+                "Darkbolt"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 11,
+            "layoutId": "5fsSHUHuTu1zapNMX1qx8",
+            "type": "reference",
+            "dps": 1.04E+25,
+            "authors": [
+                "Darkbolt"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 11,
+            "layoutId": "kjMP30inxTqFq48XcTZLx",
+            "type": "reference",
+            "dps": 1.04E+25,
+            "authors": [
+                "Darkbolt"
+            ],
+            "comment": "No Cross Pipes",
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 12,
+            "layoutId": "0YKylbiA0DtiSxqT5As9i",
+            "type": "reference",
+            "dps": 1.61E+27,
+            "authors": [
+                "Darkbolt"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 12,
+            "layoutId": "RViADcjNiQx8baAZKOVIs",
+            "type": "reference",
+            "dps": 1.61E+27,
+            "authors": [
+                "Darkbolt"
+            ],
+            "comment": "No Epics",
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 13,
+            "layoutId": "e0wVkcrE9q_tuw8QDtd5C",
+            "type": "reference",
+            "dps": 4.03E+28,
+            "authors": [
+                "Darkbolt"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 14,
+            "layoutId": "T1UEgokDLILt5jm6Dr4WJ",
+            "type": "reference",
+            "dps": 1.98E+30,
+            "authors": [
+                "Darkbolt"
+            ],
+            "championIds": []
+        },
+        {
+            "coreId": 7,
             "coreLevel": 15,
-            "championIds": [],
-            "dps": 1.60E+29,
-            "comment": "Min Rarity: 5 Rares",
+            "layoutId": "lZfp8UfqKZo3wXTjXXeOA",
+            "type": "reference",
+            "dps": 4.94E+31,
+            "authors": [
+                "Darkbolt"
+            ],
+            "championIds": []
+        },
+        {
             "coreId": 1,
+            "coreLevel": 15,
+            "layoutId": "3RLSXOvfhj-9x1knFdA9B",
             "type": "reference",
-            "layoutId": "P6qKM1sA_9quq9rDQrJyL",
-            "authors": ["Darkbolt"]
+            "dps": 1.60E+29,
+            "authors": [
+                "Darkbolt"
+            ],
+            "comment": "Min Pipes: 81",
+            "championIds": []
         },
         {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 5.70E+29,
-            "comment": "Min Rarity: 1 Rare",
             "coreId": 2,
+            "coreLevel": 15,
+            "layoutId": "lGg_BhwReysiilX-_yHGa",
             "type": "reference",
-            "layoutId": "cmByFdKcMP1ZRhAe2nDbq",
-            "authors": ["Darkbolt"]
+            "dps": 5.70E+29,
+            "authors": [
+                "Darkbolt"
+            ],
+            "comment": "Min Pipes: 77",
+            "championIds": []
         },
         {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 2.92E+25,
-            "comment": "Min Rarity: 4 Rares",
             "coreId": 3,
+            "coreLevel": 15,
+            "layoutId": "LPEwIiOxwfWpfb7RQo2Pw",
             "type": "reference",
+            "dps": 2.92E+25,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Min Pipes: 74",
+            "championIds": []
+        },
+        {
+            "coreId": 4,
+            "coreLevel": 15,
+            "layoutId": "iBpZmEKggkM5IWYOLl9kf",
+            "type": "reference",
+            "dps": 2.23E+35,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Min Pipes: 76",
+            "championIds": []
+        },
+        {
+            "coreId": 5,
+            "coreLevel": 15,
+            "layoutId": "taZalpaozjGYfEmEuegt5",
+            "type": "reference",
+            "dps": 5.05E+21,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Min Pipes: 81",
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 15,
+            "layoutId": "HHys4x0fUH8rcUPzXzT3y",
+            "type": "reference",
+            "dps": 4.94E+31,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Min Pipes: 83",
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 15,
+            "layoutId": "641C3uzNU-JG1tOjyDEp1",
+            "type": "reference",
+            "dps": 4.94E+31,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Min Pipes: 78",
+            "championIds": []
+        },
+        {
+            "coreId": 1,
+            "coreLevel": 15,
+            "layoutId": "P6qKM1sA_9quq9rDQrJyL",
+            "type": "reference",
+            "dps": 1.60E+29,
+            "authors": [
+                "Darkbolt"
+            ],
+            "comment": "Min Rarity: 5 Rares",
+            "championIds": []
+        },
+        {
+            "coreId": 2,
+            "coreLevel": 15,
+            "layoutId": "cmByFdKcMP1ZRhAe2nDbq",
+            "type": "reference",
+            "dps": 5.70E+29,
+            "authors": [
+                "Darkbolt"
+            ],
+            "comment": "Min Rarity: 1 Rare",
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 15,
             "layoutId": "MxgE51Uw1Z8UUwAwof8dx",
+            "type": "reference",
+            "dps": 2.92E+25,
             "authors": [
                 "Darkbolt",
                 "Vorkera_x"
-            ]
+            ],
+            "comment": "Min Rarity: 4 Rares",
+            "championIds": []
         },
         {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 2.23E+35,
-            "comment": "Min Rarity: 7 Rares",
             "coreId": 4,
-            "type": "reference",
+            "coreLevel": 15,
             "layoutId": "tAEHsyw8mAqbtGKi1AN8L",
+            "type": "reference",
+            "dps": 2.23E+35,
             "authors": [
                 "UniQP",
                 "Emmote",
                 "Midander",
                 "Retaki"
-            ]
+            ],
+            "comment": "Min Rarity: 7 Rares",
+            "championIds": []
         },
         {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 5.05E+21,
-            "comment": "Min Rarity: 5 Rare",
             "coreId": 5,
-            "type": "reference",
+            "coreLevel": 15,
             "layoutId": "YxVuZO8-ZrtTtbtmHR99t",
-            "authors": ["UniQP"]
+            "type": "reference",
+            "dps": 5.05E+21,
+            "authors": [
+                "UniQP"
+            ],
+            "comment": "Min Rarity: 5 Rare",
+            "championIds": []
         },
         {
-            "coreLevel": 15,
-            "championIds": [],
-            "dps": 4.94E+31,
-            "comment": "Min Rarity: 0 Rares",
             "coreId": 6,
-            "type": "reference",
+            "coreLevel": 15,
             "layoutId": "tkzbSmwWg180UBfXvogZp",
-            "authors": ["Emmote"]
-        },
-        {
-            "coreLevel": 15,
-            "championIds": [],
+            "type": "reference",
             "dps": 4.94E+31,
+            "authors": [
+                "Emmote"
+            ],
             "comment": "Min Rarity: 0 Rares",
+            "championIds": []
+        },
+        {
             "coreId": 7,
-            "type": "reference",
+            "coreLevel": 15,
             "layoutId": "f5xMGPZWZRxn6lk2CFGQj",
-            "authors": ["UniQP"]
+            "type": "reference",
+            "dps": 4.94E+31,
+            "authors": [
+                "UniQP"
+            ],
+            "comment": "Min Rarity: 0 Rares",
+            "championIds": []
         },
         {
-            "coreLevel": 2,
-            "championIds": [],
-            "dps": 8.96E+5,
-            "comment": "Min Supercharge: 2",
             "coreId": 1,
-            "type": "reference",
+            "coreLevel": 2,
             "layoutId": "0CEq8FvgfWK36mDitydgP",
-            "authors": ["UniQP"]
+            "type": "reference",
+            "dps": 8.96E+5,
+            "authors": [
+                "UniQP"
+            ],
+            "comment": "Min Supercharge: 2",
+            "championIds": []
         },
         {
-            "coreLevel": 3,
-            "championIds": [],
-            "dps": 5.07E+7,
-            "comment": "Min Supercharge: 3",
             "coreId": 2,
-            "type": "reference",
+            "coreLevel": 3,
             "layoutId": "Kfym6fRfuKT0KiVAsLXG8",
-            "authors": ["Emmote"]
+            "type": "reference",
+            "dps": 5.07E+7,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Min Supercharge: 3",
+            "championIds": []
         },
         {
-            "coreLevel": 3,
-            "championIds": [],
-            "dps": 3.43E+8,
-            "comment": "Min Supercharge: 3",
             "coreId": 3,
-            "type": "reference",
-            "layoutId": "RCk2kjf6Tpp8M6DE_g9Er",
-            "authors": ["Emmote"]
-        },
-        {
-            "coreLevel": 4,
-            "championIds": [],
-            "dps": 1.59E+12,
-            "comment": "Min Supercharge: 4",
-            "coreId": 4,
-            "type": "reference",
-            "layoutId": "iQFZgLbd4rC_6TcOYRrMa",
-            "authors": ["UniQP"]
-        },
-        {
             "coreLevel": 3,
-            "championIds": [],
-            "dps": 8.07E+5,
+            "layoutId": "RCk2kjf6Tpp8M6DE_g9Er",
+            "type": "reference",
+            "dps": 3.43E+8,
+            "authors": [
+                "Emmote"
+            ],
             "comment": "Min Supercharge: 3",
-            "coreId": 5,
-            "type": "reference",
-            "layoutId": "dQW_3sDcrQdLFwkGUUCm4",
-            "authors": ["Emmote"]
+            "championIds": []
         },
         {
+            "coreId": 4,
             "coreLevel": 4,
-            "championIds": [],
-            "dps": 4.49E+12,
-            "comment": "Min Supercharge: 4",
-            "coreId": 6,
+            "layoutId": "iQFZgLbd4rC_6TcOYRrMa",
             "type": "reference",
-            "layoutId": "lv6HGYAJqqqGart_Hqgam",
-            "authors": ["Emmote"]
+            "dps": 1.59E+12,
+            "authors": [
+                "UniQP"
+            ],
+            "comment": "Min Supercharge: 4",
+            "championIds": []
         },
         {
-            "coreLevel": 8,
-            "championIds": [],
-            "dps": 3.73E+22,
-            "comment": "Min Supercharge: 8",
-            "coreId": 7,
+            "coreId": 5,
+            "coreLevel": 3,
+            "layoutId": "dQW_3sDcrQdLFwkGUUCm4",
             "type": "reference",
+            "dps": 8.07E+5,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Min Supercharge: 3",
+            "championIds": []
+        },
+        {
+            "coreId": 6,
+            "coreLevel": 4,
+            "layoutId": "lv6HGYAJqqqGart_Hqgam",
+            "type": "reference",
+            "dps": 4.49E+12,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Min Supercharge: 4",
+            "championIds": []
+        },
+        {
+            "coreId": 7,
+            "coreLevel": 8,
             "layoutId": "zTgqPh8-Txh0mFImERhoX",
+            "type": "reference",
+            "dps": 3.73E+22,
             "authors": [
                 "UniQP",
                 "Emmote"
-            ]
+            ],
+            "comment": "Min Supercharge: 8",
+            "championIds": []
         }
-    ]
+    ],
+    "filenames": {
+        "1": "bruenor",
+        "2": "celeste",
+        "3": "nayeli",
+        "4": "jarlaxle",
+        "5": "calliope",
+        "6": "asharra",
+        "7": "minsc",
+        "8": "delina",
+        "9": "makos",
+        "10": "tyril",
+        "11": "jamilah",
+        "12": "arkhan",
+        "13": "hitch",
+        "14": "stoki",
+        "15": "krond",
+        "16": "gromma",
+        "17": "dhadius",
+        "18": "drizzt",
+        "19": "barrowin",
+        "20": "regis",
+        "21": "birdsong",
+        "22": "zorbu",
+        "23": "strix",
+        "24": "nrakk",
+        "25": "cattibrie",
+        "26": "evelyn",
+        "27": "binwin",
+        "28": "deekin",
+        "29": "xander",
+        "30": "azaka",
+        "31": "ishi",
+        "32": "wulfgar",
+        "33": "farideh",
+        "34": "donaar",
+        "35": "vlahnya",
+        "36": "warden",
+        "37": "nerys",
+        "38": "kthriss",
+        "39": "paultin",
+        "40": "blackviper",
+        "41": "rosie",
+        "42": "aila",
+        "43": "spurt",
+        "44": "qillek",
+        "45": "korth",
+        "46": "walnut",
+        "47": "shandie",
+        "48": "jim",
+        "49": "turiel",
+        "50": "pwent",
+        "51": "avren",
+        "52": "sentry",
+        "53": "krull",
+        "54": "artemis",
+        "55": "morgaen",
+        "56": "havilar",
+        "57": "sisaspia",
+        "58": "briv",
+        "59": "melf",
+        "60": "krydle",
+        "61": "jaheira",
+        "62": "nova",
+        "63": "freely",
+        "64": [
+            "beadle",
+            "grimm"
+        ],
+        "65": "omin",
+        "66": "lazaapz",
+        "67": "dragonbait",
+        "68": "ulkoria",
+        "69": "torogar",
+        "70": "ezmerelda",
+        "71": "penelope",
+        "72": "lucius",
+        "73": "baeloth",
+        "74": "talin",
+        "75": "hewmaan",
+        "76": "orisha",
+        "77": "alyndra",
+        "78": "orkira",
+        "79": "shaka",
+        "80": "mehen",
+        "81": "selise",
+        "82": "sgtknox",
+        "83": "ellywick",
+        "84": "prudence",
+        "85": "corazon",
+        "86": "reya",
+        "87": "nerds",
+        "88": "xerophon",
+        "89": "dhani",
+        "90": "brig",
+        "91": "widdle",
+        "92": "yorven",
+        "93": "viconia",
+        "94": "rust",
+        "95": "vi",
+        "96": "desmond",
+        "97": "tatyana",
+        "98": "gazrick",
+        "99": "dm",
+        "100": "nordom",
+        "101": "merilwen",
+        "102": "nahara",
+        "103": "valentine",
+        "104": "voronika",
+        "105": "dob",
+        "106": "blooshi",
+        "113": "egbert",
+        "114": "kent",
+        "115": "virgil",
+        "116": "warduke",
+        "117": "imoen",
+        "118": "fen",
+        "119": "uriah",
+        "120": "solaak",
+        "121": "miria",
+        "122": "antrius",
+        "123": "nixie",
+        "124": "evandra",
+        "125": "bbeg",
+        "126": "strongheart",
+        "127": "vinursa",
+        "128": "laezel",
+        "129": "astarion",
+        "136": "krux",
+        "138": "certainty",
+        "139": "thellora",
+        "140": "jangsao",
+        "141": "shadowheart",
+        "142": "wyll",
+        "143": "karlach",
+        "144": "presto"
+    }
 }
