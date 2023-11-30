@@ -6,7 +6,7 @@
 
 # Thellora
 
-<span class="champIntro">Thellora is in the  affiliation and normally benefits from the following stat nodes:</span>
+<span class="champIntro">Thellora is supposed to be unaffiliated (but lacks the tag for it and so technically isn't) and normally benefits from the following stat nodes:</span>
 
 {::nomarkdown}
 <div id="champStats">
