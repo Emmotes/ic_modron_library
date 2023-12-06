@@ -6,7 +6,7 @@
 
 # Jang Sao
 
-<span class="champIntro">Jang Sao is supposed to be unaffiliated (but lacks the tag for it and so technically isn't) and normally benefits from the following stat nodes:</span>
+<span class="champIntro">Jang Sao is unaffiliated and normally benefits from the following stat nodes:</span>
 
 {::nomarkdown}
 <div id="champStats">
@@ -90,6 +90,23 @@
         </span>
     </span>
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" data-core-id="6" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
@@ -159,22 +176,22 @@
 {:/nomarkdown}
 </span>
 
-The Dexterous core is so far ahead of the Magic (Non-Magic Variant) core that it's really the only choice for Jang Sao.
+The Unaffiliated and Dexterous cores are so far ahead of the Magic (Non-Magic Variant) core that they are really the only choices for Jang Sao. Choose whichever you have the more favourable pipes for.
 
-Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Jang Sao only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
+Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Jang Sao only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
 
-| Core | Num 15+ Dex in Formation | Total Damage |
-|---|---|---|
-| Dexterous | 10 | 1.04e53% |
-| Dexterous | 9 | 6.81e52% |
-| Dexterous | 8 | 4.26e52% |
-| Dexterous | 7 | 2.50e52% |
-| Dexterous | 6 | 1.35e52% |
-| Dexterous | 5 | 6.56e51% |
-| Dexterous | 4 | 2.70e51% |
-| Dexterous | 3 | 8.63e50% |
-| Dexterous | 2 | 1.74e50% |
-| Dexterous | 1 | 1.15e49% |
+| Core | Num Unaffiliated in Formation | Total Damage | | Core | Num 15+ Dex in Formation | Total Damage |
+|---|---|---|---|---|---|---|
+| Unaffiliated | 10 | 1.04e53% | | Dexterous | 10 | 1.04e53% |
+| Unaffiliated | 9 | 6.81e52% | | Dexterous | 9 | 6.81e52% |
+| Unaffiliated | 8 | 4.26e52% | | Dexterous | 8 | 4.26e52% |
+| Unaffiliated | 7 | 2.50e52% | | Dexterous | 7 | 2.50e52% |
+| Unaffiliated | 6 | 1.35e52% | | Dexterous | 6 | 1.35e52% |
+| Unaffiliated | 5 | 6.56e51% | | Dexterous | 5 | 6.56e51% |
+| Unaffiliated | 4 | 2.70e51% | | Dexterous | 4 | 2.70e51% |
+| Unaffiliated | 3 | 8.63e50% | | Dexterous | 3 | 8.63e50% |
+| Unaffiliated | 2 | 1.74e50% | | Dexterous | 2 | 1.74e50% |
+| Unaffiliated | 1 | 1.15e49% | | Dexterous | 1 | 1.15e49% |
 
 [Back to Top](#top)
 
