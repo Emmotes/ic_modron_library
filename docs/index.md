@@ -18,7 +18,7 @@ These cores are the current best-known supercharge designs and essentially use u
 
 The damage cores are listed by DPS champion - so choose the one you normally use - or whoever you've put most of your legendaries into. If - however - you tend to use multiple DPS champions regularly - then you'll want to look into using a core based on champions that benefit from every node in that core. That will mean no matter who you use - they'll always be buffed.
 
-For the Modest and Strong cores that will be Artemis. For the Magic core that will be Asharra. For the Aerois core that's Lucius.
+For the Magic core that will be Asharra and for the Aerois core it's Lucius. For every other core use Artemis.
 
 You could always save a layout for each of the DPS champions you use and swap between them in-game but frankly that's boring and tedious.
 
