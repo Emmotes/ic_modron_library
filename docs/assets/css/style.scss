@@ -52,7 +52,7 @@ section #title .credits.right {
 	align-item: flex-start;
 	flex-wrap: nowrap;
 }
-.championLink,.championLinkHeader {
+.championLink,.championLinkHeader,.championLinkDPS {
 	background-color: #141414;
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -65,7 +65,10 @@ section #title .credits.right {
 	justify-content: center;
 	font-size: 0.7em;
 }
-.championLink:hover {
+.championLinkDPS {
+	border-color: #aa4400;
+}
+.championLink:hover,.championLinkDPS:hover {
 	border: 1px solid #FFEB9B;
 	background-color: #000000;
 }

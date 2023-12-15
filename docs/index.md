@@ -67,12 +67,12 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="nerds.html">
-    <span class="championLink" id="nerds" style="background-image:url(images/portraits/nerds.png)">
+    <span class="championLinkDPS" id="nerds" style="background-image:url(images/portraits/nerds.png)">
       NERDS
     </span>
   </a>
   <a href="dhani.html">
-    <span class="championLink" id="dhani" style="background-image:url(images/portraits/dhani.png)">
+    <span class="championLinkDPS" id="dhani" style="background-image:url(images/portraits/dhani.png)">
       D'hani
     </span>
   </a>
@@ -82,7 +82,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="nixie.html">
-    <span class="championLink" id="nixie" style="background-image:url(images/portraits/nixie.png)">
+    <span class="championLinkDPS" id="nixie" style="background-image:url(images/portraits/nixie.png)">
       Nixie
     </span>
   </a>
@@ -147,7 +147,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="laezel.html">
-    <span class="championLink" id="laezel" style="background-image:url(images/portraits/laezel.png)">
+    <span class="championLinkDPS" id="laezel" style="background-image:url(images/portraits/laezel.png)">
       Lae'zel
     </span>
   </a>
@@ -162,12 +162,12 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="gromma.html">
-    <span class="championLink" id="gromma" style="background-image:url(images/portraits/gromma.png)">
+    <span class="championLinkDPS" id="gromma" style="background-image:url(images/portraits/gromma.png)">
       Gromma
     </span>
   </a>
   <a href="binwin.html">
-    <span class="championLink" id="binwin" style="background-image:url(images/portraits/binwin.png)">
+    <span class="championLinkDPS" id="binwin" style="background-image:url(images/portraits/binwin.png)">
       Binwin
     </span>
   </a>
@@ -177,7 +177,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="artemis.html">
-    <span class="championLink" id="artemis" style="background-image:url(images/portraits/artemis.png)">
+    <span class="championLinkDPS" id="artemis" style="background-image:url(images/portraits/artemis.png)">
       Artemis
     </span>
   </a>
@@ -197,7 +197,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="nahara.html">
-    <span class="championLink" id="nahara" style="background-image:url(images/portraits/nahara.png)">
+    <span class="championLinkDPS" id="nahara" style="background-image:url(images/portraits/nahara.png)">
       Nahara
     </span>
   </a>
@@ -212,7 +212,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     Seat 4
   </span>
   <a href="jarlaxle.html">
-    <span class="championLink" id="jarlaxle" style="background-image:url(images/portraits/jarlaxle.png)">
+    <span class="championLinkDPS" id="jarlaxle" style="background-image:url(images/portraits/jarlaxle.png)">
       Jarlaxle
     </span>
   </a>
@@ -222,7 +222,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="ishi.html">
-    <span class="championLink" id="ishi" style="background-image:url(images/portraits/ishi.png)">
+    <span class="championLinkDPS" id="ishi" style="background-image:url(images/portraits/ishi.png)">
       Ishi
     </span>
   </a>
@@ -247,7 +247,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="kent.html">
-    <span class="championLink" id="kent" style="background-image:url(images/portraits/kent.png)">
+    <span class="championLinkDPS" id="kent" style="background-image:url(images/portraits/kent.png)">
       Kent
     </span>
   </a>
@@ -257,7 +257,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="krux.html">
-    <span class="championLink" id="krux" style="background-image:url(images/portraits/krux.png)">
+    <span class="championLinkDPS" id="krux" style="background-image:url(images/portraits/krux.png)">
       Krux
     </span>
   </a>
@@ -272,7 +272,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="dhadius.html">
-    <span class="championLink" id="dhadius" style="background-image:url(images/portraits/dhadius.png)">
+    <span class="championLinkDPS" id="dhadius" style="background-image:url(images/portraits/dhadius.png)">
       Dhadius
     </span>
   </a>
@@ -297,7 +297,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="prudence.html">
-    <span class="championLink" id="prudence" style="background-image:url(images/portraits/prudence.png)">
+    <span class="championLinkDPS" id="prudence" style="background-image:url(images/portraits/prudence.png)">
       Prudence
     </span>
   </a>
@@ -327,12 +327,12 @@ If you're unsure whether you've made the best design you can when you're done - 
     Seat 6
   </span>
   <a href="asharra.html">
-    <span class="championLink" id="asharra" style="background-image:url(images/portraits/asharra.png)">
+    <span class="championLinkDPS" id="asharra" style="background-image:url(images/portraits/asharra.png)">
       Asharra
     </span>
   </a>
   <a href="krond.html">
-    <span class="championLink" id="krond" style="background-image:url(images/portraits/krond.png)">
+    <span class="championLinkDPS" id="krond" style="background-image:url(images/portraits/krond.png)">
       Krond
     </span>
   </a>
@@ -372,7 +372,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="fen.html">
-    <span class="championLink" id="fen" style="background-image:url(images/portraits/fen.png)">
+    <span class="championLinkDPS" id="fen" style="background-image:url(images/portraits/fen.png)">
       Fen
     </span>
   </a>
@@ -387,27 +387,27 @@ If you're unsure whether you've made the best design you can when you're done - 
     Seat 7
   </span>
   <a href="minsc.html">
-    <span class="championLink" id="minsc" style="background-image:url(images/portraits/minsc.png)">
+    <span class="championLinkDPS" id="minsc" style="background-image:url(images/portraits/minsc.png)">
       Minsc
     </span>
   </a>
   <a href="cattibrie.html">
-    <span class="championLink" id="cattibrie" style="background-image:url(images/portraits/cattibrie.png)">
+    <span class="championLinkDPS" id="cattibrie" style="background-image:url(images/portraits/cattibrie.png)">
       Catti-brie
     </span>
   </a>
   <a href="farideh.html">
-    <span class="championLink" id="farideh" style="background-image:url(images/portraits/farideh.png)">
+    <span class="championLinkDPS" id="farideh" style="background-image:url(images/portraits/farideh.png)">
       Farideh
     </span>
   </a>
   <a href="blackviper.html">
-    <span class="championLink" id="blackviper" style="background-image:url(images/portraits/blackviper.png)">
+    <span class="championLinkDPS" id="blackviper" style="background-image:url(images/portraits/blackviper.png)">
       Black Viper
     </span>
   </a>
   <a href="jim.html">
-    <span class="championLink" id="jim" style="background-image:url(images/portraits/jim.png)">
+    <span class="championLinkDPS" id="jim" style="background-image:url(images/portraits/jim.png)">
       Jim
     </span>
   </a>
@@ -417,7 +417,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="lucius.html">
-    <span class="championLink" id="lucius" style="background-image:url(images/portraits/lucius.png)">
+    <span class="championLinkDPS" id="lucius" style="background-image:url(images/portraits/lucius.png)">
       Lucius
     </span>
   </a>
@@ -447,7 +447,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     Seat 8
   </span>
   <a href="delina.html">
-    <span class="championLink" id="delina" style="background-image:url(images/portraits/delina.png)">
+    <span class="championLinkDPS" id="delina" style="background-image:url(images/portraits/delina.png)">
       Delina
     </span>
   </a>
@@ -477,7 +477,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="grimm.html">
-    <span class="championLink" id="grimm" style="background-image:url(images/portraits/grimm.png)">
+    <span class="championLinkDPS" id="grimm" style="background-image:url(images/portraits/grimm.png)">
       Grimm
     </span>
   </a>
@@ -497,7 +497,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="warduke.html">
-    <span class="championLink" id="warduke" style="background-image:url(images/portraits/warduke.png)">
+    <span class="championLinkDPS" id="warduke" style="background-image:url(images/portraits/warduke.png)">
       Warduke
     </span>
   </a>
@@ -512,17 +512,17 @@ If you're unsure whether you've made the best design you can when you're done - 
     Seat 9
   </span>
   <a href="makos.html">
-    <span class="championLink" id="makos" style="background-image:url(images/portraits/makos.png)">
+    <span class="championLinkDPS" id="makos" style="background-image:url(images/portraits/makos.png)">
       Makos
     </span>
   </a>
   <a href="drizzt.html">
-    <span class="championLink" id="drizzt" style="background-image:url(images/portraits/drizzt.png)">
+    <span class="championLinkDPS" id="drizzt" style="background-image:url(images/portraits/drizzt.png)">
       Drizzt
     </span>
   </a>
   <a href="birdsong.html">
-    <span class="championLink" id="birdsong" style="background-image:url(images/portraits/birdsong.png)">
+    <span class="championLinkDPS" id="birdsong" style="background-image:url(images/portraits/birdsong.png)">
       Birdsong
     </span>
   </a>
@@ -537,7 +537,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="jaheira.html">
-    <span class="championLink" id="jaheira" style="background-image:url(images/portraits/jaheira.png)">
+    <span class="championLinkDPS" id="jaheira" style="background-image:url(images/portraits/jaheira.png)">
       Jaheira
     </span>
   </a>
@@ -582,7 +582,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="rosie.html">
-    <span class="championLink" id="rosie" style="background-image:url(images/portraits/rosie.png)">
+    <span class="championLinkDPS" id="rosie" style="background-image:url(images/portraits/rosie.png)">
       Rosie
     </span>
   </a>
@@ -597,7 +597,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="torogar.html">
-    <span class="championLink" id="torogar" style="background-image:url(images/portraits/torogar.png)">
+    <span class="championLinkDPS" id="torogar" style="background-image:url(images/portraits/torogar.png)">
       Torogar
     </span>
   </a>
@@ -607,7 +607,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="yorven.html">
-    <span class="championLink" id="yorven" style="background-image:url(images/portraits/yorven.png)">
+    <span class="championLinkDPS" id="yorven" style="background-image:url(images/portraits/yorven.png)">
       Yorven
     </span>
   </a>
@@ -627,17 +627,17 @@ If you're unsure whether you've made the best design you can when you're done - 
     Seat 11
   </span>
   <a href="jamilah.html">
-    <span class="championLink" id="jamilah" style="background-image:url(images/portraits/jamilah.png)">
+    <span class="championLinkDPS" id="jamilah" style="background-image:url(images/portraits/jamilah.png)">
       Jamilah
     </span>
   </a>
   <a href="strix.html">
-    <span class="championLink" id="strix" style="background-image:url(images/portraits/strix.png)">
+    <span class="championLinkDPS" id="strix" style="background-image:url(images/portraits/strix.png)">
       Strix
     </span>
   </a>
   <a href="warden.html">
-    <span class="championLink" id="warden" style="background-image:url(images/portraits/warden.png)">
+    <span class="championLinkDPS" id="warden" style="background-image:url(images/portraits/warden.png)">
       Warden
     </span>
   </a>
@@ -657,7 +657,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="orisha.html">
-    <span class="championLink" id="orisha" style="background-image:url(images/portraits/orisha.png)">
+    <span class="championLinkDPS" id="orisha" style="background-image:url(images/portraits/orisha.png)">
       Orisha
     </span>
   </a>
@@ -682,17 +682,17 @@ If you're unsure whether you've made the best design you can when you're done - 
     Seat 12
   </span>
   <a href="arkhan.html">
-    <span class="championLink" id="arkhan" style="background-image:url(images/portraits/arkhan.png)">
+    <span class="championLinkDPS" id="arkhan" style="background-image:url(images/portraits/arkhan.png)">
       Arkhan
     </span>
   </a>
   <a href="zorbu.html">
-    <span class="championLink" id="zorbu" style="background-image:url(images/portraits/zorbu.png)">
+    <span class="championLinkDPS" id="zorbu" style="background-image:url(images/portraits/zorbu.png)">
       Zorbu
     </span>
   </a>
   <a href="azaka.html">
-    <span class="championLink" id="azaka" style="background-image:url(images/portraits/azaka.png)">
+    <span class="championLinkDPS" id="azaka" style="background-image:url(images/portraits/azaka.png)">
       Azaka
     </span>
   </a>
