@@ -731,6 +731,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Miria
     </span>
   </a>
+  <a href="wyll.html">
+    <span class="championLink" id="wyll" style="background-image:url(images/portraits/wyll.png)">
+      Wyll
+    </span>
+  </a>
 </span>
 </span>
 
