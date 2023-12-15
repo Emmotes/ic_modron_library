@@ -26,6 +26,8 @@ If you try to copy/improvise these designs and you lack the pipes to reach 5.2e8
 
 If you're unsure whether you've made the best design you can when you're done - put the Byteglow link in the [#modron_core_layout](https://discord.com/channels/357247482247380994/733401533579788397) channel in the Discord and someone will usually be available to try to help find some optimisations.
 
+<span style="font-size:1.2em;">ⓘ</span>  *Note: DPS champions are highlighted by their brighter border.*
+
 <span class="championLinkRow">
 <span class="championLinkColumn">
   <span class="championLinkHeader">
