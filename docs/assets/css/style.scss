@@ -209,7 +209,9 @@ section #title .credits.right {
 	margin-right: 40px;
 }
 .tabsRadio {
-	display: none;
+	width: 0;
+	height: 0;
+	opacity: 0;
 }
 .tabsLabel {
 	padding: 8px 10px;
@@ -236,6 +238,10 @@ section #title .credits.right {
 }
 .tabsRadio:checked+.tabsLabel+.tabsContent {
 	display: initial;
+}
+.tabsRadio:focus+.tabsLabel {
+	color: #fafafa;
+	background-color: #2a2a2a;
 }
 .tabs code {
 	font-size: 1.1em;
