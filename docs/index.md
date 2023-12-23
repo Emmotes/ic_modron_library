@@ -791,14 +791,14 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp" target="_blank">
+    <a href="https://ic.byteglow.com/modron/nOezWKDAaudHBveIcqTCM" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
             ![Fast Core](images/core_3_fast.png)Fast
         </span>
         <span class="modronLinkSmall">
-            ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp
+            ic.byteglow.com/modron/nOezWKDAaudHBveIcqTCM
         </span>
     </span>
 {::nomarkdown}
@@ -1047,14 +1047,14 @@ I have only linked the Fast core on Nahara's damage page because it simply canno
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv" target="_blank">
+    <a href="https://ic.byteglow.com/modron/plcWqJ1WV0VuqeIfPlKvv" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Fast Core](images/core_3_fast.png)Fully Supercharged
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv
+            ic.byteglow.com/modron/plcWqJ1WV0VuqeIfPlKvv
         </span>
         <span class="modronDamage">
             1.03e39%

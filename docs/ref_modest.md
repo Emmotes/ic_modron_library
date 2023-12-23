@@ -342,26 +342,6 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/WLo5rDwq6qkF02usUiNr6" target="_blank">
-{:/nomarkdown}
-    <span class="modronRowShort">
-        <span class="modronLevel">
-            15
-        </span>
-        <span class="modronAuthors">
-            Emmote
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/WLo5rDwq6qkF02usUiNr6
-        </span>
-        <span class="modronNote">
-            Gold Find (No Damage)
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/Qr18_CPZlXC9flrEZzn54" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
@@ -376,6 +356,26 @@ These designs can be used for inspiration for piping your own core at various le
         </span>
         <span class="modronNote">
             &nbsp;
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/d3m10dAA6gVt9mpEfeSjO" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            15
+        </span>
+        <span class="modronAuthors">
+            Emmote
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/d3m10dAA6gVt9mpEfeSjO
+        </span>
+        <span class="modronNote">
+            Gold Find (No Damage)
         </span>
     </span>
 {::nomarkdown}

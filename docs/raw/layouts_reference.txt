@@ -16,8 +16,6 @@
 # All damage numbers on the Modest Core should be based on
 # Artemis since he benefits from all nodes.
 
-WLo5rDwq6qkF02usUiNr6,1,15,0,Emmote,Gold Find (No Damage)
-
 95bmQkBUH9pH1x98144B-,1,1,1.60e03,Retaki,
 HIer7L-vp1hVz5ZCdGU5b,1,2,7.22e05,Retaki,
 Zoa8v3UbNzZPVxKhFn3gl,1,3,1.23e07,Retaki,
@@ -35,6 +33,7 @@ cVwUPmcXfoSxLyGzwNmw5,1,12,8.88e23,Retaki,No Epics
 I-rqgKTMR-dq7PTnoDLEY,1,13,1.51e25,Retaki,
 y5Nyg_FHh31td1MkHAToY,1,14,2.57e26,Retaki,
 Qr18_CPZlXC9flrEZzn54,1,15,1.60e29,Retaki,
+d3m10dAA6gVt9mpEfeSjO,1,15,0,Emmote,Gold Find (No Damage)
 
 # ================================
 # ==== Strong Core References ====
@@ -64,8 +63,6 @@ g3SlbA3Oz6KrFFC9x5knJ,2,15,5.70e29,Retaki,
 # All damage numbers on the Fast Core should be based on
 # Artemis since he benefits from all nodes.
 
-T-TfCsTNdXfLHOULzOfHr,3,15,0,Emmote,Minimal (No Damage)
-
 jsI7jPCrM5UiP-FK7uz8S,3,1,1.60e03,Retaki,Damage
 yk2BmrUpjs3UpnAKliAP3,3,1,5.00e01,Retaki,Gold
 UfYoMXG7U_x-EmIoMuIBB,3,2,7.22e05,Retaki,Damage
@@ -84,6 +81,7 @@ M4PMKCEW8oXz7vY_X2lRe,3,13,6.87e22,Retaki,
 dzfoLYPMkhNZhhqffYIiM,3,14,1.17e24,Retaki,
 7ZEFaipV2hBqOPGWLIw0c,3,15,2.92e25,Retaki,
 ZBrE0yNV6Ce0IS8qCHhuy,3,15,2.92e25,Retaki,Fewer Rares
+T-TfCsTNdXfLHOULzOfHr,3,15,0,Emmote,Gem Farm (No Damage)
 
 # ===============================
 # ==== Magic Core References ====
@@ -164,13 +162,13 @@ h00HmOf8QUv5JWtnREs3p,7,4,1.66e11,UniQP,
 _pUwf0GvcKhb8odIxsa7y,7,5,3.15e12,UniQP,
 wAS5rjBbwvG-au_xtws0K,7,6,9.92e13,UniQP,
 oRMlwMofXwubWupXpVc75,7,7,2.48e15,UniQP,
-NqV03vfHZw1XDp93mgWiJ,7,8,5.97e18,Darkbolt,
+dxKTFg5DB6ImagJ53olYe,7,8,5.97e18,Darkbolt,
 GUxGr2lErt8XZfJ12sDMP,7,9,6.58e20,Darkbolt,
-aCdnbn8otCGpb8oJOaOx0,7,10,1.65e22,Darkbolt,
-5fsSHUHuTu1zapNMX1qx8,7,11,1.04e25,Darkbolt,
-kjMP30inxTqFq48XcTZLx,7,11,1.04e25,Darkbolt,No Cross Pipes
-0YKylbiA0DtiSxqT5As9i,7,12,1.61e27,Darkbolt,
-RViADcjNiQx8baAZKOVIs,7,12,1.61e27,Darkbolt,No Epics
-e0wVkcrE9q_tuw8QDtd5C,7,13,4.03e28,Darkbolt,
-T1UEgokDLILt5jm6Dr4WJ,7,14,1.98e30,Darkbolt,
+D80Fi72f85nsyyP1Qd5dl,7,10,1.65e22,Darkbolt,
+bvclaNKVGgxmxSmzscEhB,7,11,1.04e25,Darkbolt,
+cZZ2r7MfXyGI6OjTUCK-K,7,11,1.04e25,Darkbolt,No Cross Pipes
+JyFeKq45aF3r4HGsFHzwz,7,12,1.61e27,Darkbolt,
+m8T6sukPzfyHsWQkdAO4L,7,12,1.61e27,Darkbolt,No Epics
+JxUObCiJhvop1qVTNqjCW,7,13,4.03e28,Darkbolt,
+92tvryUlKLob3F7RlWSYm,7,14,1.98e30,Darkbolt,
 lZfp8UfqKZo3wXTjXXeOA,7,15,4.94e31,Darkbolt,

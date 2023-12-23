@@ -160,9 +160,9 @@ c7wOTCb6WAA8JMdfsrNM5,2,9.45e36,1,1,0,0,0,0,61
 # Format:
 # linkHash,coreId,dps,note
 
-ozwp3wQr7O3VHUmKffQtv,3,1.03e39,Fully Supercharged
+plcWqJ1WV0VuqeIfPlKvv,3,1.03e39,Fully Supercharged
 a3egkSdwZEtornHzWM6Q9,3,9.73e38,'Budget' Supercharged
-sFACCyODesgDN9vkKD3U3,3,3.38e32,Nahara
+cwVpTjFwEtyRSYAA5LfEy,3,3.38e32,Nahara
 
 # ===============================
 # ==== 4. Magic Core Layouts ====

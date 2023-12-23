@@ -1059,7 +1059,7 @@
         {
             "coreId": 3,
             "coreLevel": 15,
-            "layoutId": "ozwp3wQr7O3VHUmKffQtv",
+            "layoutId": "plcWqJ1WV0VuqeIfPlKvv",
             "type": "damage",
             "dps": 1.03E+39,
             "comment": "Fully Supercharged",
@@ -1077,7 +1077,7 @@
         {
             "coreId": 3,
             "coreLevel": 15,
-            "layoutId": "sFACCyODesgDN9vkKD3U3",
+            "layoutId": "cwVpTjFwEtyRSYAA5LfEy",
             "type": "damage",
             "dps": 3.38E+32,
             "championIds": [
@@ -1544,7 +1544,7 @@
         {
             "coreId": 3,
             "coreLevel": 15,
-            "layoutId": "8VMtVFfG6dtt92fr8XMwp",
+            "layoutId": "nOezWKDAaudHBveIcqTCM",
             "type": "achievement",
             "dps": 0,
             "comment": "Tier 1: Now We're Flowing",
@@ -1665,18 +1665,6 @@
             "type": "achievement",
             "dps": 0,
             "comment": "Tier 4: Pipe Dream",
-            "championIds": []
-        },
-        {
-            "coreId": 1,
-            "coreLevel": 15,
-            "layoutId": "WLo5rDwq6qkF02usUiNr6",
-            "type": "reference",
-            "dps": 0,
-            "authors": [
-                "Emmote"
-            ],
-            "comment": "Gold Find (No Damage)",
             "championIds": []
         },
         {
@@ -1869,6 +1857,18 @@
             "championIds": []
         },
         {
+            "coreId": 1,
+            "coreLevel": 15,
+            "layoutId": "d3m10dAA6gVt9mpEfeSjO",
+            "type": "reference",
+            "dps": 0,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Gold Find (No Damage)",
+            "championIds": []
+        },
+        {
             "coreId": 2,
             "coreLevel": 1,
             "layoutId": "zpH8DCom6FU8nlZqacwMO",
@@ -2032,18 +2032,6 @@
             "authors": [
                 "Retaki"
             ],
-            "championIds": []
-        },
-        {
-            "coreId": 3,
-            "coreLevel": 15,
-            "layoutId": "T-TfCsTNdXfLHOULzOfHr",
-            "type": "reference",
-            "dps": 0,
-            "authors": [
-                "Emmote"
-            ],
-            "comment": "Minimal (No Damage)",
             "championIds": []
         },
         {
@@ -2247,6 +2235,18 @@
                 "Retaki"
             ],
             "comment": "Fewer Rares",
+            "championIds": []
+        },
+        {
+            "coreId": 3,
+            "coreLevel": 15,
+            "layoutId": "T-TfCsTNdXfLHOULzOfHr",
+            "type": "reference",
+            "dps": 0,
+            "authors": [
+                "Emmote"
+            ],
+            "comment": "Gem Farm (No Damage)",
             "championIds": []
         },
         {
@@ -2824,7 +2824,7 @@
         {
             "coreId": 7,
             "coreLevel": 8,
-            "layoutId": "NqV03vfHZw1XDp93mgWiJ",
+            "layoutId": "dxKTFg5DB6ImagJ53olYe",
             "type": "reference",
             "dps": 5.97E+18,
             "authors": [
@@ -2846,7 +2846,7 @@
         {
             "coreId": 7,
             "coreLevel": 10,
-            "layoutId": "aCdnbn8otCGpb8oJOaOx0",
+            "layoutId": "D80Fi72f85nsyyP1Qd5dl",
             "type": "reference",
             "dps": 1.65E+22,
             "authors": [
@@ -2857,7 +2857,7 @@
         {
             "coreId": 7,
             "coreLevel": 11,
-            "layoutId": "5fsSHUHuTu1zapNMX1qx8",
+            "layoutId": "bvclaNKVGgxmxSmzscEhB",
             "type": "reference",
             "dps": 1.04E+25,
             "authors": [
@@ -2868,7 +2868,7 @@
         {
             "coreId": 7,
             "coreLevel": 11,
-            "layoutId": "kjMP30inxTqFq48XcTZLx",
+            "layoutId": "cZZ2r7MfXyGI6OjTUCK-K",
             "type": "reference",
             "dps": 1.04E+25,
             "authors": [
@@ -2880,7 +2880,7 @@
         {
             "coreId": 7,
             "coreLevel": 12,
-            "layoutId": "0YKylbiA0DtiSxqT5As9i",
+            "layoutId": "JyFeKq45aF3r4HGsFHzwz",
             "type": "reference",
             "dps": 1.61E+27,
             "authors": [
@@ -2891,7 +2891,7 @@
         {
             "coreId": 7,
             "coreLevel": 12,
-            "layoutId": "RViADcjNiQx8baAZKOVIs",
+            "layoutId": "m8T6sukPzfyHsWQkdAO4L",
             "type": "reference",
             "dps": 1.61E+27,
             "authors": [
@@ -2903,7 +2903,7 @@
         {
             "coreId": 7,
             "coreLevel": 13,
-            "layoutId": "e0wVkcrE9q_tuw8QDtd5C",
+            "layoutId": "JxUObCiJhvop1qVTNqjCW",
             "type": "reference",
             "dps": 4.03E+28,
             "authors": [
@@ -2914,7 +2914,7 @@
         {
             "coreId": 7,
             "coreLevel": 14,
-            "layoutId": "T1UEgokDLILt5jm6Dr4WJ",
+            "layoutId": "92tvryUlKLob3F7RlWSYm",
             "type": "reference",
             "dps": 1.98E+30,
             "authors": [
@@ -3096,7 +3096,7 @@
         {
             "coreId": 7,
             "coreLevel": 15,
-            "layoutId": "f5xMGPZWZRxn6lk2CFGQj",
+            "layoutId": "tb3pg-3du5NOKab97s-1c",
             "type": "reference",
             "dps": 4.94E+31,
             "authors": [

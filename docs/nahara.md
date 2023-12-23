@@ -162,14 +162,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/sFACCyODesgDN9vkKD3U3" target="_blank" data-core-id="3" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/cwVpTjFwEtyRSYAA5LfEy" target="_blank" data-core-id="3" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Fast Core](images/core_3_fast.png)Fast
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/sFACCyODesgDN9vkKD3U3
+            ic.byteglow.com/modron/cwVpTjFwEtyRSYAA5LfEy
         </span>
         <span class="modronDamage">
             3.38e32%

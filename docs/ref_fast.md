@@ -342,26 +342,6 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr" target="_blank">
-{:/nomarkdown}
-    <span class="modronRowShort">
-        <span class="modronLevel">
-            15
-        </span>
-        <span class="modronAuthors">
-            Emmote
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr
-        </span>
-        <span class="modronNote">
-            Minimal (No Damage)
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/7ZEFaipV2hBqOPGWLIw0c" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
@@ -396,6 +376,26 @@ These designs can be used for inspiration for piping your own core at various le
         </span>
         <span class="modronNote">
             Fewer Rares
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            15
+        </span>
+        <span class="modronAuthors">
+            Emmote
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr
+        </span>
+        <span class="modronNote">
+            Gem Farm (No Damage)
         </span>
     </span>
 {::nomarkdown}
