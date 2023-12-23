@@ -9,7 +9,7 @@ If you can improve any of the cores below or have ideas for types of cores that 
 {:/nomarkdown}
 
 {::nomarkdown}
-<input onClick="setHash('superchargeTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="superchargeTab"><label for="superchargeTab" class="tabsLabel">Supercharge</label><div class="tabsContent">
+<input onClick="setHash('superchargeTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="superchargeTab" checked><label for="superchargeTab" class="tabsLabel">Supercharge</label><div class="tabsContent">
 {:/nomarkdown}
 
 # Supercharged Damage Designs
