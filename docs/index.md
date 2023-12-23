@@ -9,7 +9,7 @@ If you can improve any of the cores below or have ideas for types of cores that 
 {:/nomarkdown}
 
 {::nomarkdown}
-<input onClick="setHash('damageTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="damageTab" checked><label for="damageTab" class="tabsLabel">Damage</label><div class="tabsContent">
+<input onClick="setHash('superchargeTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="superchargeTab"><label for="superchargeTab" class="tabsLabel">Supercharge</label><div class="tabsContent">
 {:/nomarkdown}
 
 # Supercharged Damage Designs
@@ -1015,7 +1015,7 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 {:/nomarkdown}
 
 {::nomarkdown}
-<input onClick="setHash('lvlsTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="lvlsTab"><label for="lvlsTab" class="tabsLabel">Lvl 1-15</label><div class="tabsContent">
+<input onClick="setHash('lvlsTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="lvlsTab"><label for="lvlsTab" class="tabsLabel">Level 1-15</label><div class="tabsContent">
 {:/nomarkdown}
 
 # Level 1-15 Reference Designs
