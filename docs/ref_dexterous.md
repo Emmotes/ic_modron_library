@@ -32,7 +32,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/yP8AtNGqXAQRcSz4H7VU0
+            ic.byteglow.com/modron/yP8AtNGqXAQRcSz4H7VU0
         </span>
         <span class="modronNote">
             &nbsp;
@@ -52,7 +52,7 @@ These designs can be used for inspiration for piping your own core at various le
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/KHNcuGxlaOl-GIaTBkNHJ
+            ic.byteglow.com/modron/KHNcuGxlaOl-GIaTBkNHJ
         </span>
         <span class="modronNote">
             &nbsp;
@@ -72,7 +72,7 @@ These designs can be used for inspiration for piping your own core at various le
             UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/5wUfVRU576x_-ylfyFXqh
+            ic.byteglow.com/modron/5wUfVRU576x_-ylfyFXqh
         </span>
         <span class="modronNote">
             &nbsp;
@@ -92,7 +92,7 @@ These designs can be used for inspiration for piping your own core at various le
             UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/h00HmOf8QUv5JWtnREs3p
+            ic.byteglow.com/modron/h00HmOf8QUv5JWtnREs3p
         </span>
         <span class="modronNote">
             &nbsp;
@@ -112,7 +112,7 @@ These designs can be used for inspiration for piping your own core at various le
             UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/_pUwf0GvcKhb8odIxsa7y
+            ic.byteglow.com/modron/_pUwf0GvcKhb8odIxsa7y
         </span>
         <span class="modronNote">
             &nbsp;
@@ -132,7 +132,7 @@ These designs can be used for inspiration for piping your own core at various le
             UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/wAS5rjBbwvG-au_xtws0K
+            ic.byteglow.com/modron/wAS5rjBbwvG-au_xtws0K
         </span>
         <span class="modronNote">
             &nbsp;
@@ -152,7 +152,7 @@ These designs can be used for inspiration for piping your own core at various le
             UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/oRMlwMofXwubWupXpVc75
+            ic.byteglow.com/modron/oRMlwMofXwubWupXpVc75
         </span>
         <span class="modronNote">
             &nbsp;
@@ -172,7 +172,7 @@ These designs can be used for inspiration for piping your own core at various le
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/NqV03vfHZw1XDp93mgWiJ
+            ic.byteglow.com/modron/NqV03vfHZw1XDp93mgWiJ
         </span>
         <span class="modronNote">
             &nbsp;
@@ -192,7 +192,7 @@ These designs can be used for inspiration for piping your own core at various le
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/GUxGr2lErt8XZfJ12sDMP
+            ic.byteglow.com/modron/GUxGr2lErt8XZfJ12sDMP
         </span>
         <span class="modronNote">
             &nbsp;
@@ -212,7 +212,7 @@ These designs can be used for inspiration for piping your own core at various le
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/aCdnbn8otCGpb8oJOaOx0
+            ic.byteglow.com/modron/aCdnbn8otCGpb8oJOaOx0
         </span>
         <span class="modronNote">
             &nbsp;
@@ -232,7 +232,7 @@ These designs can be used for inspiration for piping your own core at various le
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/5fsSHUHuTu1zapNMX1qx8
+            ic.byteglow.com/modron/5fsSHUHuTu1zapNMX1qx8
         </span>
         <span class="modronNote">
             &nbsp;
@@ -252,7 +252,7 @@ These designs can be used for inspiration for piping your own core at various le
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/kjMP30inxTqFq48XcTZLx
+            ic.byteglow.com/modron/kjMP30inxTqFq48XcTZLx
         </span>
         <span class="modronNote">
             No Cross Pipes
@@ -272,7 +272,7 @@ These designs can be used for inspiration for piping your own core at various le
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/0YKylbiA0DtiSxqT5As9i
+            ic.byteglow.com/modron/0YKylbiA0DtiSxqT5As9i
         </span>
         <span class="modronNote">
             &nbsp;
@@ -292,7 +292,7 @@ These designs can be used for inspiration for piping your own core at various le
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/RViADcjNiQx8baAZKOVIs
+            ic.byteglow.com/modron/RViADcjNiQx8baAZKOVIs
         </span>
         <span class="modronNote">
             No Epics
@@ -312,7 +312,7 @@ These designs can be used for inspiration for piping your own core at various le
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/e0wVkcrE9q_tuw8QDtd5C
+            ic.byteglow.com/modron/e0wVkcrE9q_tuw8QDtd5C
         </span>
         <span class="modronNote">
             &nbsp;
@@ -332,7 +332,7 @@ These designs can be used for inspiration for piping your own core at various le
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/T1UEgokDLILt5jm6Dr4WJ
+            ic.byteglow.com/modron/T1UEgokDLILt5jm6Dr4WJ
         </span>
         <span class="modronNote">
             &nbsp;
@@ -352,7 +352,7 @@ These designs can be used for inspiration for piping your own core at various le
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/lZfp8UfqKZo3wXTjXXeOA
+            ic.byteglow.com/modron/lZfp8UfqKZo3wXTjXXeOA
         </span>
         <span class="modronNote">
             &nbsp;

@@ -96,10 +96,13 @@
             ![Dexterous Core](images/core_7_dexterous.png)Dexterous
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
+            ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
         </span>
         <span class="modronDamageBuffed">
             1.15e49%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.png" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
         </span>
     </span>
 {::nomarkdown}
@@ -113,10 +116,13 @@
             ![Dexterous Core](images/core_7_dexterous.png)Dexterous
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
+            ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
         </span>
         <span class="modronDamageBuffed">
             1.15e49%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.png" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
         </span>
     </span>
 {::nomarkdown}
@@ -130,7 +136,7 @@
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/WFKQC_XoBwO6aZQWEDRJ2
+            ic.byteglow.com/modron/WFKQC_XoBwO6aZQWEDRJ2
         </span>
         <span class="modronDamage">
             6.40e44%
@@ -147,7 +153,7 @@
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/H3A0hgBGQNJ06mcruHs1V
+            ic.byteglow.com/modron/H3A0hgBGQNJ06mcruHs1V
         </span>
         <span class="modronDamage">
             1.31e39%
@@ -164,7 +170,7 @@
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/hb3RxqzSrDI7mURvMfAS4
+            ic.byteglow.com/modron/hb3RxqzSrDI7mURvMfAS4
         </span>
         <span class="modronDamage">
             1.08e38%

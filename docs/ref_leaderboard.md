@@ -34,7 +34,7 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/3RLSXOvfhj-9x1knFdA9B
+            ic.byteglow.com/modron/3RLSXOvfhj-9x1knFdA9B
         </span>
         <span class="modronRecord">
             81
@@ -54,7 +54,7 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/lGg_BhwReysiilX-_yHGa
+            ic.byteglow.com/modron/lGg_BhwReysiilX-_yHGa
         </span>
         <span class="modronRecord">
             77
@@ -74,7 +74,7 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/LPEwIiOxwfWpfb7RQo2Pw
+            ic.byteglow.com/modron/LPEwIiOxwfWpfb7RQo2Pw
         </span>
         <span class="modronRecord">
             74
@@ -94,7 +94,7 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/iBpZmEKggkM5IWYOLl9kf
+            ic.byteglow.com/modron/iBpZmEKggkM5IWYOLl9kf
         </span>
         <span class="modronRecord">
             76
@@ -114,7 +114,7 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/taZalpaozjGYfEmEuegt5
+            ic.byteglow.com/modron/taZalpaozjGYfEmEuegt5
         </span>
         <span class="modronRecord">
             81
@@ -134,7 +134,7 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/HHys4x0fUH8rcUPzXzT3y
+            ic.byteglow.com/modron/HHys4x0fUH8rcUPzXzT3y
         </span>
         <span class="modronRecord">
             83
@@ -154,7 +154,7 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/641C3uzNU-JG1tOjyDEp1
+            ic.byteglow.com/modron/641C3uzNU-JG1tOjyDEp1
         </span>
         <span class="modronRecord">
             78
@@ -197,7 +197,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/P6qKM1sA_9quq9rDQrJyL
+            ic.byteglow.com/modron/P6qKM1sA_9quq9rDQrJyL
         </span>
         <span class="modronRecord">
             5
@@ -217,7 +217,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
             Darkbolt
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/cmByFdKcMP1ZRhAe2nDbq
+            ic.byteglow.com/modron/cmByFdKcMP1ZRhAe2nDbq
         </span>
         <span class="modronRecord">
             1
@@ -237,7 +237,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
             Darkbolt and Vorkera_x
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/MxgE51Uw1Z8UUwAwof8dx
+            ic.byteglow.com/modron/MxgE51Uw1Z8UUwAwof8dx
         </span>
         <span class="modronRecord">
             4
@@ -257,7 +257,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
             UniQP, Emmote, Midander and Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/tAEHsyw8mAqbtGKi1AN8L
+            ic.byteglow.com/modron/tAEHsyw8mAqbtGKi1AN8L
         </span>
         <span class="modronRecord">
             7
@@ -277,7 +277,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
             UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/YxVuZO8-ZrtTtbtmHR99t
+            ic.byteglow.com/modron/YxVuZO8-ZrtTtbtmHR99t
         </span>
         <span class="modronRecord">
             5
@@ -297,7 +297,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/tkzbSmwWg180UBfXvogZp
+            ic.byteglow.com/modron/tkzbSmwWg180UBfXvogZp
         </span>
         <span class="modronRecord">
             0
@@ -317,7 +317,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
             UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/f5xMGPZWZRxn6lk2CFGQj
+            ic.byteglow.com/modron/f5xMGPZWZRxn6lk2CFGQj
         </span>
         <span class="modronRecord">
             0
@@ -360,7 +360,7 @@ These designs try to get at least one supercharged node while still retaining at
             UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/0CEq8FvgfWK36mDitydgP
+            ic.byteglow.com/modron/0CEq8FvgfWK36mDitydgP
         </span>
         <span class="modronRecord">
             2
@@ -380,7 +380,7 @@ These designs try to get at least one supercharged node while still retaining at
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/Kfym6fRfuKT0KiVAsLXG8
+            ic.byteglow.com/modron/Kfym6fRfuKT0KiVAsLXG8
         </span>
         <span class="modronRecord">
             3
@@ -400,7 +400,7 @@ These designs try to get at least one supercharged node while still retaining at
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/RCk2kjf6Tpp8M6DE_g9Er
+            ic.byteglow.com/modron/RCk2kjf6Tpp8M6DE_g9Er
         </span>
         <span class="modronRecord">
             3
@@ -420,7 +420,7 @@ These designs try to get at least one supercharged node while still retaining at
             UniQP
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/iQFZgLbd4rC_6TcOYRrMa
+            ic.byteglow.com/modron/iQFZgLbd4rC_6TcOYRrMa
         </span>
         <span class="modronRecord">
             4
@@ -440,7 +440,7 @@ These designs try to get at least one supercharged node while still retaining at
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/dQW_3sDcrQdLFwkGUUCm4
+            ic.byteglow.com/modron/dQW_3sDcrQdLFwkGUUCm4
         </span>
         <span class="modronRecord">
             3
@@ -460,7 +460,7 @@ These designs try to get at least one supercharged node while still retaining at
             Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/lv6HGYAJqqqGart_Hqgam
+            ic.byteglow.com/modron/lv6HGYAJqqqGart_Hqgam
         </span>
         <span class="modronRecord">
             4
@@ -480,7 +480,7 @@ These designs try to get at least one supercharged node while still retaining at
             UniQP and Emmote
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/zTgqPh8-Txh0mFImERhoX
+            ic.byteglow.com/modron/zTgqPh8-Txh0mFImERhoX
         </span>
         <span class="modronRecord">
             8

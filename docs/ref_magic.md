@@ -32,7 +32,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/Zsz6BQ0bcYd33VYvwU6Mz
+            ic.byteglow.com/modron/Zsz6BQ0bcYd33VYvwU6Mz
         </span>
         <span class="modronNote">
             &nbsp;
@@ -52,7 +52,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/6BA7tMTNA8er60QbG49hr
+            ic.byteglow.com/modron/6BA7tMTNA8er60QbG49hr
         </span>
         <span class="modronNote">
             &nbsp;
@@ -72,7 +72,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/O7vdpZ12ktxccE2LLt3xd
+            ic.byteglow.com/modron/O7vdpZ12ktxccE2LLt3xd
         </span>
         <span class="modronNote">
             &nbsp;
@@ -92,7 +92,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/NdnN_kNAofT8HIUDGMILI
+            ic.byteglow.com/modron/NdnN_kNAofT8HIUDGMILI
         </span>
         <span class="modronNote">
             &nbsp;
@@ -112,7 +112,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/b-eOhZJ9RlF75jJOgzS5C
+            ic.byteglow.com/modron/b-eOhZJ9RlF75jJOgzS5C
         </span>
         <span class="modronNote">
             &nbsp;
@@ -132,7 +132,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/WDIczxmxL6XVy7CKIyABp
+            ic.byteglow.com/modron/WDIczxmxL6XVy7CKIyABp
         </span>
         <span class="modronNote">
             &nbsp;
@@ -152,7 +152,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/ttlZ6O3lv2sUmYEGk58ui
+            ic.byteglow.com/modron/ttlZ6O3lv2sUmYEGk58ui
         </span>
         <span class="modronNote">
             &nbsp;
@@ -172,7 +172,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/EgznkBWwyzdo2knZijEHE
+            ic.byteglow.com/modron/EgznkBWwyzdo2knZijEHE
         </span>
         <span class="modronNote">
             &nbsp;
@@ -192,7 +192,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/BHXm28hQHBCfST-_urwDX
+            ic.byteglow.com/modron/BHXm28hQHBCfST-_urwDX
         </span>
         <span class="modronNote">
             &nbsp;
@@ -212,7 +212,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/3wDpio5xZWdY7ZrGxpgPO
+            ic.byteglow.com/modron/3wDpio5xZWdY7ZrGxpgPO
         </span>
         <span class="modronNote">
             &nbsp;
@@ -232,7 +232,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/UtsA0hJAERqnL2LxXnzX0
+            ic.byteglow.com/modron/UtsA0hJAERqnL2LxXnzX0
         </span>
         <span class="modronNote">
             &nbsp;
@@ -252,7 +252,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/yrdJOmKFn1q4ic0z1zbBP
+            ic.byteglow.com/modron/yrdJOmKFn1q4ic0z1zbBP
         </span>
         <span class="modronNote">
             &nbsp;
@@ -272,7 +272,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/0yJViKD9VUlycvX6_bIth
+            ic.byteglow.com/modron/0yJViKD9VUlycvX6_bIth
         </span>
         <span class="modronNote">
             &nbsp;
@@ -292,7 +292,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/Ol1PVP9MtfxzUqDHxpSzj
+            ic.byteglow.com/modron/Ol1PVP9MtfxzUqDHxpSzj
         </span>
         <span class="modronNote">
             &nbsp;
@@ -312,7 +312,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/jUxx0g1M07bmeFVk7vLyL
+            ic.byteglow.com/modron/jUxx0g1M07bmeFVk7vLyL
         </span>
         <span class="modronNote">
             &nbsp;

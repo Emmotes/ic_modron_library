@@ -95,7 +95,7 @@
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek
+            ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek
         </span>
         <span class="modronDamageBuffed">
             2.83e53%
@@ -112,7 +112,7 @@
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66
+            ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66
         </span>
         <span class="modronDamage">
             3.52e49%
@@ -129,10 +129,13 @@
             ![Dexterous Core](images/core_7_dexterous.png)Dexterous
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
+            ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
         </span>
         <span class="modronDamageBuffed">
             1.15e49%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.png" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
         </span>
     </span>
 {::nomarkdown}
@@ -146,7 +149,7 @@
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
+            ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
         </span>
         <span class="modronDamageBuffed">
             2.18e42%
@@ -163,7 +166,7 @@
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB
+            ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB
         </span>
         <span class="modronDamageBuffed">
             1.90e41%
@@ -180,7 +183,7 @@
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/uaxwwiADbr1-LgADkbgay
+            ic.byteglow.com/modron/uaxwwiADbr1-LgADkbgay
         </span>
         <span class="modronDamageBuffed">
             2.32e40%
@@ -197,7 +200,7 @@
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko
+            ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko
         </span>
         <span class="modronDamageBuffed">
             1.50e40%
@@ -214,7 +217,7 @@
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0
+            ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0
         </span>
         <span class="modronDamageBuffed">
             1.50e40%
@@ -231,7 +234,7 @@
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/8JBi_ekkbieZ-CVuus8bh
+            ic.byteglow.com/modron/8JBi_ekkbieZ-CVuus8bh
         </span>
         <span class="modronDamageBuffed">
             1.37e39%
@@ -248,7 +251,7 @@
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/0hViuQyNyGNbVXcOsWJU6
+            ic.byteglow.com/modron/0hViuQyNyGNbVXcOsWJU6
         </span>
         <span class="modronDamageBuffed">
             1.31e39%
@@ -265,7 +268,7 @@
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/H3A0hgBGQNJ06mcruHs1V
+            ic.byteglow.com/modron/H3A0hgBGQNJ06mcruHs1V
         </span>
         <span class="modronDamageBuffed">
             1.31e39%
@@ -282,7 +285,7 @@
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK
+            ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK
         </span>
         <span class="modronDamageBuffed">
             1.60e38%
@@ -299,7 +302,7 @@
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/Y6cDJ0LRJbeSFFUgDFfc6
+            ic.byteglow.com/modron/Y6cDJ0LRJbeSFFUgDFfc6
         </span>
         <span class="modronDamageBuffed">
             1.60e38%
@@ -316,7 +319,7 @@
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/6XeOgeeTMx4w-kRz0Xfxp
+            ic.byteglow.com/modron/6XeOgeeTMx4w-kRz0Xfxp
         </span>
         <span class="modronDamageBuffed">
             1.04e38%
@@ -333,7 +336,7 @@
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4
+            ic.byteglow.com/modron/LfmDCRpoylSuZhFAq3DP4
         </span>
         <span class="modronDamageBuffed">
             9.45e36%
@@ -350,7 +353,7 @@
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/rChO3nzogPTRWPSbHREca
+            ic.byteglow.com/modron/rChO3nzogPTRWPSbHREca
         </span>
         <span class="modronDamageBuffed">
             9.45e36%
@@ -367,7 +370,7 @@
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/GYJsc-ZtzLNWR2kUmrfH-
+            ic.byteglow.com/modron/GYJsc-ZtzLNWR2kUmrfH-
         </span>
         <span class="modronDamageBuffed">
             9.06e36%
@@ -384,7 +387,7 @@
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/vBw5kDMFWXx5Pd6HEWElR
+            ic.byteglow.com/modron/vBw5kDMFWXx5Pd6HEWElR
         </span>
         <span class="modronDamage">
             1.10e36%
@@ -401,7 +404,7 @@
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/7pKR72mT9NmrRQLrt9mkq
+            ic.byteglow.com/modron/7pKR72mT9NmrRQLrt9mkq
         </span>
         <span class="modronDamage">
             6.52e34%

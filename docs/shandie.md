@@ -99,10 +99,13 @@
             ![Dexterous Core](images/core_7_dexterous.png)Dexterous
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
+            ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
         </span>
         <span class="modronDamage">
             1.15e49%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.png" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
         </span>
     </span>
 {::nomarkdown}
@@ -116,7 +119,7 @@
             ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
+            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
         </span>
         <span class="modronDamage">
             3.84e45%
@@ -133,7 +136,7 @@
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
+            ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
         </span>
         <span class="modronDamage">
             2.18e42%
@@ -150,7 +153,7 @@
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB
+            ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB
         </span>
         <span class="modronDamage">
             1.90e41%

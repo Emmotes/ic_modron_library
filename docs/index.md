@@ -770,7 +770,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/iyChfx2296evcJfrAadzT
+            ic.byteglow.com/modron/iyChfx2296evcJfrAadzT
         </span>
     </span>
 {::nomarkdown}
@@ -784,7 +784,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o
+            ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o
         </span>
     </span>
 {::nomarkdown}
@@ -798,7 +798,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
             ![Fast Core](images/core_3_fast.png)Fast
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp
+            ic.byteglow.com/modron/8VMtVFfG6dtt92fr8XMwp
         </span>
     </span>
 {::nomarkdown}
@@ -812,7 +812,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh
+            ic.byteglow.com/modron/5wV-LkarzUs19rX5uSdfh
         </span>
     </span>
 {::nomarkdown}
@@ -826,7 +826,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
             ![Aerois Core](images/core_5_aerois.png)Aerois
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K
+            ic.byteglow.com/modron/VpXiPUQcapFGVtdmEvw6K
         </span>
     </span>
 {::nomarkdown}
@@ -840,7 +840,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
             ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa
+            ic.byteglow.com/modron/trCCiKffGxG_talqlpZpa
         </span>
     </span>
 {::nomarkdown}
@@ -854,7 +854,7 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
             ![Dexterous Core](images/core_7_dexterous.png)Dexterous
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/3x8kabhdP9vqd9BgYQuLX
+            ic.byteglow.com/modron/3x8kabhdP9vqd9BgYQuLX
         </span>
     </span>
 {::nomarkdown}
@@ -875,7 +875,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF
+            ic.byteglow.com/modron/LI4aVDOyYdOreT-GsbNWF
         </span>
     </span>
 {::nomarkdown}
@@ -889,7 +889,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
             ![Aerois Core](images/core_5_aerois.png)Aerois
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB
+            ic.byteglow.com/modron/UZyXpoTAZi_pkDzpBLMoB
         </span>
     </span>
 {::nomarkdown}
@@ -903,7 +903,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
             ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ
+            ic.byteglow.com/modron/yOEfAk0bySOnVnqUbKoAZ
         </span>
     </span>
 {::nomarkdown}
@@ -917,7 +917,7 @@ This achievement requires 128,000 (1.28e5) flow to every node for a 200% superch
             ![Dexterous Core](images/core_7_dexterous.png)Dexterous
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/QXof7-6PGEM62LAbHXtI9
+            ic.byteglow.com/modron/QXof7-6PGEM62LAbHXtI9
         </span>
     </span>
 {::nomarkdown}
@@ -938,7 +938,7 @@ This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% super
             ![Aerois Core](images/core_5_aerois.png)Aerois
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc
+            ic.byteglow.com/modron/_z85vEeBAqIN3OZ3fZFjc
         </span>
     </span>
 {::nomarkdown}
@@ -952,7 +952,7 @@ This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% super
             ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52
+            ic.byteglow.com/modron/n0dIctU7j62SU1AWsDl52
         </span>
     </span>
 {::nomarkdown}
@@ -966,7 +966,7 @@ This achievement requires 8,192,000 (8.19e6) flow to every node for a 350% super
             ![Dexterous Core](images/core_7_dexterous.png)Dexterous
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/UQfQ1AeRVbE0Ooy5vUT6Q
+            ic.byteglow.com/modron/UQfQ1AeRVbE0Ooy5vUT6Q
         </span>
     </span>
 {::nomarkdown}
@@ -987,7 +987,7 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
             ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0
+            ic.byteglow.com/modron/WNzMofUqhm4X1fr7zFMY0
         </span>
     </span>
 {::nomarkdown}
@@ -1001,7 +1001,7 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
             ![Dexterous Core](images/core_7_dexterous.png)Dexterous
         </span>
         <span class="modronLinkSmall">
-            https://ic.byteglow.com/modron/JSF2NUEtdg3yGoTSbM0Oq
+            ic.byteglow.com/modron/JSF2NUEtdg3yGoTSbM0Oq
         </span>
     </span>
 {::nomarkdown}
@@ -1054,7 +1054,7 @@ I have only linked the Fast core on Nahara's damage page because it simply canno
             ![Fast Core](images/core_3_fast.png)Fully Supercharged
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv
+            ic.byteglow.com/modron/ozwp3wQr7O3VHUmKffQtv
         </span>
         <span class="modronDamage">
             1.03e39%
@@ -1071,7 +1071,7 @@ I have only linked the Fast core on Nahara's damage page because it simply canno
             ![Fast Core](images/core_3_fast.png)"Budget" Supercharged
         </span>
         <span class="modronLink">
-            https://ic.byteglow.com/modron/a3egkSdwZEtornHzWM6Q9
+            ic.byteglow.com/modron/a3egkSdwZEtornHzWM6Q9
         </span>
         <span class="modronDamage">
             9.73e38%
