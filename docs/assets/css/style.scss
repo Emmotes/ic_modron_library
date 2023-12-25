@@ -231,6 +231,7 @@ section #title .credits.right {
 	top: 0px;
 	transform: translate(-110px, -60px);
 	color: #F0E7D5;
+	pointer-events: none;
 }
 .tabs {
 	display: flex;
