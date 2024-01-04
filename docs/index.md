@@ -263,6 +263,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Krux
     </span>
   </a>
+  <a href="karlach.html">
+    <span class="championLinkDPS" id="karlach" style="background-image:url(images/portraits/karlach.png)">
+      Karlach
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
