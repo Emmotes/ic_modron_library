@@ -1193,11 +1193,11 @@ The Modest core has the highest gold bonus of 2.19e06% when fully epic - while t
 |---|---|---|
 | ![Modest Core](images/core_1_modest.png) | Modest | 2.19e06% |
 | ![Fast Core](images/core_3_fast.png) | Fast | 1.20e06% |
-| ![Aerois Core](images/core_5_aerois.png) | Aerois | 3.78e05% |
-| ![Magic Core](images/core_4_magic.png) | Magic | 3.78e05% |
 | ![Strong Core](images/core_2_strong.png) | Strong | 3.78e05% |
-| ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 1.19e05% |
+| ![Magic Core](images/core_4_magic.png) | Magic | 3.78e05% |
+| ![Aerois Core](images/core_5_aerois.png) | Aerois | 3.78e05% |
 | ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 1.19e05% |
+| ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 1.19e05% |
 
 ## Where is the best place to get modron pipes?
 
