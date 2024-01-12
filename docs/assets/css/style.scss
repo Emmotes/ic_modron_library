@@ -207,6 +207,9 @@ section #title .credits.right {
 	position: relative;
 	cursor: pointer;
 }
+.modronVariable img {
+	filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(160deg);
+}
 .modronVariable:hover .modronVariableTooltipContents {
 	visibility: visible;
 }
