@@ -1,100 +1,16 @@
-const spoilers = {
-	active: (localStorage.modronicaSpoilers == 1 ? true : false),
-	storage: "modronicaSpoilers",
-	name: "Show Spoilers",
-	nick: "spoilers",
-	description: "Lets the Damage tab show spoiler champions.",
-	map: new Map()
-};
-const allModes = [];
+const apo = `’`;
 
 function init() {
-	var edit = !(document.location.pathname.includes("/modes.html"));
-	updateModes(edit);
-	
 	if(localStorage.modronicaShowNonDps != undefined) {
 		localStorage.removeItem("modronicaShowNonDps");
 	}
 	
-	if (!edit) {
-		var list = document.getElementById(`modesList`);
-		var contents = ``;
-		for (let i = 0; i < allModes.length; i++) {
-			var curr = allModes[i];
-			contents += `<span class="modesColInner"><span class="modesRow"><span class="modesType"><input type="checkbox" class="modesCheckbox" id="${curr.nick}" name="${curr.nick}" onClick="toggleMode('${curr.nick}')"`+(curr.active?` checked`:``)+`><label for="${curr.nick}" class="modesLabel">${curr.name}</label></span><span class="modesDetails" id="${curr.nick}Details"><a onClick="modesDetails('${curr.nick}')" id="${curr.nick}Link">[details]</a></span></span><span class="modesContent" id="${curr.nick}Content" style="display:none;">&nbsp;</span></span>`;
-		}
-		list.innerHTML = contents;
-	} else {
-		nameEeggs();
-		nixieBlueIt();
-		window.addEventListener('hashchange',() =>{
-			swapTab();
-		});
+	nameEeggs();
+	nixieBlueIt();
+	window.addEventListener('hashchange',() =>{
 		swapTab();
-	}
-}
-
-function updateModes(edit) {
-	var modes = `<br /><a href="modes.html">Modes</a>`;
-	if (allModes.length == 0) {
-		modes = ``;
-	}
-	for (let i = 0; i < allModes.length; i++) {
-		var curr = allModes[i];
-		if (curr.active) {
-			modes += `<br />${curr.name} Active`;
-			if (edit) {
-				if (curr.nick = "damageTabNonDPS") {
-					document.getElementById(curr.nick).hidden = false;
-				}
-			}
-		} else {
-			if (edit) {
-				document.getElementById(curr.nick).hidden = true;
-			}
-		}
-	}
-	var element = document.getElementById("modes");
-	element.innerHTML = modes;
-}
-
-function modesDetails(type) {
-	for (let i=0; i<allModes.length; i++) {
-		var curr = allModes[i];
-		if (curr.nick != type) {
-			continue;
-		}
-		var element = document.getElementById(`${curr.nick}Content`);
-		var link = document.getElementById(`${curr.nick}Link`);
-		if (link.innerHTML == "[details]") {
-			var content = `<span class="modesContentRowHeader">${curr.description}</span>`;
-			element.innerHTML = content;
-			element.style.display = ``;
-			link.innerHTML = `[hide]`;
-		} else {
-			element.innerHTML = `&nbsp;`;
-			element.style.display = `none`;
-			link.innerHTML = `[details]`;
-		}
-	}
-}
-
-function toggleMode(type) {
-	for (let i=0; i<allModes.length; i++) {
-		var curr = allModes[i];
-		if (curr.nick != type) {
-			continue;
-		}
-		var checked = document.getElementById(`${curr.nick}`).checked;
-		if (checked) {
-			localStorage[curr.storage] = 1;
-			curr.active = true;
-		} else {
-			localStorage[curr.storage] = 0;
-			curr.active = false;
-		}
-	}
-	updateModes();
+	});
+	swapTab();
 }
 
 function swapTab() {
@@ -122,17 +38,19 @@ function randInt(min, max) {
 }
 
 function nameEeggs() {
-    var dhani = "Dhani";
-    dhani = ins(dhani, randInt(1,4), "'");
-    document.getElementById("dhani").innerHTML = dhani;
-    var laezel = "Laezel";
-    laezel = ins(laezel, randInt(1,5), "'");
-    document.getElementById("laezel").innerHTML = laezel;
-    var totoro = "Torogar";
-    if (randInt(1,8) == 7) {
-        totoro = "Totoro";
-    }
-    document.getElementById("torogar").innerHTML = totoro;
+	var arr = document.querySelectorAll(".championLink,.championLinkDPS");
+	for (let ele of arr) {
+		var name = ele.innerHTML.trim();
+		if (name.includes(apo)) {
+			name = name.replaceAll(apo,"");
+			let index = randInt(1,name.length-1);
+			name = ins(name,index,apo);
+		}
+		if (name == "Torogar" || name == "Totoro") {
+			name = randInt(1,8) == 7 ? "Totoro" : "Torogar";
+		}
+		ele.innerHTML = name;
+	}
 }
 
 function nixieBlueIt() {
