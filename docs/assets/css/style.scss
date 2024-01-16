@@ -43,14 +43,15 @@ section #title .credits.right {
 	flex-direction: row;
 	justify-content: center;
 	align-items: flex-start;
-	flex-wrap: nowrap;
+	flex-wrap: wrap;
 }
 .championLinkColumn {
 	display: flex;
-	width: 91px;
+	width: 68px;
 	flex-direction: column;
-	align-item: flex-start;
+	align-items: flex-start;
 	flex-wrap: nowrap;
+	margin-bottom: 50px;
 }
 .championLink,.championLinkHeader,.championLinkDPS {
 	background-color: #141414;
@@ -255,9 +256,8 @@ section #title .credits.right {
 	display: flex;
 	flex-wrap: wrap;
 	max-width: 850px;
-	min-width: 575px;
+	min-width: 500px;
 	font-size: 0.97em;
-	margin-right: 40px;
 }
 .tabsRadio {
 	width: 0;
@@ -280,7 +280,7 @@ section #title .credits.right {
 	display: none;
 	border: 1px solid black;
 	background-color: #1a1a1a;
-	padding: 12px 15px 0 20px;
+	padding: 12px 15px 0 15px;
 	border-radius: 0 10px 10px 10px;
 }
 .tabsRadio:checked+.tabsLabel {
