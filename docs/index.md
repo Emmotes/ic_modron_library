@@ -685,8 +685,11 @@ If you're unsure whether you've made the best design you can when you're done - 
   </a>
 </span>
 <span class="championLinkColumn">
-  <span class="championLinkHeader">
+  <span class="championLinkHeader" style="position:relative;">
     Seat 12
+    <a onClick="toggleNonDPS()">
+        <span class="championHideNonDPS" id="showHideNonDPSButton">&nbsp;</span>
+    </a>
   </span>
   <a href="arkhan.html">
     <span class="championLinkDPS" id="arkhan" style="background-image:url(images/portraits/arkhan.png)">

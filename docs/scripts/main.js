@@ -1,9 +1,11 @@
-const apo = `’`;
+var showNonDPS = false;
+var apo = `’`;
 
 function init() {
-	if(localStorage.modronicaShowNonDps != undefined) {
-		localStorage.removeItem("modronicaShowNonDps");
+	if (localStorage.modronicaShowNonDps != undefined && localStorage.modronicaShowNonDps == 1) {
+		showNonDPS = true;
 	}
+	showHideNonDPS();
 	
 	nameEeggs();
 	nixieBlueIt();
@@ -27,6 +29,22 @@ function setHash(hash) {
 	} else {
 		window.location.hash = hash;
 	}
+}
+
+async function toggleNonDPS() {
+	showNonDPS = !showNonDPS;
+	await localStorage.setItem(`modronicaShowNonDps`, (showNonDPS ? 1 : 0));
+	showHideNonDPS();
+}
+
+function showHideNonDPS() {
+	var list = document.getElementsByTagName("a");
+	for (let ele of list) {
+		if (ele.innerHTML.includes(`class="championLink"`)) {
+			ele.hidden = !showNonDPS;
+		}
+	}
+	document.getElementById(`showHideNonDPSButton`).innerHTML = (showNonDPS ? `Hide` : `Show`) + ` Non-DPS`;
 }
 
 function ins(str, index, value) {

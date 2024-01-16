@@ -77,6 +77,21 @@ section #title .credits.right {
 	align-items: center;
 	height: 24px;
 }
+.championHideNonDPS {
+	position: absolute;
+	bottom: 30px;
+	right: -1px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 122px;
+	height: max-content;
+	padding: 5px;
+	cursor: pointer;
+	background-color: #141414;
+	border: 1px solid black;
+	font-size: 0.9em;
+}
 .modronColumn {
     display: flex;
     flex-direction: column;
