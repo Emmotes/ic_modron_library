@@ -17,7 +17,13 @@ function init() {
 
 function swapTab() {
 	var hash = window.location.hash.substring(1);
-	if (hash != "" && document.getElementById(hash) != undefined) {
+	if (hash.startsWith(`faqsTab_`)) {
+		hash = hash.substring(8);
+		let ele = document.getElementById(hash);
+		ele.scrollIntoView();
+		hash = `faqsTab`;
+		setHash(hash);
+	} else if (hash != "" && document.getElementById(hash) != undefined) {
 		document.getElementById(hash).click();
 	}
 }

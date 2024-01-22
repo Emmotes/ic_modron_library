@@ -1176,6 +1176,20 @@ As you can see - the damage is really poor for low Dex champions. As such - this
 
 Just a list of frequently asked questions. If you have a question - feel free to DM me on Discord.
 
+## Index
+
+* [Where can each modron core be found?](#faqsTab_where-can-each-modron-core-be-found)
+* [How much experience does a core need to hit each level?](#faqsTab_how-much-experience-does-a-core-need-to-hit-each-level)
+* [Which is the best gold find core?](#faqsTab_which-is-the-best-gold-find-core)
+* [Where is the best place to get modron pipes?](#faqsTab_where-is-the-best-place-to-get-modron-pipes)
+* [What should I spend Upgrade Components on?](#faqsTab_what-should-i-spend-upgrade-components-on)
+* [Is it worth dismantling pipes?](#faqsTab_is-it-worth-dismantling-pipes)
+* [Why don't the supercharge layouts pipe all gold nodes?](#faqsTab_why-dont-the-supercharge-layouts-pipe-all-gold-nodes)
+* [Why do you pipe Health nodes in the Modest and Strong cores then?](#faqsTab_why-do-you-pipe-health-nodes-in-the-modest-and-strong-cores-then)
+* [Is the Strong Core worth buying for gems?](#faqsTab_is-the-strong-core-worth-buying-for-gems)
+* [Is the Aerois Core worth buying from Wild Offers?](#faqsTab_is-the-aerois-core-worth-buying-from-wild-offers)
+* [Is the Unaffiliated Core worth buying for gems?](#faqsTab_is-the-unaffiliated-core-worth-buying-for-gems)
+
 ## Where can each modron core be found?
 
 | Icon | Name | Id | Source |
@@ -1187,6 +1201,29 @@ Just a list of frequently asked questions. If you have a question - feel free to
 | ![Aerois Core](images/core_5_aerois.png) | Aerois | 5 | Season 1 / Wild Offers |
 | ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 6 | Season 3 / 500,000 Gems |
 | ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 7 | Season 6 |
+
+## How much experience does a core need to hit each level?
+
+Normally - clearing 1 area in a party with a core equipped yields 1 experience - however - if you use Nordom you can get more than that. Because core experience is based on area clearing - the quickest way to level up is through using a speed team. Faster area clearing means faster core levelling.
+
+| Level | Experience | Cumulative Experience |
+|--:|--:|--:|
+| 1 | 0 | 0 |
+| 2 | 8,000 | 8,000 |
+| 3 | 20,000 | 28,000 |
+| 4 | 36,000 | 64,000 |
+| 5 | 56,000 | 120,000 |
+| 6 | 80,000 | 200,000 |
+| 7 | 108,000 | 308,000 |
+| 8 | 140,000 | 448,000 |
+| 9 | 176,000 | 624,000 |
+| 10 | 216,000 | 840,000 |
+| 11 | 260,000 | 1,100,000 |
+| 12 | 308,000 | 1,408,000 |
+| 13 | 360,000 | 1,768,000 |
+| 14 | 416,000 | 2,184,000 |
+| 15 | 476,000 | 2,660,000 |
+| n | `2000(n²+n-2)` | `(2000/3)(n³+3n²-4n)` |
 
 ## Which is the best gold find core?
 
@@ -1220,7 +1257,7 @@ No! Never dismantle pipes to get upgrade components! Ever! Don't even think abou
 
 The conversion rate to upgrade components and the cost to upgrade pipes are absolutely terrible. You also never know when you might need that pipe you're thinking of dismantling.
 
-## Why don't you pipe gold nodes?
+## Why don't the supercharge layouts pipe all gold nodes?
 
 Using them often lowers flow to the damage nodes and damage is the whole point of supercharging. If you need gold then it's best to load a different layout temporarily or use a different core.
 
