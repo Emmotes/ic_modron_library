@@ -1,5 +1,6 @@
 var showNonDPS = false;
 var apo = `’`;
+var ftab = `faqsTab`;
 
 function init() {
 	if (localStorage.modronicaShowNonDps != undefined && localStorage.modronicaShowNonDps == 1) {
@@ -17,12 +18,10 @@ function init() {
 
 function swapTab() {
 	var hash = window.location.hash.substring(1);
-	if (hash.startsWith(`faqsTab_`)) {
+	if (hash.startsWith(`${ftab}_`)) {
+		document.getElementById(ftab).click();
 		hash = hash.substring(8);
-		let ele = document.getElementById(hash);
-		ele.scrollIntoView();
-		hash = `faqsTab`;
-		setHash(hash);
+		document.getElementById(hash).scrollIntoView();
 	} else if (hash != "" && document.getElementById(hash) != undefined) {
 		document.getElementById(hash).click();
 	}
