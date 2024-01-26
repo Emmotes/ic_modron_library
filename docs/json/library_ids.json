@@ -110,7 +110,8 @@
 			"type": "damage",
 			"dps": 1.60E+38,
 			"championIds": [
-				6
+				6,
+				144
 			]
 		},
 		{
@@ -875,7 +876,8 @@
 			"dps": 9.45E+36,
 			"comment": "Non-Melee Variant",
 			"championIds": [
-				6
+				6,
+				144
 			]
 		},
 		{
@@ -1113,7 +1115,8 @@
 				105,
 				121,
 				125,
-				138
+				138,
+				144
 			]
 		},
 		{
@@ -3329,6 +3332,9 @@
 		"142": "wyll",
 		"143": "karlach",
 		"144": "presto",
-		"145": "dynaheir"
+		"145": "dynaheir",
+		"146": "thedarkurge",
+		"147": "gale",
+		"148": "diana"
 	}
 }
