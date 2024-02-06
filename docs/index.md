@@ -1054,7 +1054,7 @@ These designs were built almost exclusively by `Retaki` in their [Modron Core Pi
 <input onClick="setHash('fastTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="fastTab"><label for="fastTab" class="tabsLabel">Fast Cores</label><div class="tabsContent">
 {:/nomarkdown}
 
-# Fast Core Supercharge Layouts
+# Supercharged
 
 I have only linked the Fast core on Nahara's damage page because it simply cannot compete for most champions. It will always be the worst for damage. Even for Nahara it's only there because it aids her speed effect. That said - it does have some supercharged designs if you really want to use it.
 
@@ -1098,6 +1098,30 @@ I have only linked the Fast core on Nahara's damage page because it simply canno
 The Fully Supercharged design - as its name implies - has linked every single node. This is mostly because the Fast core's primary purpose is gem farming and that needs gold for increasing the click damage wall. You can always save an alternate layout that doesn't use gold nodes to possibly increase damage further.
 
 The "Budget" Supercharged design is a modification of the Fully Supercharged design - and uses fewer cross pipes to get similar levels of damage. It's only slightly easier to build (hence the quotation marks). The main benefit of this layout over the Fully Supercharged design is that it uses a slightly more forgiving flow-path on the right-hand side - which is useful if you don't have all the necessary pipes and need to downgrade sections.
+
+# Gem Farming
+
+The fast core is obviously an ideal choice for gem farming. Doing so doesn't require any damage though - since it's faster to let clicks do all the work. Hence:
+
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Fast Core](images/core_3_fast.png)Gem Farm (No Damage)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/T-TfCsTNdXfLHOULzOfHr
+        </span>
+        <span class="modronDamage">
+            0.00e00%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
 
 {::nomarkdown}
 </div>
