@@ -51,7 +51,7 @@
                     <label for="Best And The Brightest">Certainty: Best And The Brightest</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Intelligence
+                +2 Intelligence
             </span>
             </span>
         </span>
@@ -62,7 +62,7 @@
                     <label for="Smooth Negotiators">Certainty: Smooth Negotiators</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Charisma
+                +2 Charisma
             </span>
             </span>
         </span>
@@ -89,6 +89,23 @@
             </span>
         </span>
     </span>
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek" target="_blank" data-core-id="4" data-buffs="Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek
+        </span>
+        <span class="modronDamageBuffed">
+            2.83e53%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 {::nomarkdown}
     <a href="https://ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
@@ -141,6 +158,23 @@
         </span>
         <span class="modronVariable">
             <img src="images/info.png" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ" target="_blank" data-core-id="1" data-buffs="Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
+        </span>
+        <span class="modronDamageBuffed">
+            2.18e42%
         </span>
     </span>
 {::nomarkdown}

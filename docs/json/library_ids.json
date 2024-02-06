@@ -245,6 +245,15 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
+			"layoutId": "s0BKs7Uh8FFbUv2ArVLIc",
+			"type": "damage",
+			"dps": 4.16E+40,
+			"hidden": true,
+			"championIds": []
+		},
+		{
+			"coreId": 1,
+			"coreLevel": 15,
 			"layoutId": "NlZjPJ4DECNoQSfpQKnyQ",
 			"type": "damage",
 			"dps": 3.18E+38,
@@ -1100,6 +1109,7 @@
 				16,
 				33,
 				35,
+				39,
 				44,
 				49,
 				57,
@@ -1194,8 +1204,11 @@
 			"layoutId": "VWE8AGgjNEWfILkyr-Nfs",
 			"type": "damage",
 			"dps": 8.16E+44,
+			"beadle": true,
+			"grimm": false,
 			"championIds": [
 				17,
+				64,
 				91
 			]
 		},
@@ -1224,7 +1237,6 @@
 				24,
 				29,
 				37,
-				39,
 				41,
 				47,
 				54,
@@ -1351,11 +1363,8 @@
 			"type": "damage",
 			"dps": 1.04E+37,
 			"comment": "Non-Magic Variant",
-			"beadle": true,
-			"grimm": false,
 			"championIds": [
 				59,
-				64,
 				66,
 				100
 			]

@@ -52,7 +52,7 @@
                     <label for="Best And The Brightest">Certainty: Best And The Brightest</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Intelligence
+                +2 Intelligence
             </span>
             </span>
         </span>
@@ -63,7 +63,7 @@
                     <label for="Smooth Negotiators">Certainty: Smooth Negotiators</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Charisma
+                +2 Charisma
             </span>
             </span>
         </span>
@@ -90,6 +90,23 @@
             </span>
         </span>
     </span>
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l" target="_blank" data-core-id="4" data-buffs="Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l
+        </span>
+        <span class="modronDamageBuffed">
+            1.71e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 {::nomarkdown}
     <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="">
 {:/nomarkdown}
@@ -122,6 +139,23 @@
         </span>
         <span class="modronDamage">
             8.16e44%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank" data-core-id="1" data-buffs="Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E
+        </span>
+        <span class="modronDamageBuffed">
+            4.43e42%
         </span>
     </span>
 {::nomarkdown}

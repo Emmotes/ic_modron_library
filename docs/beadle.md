@@ -21,7 +21,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Beadle is a melee champion.</span>
+<span class="champIntro">Beadle is a melee and magic champion.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -51,7 +51,7 @@
                     <label for="Best And The Brightest">Certainty: Best And The Brightest</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Intelligence
+                +2 Intelligence
             </span>
             </span>
         </span>
@@ -62,7 +62,7 @@
                     <label for="Smooth Negotiators">Certainty: Smooth Negotiators</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Charisma
+                +2 Charisma
             </span>
             </span>
         </span>
@@ -124,6 +124,23 @@
         </span>
         <span class="modronVariable">
             <img src="images/info.png" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/VWE8AGgjNEWfILkyr-Nfs" target="_blank" data-core-id="4" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/VWE8AGgjNEWfILkyr-Nfs
+        </span>
+        <span class="modronDamage">
+            8.16e44%
         </span>
     </span>
 {::nomarkdown}
@@ -197,26 +214,9 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/80K7ITgZH227LMZ8Z-Xr2" target="_blank" data-core-id="4" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/80K7ITgZH227LMZ8Z-Xr2
-        </span>
-        <span class="modronDamage">
-            1.04e37%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
 </span>
 
-The Unaffiliated and Dexterous cores are so far ahead of the Strong core that they are really the only choices for Beadle. Choose whichever you have the more favourable pipes for.
+The Unaffiliated and Dexterous cores are far enough ahead of the Magic core that they are the best ones to use for Beadle. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
 Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Beadle only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
 

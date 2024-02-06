@@ -53,7 +53,7 @@
                     <label for="Best And The Brightest">Certainty: Best And The Brightest</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Intelligence
+                +2 Intelligence
             </span>
             </span>
         </span>
@@ -64,7 +64,7 @@
                     <label for="Smooth Negotiators">Certainty: Smooth Negotiators</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Charisma
+                +2 Charisma
             </span>
             </span>
         </span>

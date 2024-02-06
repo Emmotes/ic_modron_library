@@ -51,7 +51,7 @@
                     <label for="Best And The Brightest">Certainty: Best And The Brightest</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Intelligence
+                +2 Intelligence
             </span>
             </span>
         </span>
@@ -62,7 +62,7 @@
                     <label for="Smooth Negotiators">Certainty: Smooth Negotiators</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Charisma
+                +2 Charisma
             </span>
             </span>
         </span>
@@ -130,6 +130,40 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2" target="_blank" data-core-id="2" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2
+        </span>
+        <span class="modronDamageBuffed">
+            1.99e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/sGv2PkfUhcXsZAEQEDdvy" target="_blank" data-core-id="1" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/sGv2PkfUhcXsZAEQEDdvy
+        </span>
+        <span class="modronDamageBuffed">
+            3.33e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/Z3dqepoGNtSI25cJzrPbj" target="_blank" data-core-id="1" data-buffs="Smooth Negotiators" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -189,6 +223,23 @@
         </span>
         <span class="modronLink">
             ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt
+        </span>
+        <span class="modronDamageBuffed">
+            1.04e37%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/80K7ITgZH227LMZ8Z-Xr2" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/80K7ITgZH227LMZ8Z-Xr2
         </span>
         <span class="modronDamageBuffed">
             1.04e37%
