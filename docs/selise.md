@@ -44,6 +44,17 @@
             </span>
             </span>
         </span>
+        <span class="buffboxRow" id="buffboxCircle Magic">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="3" id="Circle Magic" value="Circle Magic">
+                    <label for="Circle Magic">Dynaheir: Circle Magic</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Constitution
+            </span>
+            </span>
+        </span>
         <span class="buffboxRow" id="buffboxBest And The Brightest">
             <span class="buffboxRowCol">
                 <span class="buffboxRowRadio">
@@ -127,6 +138,57 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/b27B4yn_RIckxkXk_vYIp" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Circle Magic,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/b27B4yn_RIckxkXk_vYIp
+        </span>
+        <span class="modronDamageBuffed">
+            3.09e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/DkOJBZGdGpnq4_K4yQont" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Circle Magic,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/DkOJBZGdGpnq4_K4yQont
+        </span>
+        <span class="modronDamageBuffed">
+            2.18e44%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Circle Magic" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/qRYV43eYCC4HDxCzpQ05l
+        </span>
+        <span class="modronDamageBuffed">
+            2.13e43%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/jLJmVii_4gFAkxy35uEqm" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -155,6 +217,23 @@
         </span>
         <span class="modronDamageBuffed">
             2.65e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/UBppioFeMIfJ4fE90nPYp" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Circle Magic" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/UBppioFeMIfJ4fE90nPYp
+        </span>
+        <span class="modronDamageBuffed">
+            1.50e42%
         </span>
     </span>
 {::nomarkdown}

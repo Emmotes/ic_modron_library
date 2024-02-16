@@ -213,6 +213,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       BBEG
     </span>
   </a>
+  <a href="dynaheir.html">
+    <span class="championLink" id="dynaheir" style="background-image:url(images/portraits/dynaheir.png)">
+      Dynaheir
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">

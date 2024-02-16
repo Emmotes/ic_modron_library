@@ -42,6 +42,17 @@
             </span>
             </span>
         </span>
+        <span class="buffboxRow" id="buffboxCircle Magic">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="3" id="Circle Magic" value="Circle Magic">
+                    <label for="Circle Magic">Dynaheir: Circle Magic</label>
+                </span>
+            <span class="buffboxRowContent">
+                +1 Constitution
+            </span>
+            </span>
+        </span>
         <span class="buffboxRow" id="buffboxBest And The Brightest">
             <span class="buffboxRowCol">
                 <span class="buffboxRowRadio">

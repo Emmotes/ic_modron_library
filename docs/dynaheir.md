@@ -1,27 +1,27 @@
 [Back to Main](index.md)
 
-<span id="deekin">
-![Deekin Portrait](images/portraits/deekin.png)
+<span id="dynaheir">
+![Dynaheir Portrait](images/portraits/dynaheir.png)
 </span>
 
-# Deekin
+# Dynaheir
 
-<span class="champIntro">Deekin is unaffiliated and normally benefits from the following stat nodes:</span>
+<span class="champIntro">Dynaheir is in the Heroes of Baldur's Gate affiliation and normally benefits from the following stat nodes:</span>
 
 {::nomarkdown}
 <div id="champStats">
 {:/nomarkdown}
 * 13+ Dexterity
-* 15+ Dexterity (with Feat)
 * 13+ Constitution
-* 13+ Charisma
+* 13+ Intelligence
+* 13+ Wisdom
 
 {::nomarkdown}
 </div>
 {:/nomarkdown}
 
 
-<span class="champIntro">Deekin is a ranged champion.</span>
+<span class="champIntro">Dynaheir is a ranged champion.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -29,7 +29,7 @@
         <span class="buffboxRow" id="buffboxNone">
             <span class="buffboxRowCol">
                 <span class="buffboxRowNone">
-                    Deekin does not gain the benefit of extra stat nodes from any stat increasing formation abilities.
+                    Dynaheir does not gain the benefit of extra stat nodes from any stat increasing formation abilities.
                 </span>
             </span>
         </span>
@@ -101,27 +101,7 @@
         </span>
     </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" data-core-id="6" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
-        </span>
-        <span class="modronDamage">
-            1.15e49%
-        </span>
-        <span class="modronVariable">
-            <img src="images/info.png" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -130,7 +110,7 @@
         <span class="modronLink">
             ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
         </span>
-        <span class="modronDamage">
+        <span class="modronDamageBuffed">
             1.15e49%
         </span>
         <span class="modronVariable">
@@ -141,51 +121,85 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/u4thZ5VbiZ2xg2HxLjr7W" target="_blank" data-core-id="1" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/u4thZ5VbiZ2xg2HxLjr7W
-        </span>
-        <span class="modronDamage">
-            2.57e38%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt" target="_blank" data-core-id="4" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="Smooth Negotiators" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt
+            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
         </span>
-        <span class="modronDamage">
-            1.04e37%
+        <span class="modronDamageBuffed">
+            3.84e45%
         </span>
     </span>
 {::nomarkdown}
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/2ggHyhpYHJ0z7VinGTWio" target="_blank" data-core-id="2" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ" target="_blank" data-core-id="1" data-buffs="Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
+        </span>
+        <span class="modronDamageBuffed">
+            2.18e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17" target="_blank" data-core-id="4" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17
+        </span>
+        <span class="modronDamage">
+            1.91e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/2ggHyhpYHJ0z7VinGTWio
+            ic.byteglow.com/modron/YAOozf3I19s8u67slvOgB
         </span>
         <span class="modronDamage">
-            9.45e36%
+            1.90e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/tFUbbSl60Q161is_ovBxs" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/tFUbbSl60Q161is_ovBxs
+        </span>
+        <span class="modronDamage">
+            1.57e40%
         </span>
     </span>
 {::nomarkdown}
@@ -193,22 +207,32 @@
 {:/nomarkdown}
 </span>
 
-The Unaffiliated and Dexterous cores are so far ahead of the other cores that they are really the only choices for Deekin. Choose whichever you have the more favourable pipes for.
+The listed cores are all similar enough in damage for Dynaheir that you should use whichever you have the more favourable pipes for. Though I would not recommend the Magic core as it doesn't have any health nodes.
 
-Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Deekin only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
+{::nomarkdown}
+<span id="dexTable" hidden>
+{:/nomarkdown}
 
-| Core | Num Unaffiliated in Formation | Total Damage | | Core | Num 15+ Dex in Formation | Total Damage |
-|---|---|---|---|---|---|---|
-| Unaffiliated | 10 | 1.04e53% | | Dexterous | 10 | 1.04e53% |
-| Unaffiliated | 9 | 6.81e52% | | Dexterous | 9 | 6.81e52% |
-| Unaffiliated | 8 | 4.26e52% | | Dexterous | 8 | 4.26e52% |
-| Unaffiliated | 7 | 2.50e52% | | Dexterous | 7 | 2.50e52% |
-| Unaffiliated | 6 | 1.35e52% | | Dexterous | 6 | 1.35e52% |
-| Unaffiliated | 5 | 6.56e51% | | Dexterous | 5 | 6.56e51% |
-| Unaffiliated | 4 | 2.70e51% | | Dexterous | 4 | 2.70e51% |
-| Unaffiliated | 3 | 8.63e50% | | Dexterous | 3 | 8.63e50% |
-| Unaffiliated | 2 | 1.74e50% | | Dexterous | 2 | 1.74e50% |
-| Unaffiliated | 1 | 1.15e49% | | Dexterous | 1 | 1.15e49% |
+
+Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Dynaheir only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
+
+| Core | Num 15+ Dex in Formation | Total Damage |
+|---|---|---|
+| Dexterous | 10 | 1.04e53% |
+| Dexterous | 9 | 6.81e52% |
+| Dexterous | 8 | 4.26e52% |
+| Dexterous | 7 | 2.50e52% |
+| Dexterous | 6 | 1.35e52% |
+| Dexterous | 5 | 6.56e51% |
+| Dexterous | 4 | 2.70e51% |
+| Dexterous | 3 | 8.63e50% |
+| Dexterous | 2 | 1.74e50% |
+| Dexterous | 1 | 1.15e49% |
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
 
 [Back to Top](#top)
 
