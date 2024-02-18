@@ -1234,7 +1234,7 @@ Just a list of frequently asked questions. If you have a question - feel free to
 | ![Magic Core](images/core_4_magic.png) | Magic | 4 | Split the Party 3 (4+ champions in all seats) |
 | ![Aerois Core](images/core_5_aerois.png) | Aerois | 5 | Season 1 / Wild Offers |
 | ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 6 | Season 3 / 500,000 Gems |
-| ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 7 | Season 6 |
+| ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 7 | Season 6 / Gem Shop from 03 July 2024 (Guess) |
 
 ## How much experience does a core need to hit each level?
 
