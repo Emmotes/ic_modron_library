@@ -15,6 +15,7 @@
 * 13+ Constitution
 * 13+ Intelligence
 * 13+ Wisdom
+* 13+ Charisma (with Feat)
 
 {::nomarkdown}
 </div>
@@ -121,7 +122,7 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="Smooth Negotiators" hidden>
+    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -130,7 +131,7 @@
         <span class="modronLink">
             ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
         </span>
-        <span class="modronDamageBuffed">
+        <span class="modronDamage">
             3.84e45%
         </span>
     </span>
@@ -138,7 +139,7 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ" target="_blank" data-core-id="1" data-buffs="Smooth Negotiators" hidden>
+    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -147,25 +148,8 @@
         <span class="modronLink">
             ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
         </span>
-        <span class="modronDamageBuffed">
-            2.18e42%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17" target="_blank" data-core-id="4" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17
-        </span>
         <span class="modronDamage">
-            1.91e41%
+            2.18e42%
         </span>
     </span>
 {::nomarkdown}
@@ -188,26 +172,9 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/tFUbbSl60Q161is_ovBxs" target="_blank" data-core-id="1" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/tFUbbSl60Q161is_ovBxs
-        </span>
-        <span class="modronDamage">
-            1.57e40%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
 </span>
 
-The listed cores are all similar enough in damage for Dynaheir that you should use whichever you have the more favourable pipes for. Though I would not recommend the Magic core as it doesn't have any health nodes.
+The Magic (Non-Magic Variant) core is far enough ahead of the other cores that it's the best one to use for Dynaheir. That said - you could potentially use the Modest or Strong (Non-Melee Variant) core if the pipes you have favours one of them. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
 
 {::nomarkdown}
 <span id="dexTable" hidden>
