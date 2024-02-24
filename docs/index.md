@@ -693,6 +693,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Strongheart
     </span>
   </a>
+  <a href="darkurge.html">
+    <span class="championLinkDPS" id="darkurge" style="background-image:url(images/portraits/darkurge.png);color:#ee2b2b" data-spoiler="true">
+      Dark Urge
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader" style="position:relative;">
