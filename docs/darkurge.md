@@ -20,7 +20,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Dark Urge is a melee champion.</span>
+<span class="champIntro">Dark Urge is normally a melee champion but he can become magic after choosing his Storm Sorcery specialisation. This means he can potentially benefit from both Melee and Magic nodes.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -100,6 +100,23 @@
         </span>
     </span>
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/1QAVPgKXTPpv6QyZmNM3l
+        </span>
+        <span class="modronDamageBuffed">
+            1.71e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -120,17 +137,17 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
+    <a href="https://ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+            ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj
+            ic.byteglow.com/modron/Ig_TEITfWozF2MZ8YbCJB
         </span>
-        <span class="modronDamageBuffed">
-            2.19e41%
+        <span class="modronDamage">
+            1.67e45%
         </span>
     </span>
 {::nomarkdown}
@@ -204,26 +221,9 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt" target="_blank" data-core-id="4" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/GvRCQNy_OdugNFOjnqZZt
-        </span>
-        <span class="modronDamage">
-            1.04e37%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
 </span>
 
-The listed cores are all similar enough in damage for Dark Urge that you should use whichever you have the more favourable pipes for. Though I would not recommend the Magic core as it doesn't have any health nodes.
+The Magic core is so far ahead of the other cores that it's really the only choice for Dark Urge. Though it is worth noting that it doesn't have any health nodes.
 
 {::nomarkdown}
 <span id="dexTable" hidden>
