@@ -78,7 +78,7 @@ section #title .credits.right {
 	align-items: center;
 	height: 24px;
 }
-.championHideNonDPS {
+.championToggleButtons {
 	position: absolute;
 	bottom: 30px;
 	right: -1px;
@@ -92,6 +92,12 @@ section #title .credits.right {
 	background-color: #141414;
 	border: 1px solid black;
 	font-size: 0.9em;
+}
+.championToggleNonDPS {
+}
+.championToggleSpoilers {
+	color: #ee2b2b;
+	right: 135px;
 }
 .modronColumn {
     display: flex;

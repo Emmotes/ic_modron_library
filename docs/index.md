@@ -698,7 +698,10 @@ If you're unsure whether you've made the best design you can when you're done - 
   <span class="championLinkHeader" style="position:relative;">
     Seat 12
     <a onClick="toggleNonDPS()">
-        <span class="championHideNonDPS" id="showHideNonDPSButton">&nbsp;</span>
+        <span class="championToggleButtons championToggleNonDPS" id="showHideNonDPSButton">&nbsp;</span>
+    </a>
+    <a onClick="toggleSpoilers()">
+        <span class="championToggleButtons championToggleSpoilers" id="showHideSpoilersButton">&nbsp;</span>
     </a>
   </span>
   <a href="arkhan.html">

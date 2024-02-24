@@ -1,4 +1,5 @@
 var showNonDPS = false;
+var showSpoilers = false;
 var apo = `’`;
 var ftab = `faqsTab`;
 
@@ -7,6 +8,13 @@ function init() {
 		showNonDPS = true;
 	}
 	showHideNonDPS();
+	if (localStorage.modronicaShowSpoilers != undefined && localStorage.modronicaShowSpoilers == 1) {
+		showSpoilers = true;
+	}
+	showHideSpoilers();
+	if (document.querySelectorAll('[data-spoiler="true"]').length==0) {
+		document.getElementById(`showHideSpoilersButton`).parentNode.hidden = true;
+	}
 	
 	nameEeggs();
 	nixieBlueIt();
@@ -50,6 +58,22 @@ function showHideNonDPS() {
 		}
 	}
 	document.getElementById(`showHideNonDPSButton`).innerHTML = (showNonDPS ? `Hide` : `Show`) + ` Non-DPS`;
+}
+
+async function toggleSpoilers() {
+	showSpoilers = !showSpoilers;
+	await localStorage.setItem(`modronicaShowSpoilers`, (showSpoilers ? 1 : 0 ));
+	showHideSpoilers();
+}
+
+function showHideSpoilers() {
+	var list = document.getElementsByTagName("a");
+	for (let ele of list) {
+		if (ele.innerHTML.includes(`data-spoiler="true"`)) {
+			ele.hidden = !showSpoilers;
+		}
+	}
+	document.getElementById(`showHideSpoilersButton`).innerHTML = (showSpoilers ? `Hide` : `Show`) + ` Spoilers`;
 }
 
 function ins(str, index, value) {
