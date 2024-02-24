@@ -53,9 +53,7 @@ async function toggleNonDPS() {
 function showHideNonDPS() {
 	var list = document.getElementsByTagName("a");
 	for (let ele of list) {
-		if (ele.innerHTML.includes(`class="championLink"`)) {
-			ele.hidden = !showNonDPS;
-		}
+		showHideElement(ele);
 	}
 	document.getElementById(`showHideNonDPSButton`).innerHTML = (showNonDPS ? `Hide` : `Show`) + ` Non-DPS`;
 }
@@ -69,11 +67,21 @@ async function toggleSpoilers() {
 function showHideSpoilers() {
 	var list = document.getElementsByTagName("a");
 	for (let ele of list) {
-		if (ele.innerHTML.includes(`data-spoiler="true"`)) {
-			ele.hidden = !showSpoilers;
-		}
+		showHideElement(ele);
 	}
 	document.getElementById(`showHideSpoilersButton`).innerHTML = (showSpoilers ? `Hide` : `Show`) + ` Spoilers`;
+}
+
+function showHideElement(ele) {
+	let isNonDPS = ele.innerHTML.includes(`class="championLink"`);
+	let isSpoiler = ele.innerHTML.includes(`data-spoiler="true"`);
+	if (!isNonDPS) { // DPS
+		if (isSpoiler) ele.hidden = !showSpoilers;
+		else return;
+	} else { // nonDPS
+		if (isSpoiler) ele.hidden = !(showNonDPS && showSpoilers);
+		else ele.hidden = !showNonDPS;
+	}
 }
 
 function ins(str, index, value) {
