@@ -694,7 +694,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="darkurge.html">
-    <span class="championLinkDPS" id="darkurge" style="background-image:url(images/portraits/darkurge.png);color:#ee2b2b" data-spoiler="true">
+    <span class="championLinkDPS" id="darkurge" style="background-image:url(images/portraits/darkurge.png)">
       Dark Urge
     </span>
   </a>
