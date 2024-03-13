@@ -93,6 +93,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Thellora
     </span>
   </a>
+  <a href="gale.html">
+    <span class="championLink" id="gale" style="background-image:url(images/portraits/gale.png);color:#ee2b2b" data-spoiler="true">
+      Gale
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
