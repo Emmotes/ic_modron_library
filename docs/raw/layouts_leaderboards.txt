@@ -39,7 +39,7 @@ HHys4x0fUH8rcUPzXzT3y,6,15,4.94e31,Emmote,Min Pipes: 83
 # Cores using the lowest rarity possible.
 
 P6qKM1sA_9quq9rDQrJyL,1,15,1.60e29,Darkbolt,Min Rarity: 5 Rares
-DbHzZWpJ9FHj1twRqZk8A,2,15,5.70e29,Darkbolt,Min Rarity: 2 Rares
+DbHzZWpJ9FHj1twRqZk8A,2,15,5.70e29,Emmote,Min Rarity: 2 Rares
 MxgE51Uw1Z8UUwAwof8dx,3,15,2.92e25,Darkbolt|Vorkera_x,Min Rarity: 4 Rares
 tAEHsyw8mAqbtGKi1AN8L,4,15,2.23e35,UniQP|Emmote|Midander|Retaki,Min Rarity: 7 Rares
 YxVuZO8-ZrtTtbtmHR99t,5,15,5.05e21,UniQP,Min Rarity: 5 Rare

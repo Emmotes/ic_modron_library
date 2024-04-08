@@ -214,7 +214,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronRecordHolders">
-            Darkbolt
+            Emmote
         </span>
         <span class="modronLink">
             ic.byteglow.com/modron/DbHzZWpJ9FHj1twRqZk8A
