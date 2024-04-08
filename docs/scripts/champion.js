@@ -1,3 +1,4 @@
+const vc=1.0
 const layouts = [];
 const usedBuffs = [];
 const coreIds = [];

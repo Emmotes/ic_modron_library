@@ -157,4 +157,4 @@ The Magic core is so far ahead of the other cores that it's really the only choi
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
-<script type="text/javascript" src="scripts/champion.js"></script>
+<script type="text/javascript" src="scripts/champion.js?vc=1.0"></script>

@@ -276,4 +276,4 @@ Note that the damage of the Unaffiliated core varies depending on the number of 
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
-<script type="text/javascript" src="scripts/champion.js"></script>
+<script type="text/javascript" src="scripts/champion.js?vc=1.0"></script>

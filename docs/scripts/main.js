@@ -1,3 +1,4 @@
+const v=1.0
 var showNonDPS = false;
 var showSpoilers = false;
 var apo = `’`;

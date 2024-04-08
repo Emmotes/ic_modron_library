@@ -208,4 +208,4 @@ The Strong core is far enough ahead of the Modest core that it's the best one to
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
-<script type="text/javascript" src="scripts/champion.js"></script>
+<script type="text/javascript" src="scripts/champion.js?vc=1.0"></script>

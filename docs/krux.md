@@ -298,4 +298,4 @@ Note that the damage of the Unaffiliated and Dexterous cores vary depending on t
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
-<script type="text/javascript" src="scripts/champion.js"></script>
+<script type="text/javascript" src="scripts/champion.js?vc=1.0"></script>

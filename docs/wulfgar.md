@@ -254,4 +254,4 @@ Note that the damage of the Dexterous core varies depending on the number of 15+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
-<script type="text/javascript" src="scripts/champion.js"></script>
+<script type="text/javascript" src="scripts/champion.js?vc=1.0"></script>

@@ -1377,4 +1377,4 @@ I might not always agree with ideas offered - but I'll always read them and give
 
 *Last Modified: {{ site.time }}*
 
-<script type="text/javascript" src="scripts/main.js"></script>
+<script type="text/javascript" src="scripts/main.js?v=1.0"></script>
