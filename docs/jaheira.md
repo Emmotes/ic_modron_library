@@ -123,14 +123,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/P6YiBeAtM8eZSSjm6hI9H" target="_blank" data-core-id="2" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/HRzw-pCS165T9h4HkWt92" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/P6YiBeAtM8eZSSjm6hI9H
+            ic.byteglow.com/modron/HRzw-pCS165T9h4HkWt92
         </span>
         <span class="modronDamage">
             2.13e43%

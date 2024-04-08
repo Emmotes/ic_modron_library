@@ -154,14 +154,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX" target="_blank" data-core-id="2" data-buffs="Best And The Brightest" hidden>
+    <a href="https://ic.byteglow.com/modron/C7nEm7QXfoVk6qU6uqG8f" target="_blank" data-core-id="2" data-buffs="Best And The Brightest" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/zvdcSaO2hUNuyOIJntutX
+            ic.byteglow.com/modron/C7nEm7QXfoVk6qU6uqG8f
         </span>
         <span class="modronDamageBuffed">
             1.68e41%
@@ -188,14 +188,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/6JLPFRhgLOs5DgPikpfPV" target="_blank" data-core-id="2" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/dCRcufrLOJXX8pMwiLi0z" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/6JLPFRhgLOs5DgPikpfPV
+            ic.byteglow.com/modron/dCRcufrLOJXX8pMwiLi0z
         </span>
         <span class="modronDamage">
             1.16e39%

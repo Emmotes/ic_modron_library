@@ -159,14 +159,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN" target="_blank" data-core-id="2" data-buffs="Circle Magic" hidden>
+    <a href="https://ic.byteglow.com/modron/jRrxHkBW6rSGswR7YGk6c" target="_blank" data-core-id="2" data-buffs="Circle Magic" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN
+            ic.byteglow.com/modron/jRrxHkBW6rSGswR7YGk6c
         </span>
         <span class="modronDamageBuffed">
             2.13e43%
@@ -176,14 +176,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN" target="_blank" data-core-id="2" data-buffs="Feats to Spare" hidden>
+    <a href="https://ic.byteglow.com/modron/jRrxHkBW6rSGswR7YGk6c" target="_blank" data-core-id="2" data-buffs="Feats to Spare" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/JVe4p8EMGmubaD44vurWN
+            ic.byteglow.com/modron/jRrxHkBW6rSGswR7YGk6c
         </span>
         <span class="modronDamageBuffed">
             2.13e43%
@@ -227,14 +227,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/GYA9TYFSfcUnlfvbWr811" target="_blank" data-core-id="2" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/WcLloORKcEsp1Vh7ugnlO" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/GYA9TYFSfcUnlfvbWr811
+            ic.byteglow.com/modron/WcLloORKcEsp1Vh7ugnlO
         </span>
         <span class="modronDamage">
             1.47e41%

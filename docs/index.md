@@ -808,14 +808,14 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o" target="_blank">
+    <a href="https://ic.byteglow.com/modron/2bJ8HS1heiLSGcWv4CiY3" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
             ![Strong Core](images/core_2_strong.png)Strong
         </span>
         <span class="modronLinkSmall">
-            ic.byteglow.com/modron/LbtIyA7gF3TVqJlGv-j7o
+            ic.byteglow.com/modron/2bJ8HS1heiLSGcWv4CiY3
         </span>
     </span>
 {::nomarkdown}
@@ -1274,13 +1274,13 @@ Normally - clearing 1 area in a party with a core equipped yields 1 experience -
 
 ## Which is the best gold find core?
 
-The Modest core has the highest gold bonus of 2.19e06% when fully epic - while the Fast core is the next best at 1.20e06%.
+The Strong core has the highest gold bonus of 4.01e06% when fully epic - while the Modest core is the next best at 2.19e06%.
 
 | Icon | Core | Gold Find Bonus |
 |---|---|---|
+| ![Strong Core](images/core_2_strong.png) | Strong | 4.01e06% |
 | ![Modest Core](images/core_1_modest.png) | Modest | 2.19e06% |
 | ![Fast Core](images/core_3_fast.png) | Fast | 1.20e06% |
-| ![Strong Core](images/core_2_strong.png) | Strong | 3.78e05% |
 | ![Magic Core](images/core_4_magic.png) | Magic | 3.78e05% |
 | ![Aerois Core](images/core_5_aerois.png) | Aerois | 3.78e05% |
 | ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 1.19e05% |

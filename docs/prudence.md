@@ -172,14 +172,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
+    <a href="https://ic.byteglow.com/modron/_1L9cQTtDM1JSSx3LhyoF" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2
+            ic.byteglow.com/modron/_1L9cQTtDM1JSSx3LhyoF
         </span>
         <span class="modronDamageBuffed">
             1.99e41%
@@ -189,14 +189,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2" target="_blank" data-core-id="2" data-buffs="Wolf Pack" hidden>
+    <a href="https://ic.byteglow.com/modron/_1L9cQTtDM1JSSx3LhyoF" target="_blank" data-core-id="2" data-buffs="Wolf Pack" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/kGCEUOXosTecWYEvHkJw2
+            ic.byteglow.com/modron/_1L9cQTtDM1JSSx3LhyoF
         </span>
         <span class="modronDamageBuffed">
             1.99e41%
@@ -223,14 +223,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/clGSazYoxokx7hljUdygz" target="_blank" data-core-id="2" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/xUHtYbd65F1wOKyHVIbO8" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/clGSazYoxokx7hljUdygz
+            ic.byteglow.com/modron/xUHtYbd65F1wOKyHVIbO8
         </span>
         <span class="modronDamage">
             1.37e39%

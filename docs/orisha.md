@@ -156,14 +156,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/LvBjECq5C6o4SKCXsmpMB" target="_blank" data-core-id="2" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/H8TK3pxjZneEx4U0KKJP3" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/LvBjECq5C6o4SKCXsmpMB
+            ic.byteglow.com/modron/H8TK3pxjZneEx4U0KKJP3
         </span>
         <span class="modronDamage">
             1.99e41%

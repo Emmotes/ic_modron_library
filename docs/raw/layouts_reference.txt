@@ -55,7 +55,7 @@ BHREouvgPeF9X4lRJ9xft,2,11,1.49e23,Retaki,
 lBjkY9UquiPPrUNDqrUh4,2,12,7.06e25,Retaki|Emmote,
 sl9h0IwSV-3pJt5eNk6BR,2,13,1.20e27,Retaki,
 38CCIVtSHaIoFRZXekobU,2,14,2.28e28,Retaki,
-g3SlbA3Oz6KrFFC9x5knJ,2,15,5.70e29,Retaki,
+rOAQlR3rvfOhD54LXSv3g,2,15,5.70e29,Retaki,
 
 # ==============================
 # ==== Fast Core References ====

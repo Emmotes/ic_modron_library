@@ -302,7 +302,7 @@ These designs can be used for inspiration for piping your own core at various le
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/g3SlbA3Oz6KrFFC9x5knJ" target="_blank">
+    <a href="https://ic.byteglow.com/modron/rOAQlR3rvfOhD54LXSv3g" target="_blank">
 {:/nomarkdown}
     <span class="modronRowShort">
         <span class="modronLevel">
@@ -312,7 +312,7 @@ These designs can be used for inspiration for piping your own core at various le
             Retaki
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/g3SlbA3Oz6KrFFC9x5knJ
+            ic.byteglow.com/modron/rOAQlR3rvfOhD54LXSv3g
         </span>
         <span class="modronNote">
             &nbsp;

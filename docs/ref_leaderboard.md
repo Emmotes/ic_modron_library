@@ -44,7 +44,7 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/lGg_BhwReysiilX-_yHGa" target="_blank">
+    <a href="https://ic.byteglow.com/modron/H3uUXluEvpnqUK1uxp7mE" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -54,10 +54,10 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
             Darkbolt
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/lGg_BhwReysiilX-_yHGa
+            ic.byteglow.com/modron/H3uUXluEvpnqUK1uxp7mE
         </span>
         <span class="modronRecord">
-            77
+            79
         </span>
     </span>
 {::nomarkdown}
@@ -207,7 +207,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/cmByFdKcMP1ZRhAe2nDbq" target="_blank">
+    <a href="https://ic.byteglow.com/modron/DbHzZWpJ9FHj1twRqZk8A" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -217,10 +217,10 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
             Darkbolt
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/cmByFdKcMP1ZRhAe2nDbq
+            ic.byteglow.com/modron/DbHzZWpJ9FHj1twRqZk8A
         </span>
         <span class="modronRecord">
-            1
+            2
         </span>
     </span>
 {::nomarkdown}
