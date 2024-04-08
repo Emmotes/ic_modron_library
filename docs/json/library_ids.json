@@ -2059,6 +2059,18 @@
 			"championIds": []
 		},
 		{
+			"coreId": 2,
+			"coreLevel": 15,
+			"layoutId": "cxfQP92d_b902kc26pNEF",
+			"type": "reference",
+			"dps": 0,
+			"authors": [
+				"Emmote"
+			],
+			"comment": "Gold Find (No Damage)",
+			"championIds": []
+		},
+		{
 			"coreId": 3,
 			"coreLevel": 1,
 			"layoutId": "jsI7jPCrM5UiP-FK7uz8S",

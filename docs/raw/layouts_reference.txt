@@ -56,6 +56,7 @@ lBjkY9UquiPPrUNDqrUh4,2,12,7.06e25,Retaki|Emmote,
 sl9h0IwSV-3pJt5eNk6BR,2,13,1.20e27,Retaki,
 38CCIVtSHaIoFRZXekobU,2,14,2.28e28,Retaki,
 rOAQlR3rvfOhD54LXSv3g,2,15,5.70e29,Retaki,
+cxfQP92d_b902kc26pNEF,2,15,0,Emmote,Gold Find (No Damage)
 
 # ==============================
 # ==== Fast Core References ====

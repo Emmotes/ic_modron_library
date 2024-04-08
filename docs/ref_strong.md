@@ -321,6 +321,26 @@ These designs can be used for inspiration for piping your own core at various le
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/cxfQP92d_b902kc26pNEF" target="_blank">
+{:/nomarkdown}
+    <span class="modronRowShort">
+        <span class="modronLevel">
+            15
+        </span>
+        <span class="modronAuthors">
+            Emmote
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/cxfQP92d_b902kc26pNEF
+        </span>
+        <span class="modronNote">
+            Gold Find (No Damage)
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 [Back to Top](#top)
