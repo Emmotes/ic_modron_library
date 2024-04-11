@@ -423,6 +423,15 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
+			"layoutId": "MzwW865zNbwMEQx-XEanR",
+			"type": "damage",
+			"dps": 1.10E+36,
+			"hidden": true,
+			"championIds": []
+		},
+		{
+			"coreId": 1,
+			"coreLevel": 15,
 			"layoutId": "CSaKhYTuWTdYXqjaSba82",
 			"type": "damage",
 			"dps": 7.61E+33,
@@ -647,6 +656,15 @@
 				52,
 				65
 			]
+		},
+		{
+			"coreId": 2,
+			"coreLevel": 15,
+			"layoutId": "rEzWJQwNcgeK9hiBc_GVY",
+			"type": "damage",
+			"dps": 1.01E+39,
+			"hidden": true,
+			"championIds": []
 		},
 		{
 			"coreId": 2,
@@ -3365,6 +3383,7 @@
 		"145": "dynaheir",
 		"146": "darkurge",
 		"147": "gale",
-		"148": "diana"
+		"148": "diana",
+		"149": "dukeravengard"
 	}
 }
