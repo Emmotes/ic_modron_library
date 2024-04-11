@@ -583,6 +583,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Uriah
     </span>
   </a>
+  <a href="diana.html">
+    <span class="championLink" id="diana" style="background-image:url(images/portraits/diana.png);color:#ee2b2b" data-spoiler="true">
+      Diana
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
