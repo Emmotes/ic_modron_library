@@ -9,6 +9,18 @@
 # 5 Aerois
 # 6 Unaffiliated
 
+# =======================================
+# ==== Tier 0: Severely Underpowered ====
+# =======================================
+
+4feomsv7zyfR8TwKJxEns,1,0
+buB5aK4I4GI4o2-OagXd7,2,0
+h1JojN5jrXK4bxJu1XPWX,3,0
+muffcjqL3qh73UfEKSZ09,4,0
+dpjIZXaWPlY2eSQlDFRBS,5,0
+4lqk39rLpOcqz9U1pojVF,6,0
+OKIX66tiHGGfj7VZnZxDL,7,0
+
 # ===================================
 # ==== Tier 1: Now We're Flowing ====
 # ===================================

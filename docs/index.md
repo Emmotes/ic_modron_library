@@ -583,11 +583,6 @@ If you're unsure whether you've made the best design you can when you're done - 
       Uriah
     </span>
   </a>
-  <a href="diana.html">
-    <span class="championLink" id="diana" style="background-image:url(images/portraits/diana.png);color:#ee2b2b" data-spoiler="true">
-      Diana
-    </span>
-  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
@@ -1045,6 +1040,115 @@ This achievement requires 524,288,000 (5.24e8) flow to every node for a 500% sup
 {:/nomarkdown}
 </span>
 
+# Other Modron Achievements
+
+Because not all modron achievements require supercharge.
+
+## Severely Underpowered
+
+This achievement requires less than 0.0005 flow to a single node - which just means splitting the flow over and over again.
+
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/4feomsv7zyfR8TwKJxEns" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLinkSmall">
+            ic.byteglow.com/modron/4feomsv7zyfR8TwKJxEns
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/buB5aK4I4GI4o2-OagXd7" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLinkSmall">
+            ic.byteglow.com/modron/buB5aK4I4GI4o2-OagXd7
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/h1JojN5jrXK4bxJu1XPWX" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Fast Core](images/core_3_fast.png)Fast
+        </span>
+        <span class="modronLinkSmall">
+            ic.byteglow.com/modron/h1JojN5jrXK4bxJu1XPWX
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/muffcjqL3qh73UfEKSZ09" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLinkSmall">
+            ic.byteglow.com/modron/muffcjqL3qh73UfEKSZ09
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dpjIZXaWPlY2eSQlDFRBS" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Aerois Core](images/core_5_aerois.png)Aerois
+        </span>
+        <span class="modronLinkSmall">
+            ic.byteglow.com/modron/dpjIZXaWPlY2eSQlDFRBS
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/4lqk39rLpOcqz9U1pojVF" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLinkSmall">
+            ic.byteglow.com/modron/4lqk39rLpOcqz9U1pojVF
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/OKIX66tiHGGfj7VZnZxDL" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
+        </span>
+        <span class="modronLinkSmall">
+            ic.byteglow.com/modron/OKIX66tiHGGfj7VZnZxDL
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
+
 
 {::nomarkdown}
 </div>
@@ -1258,24 +1362,24 @@ Just a list of frequently asked questions. If you have a question - feel free to
 
 Normally - clearing 1 area in a party with a core equipped yields 1 experience - however - if you use Nordom you can get more than that. Because core experience is based on area clearing - the quickest way to level up is through using a speed team. Faster area clearing means faster core levelling.
 
-| Level | Experience | Cumulative Experience |
+| Level | Experience (to Next) | Experience (Cumulative) |
 |--:|--:|--:|
-| 1 | 0 | 0 |
-| 2 | 8,000 | 8,000 |
-| 3 | 20,000 | 28,000 |
-| 4 | 36,000 | 64,000 |
-| 5 | 56,000 | 120,000 |
-| 6 | 80,000 | 200,000 |
-| 7 | 108,000 | 308,000 |
-| 8 | 140,000 | 448,000 |
-| 9 | 176,000 | 624,000 |
-| 10 | 216,000 | 840,000 |
-| 11 | 260,000 | 1,100,000 |
-| 12 | 308,000 | 1,408,000 |
-| 13 | 360,000 | 1,768,000 |
-| 14 | 416,000 | 2,184,000 |
-| 15 | 476,000 | 2,660,000 |
-| n | `2000(n²+n-2)` | `(2000/3)(n³+3n²-4n)` |
+| 1 | 8,000 | 0 |
+| 2 | 12,000 | 8,000 |
+| 3 | 16,000 | 20,000 |
+| 4 | 20,000 | 36,000 |
+| 5 | 24,000 | 56,000 |
+| 6 | 28,000 | 80,000 |
+| 7 | 32,000 | 108,000 |
+| 8 | 36,000 | 140,000 |
+| 9 | 40,000 | 176,000 |
+| 10 | 44,000 | 216,000 |
+| 11 | 48,000 | 260,000 |
+| 12 | 52,000 | 308,000 |
+| 13 | 56,000 | 360,000 |
+| 14 | 60,000 | 416,000 |
+| 15 | 64,000 | 476,000 |
+| n | `4000(n+1)` | `2000(n²+n-2)` |
 
 ## Which is the best gold find core?
 

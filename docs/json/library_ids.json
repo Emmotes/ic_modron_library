@@ -1568,6 +1568,69 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
+			"layoutId": "4feomsv7zyfR8TwKJxEns",
+			"type": "achievement",
+			"dps": 0,
+			"comment": "Severely Underpowered",
+			"championIds": []
+		},
+		{
+			"coreId": 2,
+			"coreLevel": 15,
+			"layoutId": "buB5aK4I4GI4o2-OagXd7",
+			"type": "achievement",
+			"dps": 0,
+			"comment": "Severely Underpowered",
+			"championIds": []
+		},
+		{
+			"coreId": 3,
+			"coreLevel": 15,
+			"layoutId": "h1JojN5jrXK4bxJu1XPWX",
+			"type": "achievement",
+			"dps": 0,
+			"comment": "Severely Underpowered",
+			"championIds": []
+		},
+		{
+			"coreId": 4,
+			"coreLevel": 15,
+			"layoutId": "muffcjqL3qh73UfEKSZ09",
+			"type": "achievement",
+			"dps": 0,
+			"comment": "Severely Underpowered",
+			"championIds": []
+		},
+		{
+			"coreId": 5,
+			"coreLevel": 15,
+			"layoutId": "dpjIZXaWPlY2eSQlDFRBS",
+			"type": "achievement",
+			"dps": 0,
+			"comment": "Severely Underpowered",
+			"championIds": []
+		},
+		{
+			"coreId": 6,
+			"coreLevel": 15,
+			"layoutId": "4lqk39rLpOcqz9U1pojVF",
+			"type": "achievement",
+			"dps": 0,
+			"comment": "Severely Underpowered",
+			"championIds": []
+		},
+		{
+			"coreId": 7,
+			"coreLevel": 15,
+			"layoutId": "OKIX66tiHGGfj7VZnZxDL",
+			"type": "achievement",
+			"dps": 0,
+			"comment": "Severely Underpowered",
+			"championIds": []
+		},
+		{
+			"coreId": 1,
+			"coreLevel": 15,
 			"layoutId": "iyChfx2296evcJfrAadzT",
 			"type": "achievement",
 			"dps": 0,
@@ -3384,6 +3447,8 @@
 		"146": "darkurge",
 		"147": "gale",
 		"148": "diana",
-		"149": "dukeravengard"
+		"149": "dukeravengard",
+		"150": "aeon",
+		"151": "umberto"
 	}
 }
