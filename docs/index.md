@@ -1418,6 +1418,8 @@ No! Never dismantle pipes to get upgrade components! Ever! Don't even think abou
 
 The conversion rate to upgrade components and the cost to upgrade pipes are absolutely terrible. You also never know when you might need that pipe you're thinking of dismantling.
 
+Also - now that Presto exists to help earn you free upgrade components - you should never even need to dismantle.
+
 ## Why don't the supercharge layouts pipe all gold nodes?
 
 Using them often lowers flow to the damage nodes and damage is the whole point of supercharging. If you need gold then it's best to load a different layout temporarily or use a different core.
