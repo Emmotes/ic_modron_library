@@ -529,7 +529,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="ravengard.html">
-    <span class="championLink" id="ravengard" style="background-image:url(images/portraits/ravengard.png);color:#ee2b2b" data-spoiler="true">
+    <span class="championLink" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">
       Ravengard
     </span>
   </a>
