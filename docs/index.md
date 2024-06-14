@@ -463,6 +463,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Vin Ursa
     </span>
   </a>
+  <a href="umberto.html">
+    <span class="championLink" id="umberto" style="background-image:url(images/portraits/umberto.png);color:#ee2b2b" data-spoiler="true">
+      Umberto
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
@@ -651,6 +656,11 @@ If you're unsure whether you've made the best design you can when you're done - 
   <a href="astarion.html">
     <span class="championLink" id="astarion" style="background-image:url(images/portraits/astarion.png)">
       Astarion
+    </span>
+  </a>
+  <a href="aeon.html">
+    <span class="championLink" id="aeon" style="background-image:url(images/portraits/aeon.png);color:#ee2b2b" data-spoiler="true">
+      Aeon
     </span>
   </a>
 </span>
