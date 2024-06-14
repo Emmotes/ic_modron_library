@@ -1354,7 +1354,7 @@ Just a list of frequently asked questions. If you have a question - feel free to
 * [Why do you pipe Health nodes in the Modest and Strong cores then?](#faqsTab_why-do-you-pipe-health-nodes-in-the-modest-and-strong-cores-then)
 * [Is the Strong Core worth buying for gems?](#faqsTab_is-the-strong-core-worth-buying-for-gems)
 * [Is the Aerois Core worth buying from Wild Offers?](#faqsTab_is-the-aerois-core-worth-buying-from-wild-offers)
-* [Is the Unaffiliated Core worth buying for gems?](#faqsTab_is-the-unaffiliated-core-worth-buying-for-gems)
+* [Are the Unaffiliated or Dexterous Cores worth buying for gems?](#faqsTab_are-the-unaffiliated-or-dexterous-cores-worth-buying-for-gems)
 
 ## Where can each modron core be found?
 
@@ -1366,7 +1366,7 @@ Just a list of frequently asked questions. If you have a question - feel free to
 | ![Magic Core](images/core_4_magic.png) | Magic | 4 | Split the Party 3 (4+ champions in all seats) |
 | ![Aerois Core](images/core_5_aerois.png) | Aerois | 5 | Season 1 / Wild Offers |
 | ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 6 | Season 3 / 500,000 Gems |
-| ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 7 | Season 6 / Gem Shop from 03 July 2024 (Guess) |
+| ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 7 | Season 6 / 500,000 Gems |
 
 ## How much experience does a core need to hit each level?
 
@@ -1445,11 +1445,15 @@ There are only two small tangible benefits to the Aerois core. The first is that
 
 In the end though - it's your money - and we all value things differently. So it's up to you to decide if those minor benefits are worth it for you.
 
-## Is the Unaffiliated Core worth buying for gems?
+## Are the Unaffiliated or Dexterous Cores worth buying for gems?
 
-That depends. If the champion you use as your primary dps is unaffiliated then the answer is almost certainly yes. If not then no.
+That depends. The Unaffiliated and Dexterous cores are currently two of the most powerful modron cores in the game right now. But for them to be worth it - they need to be able to buff your preferred dps champion. If they do then they will almost certainly be worth it.
 
-The only modron core that's competitive with it is the Dexterous core - and not only is that a season 6 exclusive - but it needs a DPS champion with 15+ Dexterity - which may or may not be the case for you.
+As their names imply - the Unaffiliated core requires your dps to not be a member of an affiliation while the Dexterous core requires a Dexterity of 15 or higher on your dps. If both can apply to your dps then which one is better will depend on the rest of the formation.
+
+If neither can apply to your chosen dps - then likely they won't be worth getting. At least not in any rush. You can buy them just to level them up and get 14 modron chests from each by doing so. But that's a lot of gems to be shelling out.
+
+To determine if either can apply to your chosen dps - find them on the [Supercharged Damage Designs](#superchargeTab) tab.
 
 {::nomarkdown}
 </div>
