@@ -22,7 +22,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Umberto is a ranged champion.</span>
+<span class="champIntro">Umberto is a magic champion.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -102,6 +102,23 @@
         </span>
     </span>
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek" target="_blank" data-core-id="4" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek
+        </span>
+        <span class="modronDamage">
+            2.83e53%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" data-core-id="6" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
@@ -136,23 +153,6 @@
         </span>
         <span class="modronVariable">
             <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
-        </span>
-        <span class="modronDamage">
-            3.84e45%
         </span>
     </span>
 {::nomarkdown}
@@ -228,7 +228,7 @@
 {:/nomarkdown}
 </span>
 
-The Unaffiliated core is far enough ahead of the Magic (Non-Magic Variant) core that it's the best one to use for Umberto. I do not recommend even trying the Magic core because it doesn't have any health nodes.
+The Magic core is far enough ahead of the Unaffiliated core that it's the best one to use for Umberto. That said - you could potentially use the Unaffiliated core if the pipes you have favour it. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
 
 {::nomarkdown}
 <span id="mixedUnaffDexTable" hidden>
