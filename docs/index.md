@@ -464,7 +464,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="umberto.html">
-    <span class="championLink" id="umberto" style="background-image:url(images/portraits/umberto.png);color:#ee2b2b" data-spoiler="true">
+    <span class="championLink" id="umberto" style="background-image:url(images/portraits/umberto.png)">
       Umberto
     </span>
   </a>
@@ -659,7 +659,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="aeon.html">
-    <span class="championLink" id="aeon" style="background-image:url(images/portraits/aeon.png);color:#ee2b2b" data-spoiler="true">
+    <span class="championLink" id="aeon" style="background-image:url(images/portraits/aeon.png)">
       Aeon
     </span>
   </a>
