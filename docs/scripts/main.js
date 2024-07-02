@@ -1,4 +1,5 @@
-const v=1.0
+const v=1.1
+const retries = 4;
 var showNonDPS = false;
 var showSpoilers = false;
 var apo = `’`;
@@ -30,7 +31,14 @@ function swapTab() {
 	if (hash.startsWith(`${ftab}_`)) {
 		document.getElementById(ftab).click();
 		hash = hash.substring(8);
-		document.getElementById(hash).scrollIntoView();
+		let ele = document.getElementById(hash);
+		if (document.readyState!=`complete`) {
+			window.addEventListener('load', function () {
+				ele.scrollIntoView();
+			});
+		} else {
+			ele.scrollIntoView();
+		}
 	} else if (hash != "" && document.getElementById(hash) != undefined) {
 		document.getElementById(hash).click();
 	}
