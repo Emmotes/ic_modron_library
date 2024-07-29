@@ -22,7 +22,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Wren is a melee champion.</span>
+<span class="champIntro">Wren is a melee and magic champion.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -102,6 +102,23 @@
         </span>
     </span>
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek" target="_blank" data-core-id="4" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/8euk6u6PKHy_mmNX4S7ek
+        </span>
+        <span class="modronDamage">
+            2.83e53%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -116,23 +133,6 @@
         </span>
         <span class="modronVariable">
             <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
-        </span>
-        <span class="modronDamage">
-            3.84e45%
         </span>
     </span>
 {::nomarkdown}
@@ -242,7 +242,7 @@
 {:/nomarkdown}
 </span>
 
-The Magic (Non-Magic Variant) core is far enough ahead of the other cores that it's the best one to use for Wren. That said - you could potentially use the Strong or Modest core if the pipes you have favours one of them. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
+The Magic core is so far ahead of the other cores that it's really the only choice for Wren. Though it is worth noting that it doesn't have any health nodes.
 
 {::nomarkdown}
 <span id="dexTable" hidden>
