@@ -223,6 +223,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Dynaheir
     </span>
   </a>
+  <a href="wren.html">
+    <span class="championLinkDPS" id="wren" style="background-image:url(images/portraits/thumbs/wren.png)">
+      Wren
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
