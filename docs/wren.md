@@ -22,9 +22,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Wren is normally a melee champion but her Warforged Sorcerer Glitch Form can make her a magic attacker instead. However - it is her Dwarf Monk form (melee) that is her dps spec.
-
-It is for this reason that I have included both the Magic and Non-Magic versions of the Magic core for Wren.</span>
+<span class="champIntro">Wren is normally a melee champion but her Warforged Sorcerer Glitch Form can make her a magic attacker instead. However - it is her Dwarf Monk form (melee) that is her dps spec. It is for this reason that I have included both the normal and Non-Magic variants of the Magic core for Wren.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
