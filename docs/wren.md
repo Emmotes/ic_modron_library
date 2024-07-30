@@ -261,7 +261,7 @@ It is for this reason that I have included both the Magic and Non-Magic versions
 {:/nomarkdown}
 </span>
 
-If you use Wren's Warforged Sorcerer specialisation then the Magic core is a clear winner by a wide margin. If - however - you use her Dwarf Monk specialisations - which is her intended DPS specialisation - then the Magic (Non-Magic Variant) is better. The others aren't too far behind though.
+If you use Wren's Warforged Sorcerer specialisation then the Magic core is a clear winner by a wide margin. If - however - you use her Dwarf Monk specialisations - which is her intended DPS specialisation - then the Magic (Non-Magic Variant) is better. The others aren't too far behind though. It is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
 
 {::nomarkdown}
 <span id="dexTable" hidden>
