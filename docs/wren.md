@@ -158,23 +158,6 @@ It is for this reason that I have included both the Magic and Non-Magic versions
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
-        </span>
-        <span class="modronDamage">
-            3.84e45%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/NiGSGsacHW4McSTThGhaB" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -278,7 +261,7 @@ It is for this reason that I have included both the Magic and Non-Magic versions
 {:/nomarkdown}
 </span>
 
-The Magic core is so far ahead of the Magic (Non-Magic Variant) core that it's really the only choice for Wren. Though it is worth noting that it doesn't have any health nodes.
+If you use Wren's Warforged Sorcerer specialisation then the Magic core is a clear winner by a wide margin. If - however - you use her Dwarf Monk specialisations - which is her intended DPS specialisation - then the Magic (Non-Magic Variant) is better. The others aren't too far behind though.
 
 {::nomarkdown}
 <span id="dexTable" hidden>
