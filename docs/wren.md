@@ -22,7 +22,9 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Wren is a melee and magic champion.</span>
+<span class="champIntro">Wren is normally a melee champion but her Warforged Sorcerer Glitch Form can make her a magic attacker instead. However - it is her Dwarf Monk form (melee) that is her dps spec.
+
+It is for this reason that I have included both the Magic and Non-Magic versions of the Magic core for Wren.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -139,6 +141,40 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
+        </span>
+        <span class="modronDamage">
+            3.84e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
+        </span>
+        <span class="modronDamage">
+            3.84e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/NiGSGsacHW4McSTThGhaB" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -242,7 +278,7 @@
 {:/nomarkdown}
 </span>
 
-The Magic core is so far ahead of the other cores that it's really the only choice for Wren. Though it is worth noting that it doesn't have any health nodes.
+The Magic core is so far ahead of the Magic (Non-Magic Variant) core that it's really the only choice for Wren. Though it is worth noting that it doesn't have any health nodes.
 
 {::nomarkdown}
 <span id="dexTable" hidden>
