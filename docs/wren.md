@@ -6,7 +6,7 @@
 
 # Wren
 
-<span class="champIntro">Wren is supposed to be unaffiliated (but lacks the tag for it and so technically isn't) and normally benefits from the following stat nodes:</span>
+<span class="champIntro">Wren is unaffiliated and normally benefits from the following stat nodes:</span>
 
 {::nomarkdown}
 <div id="champStats">
@@ -22,7 +22,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Wren is normally a melee champion but her Warforged Sorcerer Glitch Form can make her a magic attacker instead. However - it is her Dwarf Monk form (melee) that is her dps spec. It is for this reason that I have included both the normal and Non-Magic variants of the Magic core for Wren.</span>
+<span class="champIntro">Wren is a little complicated. Her DPS specialisation is her Dwarf Monk Glitch which has a melee attack and gives her +4 Dexterity - allowing her to benefit from the Dexterous core. However - she also has a Warforged Sorcerer Glitch form which changes her into a magic attacker and removes the +4 Dexterity thereby disqualifying her from the Dexterous core - and instead allows her to qualify for the Magic nodes on the Magic core. It is for this reason that I have included the Dexterous core as well as both variants of the Magic core.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -119,7 +119,27 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
+    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" data-core-id="6" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -128,7 +148,7 @@
         <span class="modronLink">
             ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
         </span>
-        <span class="modronDamageBuffed">
+        <span class="modronDamage">
             1.15e49%
         </span>
         <span class="modronVariable">
@@ -259,32 +279,22 @@
 {:/nomarkdown}
 </span>
 
-If you use Wren's Warforged Sorcerer specialisation then the Magic core is a clear winner by a wide margin. If - however - you use her Dwarf Monk specialisations - which is her intended DPS specialisation - then the Magic (Non-Magic Variant) is better. The others aren't too far behind though. It is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
+If you use Wren's Warforged Sorcerer specialisation then the Magic core is a clear winner. If - however - you use her Dwarf Monk specialisation - which is her intended DPS specialisation - then you'll be better off with either the Unaffiliated or Dexterous cores. The Magic core does not contain any health nodes which may influence your choice.
 
-{::nomarkdown}
-<span id="dexTable" hidden>
-{:/nomarkdown}
+Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Wren only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
 
-
-Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Wren only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
-
-| Core | Num 15+ Dex in Formation | Total Damage |
-|---|---|---|
-| Dexterous | 10 | 1.04e53% |
-| Dexterous | 9 | 6.81e52% |
-| Dexterous | 8 | 4.26e52% |
-| Dexterous | 7 | 2.50e52% |
-| Dexterous | 6 | 1.35e52% |
-| Dexterous | 5 | 6.56e51% |
-| Dexterous | 4 | 2.70e51% |
-| Dexterous | 3 | 8.63e50% |
-| Dexterous | 2 | 1.74e50% |
-| Dexterous | 1 | 1.15e49% |
-
-{::nomarkdown}
-</span>
-{:/nomarkdown}
-
+| Core | Num Unaffiliated in Formation | Total Damage | | Core | Num 15+ Dex in Formation | Total Damage |
+|---|---|---|---|---|---|---|
+| Unaffiliated | 10 | 1.04e53% | | Dexterous | 10 | 1.04e53% |
+| Unaffiliated | 9 | 6.81e52% | | Dexterous | 9 | 6.81e52% |
+| Unaffiliated | 8 | 4.26e52% | | Dexterous | 8 | 4.26e52% |
+| Unaffiliated | 7 | 2.50e52% | | Dexterous | 7 | 2.50e52% |
+| Unaffiliated | 6 | 1.35e52% | | Dexterous | 6 | 1.35e52% |
+| Unaffiliated | 5 | 6.56e51% | | Dexterous | 5 | 6.56e51% |
+| Unaffiliated | 4 | 2.70e51% | | Dexterous | 4 | 2.70e51% |
+| Unaffiliated | 3 | 8.63e50% | | Dexterous | 3 | 8.63e50% |
+| Unaffiliated | 2 | 1.74e50% | | Dexterous | 2 | 1.74e50% |
+| Unaffiliated | 1 | 1.15e49% | | Dexterous | 1 | 1.15e49% |
 
 [Back to Top](#top)
 
