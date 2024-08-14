@@ -1385,7 +1385,7 @@ Just a list of frequently asked questions. If you have a question - feel free to
 
 ## How much experience does a core need to hit each level?
 
-Normally - clearing 1 area in a party with a core equipped yields 1 experience - however - if you use Nordom you can get more than that. Because core experience is based on area clearing - the quickest way to level up is through using a speed team. Faster area clearing means faster core levelling.
+Normally - clearing 1 area in a party with a core equipped yields 1 experience - however - if you use Nordom you can get more than that. There is also the Fortune's Wheel Tier 3 Global blessing called `The Gift of Mechanus` which increases it by 10%. Because core experience is based on area clearing - the quickest way to level up is through using a speed team. Faster area clearing means faster core levelling.
 
 | Level | Experience (to Next) | Experience (Cumulative) |
 |--:|--:|--:|
