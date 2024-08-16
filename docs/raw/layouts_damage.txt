@@ -75,7 +75,7 @@ AakI7P5b5DgmZY8yIo_aw,1,2.30e38,1,1,1,0,0,0,57
 r7km5hQkiVaIMYHtx5Y5G,1,1.77e36,0,1,1,0,0,0,58
 ZfqWE2FZDktWsEoi_xi9K,1,1.58e36,1,0,1,0,0,0,59
 GAs3OcWHhKepgrt4wzHhy,1,1.22e34,0,0,1,0,0,0,60
-#                               1,1,0,0,0,0,61
+ZxXG5LIhyRSvKpGAapdYK,1,1.98e36,1,1,0,0,0,0,61
 #                               0,1,0,0,0,0,62
 #                               1,0,0,0,0,0,63
 #                               0,0,0,0,0,0,64
