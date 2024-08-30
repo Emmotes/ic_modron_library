@@ -63,7 +63,8 @@
 			"dps": 1.50E+40,
 			"championIds": [
 				49,
-				98
+				98,
+				144
 			]
 		},
 		{
@@ -114,7 +115,6 @@
 			"dps": 1.60E+38,
 			"championIds": [
 				6,
-				144,
 				150
 			]
 		},
@@ -550,6 +550,16 @@
 			]
 		},
 		{
+			"coreId": 1,
+			"coreLevel": 15,
+			"layoutId": "ZxXG5LIhyRSvKpGAapdYK",
+			"type": "damage",
+			"dps": 1.98E+36,
+			"championIds": [
+				152
+			]
+		},
+		{
 			"coreId": 2,
 			"coreLevel": 15,
 			"layoutId": "NiGSGsacHW4McSTThGhaB",
@@ -802,7 +812,8 @@
 			"type": "damage",
 			"dps": 1.16E+39,
 			"championIds": [
-				96
+				96,
+				152
 			]
 		},
 		{
@@ -866,7 +877,8 @@
 			"championIds": [
 				49,
 				95,
-				98
+				98,
+				144
 			]
 		},
 		{
@@ -918,7 +930,6 @@
 			"comment": "Non-Melee Variant",
 			"championIds": [
 				6,
-				144,
 				150
 			]
 		},
@@ -1425,7 +1436,8 @@
 				50,
 				128,
 				136,
-				143
+				143,
+				152
 			]
 		},
 		{
@@ -1584,6 +1596,7 @@
 				136,
 				140,
 				148,
+				152,
 				155
 			]
 		},
@@ -3474,6 +3487,7 @@
 		"151": "umberto",
 		"152": "bobby",
 		"153": "kas",
+		"154": "minthara",
 		"155": "wren"
 	}
 }

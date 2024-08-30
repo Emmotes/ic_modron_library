@@ -11,6 +11,7 @@
 {::nomarkdown}
 <div id="champStats">
 {:/nomarkdown}
+* 13+ Constitution (with Feat)
 * 13+ Intelligence
 * 13+ Wisdom
 * 13+ Charisma
@@ -117,7 +118,7 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko" target="_blank" data-core-id="1" data-buffs="Circle Magic" hidden>
+    <a href="https://ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -126,7 +127,7 @@
         <span class="modronLink">
             ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko
         </span>
-        <span class="modronDamageBuffed">
+        <span class="modronDamage">
             1.50e40%
         </span>
     </span>
@@ -134,24 +135,7 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko" target="_blank" data-core-id="1" data-buffs="Feats to Spare" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko
-        </span>
-        <span class="modronDamageBuffed">
-            1.50e40%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yhFwvNRGsDdRmWy31MRnQ" target="_blank" data-core-id="2" data-buffs="Circle Magic" hidden>
+    <a href="https://ic.byteglow.com/modron/yhFwvNRGsDdRmWy31MRnQ" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -160,59 +144,8 @@
         <span class="modronLink">
             ic.byteglow.com/modron/yhFwvNRGsDdRmWy31MRnQ
         </span>
-        <span class="modronDamageBuffed">
-            1.31e39%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yhFwvNRGsDdRmWy31MRnQ" target="_blank" data-core-id="2" data-buffs="Feats to Spare" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/yhFwvNRGsDdRmWy31MRnQ
-        </span>
-        <span class="modronDamageBuffed">
-            1.31e39%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK" target="_blank" data-core-id="1" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/gst8woyENk7-Nwnobs0FK
-        </span>
         <span class="modronDamage">
-            1.60e38%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/9GcEHV7HJr3H8gDJGcDMN" target="_blank" data-core-id="2" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/9GcEHV7HJr3H8gDJGcDMN
-        </span>
-        <span class="modronDamage">
-            9.45e36%
+            1.31e39%
         </span>
     </span>
 {::nomarkdown}

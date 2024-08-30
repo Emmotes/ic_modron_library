@@ -795,7 +795,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="bobby.html">
-    <span class="championLinkDPS" id="bobby" style="background-image:url(images/portraits/thumbs/bobby.png);color:#ee2b2b" data-spoiler="true">
+    <span class="championLinkDPS" id="bobby" style="background-image:url(images/portraits/thumbs/bobby.png)">
       Bobby
     </span>
   </a>
