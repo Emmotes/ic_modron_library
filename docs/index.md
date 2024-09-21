@@ -408,6 +408,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Shadowheart
     </span>
   </a>
+  <a href="kas.html">
+    <span class="championLinkDPS" id="kas" style="background-image:url(images/portraits/thumbs/kas.png);color:#ee2b2b" data-spoiler="true">
+      Kas
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
