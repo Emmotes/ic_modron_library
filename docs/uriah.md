@@ -391,6 +391,23 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/e5OmkTd-eIFqA_s4ytR7o" target="_blank" data-core-id="1" data-buffs="Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/e5OmkTd-eIFqA_s4ytR7o
+        </span>
+        <span class="modronDamageBuffed">
+            1.72e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/Znk6rGLHPxYwLFluAnBrD" target="_blank" data-core-id="1" data-buffs="Best And The Brightest" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -399,23 +416,6 @@
         </span>
         <span class="modronLink">
             ic.byteglow.com/modron/Znk6rGLHPxYwLFluAnBrD
-        </span>
-        <span class="modronDamageBuffed">
-            1.63e38%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/oDW6bp1H4XIyOPHJG6Rt2" target="_blank" data-core-id="1" data-buffs="Samurai Training" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/oDW6bp1H4XIyOPHJG6Rt2
         </span>
         <span class="modronDamageBuffed">
             1.63e38%
@@ -527,17 +527,17 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/HGuQPWA1hy8d5a8Bh9pXK" target="_blank" data-core-id="1" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/JvqZyCZo0U5jNchOxbIuz" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/HGuQPWA1hy8d5a8Bh9pXK
+            ic.byteglow.com/modron/JvqZyCZo0U5jNchOxbIuz
         </span>
         <span class="modronDamage">
-            1.13e36%
+            1.19e36%
         </span>
     </span>
 {::nomarkdown}
