@@ -15,22 +15,22 @@
 # linkHash,coreId,dps,strength,dexterity,constitution,intelligence,wisdom,charisma,permutationId
 #     for stats: if they're active use a 1. If they're inactive use a 0.
 
-DkOJBZGdGpnq4_K4yQont,1,2.18e44,1,1,1,1,1,1,1
+wobeCc5uTsahDCYO7SNFh,1,2.60e44,1,1,1,1,1,1,1
 I_8g095yWaHD-a-z3QeAJ,1,2.18e42,0,1,1,1,1,1,2
-UBppioFeMIfJ4fE90nPYp,1,1.50e42,1,0,1,1,1,1,3
+Y1pF93flVx7pbymbjEdfV,1,1.79e42,1,0,1,1,1,1,3
 GVzF80oaJtc0Nm_DA9Mko,1,1.50e40,0,0,1,1,1,1,4
-i8ZPac6myhxjSWsHC2F2L,1,2.65e42,1,1,0,1,1,1,5
-uaxwwiADbr1-LgADkbgay,1,2.32e40,0,1,0,1,1,1,6
-IESmXYEl4VeiXJdJHbh5G,1,1.83e40,1,0,0,1,1,1,7
-gst8woyENk7-Nwnobs0FK,1,1.60e38,0,0,0,1,1,1,8
-6Yv_YlUxFfujj05FwG9ed,1,1.50e42,1,1,1,0,1,1,9
+dqiI3WxKx8gYnqFFrmddG,1,2.94e42,1,1,0,1,1,1,5
+HH_3nQBXc5mRXZI8HNNLb,1,2.37e40,0,1,0,1,1,1,6
+hSkuYG38hob-SwKeX8PvK,1,2.03e40,1,0,0,1,1,1,7
+sj7FeJWzaQdtMBNfdsJ8r,1,1.63e38,0,0,0,1,1,1,8
+8xk-F-EFTQ0B8YUavcOLj,1,1.79e42,1,1,1,0,1,1,9
 G6VezXEgRas4EsTfbUfw0,1,1.50e40,0,1,1,0,1,1,10
-ENRsq3GEvoUCpVFXy6t8j,1,1.04e40,1,0,1,0,1,1,11
+a-t6EY7l48se_qb5zjKQf,1,1.24e40,1,0,1,0,1,1,11
 6XeOgeeTMx4w-kRz0Xfxp,1,1.04e38,0,0,1,0,1,1,12
 #                               1,1,0,0,1,1,13
-Y6cDJ0LRJbeSFFUgDFfc6,1,1.60e38,0,1,0,0,1,1,14
+oDW6bp1H4XIyOPHJG6Rt2,1,1.63e38,0,1,0,0,1,1,14
 #                               1,0,0,0,1,1,15
-vBw5kDMFWXx5Pd6HEWElR,1,1.10e36,0,0,0,0,1,1,16
+HGuQPWA1hy8d5a8Bh9pXK,1,1.13e36,0,0,0,0,1,1,16
 lxl77lg_2zUFrv6SLU6-E,1,4.43e42,1,1,1,1,0,1,17
 uPENWunG92vAP47zSu7uZ,1,3.73e40,0,1,1,1,0,1,18
 yWqFzHx5bvXJe990YOTjT,1,3.05e40,1,0,1,1,0,1,19
@@ -47,22 +47,22 @@ gkSrGgzXRfYioKRKXDvjW,1,2.87e38,1,1,0,0,0,1,29
 #                               0,1,0,0,0,1,30
 #                               1,0,0,0,0,1,31
 #                               0,0,0,0,0,1,32
-_m6XZ-qfY25-S8QZrLXD-,1,1.71e42,1,1,1,1,1,0,33
-tFUbbSl60Q161is_ovBxs,1,1.57e40,0,1,1,1,1,0,34
-LqCb1S8NMJP8HZ_omgw5-,1,1.18e40,1,0,1,1,1,0,35
-mm30BPhg7xZC98FvtWvQp,1,1.08e38,0,0,1,1,1,0,36
+e6umTlPdyPUKREqV7MwEw,1,2.99e42,1,1,1,1,1,0,33
+Ji-4uNBtTC7mLA3UCQyfB,1,2.27e40,0,1,1,1,1,0,34
+1r1TvWLOVZaVArBUZaAzy,1,2.07e40,1,0,1,1,1,0,35
+C5yYWf5gqHfym5Q4CxX_K,1,1.56e38,0,0,1,1,1,0,36
 #                               1,1,0,1,1,0,37
-8hE9ZcjRkmb-_Y9n3uJoo,1,1.60e38,0,1,0,1,1,0,38
+lfIr0KuwPOirFApwwaSFT,1,2.20e38,0,1,0,1,1,0,38
 #                               1,0,0,1,1,0,39
 #                               0,0,0,1,1,0,40
-p1p7iGg0p3A9Oj6ud6RsF,1,1.08e40,1,1,1,0,1,0,41
-hb3RxqzSrDI7mURvMfAS4,1,1.08e38,0,1,1,0,1,0,42
-wKHuZ_w2G6TfjR4QRPry7,1,7.46e37,1,0,1,0,1,0,43
+mowHXKsW2fxXBH2ZfKwFi,1,2.07e40,1,1,1,0,1,0,41
+o9WRlXQUxxVG_B_rAA7tf,1,1.56e38,0,1,1,0,1,0,42
+SkC1Y2Z4AMDPgGQPDLJHR,1,1.42e38,1,0,1,0,1,0,43
 #                               0,0,1,0,1,0,44
 #                               1,1,0,0,1,0,45
-MzwW865zNbwMEQx-XEanR,1,1.10e36,0,1,0,0,1,0,46
+qRe_JA_5iuALM7aAGLkAH,1,1.52e36,0,1,0,0,1,0,46
 #                               1,0,0,0,1,0,47
-CSaKhYTuWTdYXqjaSba82,1,7.61e33,0,0,0,0,1,0,48
+FqiwE51t5lfMwBFnuI_Ec,1,1.05e34,0,0,0,0,1,0,48
 sGv2PkfUhcXsZAEQEDdvy,1,3.33e40,1,1,1,1,0,0,49
 ZDdVjG8jV5E03Xzrus1Ix,1,2.57e38,0,1,1,1,0,0,50
 #                               1,0,1,1,0,0,51

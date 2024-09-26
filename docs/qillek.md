@@ -207,17 +207,17 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/uaxwwiADbr1-LgADkbgay" target="_blank" data-core-id="1" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/HH_3nQBXc5mRXZI8HNNLb" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/uaxwwiADbr1-LgADkbgay
+            ic.byteglow.com/modron/HH_3nQBXc5mRXZI8HNNLb
         </span>
         <span class="modronDamage">
-            2.32e40%
+            2.37e40%
         </span>
     </span>
 {::nomarkdown}
