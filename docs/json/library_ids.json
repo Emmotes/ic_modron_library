@@ -383,9 +383,9 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "lfIr0KuwPOirFApwwaSFT",
+			"layoutId": "S_qeCn1ZXX_fnZxXXPvzC",
 			"type": "damage",
-			"dps": 2.20E+38,
+			"dps": 2.29E+38,
 			"championIds": [
 				55,
 				127,
@@ -427,9 +427,9 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "qRe_JA_5iuALM7aAGLkAH",
+			"layoutId": "kRfXK-yTMZCyAetYYUfeD",
 			"type": "damage",
-			"dps": 1.52E+36,
+			"dps": 1.58E+36,
 			"championIds": [
 				148
 			]
@@ -437,9 +437,9 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "FqiwE51t5lfMwBFnuI_Ec",
+			"layoutId": "9lJFx_adXuRdVTNlUTrkO",
 			"type": "damage",
-			"dps": 1.05E+34,
+			"dps": 1.09E+34,
 			"hidden": true,
 			"championIds": []
 		},
