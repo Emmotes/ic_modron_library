@@ -42,6 +42,9 @@
             <span class="buffboxRowContent">
                 +1 Constitution
             </span>
+            <span class="buffboxRowContent">
+                +2 Intelligence
+            </span>
             </span>
         </span>
         <span class="buffboxRow" id="buffboxCircle Magic">
@@ -135,6 +138,57 @@
         </span>
         <span class="modronVariable">
             <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E
+        </span>
+        <span class="modronDamageBuffed">
+            4.43e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj" target="_blank" data-core-id="4" data-buffs="Feats to Spare,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/1GTgb0TcV1rE5D0W0Uoyj
+        </span>
+        <span class="modronDamageBuffed">
+            2.19e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/_1L9cQTtDM1JSSx3LhyoF" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/_1L9cQTtDM1JSSx3LhyoF
+        </span>
+        <span class="modronDamageBuffed">
+            1.99e41%
         </span>
     </span>
 {::nomarkdown}

@@ -41,6 +41,9 @@
             <span class="buffboxRowContent">
                 +1 Constitution
             </span>
+            <span class="buffboxRowContent">
+                +2 Intelligence
+            </span>
             </span>
         </span>
         <span class="buffboxRow" id="buffboxCircle Magic">
@@ -120,6 +123,23 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="Feats to Spare,Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
+        </span>
+        <span class="modronDamageBuffed">
+            3.84e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/NiGSGsacHW4McSTThGhaB" target="_blank" data-core-id="2" data-buffs="Best And The Brightest,Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -137,7 +157,58 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/NiGSGsacHW4McSTThGhaB" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/NiGSGsacHW4McSTThGhaB
+        </span>
+        <span class="modronDamageBuffed">
+            3.09e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/wobeCc5uTsahDCYO7SNFh" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Smooth Negotiators,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/wobeCc5uTsahDCYO7SNFh
+        </span>
+        <span class="modronDamageBuffed">
+            2.60e44%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/gVeG_CZSEgeL4SEonfioQ" target="_blank" data-core-id="2" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/gVeG_CZSEgeL4SEonfioQ
+        </span>
+        <span class="modronDamageBuffed">
+            2.13e43%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/gVeG_CZSEgeL4SEonfioQ" target="_blank" data-core-id="2" data-buffs="Feats to Spare" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -188,6 +259,40 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/e6umTlPdyPUKREqV7MwEw" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/e6umTlPdyPUKREqV7MwEw
+        </span>
+        <span class="modronDamageBuffed">
+            2.99e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Y1pF93flVx7pbymbjEdfV" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Smooth Negotiators" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/Y1pF93flVx7pbymbjEdfV
+        </span>
+        <span class="modronDamageBuffed">
+            1.79e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/8xk-F-EFTQ0B8YUavcOLj" target="_blank" data-core-id="1" data-buffs="Smooth Negotiators,Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -206,6 +311,23 @@
 {:/nomarkdown}
 {::nomarkdown}
     <a href="https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17
+        </span>
+        <span class="modronDamageBuffed">
+            1.91e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Y-dm5dFF-poiLBflC5f17" target="_blank" data-core-id="4" data-buffs="Feats to Spare" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -257,6 +379,23 @@
 {:/nomarkdown}
 {::nomarkdown}
     <a href="https://ic.byteglow.com/modron/1r1TvWLOVZaVArBUZaAzy" target="_blank" data-core-id="1" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/1r1TvWLOVZaVArBUZaAzy
+        </span>
+        <span class="modronDamageBuffed">
+            2.07e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/1r1TvWLOVZaVArBUZaAzy" target="_blank" data-core-id="1" data-buffs="Feats to Spare" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">

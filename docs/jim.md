@@ -41,6 +41,9 @@
             <span class="buffboxRowContent">
                 +1 Constitution
             </span>
+            <span class="buffboxRowContent">
+                +2 Intelligence
+            </span>
             </span>
         </span>
         <span class="buffboxRow" id="buffboxCircle Magic">

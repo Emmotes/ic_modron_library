@@ -41,6 +41,9 @@
             <span class="buffboxRowContent">
                 +1 Constitution
             </span>
+            <span class="buffboxRowContent">
+                +2 Intelligence
+            </span>
             </span>
         </span>
         <span class="buffboxRow" id="buffboxCircle Magic">
@@ -100,6 +103,23 @@
         </span>
     </span>
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE" target="_blank" data-core-id="4" data-buffs="Feats to Spare,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/qeHJee7Hou-VGAQzaOonE
+        </span>
+        <span class="modronDamageBuffed">
+            1.35e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -151,6 +171,40 @@
         </span>
         <span class="modronDamage">
             6.40e44%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/7KJjraFMsPZ3X_al-oJQC" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/7KJjraFMsPZ3X_al-oJQC
+        </span>
+        <span class="modronDamageBuffed">
+            1.90e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Ji-4uNBtTC7mLA3UCQyfB" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/Ji-4uNBtTC7mLA3UCQyfB
+        </span>
+        <span class="modronDamageBuffed">
+            2.27e40%
         </span>
     </span>
 {::nomarkdown}
