@@ -234,7 +234,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="halsin.html">
-    <span class="championLink" id="halsin" style="background-image:url(images/portraits/thumbs/halsin.png);color:#ee2b2b" data-spoiler="true">
+    <span class="championLink" id="halsin" style="background-image:url(images/portraits/thumbs/halsin.png)">
       Halsin
     </span>
   </a>
