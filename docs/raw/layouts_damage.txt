@@ -130,7 +130,7 @@ IrcwCZtz0yoyNlPVZGTZQ,2,1.37e39,0,1,0,1,1,0,38
 9GcEHV7HJr3H8gDJGcDMN,2,9.45e36,0,0,0,1,1,0,40
 pHkq18UE_TXwPYzI0aXRb,2,1.90e41,1,1,1,0,1,0,41
 rDs4JTqcYvj3sbxPXmJ-4,2,1.31e39,0,1,1,0,1,0,42
-#                               1,0,1,0,1,0,43
+aoVt6auIja4wB7DuLUZwj,2,1.31e39,1,0,1,0,1,0,43
 FrSv6Sxd9e-inZhQMQQN3,2,9.06e36,0,0,1,0,1,0,44
 #                               1,1,0,0,1,0,45
 rp3P3F7nafN1YztHnFCEz,2,9.45e36,0,1,0,0,1,0,46

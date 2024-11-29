@@ -154,7 +154,8 @@
 			"dps": 1.24E+40,
 			"championIds": [
 				1,
-				52
+				52,
+				156
 			]
 		},
 		{
@@ -972,6 +973,17 @@
 		{
 			"coreId": 2,
 			"coreLevel": 15,
+			"layoutId": "aoVt6auIja4wB7DuLUZwj",
+			"type": "damage",
+			"dps": 1.31E+39,
+			"comment": "Non-Melee Variant",
+			"championIds": [
+				156
+			]
+		},
+		{
+			"coreId": 2,
+			"coreLevel": 15,
 			"layoutId": "FrSv6Sxd9e-inZhQMQQN3",
 			"type": "damage",
 			"dps": 9.06E+36,
@@ -1198,7 +1210,8 @@
 			"championIds": [
 				78,
 				102,
-				119
+				119,
+				156
 			]
 		},
 		{
@@ -3508,6 +3521,7 @@
 		"154": "minthara",
 		"155": "wren",
 		"156": "halsin",
-		"157": "eric"
+		"157": "eric",
+		"158": "kalix"
 	}
 }
