@@ -28,6 +28,7 @@
 			"dps": 2.18E+42,
 			"championIds": [
 				8,
+				14,
 				18,
 				22,
 				33,
@@ -355,7 +356,6 @@
 			"type": "damage",
 			"dps": 2.27E+40,
 			"championIds": [
-				14,
 				77,
 				89,
 				129
@@ -1307,6 +1307,7 @@
 			"championIds": [
 				10,
 				13,
+				14,
 				18,
 				22,
 				24,
@@ -1413,7 +1414,6 @@
 			"dps": 1.91E+41,
 			"comment": "Non-Magic Variant",
 			"championIds": [
-				14,
 				19,
 				55,
 				89,
