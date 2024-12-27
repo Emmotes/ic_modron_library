@@ -475,8 +475,9 @@
 			"layoutId": "yMiHnOShCKq4UBjlAQDJ5",
 			"type": "damage",
 			"dps": 2.30E+38,
-			"hidden": true,
-			"championIds": []
+			"championIds": [
+				157
+			]
 		},
 		{
 			"coreId": 1,
@@ -739,7 +740,8 @@
 				82,
 				86,
 				124,
-				139
+				139,
+				157
 			]
 		},
 		{
@@ -1448,7 +1450,8 @@
 			"championIds": [
 				59,
 				66,
-				100
+				100,
+				157
 			]
 		},
 		{
@@ -3522,6 +3525,7 @@
 		"155": "wren",
 		"156": "halsin",
 		"157": "eric",
-		"158": "kalix"
+		"158": "kalix",
+		"159": "sheila"
 	}
 }

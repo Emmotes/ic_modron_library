@@ -298,6 +298,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Karlach
     </span>
   </a>
+  <a href="eric.html">
+    <span class="championLink" id="eric" style="background-image:url(images/portraits/thumbs/eric.png);color:#ee2b2b" data-spoiler="true">
+      Eric
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
