@@ -363,6 +363,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Certainty
     </span>
   </a>
+  <a href="kalix.html">
+    <span class="championLink" id="kalix" style="background-image:url(images/portraits/thumbs/kalix.png)">
+      Kalix
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
