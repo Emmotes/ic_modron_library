@@ -14,6 +14,7 @@
 * 13+ Dexterity
 * 15+ Dexterity
 * 13+ Constitution
+* 13+ Intelligence (with Feat)
 * 13+ Wisdom
 * 13+ Charisma
 
@@ -145,7 +146,7 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
+    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -154,7 +155,7 @@
         <span class="modronLink">
             ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
         </span>
-        <span class="modronDamageBuffed">
+        <span class="modronDamage">
             3.84e45%
         </span>
     </span>
@@ -162,24 +163,7 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="Feats to Spare" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
-        </span>
-        <span class="modronDamageBuffed">
-            3.84e45%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/jRrxHkBW6rSGswR7YGk6c" target="_blank" data-core-id="2" data-buffs="Best And The Brightest" hidden>
+    <a href="https://ic.byteglow.com/modron/jRrxHkBW6rSGswR7YGk6c" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -188,7 +172,7 @@
         <span class="modronLink">
             ic.byteglow.com/modron/jRrxHkBW6rSGswR7YGk6c
         </span>
-        <span class="modronDamageBuffed">
+        <span class="modronDamage">
             2.13e43%
         </span>
     </span>
@@ -196,24 +180,7 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/jRrxHkBW6rSGswR7YGk6c" target="_blank" data-core-id="2" data-buffs="Feats to Spare" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/jRrxHkBW6rSGswR7YGk6c
-        </span>
-        <span class="modronDamageBuffed">
-            2.13e43%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ" target="_blank" data-core-id="1" data-buffs="Best And The Brightest" hidden>
+    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -222,76 +189,8 @@
         <span class="modronLink">
             ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
         </span>
-        <span class="modronDamageBuffed">
+        <span class="modronDamage">
             2.18e42%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ" target="_blank" data-core-id="1" data-buffs="Feats to Spare" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
-        </span>
-        <span class="modronDamageBuffed">
-            2.18e42%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ" target="_blank" data-core-id="4" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ
-        </span>
-        <span class="modronDamage">
-            1.82e41%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/tbvDcUWyGZ9HNfNHm51xn" target="_blank" data-core-id="2" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/tbvDcUWyGZ9HNfNHm51xn
-        </span>
-        <span class="modronDamage">
-            1.47e41%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0" target="_blank" data-core-id="1" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0
-        </span>
-        <span class="modronDamage">
-            1.50e40%
         </span>
     </span>
 {::nomarkdown}
@@ -299,7 +198,7 @@
 {:/nomarkdown}
 </span>
 
-The Unaffiliated and Dexterous cores are so far ahead of the other cores that they are really the only choices for Ishi. Choose whichever you have the more favourable pipes for.
+The Unaffiliated and Dexterous cores are far enough ahead of the Magic (Non-Magic Variant) core that they are the best ones to use for Ishi. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
 Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Ishi only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
 
