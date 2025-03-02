@@ -3263,13 +3263,13 @@
 		{
 			"coreId": 5,
 			"coreLevel": 15,
-			"layoutId": "YxVuZO8-ZrtTtbtmHR99t",
+			"layoutId": "-arJcEsA79w0p0wqEhsXQ",
 			"type": "reference",
 			"dps": 5.05E+21,
 			"authors": [
 				"UniQP"
 			],
-			"comment": "Min Rarity: 5 Rare",
+			"comment": "Min Rarity: 3 Rare",
 			"championIds": []
 		},
 		{
@@ -3534,6 +3534,8 @@
 		"159": "volo",
 		"160": "sheila",
 		"161": "grimm",
-		"162": "vlithryn"
+		"162": "vlithryn",
+		"163": "hank",
+		"167": "windfall"
 	}
 }

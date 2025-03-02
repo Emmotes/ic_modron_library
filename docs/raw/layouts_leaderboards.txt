@@ -42,7 +42,7 @@ P6qKM1sA_9quq9rDQrJyL,1,15,1.60e29,Darkbolt,Min Rarity: 5 Rares
 _rx3Ib9tL41p8MCkGo1PP,2,15,5.70e29,UniQP,Min Rarity: 2 Rares
 MxgE51Uw1Z8UUwAwof8dx,3,15,2.92e25,Darkbolt|Vorkera_x,Min Rarity: 4 Rares
 tAEHsyw8mAqbtGKi1AN8L,4,15,2.23e35,UniQP|Emmote|Midander|Retaki,Min Rarity: 7 Rares
-YxVuZO8-ZrtTtbtmHR99t,5,15,5.05e21,UniQP,Min Rarity: 5 Rare
+-arJcEsA79w0p0wqEhsXQ,5,15,5.05e21,UniQP,Min Rarity: 3 Rare
 tkzbSmwWg180UBfXvogZp,6,15,4.94e31,Emmote,Min Rarity: 0 Rares
 tb3pg-3du5NOKab97s-1c,7,15,4.94e31,UniQP,Min Rarity: 0 Rares
 
