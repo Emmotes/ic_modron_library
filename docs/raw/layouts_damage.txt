@@ -38,7 +38,7 @@ eS2YlQByPi6gqBWarBSEA,1,2.57e38,0,0,1,1,0,1,20
 s0BKs7Uh8FFbUv2ArVLIc,1,4.16e40,1,1,0,1,0,1,21
 NlZjPJ4DECNoQSfpQKnyQ,1,3.18e38,0,1,0,1,0,1,22
 #                               1,0,0,1,0,1,23
-#                               0,0,0,1,0,1,24
+3-GpbkGust7l_Z5cZAGYM,1,2.19e36,0,0,0,1,0,1,24
 Z3dqepoGNtSI25cJzrPbj,1,3.05e40,1,1,1,0,0,1,25
 u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,0,1,1,0,0,1,26
 8z5iuN2u8G544H6M8XcwL,1,2.11e38,1,0,1,0,0,1,27

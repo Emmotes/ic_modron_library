@@ -498,6 +498,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Umberto
     </span>
   </a>
+  <a href="sheila.html">
+    <span class="championLink" id="sheila" style="background-image:url(images/portraits/thumbs/sheila.png)">
+      Sheila
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
@@ -626,6 +631,11 @@ If you're unsure whether you've made the best design you can when you're done - 
   <a href="diana.html">
     <span class="championLink" id="diana" style="background-image:url(images/portraits/thumbs/diana.png)">
       Diana
+    </span>
+  </a>
+  <a href="volo.html">
+    <span class="championLink" id="volo" style="background-image:url(images/portraits/thumbs/volo.png)">
+      Volo
     </span>
   </a>
 </span>
