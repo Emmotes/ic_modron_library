@@ -64,17 +64,17 @@ kRfXK-yTMZCyAetYYUfeD,1,1.58e36,0,1,0,0,1,0,46
 #                               1,0,0,0,1,0,47
 9lJFx_adXuRdVTNlUTrkO,1,1.09e34,0,0,0,0,1,0,48
 sGv2PkfUhcXsZAEQEDdvy,1,3.33e40,1,1,1,1,0,0,49
-ZDdVjG8jV5E03Xzrus1Ix,1,2.57e38,0,1,1,1,0,0,50
+U8o2y_ATayNDoUuHJPc3q,1,2.57e38,0,1,1,1,0,0,50
 yMiHnOShCKq4UBjlAQDJ5,1,2.30e38,1,0,1,1,0,0,51
-flemAiU7XDQHU5osjDHYk,1,1.77e36,0,0,1,1,0,0,52
+4CdqOAEO34lRRIVb9UzV5,1,1.77e36,0,0,1,1,0,0,52
 EX_CnsXKrgbbgo165f2aN,1,2.87e38,1,1,0,1,0,0,53
 DsVh4JSKxCnsYuKIstsHI,1,2.32e36,0,1,0,1,0,0,54
 #                               1,0,0,1,0,0,55
 O7kCMROWNQtSTcqCpprEe,1,1.60e34,0,0,0,1,0,0,56
 AakI7P5b5DgmZY8yIo_aw,1,2.30e38,1,1,1,0,0,0,57
-r7km5hQkiVaIMYHtx5Y5G,1,1.77e36,0,1,1,0,0,0,58
+61R7m4_Xay6ZA3TVs5IRE,1,1.77e36,0,1,1,0,0,0,58
 ZfqWE2FZDktWsEoi_xi9K,1,1.58e36,1,0,1,0,0,0,59
-GAs3OcWHhKepgrt4wzHhy,1,1.22e34,0,0,1,0,0,0,60
+9GmZm4PI5hhxtv5ZlPj_b,1,1.22e34,0,0,1,0,0,0,60
 ZxXG5LIhyRSvKpGAapdYK,1,1.98e36,1,1,0,0,0,0,61
 #                               0,1,0,0,0,0,62
 #                               1,0,0,0,0,0,63
