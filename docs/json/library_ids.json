@@ -3285,17 +3285,17 @@
 			"authors": [
 				"UniQP"
 			],
-			"comment": "Min Rarity: 3 Rare",
+			"comment": "Min Rarity: 3 Rares",
 			"championIds": []
 		},
 		{
 			"coreId": 6,
 			"coreLevel": 15,
-			"layoutId": "tkzbSmwWg180UBfXvogZp",
+			"layoutId": "GtIR6tkSNjy3R6XEClYvL",
 			"type": "reference",
 			"dps": 4.94E+31,
 			"authors": [
-				"Emmote"
+				"UniQP"
 			],
 			"comment": "Min Rarity: 0 Rares",
 			"championIds": []
