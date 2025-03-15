@@ -8,7 +8,7 @@ These are community-led designs where the goal is to improve on those who came b
 
 These designs use the fewest number of pipes to Full Epic a modron. There are no limits on the types of pipe used.
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: The automation node must be connected.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: The automation node must be connected (though its flow amount doesn't matter).*
 
 <span class="modronColumn">
     <span class="modronRowHeader">
