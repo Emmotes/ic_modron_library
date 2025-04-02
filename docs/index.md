@@ -163,6 +163,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Presto
     </span>
   </a>
+  <a href="grimm.html">
+    <span class="championLinkDPS" id="grimm" style="background-image:url(images/portraits/thumbs/grimm.png)">
+      Grimm
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
@@ -536,11 +541,6 @@ If you're unsure whether you've made the best design you can when you're done - 
   <a href="beadle.html">
     <span class="championLink" id="beadle" style="background-image:url(images/portraits/thumbs/beadle.png)">
       Beadle
-    </span>
-  </a>
-  <a href="grimm.html">
-    <span class="championLinkDPS" id="grimm" style="background-image:url(images/portraits/thumbs/grimm.png)">
-      Grimm
     </span>
   </a>
   <a href="hewmaan.html">

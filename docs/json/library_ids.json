@@ -322,14 +322,12 @@
 			"layoutId": "8z5iuN2u8G544H6M8XcwL",
 			"type": "damage",
 			"dps": 2.11E+38,
-			"beadle": false,
-			"grimm": true,
 			"championIds": [
 				3,
 				27,
 				34,
-				64,
-				116
+				116,
+				161
 			]
 		},
 		{
@@ -506,8 +504,6 @@
 			"layoutId": "EX_CnsXKrgbbgo165f2aN",
 			"type": "damage",
 			"dps": 2.87E+38,
-			"beadle": true,
-			"grimm": false,
 			"championIds": [
 				64
 			]
@@ -772,8 +768,6 @@
 			"layoutId": "QNbT8eQbHm8BiFYoERFss",
 			"type": "damage",
 			"dps": 1.68E+41,
-			"beadle": true,
-			"grimm": false,
 			"championIds": [
 				64
 			]
@@ -814,14 +808,12 @@
 			"layoutId": "-IZN07vLwS5kudzxlDoRq",
 			"type": "damage",
 			"dps": 1.16E+39,
-			"beadle": false,
-			"grimm": true,
 			"championIds": [
 				3,
 				7,
 				27,
-				64,
-				116
+				116,
+				161
 			]
 		},
 		{
@@ -1296,8 +1288,6 @@
 			"layoutId": "VWE8AGgjNEWfILkyr-Nfs",
 			"type": "damage",
 			"dps": 8.16E+44,
-			"beadle": true,
-			"grimm": false,
 			"championIds": [
 				17,
 				64,
@@ -1406,8 +1396,6 @@
 			"type": "damage",
 			"dps": 1.04E+37,
 			"comment": "Non-Magic Variant",
-			"beadle": false,
-			"grimm": true,
 			"championIds": [
 				3,
 				12,
@@ -1418,12 +1406,12 @@
 				36,
 				56,
 				58,
-				64,
 				69,
 				96,
 				113,
 				116,
-				154
+				154,
+				161
 			]
 		},
 		{
@@ -1505,8 +1493,6 @@
 			"layoutId": "dFFmh0JAwYRLfa9mH_uHt",
 			"type": "damage",
 			"dps": 1.15E+49,
-			"beadle": true,
-			"grimm": true,
 			"championIds": [
 				2,
 				3,
@@ -1566,7 +1552,8 @@
 				153,
 				155,
 				158,
-				159
+				159,
+				161
 			]
 		},
 		{
@@ -1575,8 +1562,6 @@
 			"layoutId": "7114GoDxPsVq9PvgtiUYx",
 			"type": "damage",
 			"dps": 1.15E+49,
-			"beadle": true,
-			"grimm": false,
 			"championIds": [
 				4,
 				5,
@@ -3462,10 +3447,7 @@
 		"61": "jaheira",
 		"62": "nova",
 		"63": "freely",
-		"64": [
-			"beadle",
-			"grimm"
-		],
+		"64": "beadle",
 		"65": "omin",
 		"66": "lazaapz",
 		"67": "dragonbait",
