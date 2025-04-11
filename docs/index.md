@@ -1464,7 +1464,7 @@ The Strong core has the highest gold bonus of 4.01e06% when fully epic - while t
 
 The Modron Component Chests are - currently - the only source of modron pipes. You get 1 each time you level up a modron core - to a maximum of 14 chests per core. You can also get up to 5 each week by purchasing 1 from each patron's shop for 5,000 currency - and you should strive to unlock the patrons and get enough influence to be doing that ASAP.
 
-Other places to get component chests are from Emergences or the occasional giveaway. Also - the final variant in both Tomb of Annihilation and Waterdeep: Dragonheist campaigns each give 5 for completing them.
+Other places to get component chests are from Emergences or some Guide Quests or the occasional giveaway. Each Split the Party gives 4. Also - the final variants in the Tomb of Annihilation, Waterdeep: Dragonheist, Descent into Avernus and Icewind Dale campaigns each give 5 for completing them.
 
 ## 5. What should I spend Upgrade Components on?
 
