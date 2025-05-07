@@ -91,7 +91,7 @@ ZxXG5LIhyRSvKpGAapdYK,1,1.98e36,1,1,0,0,0,0,61
 NiGSGsacHW4McSTThGhaB,2,3.09e45,1,1,1,1,1,1,1
 jRrxHkBW6rSGswR7YGk6c,2,2.13e43,0,1,1,1,1,1,2
 gVeG_CZSEgeL4SEonfioQ,2,2.13e43,1,0,1,1,1,1,3
-#                               0,0,1,1,1,1,4
+YlXah8IX9XopbQGdKtvRm,2,1.47e41,0,0,1,1,1,1,4
 _LFD4nB_OiamUmNouxx6G,2,2.13e43,1,1,0,1,1,1,5
 WcLloORKcEsp1Vh7ugnlO,2,1.47e41,0,1,0,1,1,1,6
 6uEhp_1goLtVyRXi7K2b6,2,1.47e41,1,0,0,1,1,1,7

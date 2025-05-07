@@ -390,7 +390,8 @@
 			"type": "damage",
 			"dps": 1.56E+38,
 			"championIds": [
-				95
+				95,
+				162
 			]
 		},
 		{
@@ -622,6 +623,16 @@
 				19,
 				126,
 				155
+			]
+		},
+		{
+			"coreId": 2,
+			"coreLevel": 15,
+			"layoutId": "YlXah8IX9XopbQGdKtvRm",
+			"type": "damage",
+			"dps": 1.47E+41,
+			"championIds": [
+				162
 			]
 		},
 		{
@@ -1429,7 +1440,8 @@
 				127,
 				129,
 				140,
-				148
+				148,
+				162
 			]
 		},
 		{
@@ -3534,6 +3546,8 @@
 		"161": "grimm",
 		"162": "vlithryn",
 		"163": "hank",
+		"164": "tess",
+		"165": "baldric",
 		"167": "windfall"
 	}
 }

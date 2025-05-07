@@ -763,6 +763,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Dark Urge
     </span>
   </a>
+  <a href="vlithryn.html">
+    <span class="championLink" id="vlithryn" style="background-image:url(images/portraits/thumbs/vlithryn.png)">
+      Vlithryn
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader" style="position:relative;">
