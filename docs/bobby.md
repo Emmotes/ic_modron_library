@@ -103,14 +103,14 @@
         </span>
     </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx" target="_blank" data-core-id="7" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/W08yr0Hrmfq2J9qzZGRaB" target="_blank" data-core-id="7" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Dexterous Core](images/core_7_dexterous.png)Dexterous
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/7114GoDxPsVq9PvgtiUYx
+            ic.byteglow.com/modron/W08yr0Hrmfq2J9qzZGRaB
         </span>
         <span class="modronDamage">
             1.15e49%
