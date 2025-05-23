@@ -24,7 +24,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Windfall is normally a melee champion but her Blue Dragon specialisation will make her a magic attacker instead. Because of this I'm including both variants of the Magic core.</span>
+<span class="champIntro">Windfall is normally a melee champion but her Blue Dragon specialisation will make her a magic attacker instead. Because of this I'm including both variants of the Magic core and Strong core.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -175,6 +175,23 @@
         </span>
         <span class="modronDamage">
             3.84e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/NiGSGsacHW4McSTThGhaB" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/NiGSGsacHW4McSTThGhaB
+        </span>
+        <span class="modronDamage">
+            3.09e45%
         </span>
     </span>
 {::nomarkdown}
