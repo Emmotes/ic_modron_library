@@ -144,17 +144,17 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/VWE8AGgjNEWfILkyr-Nfs" target="_blank" data-core-id="4" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/POqxrC8GsE2yuyH32qVs8" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/VWE8AGgjNEWfILkyr-Nfs
+            ic.byteglow.com/modron/POqxrC8GsE2yuyH32qVs8
         </span>
         <span class="modronDamage">
-            8.16e44%
+            1.20e45%
         </span>
     </span>
 {::nomarkdown}
