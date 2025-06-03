@@ -24,7 +24,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Windfall is normally a melee champion but her Blue Dragon specialisation will make her a magic attacker instead. Because of this I'm including both variants of the Magic core and Strong core.</span>
+<span class="champIntro">Windfall is normally a melee champion but she also becomes magic after choosing a specialisation. This means she can benefit from both Melee and Magic nodes.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -164,23 +164,6 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
-        </span>
-        <span class="modronDamage">
-            3.84e45%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/NiGSGsacHW4McSTThGhaB" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
@@ -214,26 +197,9 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/elqOcFEB-wuahwbAxTYvF" target="_blank" data-core-id="2" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/elqOcFEB-wuahwbAxTYvF
-        </span>
-        <span class="modronDamage">
-            2.76e43%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
 </span>
 
-If you use Windfall's Blue Dragon specialisation then the Magic core is a tiny bit better than the Unaffiliated or Dexterous cores. If you don't - you'll be better off with either the Unaffiliated or Dexterous cores. The Magic core does not contain any health nodes which may influence your choice.
+The Magic core is far enough ahead of the other cores that it's the best one to use for Windfall. That said - you could potentially use the Unaffiliated or Dexterous core if the pipes you have favours one of them. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
 
 Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Windfall only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
 
