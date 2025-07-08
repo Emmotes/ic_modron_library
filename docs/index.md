@@ -583,6 +583,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Ravengard
     </span>
   </a>
+  <a href="tess.html">
+    <span class="championLink" id="tess" style="background-image:url(images/portraits/thumbs/tess.png)">
+      Tess
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
