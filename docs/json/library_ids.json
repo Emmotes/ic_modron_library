@@ -215,6 +215,7 @@
 				4,
 				20,
 				21,
+				38,
 				40,
 				51,
 				62,
@@ -272,7 +273,6 @@
 			"type": "damage",
 			"dps": 3.18E+38,
 			"championIds": [
-				38,
 				48
 			]
 		},
@@ -1058,6 +1058,7 @@
 			"dps": 1.39E+39,
 			"comment": "Non-Melee Variant",
 			"championIds": [
+				38,
 				51,
 				73,
 				83,
@@ -1100,7 +1101,6 @@
 			"dps": 9.45E+36,
 			"comment": "Non-Melee Variant",
 			"championIds": [
-				38,
 				48
 			]
 		},
@@ -1603,7 +1603,6 @@
 				31,
 				35,
 				36,
-				38,
 				39,
 				40,
 				41,

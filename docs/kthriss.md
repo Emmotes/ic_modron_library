@@ -12,7 +12,7 @@
 <div id="champStats">
 {:/nomarkdown}
 * 13+ Dexterity
-* 15+ Dexterity
+* 13+ Constitution (with Feat)
 * 13+ Intelligence
 * 13+ Charisma
 
@@ -121,7 +121,7 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/W08yr0Hrmfq2J9qzZGRaB" target="_blank" data-core-id="7" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/W08yr0Hrmfq2J9qzZGRaB" target="_blank" data-core-id="7" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -130,7 +130,7 @@
         <span class="modronLink">
             ic.byteglow.com/modron/W08yr0Hrmfq2J9qzZGRaB
         </span>
-        <span class="modronDamage">
+        <span class="modronDamageBuffed">
             1.15e49%
         </span>
         <span class="modronVariable">
@@ -141,34 +141,54 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/NlZjPJ4DECNoQSfpQKnyQ" target="_blank" data-core-id="1" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/W08yr0Hrmfq2J9qzZGRaB" target="_blank" data-core-id="7" data-buffs="Wolf Pack" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/NlZjPJ4DECNoQSfpQKnyQ
+            ic.byteglow.com/modron/W08yr0Hrmfq2J9qzZGRaB
         </span>
-        <span class="modronDamage">
-            3.18e38%
+        <span class="modronDamageBuffed">
+            1.15e49%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
         </span>
     </span>
 {::nomarkdown}
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/BoKzBuQQ_gwJbctPbz0FM" target="_blank" data-core-id="2" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/uPENWunG92vAP47zSu7uZ" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/uPENWunG92vAP47zSu7uZ
+        </span>
+        <span class="modronDamage">
+            3.73e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/t5N5een-w8gjhTS37X0Kf" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/BoKzBuQQ_gwJbctPbz0FM
+            ic.byteglow.com/modron/t5N5een-w8gjhTS37X0Kf
         </span>
         <span class="modronDamage">
-            9.45e36%
+            1.39e39%
         </span>
     </span>
 {::nomarkdown}
@@ -176,7 +196,12 @@
 {:/nomarkdown}
 </span>
 
-The Magic and Dexterous cores are so far ahead of the other cores that they are really the only choices for K'thriss. Choose whichever you have the more favourable pipes for - though I would not recommend the Magic core as it doesn't have any health nodes.
+The Magic core is so far ahead of the other cores that it's really the only choice for K'thriss. Though it is worth noting that it doesn't have any health nodes.
+
+{::nomarkdown}
+<span id="dexTable" hidden>
+{:/nomarkdown}
+
 
 Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (K'thriss only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
 
@@ -192,6 +217,11 @@ Note that the damage of the Dexterous core varies depending on the number of 15+
 | Dexterous | 3 | 8.63e50% |
 | Dexterous | 2 | 1.74e50% |
 | Dexterous | 1 | 1.15e49% |
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
 
 [Back to Top](#top)
 
