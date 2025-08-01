@@ -541,7 +541,8 @@
 				50,
 				128,
 				136,
-				143
+				143,
+				152
 			]
 		},
 		{
@@ -580,9 +581,8 @@
 			"layoutId": "ZxXG5LIhyRSvKpGAapdYK",
 			"type": "damage",
 			"dps": 1.98E+36,
-			"championIds": [
-				152
-			]
+			"hidden": true,
+			"championIds": []
 		},
 		{
 			"coreId": 2,
@@ -804,6 +804,7 @@
 				69,
 				128,
 				143,
+				152,
 				154
 			]
 		},
@@ -848,8 +849,7 @@
 			"type": "damage",
 			"dps": 1.16E+39,
 			"championIds": [
-				96,
-				152
+				96
 			]
 		},
 		{
@@ -3561,6 +3561,7 @@
 		"164": "tess",
 		"165": "baldric",
 		"166": "cazrin",
-		"167": "windfall"
+		"167": "windfall",
+		"168": "kingofshadows"
 	}
 }
