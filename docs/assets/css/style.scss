@@ -54,24 +54,24 @@ section #title .credits.right {
 	margin-bottom: 50px;
 }
 .championLink,.championLinkHeader,.championLinkDPS {
-	background-color: #141414;
+	background-color: var(--Sooty);
 	background-size: contain;
 	background-repeat: no-repeat;
 	display: flex;
 	width: 64px;
 	height: 77px;
 	margin: 1px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	align-items: flex-end;
 	justify-content: center;
 	font-size: 0.7em;
 }
 .championLinkDPS {
-	border-color: #aa4400;
+	border-color: var(--Fire);
 }
 .championLink:hover,.championLinkDPS:hover {
-	border: 1px solid #FFEB9B;
-	background-color: #000000;
+	border: 1px solid var(--Flavescent);
+	background-color: var(--Black);
 }
 .championLinkHeader {
 	font-size: 1.1em;
@@ -89,14 +89,14 @@ section #title .credits.right {
 	height: max-content;
 	padding: 5px;
 	cursor: pointer;
-	background-color: #141414;
-	border: 1px solid black;
+	background-color: var(--Sooty);
+	border: 1px solid var(--Black);
 	font-size: 0.9em;
 }
 .championToggleNonDPS {
 }
 .championToggleSpoilers {
-	color: #ee2b2b;
+	color: var(--CarminePink);
 	right: 135px;
 }
 .modronColumn {
@@ -117,20 +117,20 @@ section #title .credits.right {
     align-items: center;
 	height: 49px;
 	margin: 2px;
-	background-color: #141414;
-	border: 1px solid black;
+	background-color: var(--Sooty);
+	border: 1px solid var(--Black);
 }
 .modronRowShort,.modronRowShortHeader {
 	height: 25px;
 }
 .modronRowHeader,.modronRowShortHeader {
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	border-radius: 10px 10px 0 0;
 	height: 30px;
 }
 .modronRow:hover,.modronRowShort:hover {
-	border: 1px solid #FFEB9B;
-	background-color: #000000;
+	border: 1px solid var(--Flavescent);
+	background-color: var(--Black);
 }
 .modronIcon,.modronIconFull,.modronDamage,.modronDamageBuffed,.modronInfo {
 	display: flex;
@@ -139,7 +139,7 @@ section #title .credits.right {
 	width: 150px;
 	height: 100%;
 	margin: 0px;
-	color: #F0E7D5;
+	color: var(--Eggshell);
 }
 .modronIconFull,.modronNote {
 	width: 240px;
@@ -156,22 +156,22 @@ section #title .credits.right {
 	align-items: center;
 	width: 350px;
 	height: 100%;
-	background-color: #1c1c1c;
-	border-left: 1px solid black;
+	background-color: var(--EerieBlack);
+	border-left: 1px solid var(--Black);
 }
 .modronLink,.modronLinkSmall {
 	font-family: monospace, monospace;
 	font-size: 0.95em;
 }
 .modronLink,.modronLinkHeader {
-	border-right: 1px solid black;
+	border-right: 1px solid var(--Black);
 }
 .modronDamage,.modronDamageBuffed {
 	justify-content: center;
 	width: 100px;
 }
 .modronDamageBuffed {
-	color: #70E065;
+	color: var(--PastelGreen);
 }
 .modronLevel {
 	display: flex;
@@ -181,7 +181,7 @@ section #title .credits.right {
 	height: 100%;
 	margin: 0px;
 	margin-right: 5px;
-	color: #F0E7D5;
+	color: var(--Eggshell);
 }
 .modronAuthors {
 	display: flex;
@@ -191,7 +191,7 @@ section #title .credits.right {
 	height: 100%;
 	margin: 0px;
 	margin-left: 5px;
-	color: #F0E7D5;
+	color: var(--Eggshell);
 }
 .modronRecordHolders {
 	display: flex;
@@ -201,7 +201,7 @@ section #title .credits.right {
 	height: 100%;
 	margin: 0px;
 	margin-left: 5px;
-	color: #F0E7D5;
+	color: var(--Eggshell);
 }
 .modronRecord,.modronVariable {
 	display: flex;
@@ -210,7 +210,7 @@ section #title .credits.right {
 	width: 60px;
 	height: 100%;
 	margin: 0px;
-	color: #F0E7D5;
+	color: var(--Eggshell);
 }
 .modronNote {
 	display: flex;
@@ -220,12 +220,12 @@ section #title .credits.right {
 	height: 100%;
 	margin: 0px;
 	margin-left: 5px;
-	color: #F0E7D5;
+	color: var(--Eggshell);
 }
 .modronVariable {
 	width: 48px;
-	border-left: 1px solid black;
-	background-color: #1c1c1c;
+	border-left: 1px solid var(--Black);
+	background-color: var(--EerieBlack);
 	position: relative;
 	cursor: pointer;
 }
@@ -233,14 +233,14 @@ section #title .credits.right {
 	visibility: visible;
 }
 .modronVariable:hover {
-	color: #FFEB9B;
+	color: var(--Flavescent);
 }
 .modronVariableTooltipContents {
 	font-size: 0.9em;
 	visibility: hidden;
 	padding: 8px;
-	border: 1px solid #FFEB9B;
-	background-color: #1c1c1c;
+	border: 1px solid var(--Flavescent);
+	background-color: var(--EerieBlack);
 	width: 260px;
 	
 	display: flex;
@@ -252,7 +252,7 @@ section #title .credits.right {
 	left: 0px;
 	top: 0px;
 	transform: translate(-110px, -60px);
-	color: #F0E7D5;
+	color: var(--Eggshell);
 	pointer-events: none;
 }
 .tabs {
@@ -270,10 +270,10 @@ section #title .credits.right {
 .tabsLabel {
 	padding: 8px 10px;
 	cursor: pointer;
-	border: 1px solid black;
-	border-bottom: 3px ridge black;
+	border: 1px solid var(--Black);
+	border-bottom: 3px ridge var(--Black);
 	border-radius: 10px 10px 0 0;
-	background-color: #141414;
+	background-color: var(--Sooty);
 	margin-right: -1px;
 	font-size: 1.1em;
 }
@@ -281,22 +281,22 @@ section #title .credits.right {
 	order: 1;
 	width: 100%;
 	display: none;
-	border: 1px solid black;
-	background-color: #1a1a1a;
+	border: 1px solid var(--Black);
+	background-color: var(--CodGrey);
 	padding: 12px 15px 0 15px;
 	border-radius: 0 10px 10px 10px;
 }
 .tabsRadio:checked+.tabsLabel {
-	color: #efefef;
-	background-color: #1a1a1a;
-	border-bottom: 3px ridge #bbbbaa;
+	color: var(--CrystalBell);
+	background-color: var(--CodGrey);
+	border-bottom: 3px ridge var(--Eagle);
 }
 .tabsRadio:checked+.tabsLabel+.tabsContent {
 	display: initial;
 }
 .tabsRadio:focus+.tabsLabel {
-	color: #fafafa;
-	background-color: #2a2a2a;
+	color: var(--DrWhite);
+	background-color: var(--TheEnd);
 }
 .tabs code {
 	font-size: 1.1em;
@@ -308,8 +308,8 @@ section #title .credits.right {
 .buffboxCol {
 	display: flex;
 	flex-direction: column;
-	border: 1px solid black;
-	background-color: #1a1a1a;
+	border: 1px solid var(--Black);
+	background-color: var(--CodGrey);
 	position: absolute;
 	top: -10px;
 	right: 0px;
@@ -329,10 +329,10 @@ section #title .credits.right {
 .buffboxRow {
 	display: none;
 	padding-top: 5px;
-	border-bottom: 1px solid #444444;
+	border-bottom: 1px solid var(--GoshawkGrey);
 }
 .buffboxRowHeader {
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	font-size: 1.05em;
 	justify-content: center;
 	padding: 5px;
@@ -348,7 +348,7 @@ section #title .credits.right {
 input[type="checkbox"] {
 	-webkit-appearance: none;
 	appearance: none;
-	background-color: #101010;
+	background-color: var(--Onyx);
 	margin: 4px 8px 0px 4px;
 	font: inherit;
 	color: currentColor;
@@ -394,8 +394,8 @@ input[type="checkbox"]:checked::before {
 	display: flex;
 	flex-direction: column;
 	width: 100%;
-	border: 1px solid black;
-	background-color: #141414;
+	border: 1px solid var(--Black);
+	background-color: var(--Sooty);
 	padding: 8px;
 	margin: 4px;
 }
@@ -425,11 +425,11 @@ input[type="checkbox"]:checked::before {
 	display: flex;
 	flex-direction: row;
 	width: 100%;
-	border-bottom: 1px solid #313131;
+	border-bottom: 1px solid var(--OffBlack);
 	padding: 5px 0px 0px 5px;
 }
 .modesContentRowHeader {
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	font-size: 1.1em;
 }
 .modesCol1,.modesCol2 {
@@ -439,7 +439,7 @@ input[type="checkbox"]:checked::before {
 input[type="checkbox"] {
 	-webkit-appearance: none;
 	appearance: none;
-	background-color: #101010;
+	background-color: var(--Onyx);
 	margin: 4px 8px 0px 4px;
 	font: inherit;
 	color: currentColor;
