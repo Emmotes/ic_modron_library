@@ -719,7 +719,7 @@ If you're unsure whether you've made the best design you can when you're done - 
     </span>
   </a>
   <a href="cazrin.html">
-    <span class="championLinkDPS" id="cazrin" style="background-image:url(images/portraits/thumbs/cazrin.png);color:#ee2b2b" data-spoiler="true">
+    <span class="championLinkDPS" id="cazrin" style="background-image:url(images/portraits/thumbs/cazrin.png)">
       Cazrin
     </span>
   </a>
