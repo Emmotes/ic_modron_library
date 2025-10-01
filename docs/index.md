@@ -653,6 +653,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Volo
     </span>
   </a>
+  <a href="kos.html">
+    <span class="championLinkDPS" id="kos" style="background-image:url(images/portraits/thumbs/kos.png)">
+      KoS
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
