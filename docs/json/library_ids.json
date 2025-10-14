@@ -177,7 +177,7 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "ZKHkbVRAgzv15ULADYsXa",
+			"layoutId": "y96BqfZqf2c0CN3Gxf_-L",
 			"type": "damage",
 			"dps": 2.03E+40,
 			"hidden": true,
@@ -195,7 +195,7 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "oXyoPQsI7YkWBeye5T-DP",
+			"layoutId": "WAbNTZGoKrzCdNrcc80Qg",
 			"type": "damage",
 			"dps": 1.40E+38,
 			"hidden": true,
@@ -281,7 +281,7 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "s0BKs7Uh8FFbUv2ArVLIc",
+			"layoutId": "bp9VallQeBOfWzBipLNGM",
 			"type": "damage",
 			"dps": 4.16E+40,
 			"hidden": true,
@@ -300,7 +300,7 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "9TiNpAZCGD83X9d9gmLDz",
+			"layoutId": "dcS-lL648rYWPnxbdpuQA",
 			"type": "damage",
 			"dps": 2.87E+38,
 			"hidden": true,
@@ -351,7 +351,7 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "8z5iuN2u8G544H6M8XcwL",
+			"layoutId": "GKuoeU8E4Xk8eQ5FsZYoC",
 			"type": "damage",
 			"dps": 2.11E+38,
 			"championIds": [
@@ -429,9 +429,9 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "Y9IVr7xTwfTPz9QKvXoHT",
+			"layoutId": "DA1o20MSlQaXJIWpySnGF",
 			"type": "damage",
-			"dps": 2.82E+40,
+			"dps": 2.94E+40,
 			"hidden": true,
 			"championIds": []
 		},
@@ -451,16 +451,16 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "nEEe_J0YrgrQ4iU0GaalB",
+			"layoutId": "Lsr79MsY7GCjCdz7ahRYp",
 			"type": "damage",
-			"dps": 1.95E+38,
+			"dps": 2.03E+38,
 			"hidden": true,
 			"championIds": []
 		},
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "318fGaHLlll1V7jsjWyFW",
+			"layoutId": "Q4OQ8dcVGfKaS-gs17EgM",
 			"type": "damage",
 			"dps": 1.58E+36,
 			"hidden": true,
@@ -511,9 +511,9 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "AyPOrQszZUekR_sG7-ayt",
+			"layoutId": "VxgO75hzcg3C2NMveaWe2",
 			"type": "damage",
-			"dps": 1.95E+38,
+			"dps": 2.03E+38,
 			"hidden": true,
 			"championIds": []
 		},
@@ -653,7 +653,7 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "ZxXG5LIhyRSvKpGAapdYK",
+			"layoutId": "Y193WjHKyXzeCVdxIUflU",
 			"type": "damage",
 			"dps": 1.98E+36,
 			"hidden": true,
@@ -662,7 +662,7 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
-			"layoutId": "kcEFXfBDK4KXAhcY5_5v6",
+			"layoutId": "NPhidPgZUFf02Wf8QwwDl",
 			"type": "damage",
 			"dps": 1.51E+34,
 			"hidden": true,
