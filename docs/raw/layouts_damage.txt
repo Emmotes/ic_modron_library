@@ -27,9 +27,9 @@ Znk6rGLHPxYwLFluAnBrD,1,1.63e38,0,0,0,1,1,1,8
 G6VezXEgRas4EsTfbUfw0,1,1.50e40,0,1,1,0,1,1,10
 a-t6EY7l48se_qb5zjKQf,1,1.24e40,1,0,1,0,1,1,11
 6XeOgeeTMx4w-kRz0Xfxp,1,1.04e38,0,0,1,0,1,1,12
-#                               1,1,0,0,1,1,13
+ZKHkbVRAgzv15ULADYsXa,1,2.03e40,1,1,0,0,1,1,13
 e5OmkTd-eIFqA_s4ytR7o,1,1.72e38,0,1,0,0,1,1,14
-#                               1,0,0,0,1,1,15
+oXyoPQsI7YkWBeye5T-DP,1,1.40e38,1,0,0,0,1,1,15
 JvqZyCZo0U5jNchOxbIuz,1,1.19e36,0,0,0,0,1,1,16
 lxl77lg_2zUFrv6SLU6-E,1,4.43e42,1,1,1,1,0,1,17
 uPENWunG92vAP47zSu7uZ,1,3.73e40,0,1,1,1,0,1,18
@@ -37,7 +37,7 @@ yWqFzHx5bvXJe990YOTjT,1,3.05e40,1,0,1,1,0,1,19
 eS2YlQByPi6gqBWarBSEA,1,2.57e38,0,0,1,1,0,1,20
 s0BKs7Uh8FFbUv2ArVLIc,1,4.16e40,1,1,0,1,0,1,21
 NlZjPJ4DECNoQSfpQKnyQ,1,3.18e38,0,1,0,1,0,1,22
-#                               1,0,0,1,0,1,23
+9TiNpAZCGD83X9d9gmLDz,1,2.87e38,1,0,0,1,0,1,23
 3-GpbkGust7l_Z5cZAGYM,1,2.19e36,0,0,0,1,0,1,24
 Z3dqepoGNtSI25cJzrPbj,1,3.05e40,1,1,1,0,0,1,25
 u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,0,1,1,0,0,1,26
@@ -51,15 +51,15 @@ e6umTlPdyPUKREqV7MwEw,1,2.99e42,1,1,1,1,1,0,33
 Ji-4uNBtTC7mLA3UCQyfB,1,2.27e40,0,1,1,1,1,0,34
 1r1TvWLOVZaVArBUZaAzy,1,2.07e40,1,0,1,1,1,0,35
 C5yYWf5gqHfym5Q4CxX_K,1,1.56e38,0,0,1,1,1,0,36
-#                               1,1,0,1,1,0,37
+Y9IVr7xTwfTPz9QKvXoHT,1,2.82e40,1,1,0,1,1,0,37
 S_qeCn1ZXX_fnZxXXPvzC,1,2.29e38,0,1,0,1,1,0,38
-#                               1,0,0,1,1,0,39
-#                               0,0,0,1,1,0,40
+nEEe_J0YrgrQ4iU0GaalB,1,1.95e38,1,0,0,1,1,0,39
+318fGaHLlll1V7jsjWyFW,1,1.58e36,0,0,0,1,1,0,40
 mowHXKsW2fxXBH2ZfKwFi,1,2.07e40,1,1,1,0,1,0,41
 5a3SVRjGAJQfrVc-Ivp5H,1,1.64e38,0,1,1,0,1,0,42
 SkC1Y2Z4AMDPgGQPDLJHR,1,1.42e38,1,0,1,0,1,0,43
-#                               0,0,1,0,1,0,44
-#                               1,1,0,0,1,0,45
+X-Ne8Gc6OT9EKcLAUBE2c,1,1.13e36,0,0,1,0,1,0,44
+AyPOrQszZUekR_sG7-ayt,1,1.95e38,1,1,0,0,1,0,45
 kRfXK-yTMZCyAetYYUfeD,1,1.58e36,0,1,0,0,1,0,46
 #                               1,0,0,0,1,0,47
 9lJFx_adXuRdVTNlUTrkO,1,1.09e34,0,0,0,0,1,0,48
@@ -76,7 +76,7 @@ AakI7P5b5DgmZY8yIo_aw,1,2.30e38,1,1,1,0,0,0,57
 ZfqWE2FZDktWsEoi_xi9K,1,1.58e36,1,0,1,0,0,0,59
 9GmZm4PI5hhxtv5ZlPj_b,1,1.22e34,0,0,1,0,0,0,60
 ZxXG5LIhyRSvKpGAapdYK,1,1.98e36,1,1,0,0,0,0,61
-#                               0,1,0,0,0,0,62
+kcEFXfBDK4KXAhcY5_5v6,1,1.51e34,0,1,0,0,0,0,62
 #                               1,0,0,0,0,0,63
 #                               0,0,0,0,0,0,64
 
@@ -95,22 +95,22 @@ YlXah8IX9XopbQGdKtvRm,2,1.47e41,0,0,1,1,1,1,4
 _LFD4nB_OiamUmNouxx6G,2,2.13e43,1,1,0,1,1,1,5
 WcLloORKcEsp1Vh7ugnlO,2,1.47e41,0,1,0,1,1,1,6
 6uEhp_1goLtVyRXi7K2b6,2,1.47e41,1,0,0,1,1,1,7
-#                               0,0,0,1,1,1,8
+8R7g81erEiFDE5iprt3i1,2,1.01e39,0,0,0,1,1,1,8
 HRzw-pCS165T9h4HkWt92,2,2.13e43,1,1,1,0,1,1,9
 tbvDcUWyGZ9HNfNHm51xn,2,1.47e41,0,1,1,0,1,1,10
 r-4KDS1iJHaXKztITDBfh,2,1.47e41,1,0,1,0,1,1,11
-#                               0,0,1,0,1,1,12
-#                               1,1,0,0,1,1,13
+sYch2ug4ckSlrUBGwTfCT,2,1.01e39,0,0,1,0,1,1,12
+fdSCgif1p82qcHn33Xhdh,2,1.47e41,1,1,0,0,1,1,13
 rEzWJQwNcgeK9hiBc_GVY,2,1.01e39,0,1,0,0,1,1,14
-#                               1,0,0,0,1,1,15
-#                               0,0,0,0,1,1,16
+zSu8zZ2y5zR5lWWZWT3ZS,2,1.01e39,1,0,0,0,1,1,15
+SYZBZ2V70aOpx1Za4LcoF,2,6.98e36,0,0,0,0,1,1,16
 ME5yZd7N0M22Zo9pT8C8n,2,2.43e43,1,1,1,1,0,1,17
 C7nEm7QXfoVk6qU6uqG8f,2,1.68e41,0,1,1,1,0,1,18
 77x_hHuScVMKwn8bQevcS,2,1.68e41,1,0,1,1,0,1,19
 Sf8Eqs8uvtLTsMvavyVVG,2,1.16e39,0,0,1,1,0,1,20
 QNbT8eQbHm8BiFYoERFss,2,1.68e41,1,1,0,1,0,1,21
-#                               0,1,0,1,0,1,22
-#                               1,0,0,1,0,1,23
+XsJXiKgO-5hgz45YIY1Hr,2,1.16e39,0,1,0,1,0,1,22
+A97TuYaJ6rWdCy_P1mmcK,2,1.16e39,1,0,0,1,0,1,23
 #                               0,0,0,1,0,1,24
 pyyM6w6EM1nVdtP32AdH_,2,1.68e41,1,1,1,0,0,1,25
 dCRcufrLOJXX8pMwiLi0z,2,1.16e39,0,1,1,0,0,1,26
@@ -132,24 +132,24 @@ pHkq18UE_TXwPYzI0aXRb,2,1.90e41,1,1,1,0,1,0,41
 rDs4JTqcYvj3sbxPXmJ-4,2,1.31e39,0,1,1,0,1,0,42
 aoVt6auIja4wB7DuLUZwj,2,1.31e39,1,0,1,0,1,0,43
 FrSv6Sxd9e-inZhQMQQN3,2,9.06e36,0,0,1,0,1,0,44
-#                               1,1,0,0,1,0,45
+z74UABm2eVSmHWUzP0Qkt,2,1.37e39,1,1,0,0,1,0,45
 rp3P3F7nafN1YztHnFCEz,2,9.45e36,0,1,0,0,1,0,46
-#                               1,0,0,0,1,0,47
+WJM87sGoEmJmjAxs-tUI4,2,9.45e36,1,0,0,0,1,0,47
 HcWBuqRMPUzyXDchJUw4T,2,6.52e34,0,0,0,0,1,0,48
 _1L9cQTtDM1JSSx3LhyoF,2,1.99e41,1,1,1,1,0,0,49
 t5N5een-w8gjhTS37X0Kf,2,1.39e39,0,1,1,1,0,0,50
 xUHtYbd65F1wOKyHVIbO8,2,1.37e39,1,0,1,1,0,0,51
 MOgrRfFbXjmIBuNZu3_1L,2,9.45e36,0,0,1,1,0,0,52
-#                               1,1,0,1,0,0,53
+Bf5kYU2NUEDvz83YoTeG4,2,1.37e39,1,1,0,1,0,0,53
 BoKzBuQQ_gwJbctPbz0FM,2,9.45e36,0,1,0,1,0,0,54
-#                               1,0,0,1,0,0,55
+vcfWECzkCQAEymzA-XBIN,2,9.45e36,1,0,0,1,0,0,55
 aWlgIBvGaXLpMnox7F8zh,2,6.52e34,0,0,0,1,0,0,56
 2NkR_-Zj7k8nTTT72xM17,2,1.37e39,1,1,1,0,0,0,57
 2XBdKezuPRW50tUV5wmxx,2,9.45e36,0,1,1,0,0,0,58
 Dfl86ku0QJr55DVVZzcV8,2,9.45e36,1,0,1,0,0,0,59
 #                               0,0,1,0,0,0,60
 e5l-Cqc9D-lsTtSy8j0qv,2,9.45e36,1,1,0,0,0,0,61
-#                               0,1,0,0,0,0,62
+2WHvFBjHvBB7Eb1HoyNYa,2,6.52e34,0,1,0,0,0,0,62
 #                               1,0,0,0,0,0,63
 #                               0,0,0,0,0,0,64
 
