@@ -209,7 +209,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/_rx3Ib9tL41p8MCkGo1PP" target="_blank">
+    <a href="https://ic.byteglow.com/modron/BAt7OV1uE-wNGs8o8V79p" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
@@ -219,7 +219,7 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
             UniQP
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/_rx3Ib9tL41p8MCkGo1PP
+            ic.byteglow.com/modron/BAt7OV1uE-wNGs8o8V79p
         </span>
         <span class="modronRecord">
             2
