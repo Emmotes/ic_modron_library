@@ -51,7 +51,7 @@
                     <label for="Circle Magic">Dynaheir: Circle Magic</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Constitution
+                +2 Constitution
             </span>
             </span>
         </span>
@@ -158,6 +158,91 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/t5N5een-w8gjhTS37X0Kf" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Circle Magic,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/t5N5een-w8gjhTS37X0Kf
+        </span>
+        <span class="modronDamageBuffed">
+            1.39e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/t5N5een-w8gjhTS37X0Kf" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Circle Magic,Wolf Pack" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/t5N5een-w8gjhTS37X0Kf
+        </span>
+        <span class="modronDamageBuffed">
+            1.39e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/U8o2y_ATayNDoUuHJPc3q" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Circle Magic,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/U8o2y_ATayNDoUuHJPc3q
+        </span>
+        <span class="modronDamageBuffed">
+            2.57e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/U8o2y_ATayNDoUuHJPc3q" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Circle Magic,Wolf Pack" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/U8o2y_ATayNDoUuHJPc3q
+        </span>
+        <span class="modronDamageBuffed">
+            2.57e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/MOgrRfFbXjmIBuNZu3_1L" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Circle Magic" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/MOgrRfFbXjmIBuNZu3_1L
+        </span>
+        <span class="modronDamageBuffed">
+            9.45e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/BoKzBuQQ_gwJbctPbz0FM" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -220,6 +305,23 @@
         </span>
         <span class="modronDamageBuffed">
             2.32e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/4CdqOAEO34lRRIVb9UzV5" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Circle Magic" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/4CdqOAEO34lRRIVb9UzV5
+        </span>
+        <span class="modronDamageBuffed">
+            1.77e36%
         </span>
     </span>
 {::nomarkdown}

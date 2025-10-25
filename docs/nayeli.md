@@ -53,7 +53,7 @@
                     <label for="Circle Magic">Dynaheir: Circle Magic</label>
                 </span>
             <span class="buffboxRowContent">
-                +1 Constitution
+                +2 Constitution
             </span>
             </span>
         </span>
