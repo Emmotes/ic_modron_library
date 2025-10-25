@@ -529,6 +529,15 @@
 		{
 			"coreId": 1,
 			"coreLevel": 15,
+			"layoutId": "Lq5qCjvGj_ChnGT9v04iC",
+			"type": "damage",
+			"dps": 1.40E+36,
+			"hidden": true,
+			"championIds": []
+		},
+		{
+			"coreId": 1,
+			"coreLevel": 15,
 			"layoutId": "9lJFx_adXuRdVTNlUTrkO",
 			"type": "damage",
 			"dps": 1.09E+34,
