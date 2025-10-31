@@ -60,6 +60,23 @@
             </span>
             </span>
         </span>
+        <span class="buffboxRow" id="buffboxWitch's Switch">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="4" id="Witch's Switch" value="Witch's Switch">
+                    <label for="Witch's Switch">Skylla: Witch's Switch</label>
+                </span>
+            <span class="buffboxRowContent">
+                Swap Strength and Charisma
+            </span>
+            <span class="buffboxRowContent">
+                Swap Dexterity and Intelligence
+            </span>
+            <span class="buffboxRowContent">
+                Swap Constitution and Wisdom
+            </span>
+            </span>
+        </span>
         <span class="buffboxRow" id="buffboxBest And The Brightest">
             <span class="buffboxRowCol">
                 <span class="buffboxRowRadio">

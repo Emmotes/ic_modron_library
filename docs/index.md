@@ -313,6 +313,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Eric
     </span>
   </a>
+  <a href="skylla.html">
+    <span class="championLink" id="skylla" style="background-image:url(images/portraits/thumbs/skylla.png)">
+      Skylla
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">

@@ -56,6 +56,23 @@
             </span>
             </span>
         </span>
+        <span class="buffboxRow" id="buffboxWitch's Switch">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="4" id="Witch's Switch" value="Witch's Switch">
+                    <label for="Witch's Switch">Skylla: Witch's Switch</label>
+                </span>
+            <span class="buffboxRowContent">
+                Swap Strength and Charisma
+            </span>
+            <span class="buffboxRowContent">
+                Swap Dexterity and Intelligence
+            </span>
+            <span class="buffboxRowContent">
+                Swap Constitution and Wisdom
+            </span>
+            </span>
+        </span>
         <span class="buffboxRow" id="buffboxBest And The Brightest">
             <span class="buffboxRowCol">
                 <span class="buffboxRowRadio">
@@ -122,6 +139,23 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="Witch's Switch,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5
+        </span>
+        <span class="modronDamageBuffed">
+            3.84e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/ME5yZd7N0M22Zo9pT8C8n" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Best And The Brightest,Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -150,6 +184,23 @@
         </span>
         <span class="modronDamageBuffed">
             2.43e43%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ" target="_blank" data-core-id="4" data-buffs="Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic (Non-Magic Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/c23hOzJAH6rdvgsf5yKeZ
+        </span>
+        <span class="modronDamageBuffed">
+            1.82e41%
         </span>
     </span>
 {::nomarkdown}
@@ -207,6 +258,23 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Xzh26vGh4j3A2MDbQS6na" target="_blank" data-core-id="2" data-buffs="Witch's Switch,Best And The Brightest,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/Xzh26vGh4j3A2MDbQS6na
+        </span>
+        <span class="modronDamageBuffed">
+            1.54e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/sGv2PkfUhcXsZAEQEDdvy" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Best And The Brightest,Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -241,6 +309,23 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/HH_3nQBXc5mRXZI8HNNLb" target="_blank" data-core-id="1" data-buffs="Witch's Switch,Best And The Brightest,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/HH_3nQBXc5mRXZI8HNNLb
+        </span>
+        <span class="modronDamageBuffed">
+            2.37e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/-IZN07vLwS5kudzxlDoRq" target="_blank" data-core-id="2" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
@@ -252,6 +337,40 @@
         </span>
         <span class="modronDamage">
             1.16e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/TxtpeU_wgArAY_tsbqAgo" target="_blank" data-core-id="2" data-buffs="Witch's Switch,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/TxtpeU_wgArAY_tsbqAgo
+        </span>
+        <span class="modronDamageBuffed">
+            1.06e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/xY0sQ3zH1LoCIK7BdL5XV" target="_blank" data-core-id="2" data-buffs="Witch's Switch,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/xY0sQ3zH1LoCIK7BdL5XV
+        </span>
+        <span class="modronDamageBuffed">
+            1.06e39%
         </span>
     </span>
 {::nomarkdown}
@@ -309,6 +428,40 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/e5OmkTd-eIFqA_s4ytR7o" target="_blank" data-core-id="1" data-buffs="Witch's Switch,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/e5OmkTd-eIFqA_s4ytR7o
+        </span>
+        <span class="modronDamageBuffed">
+            1.72e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Znk6rGLHPxYwLFluAnBrD" target="_blank" data-core-id="1" data-buffs="Witch's Switch,Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/Znk6rGLHPxYwLFluAnBrD
+        </span>
+        <span class="modronDamageBuffed">
+            1.63e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/80K7ITgZH227LMZ8Z-Xr2" target="_blank" data-core-id="4" data-buffs="Feats to Spare,Best And The Brightest" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -326,6 +479,23 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/wThW6GV-GDwc5Wswfl6ZR" target="_blank" data-core-id="2" data-buffs="Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/wThW6GV-GDwc5Wswfl6ZR
+        </span>
+        <span class="modronDamageBuffed">
+            7.32e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/ZfqWE2FZDktWsEoi_xi9K" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
@@ -337,6 +507,23 @@
         </span>
         <span class="modronDamage">
             1.58e36%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/JvqZyCZo0U5jNchOxbIuz" target="_blank" data-core-id="1" data-buffs="Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/JvqZyCZo0U5jNchOxbIuz
+        </span>
+        <span class="modronDamageBuffed">
+            1.19e36%
         </span>
     </span>
 {::nomarkdown}

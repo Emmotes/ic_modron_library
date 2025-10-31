@@ -58,6 +58,23 @@
             </span>
             </span>
         </span>
+        <span class="buffboxRow" id="buffboxWitch's Switch">
+            <span class="buffboxRowCol">
+                <span class="buffboxRowCheck">
+                    <input type="checkbox" name="4" id="Witch's Switch" value="Witch's Switch">
+                    <label for="Witch's Switch">Skylla: Witch's Switch</label>
+                </span>
+            <span class="buffboxRowContent">
+                Swap Strength and Charisma
+            </span>
+            <span class="buffboxRowContent">
+                Swap Dexterity and Intelligence
+            </span>
+            <span class="buffboxRowContent">
+                Swap Constitution and Wisdom
+            </span>
+            </span>
+        </span>
         <span class="buffboxRow" id="buffboxBest And The Brightest">
             <span class="buffboxRowCol">
                 <span class="buffboxRowRadio">
@@ -104,6 +121,23 @@
         </span>
     </span>
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66" target="_blank" data-core-id="4" data-buffs="Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66
+        </span>
+        <span class="modronDamageBuffed">
+            3.52e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/US5TI1OjPAdgnZpKVKXwB" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
@@ -131,6 +165,26 @@
             ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
         </span>
         <span class="modronDamage">
+            1.15e49%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/W08yr0Hrmfq2J9qzZGRaB" target="_blank" data-core-id="7" data-buffs="Feats to Spare,Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/W08yr0Hrmfq2J9qzZGRaB
+        </span>
+        <span class="modronDamageBuffed">
             1.15e49%
         </span>
         <span class="modronVariable">
@@ -174,9 +228,68 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0" target="_blank" data-core-id="1" data-buffs="Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0
+        </span>
+        <span class="modronDamageBuffed">
+            1.50e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/rDs4JTqcYvj3sbxPXmJ-4" target="_blank" data-core-id="2" data-buffs="Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/rDs4JTqcYvj3sbxPXmJ-4
+        </span>
+        <span class="modronDamageBuffed">
+            1.31e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 The Magic and Unaffiliated cores are so far ahead of the other cores that they are really the only choices for Celeste. Choose whichever you have the more favourable pipes for - though I would not recommend the Magic core as it doesn't have any health nodes.
+
+{::nomarkdown}
+<span id="mixedUnaffDexTable" hidden>
+{:/nomarkdown}
+
+
+Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Celeste only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
+
+| Core | Num Unaffiliated in Formation | Total Damage | | Core | Num 15+ Dex in Formation | Total Damage |
+|---|---|---|---|---|---|---|
+| Unaffiliated | 10 | 1.04e53% | | Dexterous | 10 | 1.04e53% |
+| Unaffiliated | 9 | 6.81e52% | | Dexterous | 9 | 6.81e52% |
+| Unaffiliated | 8 | 4.26e52% | | Dexterous | 8 | 4.26e52% |
+| Unaffiliated | 7 | 2.50e52% | | Dexterous | 7 | 2.50e52% |
+| Unaffiliated | 6 | 1.35e52% | | Dexterous | 6 | 1.35e52% |
+| Unaffiliated | 5 | 6.56e51% | | Dexterous | 5 | 6.56e51% |
+| Unaffiliated | 4 | 2.70e51% | | Dexterous | 4 | 2.70e51% |
+| Unaffiliated | 3 | 8.63e50% | | Dexterous | 3 | 8.63e50% |
+| Unaffiliated | 2 | 1.74e50% | | Dexterous | 2 | 1.74e50% |
+| Unaffiliated | 1 | 1.15e49% | | Dexterous | 1 | 1.15e49% |
+
+{::nomarkdown}
+</span><span id="unaffTable">
+{:/nomarkdown}
+
 
 Note that the damage of the Unaffiliated core varies depending on the number of unaffiliated champions in the formation. The damage numbers on the layout above account for just 1 (Celeste only). For a specific breakdown of how the core fares with more unaffiliated champions - check the table below.
 
@@ -192,6 +305,11 @@ Note that the damage of the Unaffiliated core varies depending on the number of 
 | Unaffiliated | 3 | 8.63e50% |
 | Unaffiliated | 2 | 1.74e50% |
 | Unaffiliated | 1 | 1.15e49% |
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
 
 [Back to Top](#top)
 

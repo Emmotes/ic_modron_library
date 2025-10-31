@@ -1,19 +1,17 @@
 [Back to Main](index.md)
 
-<span id="gromma">
-![Gromma Portrait](images/portraits/gromma.png)
+<span id="skylla">
+![Skylla Portrait](images/portraits/skylla.png)
 </span>
 
-# Gromma
+# Skylla
 
-<span class="champIntro">Gromma is unaffiliated and normally benefits from the following stat nodes:</span>
+<span class="champIntro">Skylla is supposed to be unaffiliated (but lacks the tag for it and so technically isn't) and normally benefits from the following stat nodes:</span>
 
 {::nomarkdown}
 <div id="champStats">
 {:/nomarkdown}
-* 13+ Strength
 * 13+ Constitution
-* 13+ Intelligence (with Feat)
 * 13+ Wisdom
 * 13+ Charisma
 
@@ -22,7 +20,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Gromma is normally a melee champion but her Swamp specialisation will make her a magic attacker instead - and that is the specialisation you will use if she's a DPS.</span>
+<span class="champIntro">Skylla is a magic champion.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -30,7 +28,7 @@
         <span class="buffboxRow" id="buffboxNone">
             <span class="buffboxRowCol">
                 <span class="buffboxRowNone">
-                    Gromma does not gain the benefit of extra stat nodes from any stat increasing formation abilities.
+                    Skylla does not gain the benefit of extra stat nodes from any stat increasing formation abilities.
                 </span>
             </span>
         </span>
@@ -122,7 +120,7 @@
         </span>
     </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/tOjND8g1reUg7l_i9NYYF" target="_blank" data-core-id="4" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/tOjND8g1reUg7l_i9NYYF" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -131,7 +129,7 @@
         <span class="modronLink">
             ic.byteglow.com/modron/tOjND8g1reUg7l_i9NYYF
         </span>
-        <span class="modronDamage">
+        <span class="modronDamageBuffed">
             4.17e53%
         </span>
     </span>
@@ -139,7 +137,24 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66" target="_blank" data-core-id="4" data-buffs="Witch's Switch" hidden>
+    <a href="https://ic.byteglow.com/modron/tOjND8g1reUg7l_i9NYYF" target="_blank" data-core-id="4" data-buffs="Feats to Spare" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/tOjND8g1reUg7l_i9NYYF
+        </span>
+        <span class="modronDamageBuffed">
+            4.17e53%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -148,28 +163,8 @@
         <span class="modronLink">
             ic.byteglow.com/modron/py0fM4EedKfIniT2SGw66
         </span>
-        <span class="modronDamageBuffed">
-            3.52e49%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt" target="_blank" data-core-id="6" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt
-        </span>
         <span class="modronDamage">
-            1.15e49%
-        </span>
-        <span class="modronVariable">
-            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
+            3.52e49%
         </span>
     </span>
 {::nomarkdown}
@@ -196,84 +191,50 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/wobeCc5uTsahDCYO7SNFh" target="_blank" data-core-id="1" data-buffs="Samurai Training" hidden>
+    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ" target="_blank" data-core-id="1" data-buffs="Best And The Brightest,Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/wobeCc5uTsahDCYO7SNFh
+            ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
         </span>
         <span class="modronDamageBuffed">
-            2.60e44%
+            2.18e42%
         </span>
     </span>
 {::nomarkdown}
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/elqOcFEB-wuahwbAxTYvF" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
+    <a href="https://ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ" target="_blank" data-core-id="1" data-buffs="Feats to Spare,Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/I_8g095yWaHD-a-z3QeAJ
+        </span>
+        <span class="modronDamageBuffed">
+            2.18e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/7KJjraFMsPZ3X_al-oJQC" target="_blank" data-core-id="2" data-buffs="Best And The Brightest,Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/elqOcFEB-wuahwbAxTYvF
+            ic.byteglow.com/modron/7KJjraFMsPZ3X_al-oJQC
         </span>
         <span class="modronDamageBuffed">
-            2.76e43%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/Y1pF93flVx7pbymbjEdfV" target="_blank" data-core-id="1" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/Y1pF93flVx7pbymbjEdfV
-        </span>
-        <span class="modronDamage">
-            1.79e42%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/8xk-F-EFTQ0B8YUavcOLj" target="_blank" data-core-id="1" data-buffs="Witch's Switch" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/8xk-F-EFTQ0B8YUavcOLj
-        </span>
-        <span class="modronDamageBuffed">
-            1.79e42%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/rWGJH__w8BsCOiVJ8ZjrP" target="_blank" data-core-id="2" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/rWGJH__w8BsCOiVJ8ZjrP
-        </span>
-        <span class="modronDamage">
             1.90e41%
         </span>
     </span>
@@ -281,17 +242,153 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/pHkq18UE_TXwPYzI0aXRb" target="_blank" data-core-id="2" data-buffs="Witch's Switch" hidden>
+    <a href="https://ic.byteglow.com/modron/7KJjraFMsPZ3X_al-oJQC" target="_blank" data-core-id="2" data-buffs="Feats to Spare,Samurai Training" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/pHkq18UE_TXwPYzI0aXRb
+            ic.byteglow.com/modron/7KJjraFMsPZ3X_al-oJQC
         </span>
         <span class="modronDamageBuffed">
             1.90e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko" target="_blank" data-core-id="1" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko
+        </span>
+        <span class="modronDamageBuffed">
+            1.50e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko" target="_blank" data-core-id="1" data-buffs="Feats to Spare" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/GVzF80oaJtc0Nm_DA9Mko
+        </span>
+        <span class="modronDamageBuffed">
+            1.50e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0" target="_blank" data-core-id="1" data-buffs="Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/G6VezXEgRas4EsTfbUfw0
+        </span>
+        <span class="modronDamageBuffed">
+            1.50e40%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/yhFwvNRGsDdRmWy31MRnQ" target="_blank" data-core-id="2" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/yhFwvNRGsDdRmWy31MRnQ
+        </span>
+        <span class="modronDamageBuffed">
+            1.31e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/yhFwvNRGsDdRmWy31MRnQ" target="_blank" data-core-id="2" data-buffs="Feats to Spare" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/yhFwvNRGsDdRmWy31MRnQ
+        </span>
+        <span class="modronDamageBuffed">
+            1.31e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/rDs4JTqcYvj3sbxPXmJ-4" target="_blank" data-core-id="2" data-buffs="Samurai Training" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/rDs4JTqcYvj3sbxPXmJ-4
+        </span>
+        <span class="modronDamageBuffed">
+            1.31e39%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/6XeOgeeTMx4w-kRz0Xfxp" target="_blank" data-core-id="1" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/6XeOgeeTMx4w-kRz0Xfxp
+        </span>
+        <span class="modronDamage">
+            1.04e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/FrSv6Sxd9e-inZhQMQQN3" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/FrSv6Sxd9e-inZhQMQQN3
+        </span>
+        <span class="modronDamage">
+            9.06e36%
         </span>
     </span>
 {::nomarkdown}
@@ -299,47 +396,27 @@
 {:/nomarkdown}
 </span>
 
-The Magic core is far enough ahead of the Unaffiliated core that it's the best one to use for Gromma. That said - you could potentially use the Unaffiliated core if the pipes you have favour it. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
+The Magic core is so far ahead of the other cores that it's really the only choice for Skylla. Though it is worth noting that it doesn't have any health nodes.
 
 {::nomarkdown}
-<span id="mixedUnaffDexTable" hidden>
+<span id="dexTable" hidden>
 {:/nomarkdown}
 
 
-Note that the damage of the Unaffiliated and Dexterous cores vary depending on the number of unaffiliated or 15+ Dexterity champions (respectively) in the formation. The damage numbers on the layout above account for just 1 (Gromma only). For a specific breakdown of how the cores fare with more unaffiliated or 15+ Dexterity champions - check the tables below.
+Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Skylla only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
 
-| Core | Num Unaffiliated in Formation | Total Damage | | Core | Num 15+ Dex in Formation | Total Damage |
-|---|---|---|---|---|---|---|
-| Unaffiliated | 10 | 1.04e53% | | Dexterous | 10 | 1.04e53% |
-| Unaffiliated | 9 | 6.81e52% | | Dexterous | 9 | 6.81e52% |
-| Unaffiliated | 8 | 4.26e52% | | Dexterous | 8 | 4.26e52% |
-| Unaffiliated | 7 | 2.50e52% | | Dexterous | 7 | 2.50e52% |
-| Unaffiliated | 6 | 1.35e52% | | Dexterous | 6 | 1.35e52% |
-| Unaffiliated | 5 | 6.56e51% | | Dexterous | 5 | 6.56e51% |
-| Unaffiliated | 4 | 2.70e51% | | Dexterous | 4 | 2.70e51% |
-| Unaffiliated | 3 | 8.63e50% | | Dexterous | 3 | 8.63e50% |
-| Unaffiliated | 2 | 1.74e50% | | Dexterous | 2 | 1.74e50% |
-| Unaffiliated | 1 | 1.15e49% | | Dexterous | 1 | 1.15e49% |
-
-{::nomarkdown}
-</span><span id="unaffTable">
-{:/nomarkdown}
-
-
-Note that the damage of the Unaffiliated core varies depending on the number of unaffiliated champions in the formation. The damage numbers on the layout above account for just 1 (Gromma only). For a specific breakdown of how the core fares with more unaffiliated champions - check the table below.
-
-| Core | Num Unaffiliated in Formation | Total Damage |
+| Core | Num 15+ Dex in Formation | Total Damage |
 |---|---|---|
-| Unaffiliated | 10 | 1.04e53% |
-| Unaffiliated | 9 | 6.81e52% |
-| Unaffiliated | 8 | 4.26e52% |
-| Unaffiliated | 7 | 2.50e52% |
-| Unaffiliated | 6 | 1.35e52% |
-| Unaffiliated | 5 | 6.56e51% |
-| Unaffiliated | 4 | 2.70e51% |
-| Unaffiliated | 3 | 8.63e50% |
-| Unaffiliated | 2 | 1.74e50% |
-| Unaffiliated | 1 | 1.15e49% |
+| Dexterous | 10 | 1.04e53% |
+| Dexterous | 9 | 6.81e52% |
+| Dexterous | 8 | 4.26e52% |
+| Dexterous | 7 | 2.50e52% |
+| Dexterous | 6 | 1.35e52% |
+| Dexterous | 5 | 6.56e51% |
+| Dexterous | 4 | 2.70e51% |
+| Dexterous | 3 | 8.63e50% |
+| Dexterous | 2 | 1.74e50% |
+| Dexterous | 1 | 1.15e49% |
 
 {::nomarkdown}
 </span>
