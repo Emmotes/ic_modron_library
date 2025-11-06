@@ -16,6 +16,7 @@
 * 15+ Dexterity
 * 13+ Constitution
 * 13+ Intelligence
+* 13+ Charisma (with Feat)
 
 {::nomarkdown}
 </div>
@@ -139,7 +140,7 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yCOf6JkDOJA07gVqpOm5t" target="_blank" data-core-id="4" data-buffs="Smooth Negotiators" hidden>
+    <a href="https://ic.byteglow.com/modron/yCOf6JkDOJA07gVqpOm5t" target="_blank" data-core-id="4" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -148,7 +149,7 @@
         <span class="modronLink">
             ic.byteglow.com/modron/yCOf6JkDOJA07gVqpOm5t
         </span>
-        <span class="modronDamageBuffed">
+        <span class="modronDamage">
             2.21e49%
         </span>
     </span>
@@ -176,24 +177,7 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/POqxrC8GsE2yuyH32qVs8" target="_blank" data-core-id="4" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/POqxrC8GsE2yuyH32qVs8
-        </span>
-        <span class="modronDamage">
-            1.20e45%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank" data-core-id="1" data-buffs="Smooth Negotiators" hidden>
+    <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
@@ -202,8 +186,42 @@
         <span class="modronLink">
             ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E
         </span>
-        <span class="modronDamageBuffed">
+        <span class="modronDamage">
             4.43e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/dqiI3WxKx8gYnqFFrmddG" target="_blank" data-core-id="1" data-buffs="Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/dqiI3WxKx8gYnqFFrmddG
+        </span>
+        <span class="modronDamageBuffed">
+            2.94e42%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/H8TK3pxjZneEx4U0KKJP3" target="_blank" data-core-id="2" data-buffs="Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/H8TK3pxjZneEx4U0KKJP3
+        </span>
+        <span class="modronDamageBuffed">
+            1.99e41%
         </span>
     </span>
 {::nomarkdown}
@@ -226,60 +244,9 @@
 {::nomarkdown}
     </a>
 {:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/sGv2PkfUhcXsZAEQEDdvy" target="_blank" data-core-id="1" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/sGv2PkfUhcXsZAEQEDdvy
-        </span>
-        <span class="modronDamage">
-            3.33e40%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/HH_3nQBXc5mRXZI8HNNLb" target="_blank" data-core-id="1" data-buffs="Witch's Switch" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Modest Core](images/core_1_modest.png)Modest
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/HH_3nQBXc5mRXZI8HNNLb
-        </span>
-        <span class="modronDamageBuffed">
-            2.37e40%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/IrcwCZtz0yoyNlPVZGTZQ" target="_blank" data-core-id="2" data-buffs="Witch's Switch" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/IrcwCZtz0yoyNlPVZGTZQ
-        </span>
-        <span class="modronDamageBuffed">
-            1.37e39%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
 </span>
 
-The Dexterous core is far enough ahead of the Magic core that it's the best one to use for Widdle. I do not recommend even trying the Magic core because it doesn't have any health nodes.
+The Magic and Dexterous cores are so far ahead of the other cores that they are really the only choices for Widdle. Choose whichever you have the more favourable pipes for - though I would not recommend the Magic core as it doesn't have any health nodes.
 
 Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Widdle only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
 
