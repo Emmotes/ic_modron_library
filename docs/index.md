@@ -453,6 +453,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Kas
     </span>
   </a>
+  <a href="lark.html">
+    <span class="championLink" id="lark" style="background-image:url(images/portraits/thumbs/lark.png)">
+      Lark
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
