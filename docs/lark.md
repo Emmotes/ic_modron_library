@@ -280,7 +280,22 @@
 
 The Magic core is so far ahead of the other cores that it's really the only choice for Lark. Though it is worth noting that it doesn't have any health nodes.
 
+{::nomarkdown}
+<span id="mixedUnaffDexTable" hidden>
+{:/nomarkdown}
+
 Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+
+{::nomarkdown}
+</span><span id="unaffTable">
+{:/nomarkdown}
+
+&nbsp;
+
+{::nomarkdown}
+</span>
+{:/nomarkdown}
+
 
 [Back to Top](#top)
 
