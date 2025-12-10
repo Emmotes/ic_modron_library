@@ -6,7 +6,7 @@
 
 # Lae'zel
 
-<span class="champIntro">Lae'zel is in the Absolute Adversaries affiliation and normally benefits from the following stat nodes:</span>
+<span class="champIntro">Lae'zel is in the Absolute Adversaries affiliation, Lawful Evil and normally benefits from the following stat nodes:</span>
 
 {::nomarkdown}
 <div id="champStats">
@@ -20,7 +20,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Lae'zel is a melee champion.</span>
+<span class="champIntro">Lae'zel is normally a melee champion but she can become magic after choosing her Eldritch Knight specialisation. This means she can potentially benefit from both Melee and Magic nodes.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -120,6 +120,43 @@
         </span>
     </span>
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/tOjND8g1reUg7l_i9NYYF" target="_blank" data-core-id="4" data-buffs="Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/tOjND8g1reUg7l_i9NYYF
+        </span>
+        <span class="modronDamageBuffed">
+            4.17e53%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/IVfssG_YJCMImWPaOgzKT" target="_blank" data-core-id="8" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Lawful Core](images/core_8_lawful.png)Lawful
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/IVfssG_YJCMImWPaOgzKT
+        </span>
+        <span class="modronDamage">
+            9.03e47%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/UFBP5fZasLTvqf_bkqfx5" target="_blank" data-core-id="4" data-buffs="Witch's Switch" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -131,6 +168,40 @@
         </span>
         <span class="modronDamageBuffed">
             3.84e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/POqxrC8GsE2yuyH32qVs8" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/POqxrC8GsE2yuyH32qVs8
+        </span>
+        <span class="modronDamageBuffed">
+            1.20e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/POqxrC8GsE2yuyH32qVs8" target="_blank" data-core-id="4" data-buffs="Feats to Spare" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/POqxrC8GsE2yuyH32qVs8
+        </span>
+        <span class="modronDamageBuffed">
+            1.20e45%
         </span>
     </span>
 {::nomarkdown}
@@ -199,6 +270,23 @@
         </span>
         <span class="modronDamageBuffed">
             1.54e41%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/umP6sO2p9qV1JfI3m7abQ" target="_blank" data-core-id="4" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/umP6sO2p9qV1JfI3m7abQ
+        </span>
+        <span class="modronDamage">
+            7.96e40%
         </span>
     </span>
 {::nomarkdown}
@@ -359,7 +447,9 @@
 {:/nomarkdown}
 </span>
 
-The Strong core is far enough ahead of the Modest core that it's the best one to use for Lae'zel. That said - you could potentially use the Modest core if the pipes you have favour it.
+The Lawful core is so far ahead of the other cores that it's really the only choice for Lae'zel.
+
+Remember that the Lawful Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

@@ -6,7 +6,7 @@
 
 # Donaar
 
-<span class="champIntro">Donaar is in the Acq Inc "C" Team affiliation and normally benefits from the following stat nodes:</span>
+<span class="champIntro">Donaar is in the Acq Inc "C" Team affiliation, Chaotic Good and normally benefits from the following stat nodes:</span>
 
 {::nomarkdown}
 <div id="champStats">
@@ -309,6 +309,8 @@
 </span>
 
 The Magic core is so far ahead of the other cores that it's really the only choice for Donaar. Though it is worth noting that it doesn't have any health nodes.
+
+Remember that the  Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

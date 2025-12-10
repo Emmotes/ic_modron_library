@@ -165,6 +165,26 @@ These designs use the fewest number of pipes to Full Epic a modron. There are no
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/VBBoSbpUQBLljZC7-4Unz" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Lawful Core](images/core_8_lawful.png)Lawful
+        </span>
+        <span class="modronRecordHolders">
+            Emmote
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/VBBoSbpUQBLljZC7-4Unz
+        </span>
+        <span class="modronRecord">
+            68
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 # Minimum Rarity
@@ -328,6 +348,26 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/9u8xj0tnWS7b_e61O9BUS" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Lawful Core](images/core_8_lawful.png)Lawful
+        </span>
+        <span class="modronRecordHolders">
+            Darkbolt
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/9u8xj0tnWS7b_e61O9BUS
+        </span>
+        <span class="modronRecord">
+            10
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 # Minimum Level Supercharge
@@ -486,6 +526,26 @@ These designs try to get at least one supercharged node while still retaining at
         </span>
         <span class="modronRecord">
             8
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/Jj0HQUeuXB1rfhiEydYM0" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Lawful Core](images/core_8_lawful.png)Lawful
+        </span>
+        <span class="modronRecordHolders">
+            Darkbolt
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/Jj0HQUeuXB1rfhiEydYM0
+        </span>
+        <span class="modronRecord">
+            2
         </span>
     </span>
 {::nomarkdown}

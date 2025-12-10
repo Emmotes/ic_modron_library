@@ -20,6 +20,7 @@ muffcjqL3qh73UfEKSZ09,4,0
 dpjIZXaWPlY2eSQlDFRBS,5,0
 4lqk39rLpOcqz9U1pojVF,6,0
 OKIX66tiHGGfj7VZnZxDL,7,0
+yncYdc3SdIHAjzVHDXVXb,8,0
 
 # ===================================
 # ==== Tier 1: Now We're Flowing ====
@@ -32,6 +33,7 @@ nOezWKDAaudHBveIcqTCM,3,1
 VpXiPUQcapFGVtdmEvw6K,5,1
 trCCiKffGxG_talqlpZpa,6,1
 3x8kabhdP9vqd9BgYQuLX,7,1
+FTyuR5_u7P-GqjBECGHpO,8,1
 
 # ===========================
 # ==== Tier 2: Flow Shui ====
@@ -44,6 +46,7 @@ LI4aVDOyYdOreT-GsbNWF,4,2
 UZyXpoTAZi_pkDzpBLMoB,5,2
 yOEfAk0bySOnVnqUbKoAZ,6,2
 QXof7-6PGEM62LAbHXtI9,7,2
+#                     8,2 NOT POSSIBLE
 
 # =======================================
 # ==== Tier 3: Infinite Cosmic Power ====
@@ -56,6 +59,7 @@ QXof7-6PGEM62LAbHXtI9,7,2
 _z85vEeBAqIN3OZ3fZFjc,5,3
 n0dIctU7j62SU1AWsDl52,6,3
 UQfQ1AeRVbE0Ooy5vUT6Q,7,3
+#                     8,3 NOT POSSIBLE
 
 # ============================
 # ==== Tier 4: Pipe Dream ====
@@ -68,3 +72,4 @@ UQfQ1AeRVbE0Ooy5vUT6Q,7,3
 #                     5,4 NOT POSSIBLE
 WNzMofUqhm4X1fr7zFMY0,6,4
 JSF2NUEtdg3yGoTSbM0Oq,7,4
+#                     8,4 NOT POSSIBLE

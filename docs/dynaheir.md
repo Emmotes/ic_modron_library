@@ -6,7 +6,7 @@
 
 # Dynaheir
 
-<span class="champIntro">Dynaheir is in the Heroes of Baldur's Gate affiliation and normally benefits from the following stat nodes:</span>
+<span class="champIntro">Dynaheir is in the Heroes of Baldur's Gate affiliation, Lawful Good and normally benefits from the following stat nodes:</span>
 
 {::nomarkdown}
 <div id="champStats">
@@ -135,7 +135,7 @@
             1.15e49%
         </span>
         <span class="modronVariable">
-            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
         </span>
     </span>
 {::nomarkdown}
@@ -155,7 +155,27 @@
             1.15e49%
         </span>
         <span class="modronVariable">
-            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/IVfssG_YJCMImWPaOgzKT" target="_blank" data-core-id="8" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Lawful Core](images/core_8_lawful.png)Lawful
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/IVfssG_YJCMImWPaOgzKT
+        </span>
+        <span class="modronDamage">
+            9.03e47%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
         </span>
     </span>
 {::nomarkdown}
@@ -282,27 +302,19 @@
 {:/nomarkdown}
 </span>
 
-The Magic (Non-Magic Variant) core is far enough ahead of the other cores that it's the best one to use for Dynaheir. That said - you could potentially use the Modest or Strong (Non-Melee Variant) core if the pipes you have favours one of them. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
+The Lawful core is far enough ahead of the Magic (Non-Magic Variant) core that it's the best one to use for Dynaheir. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
 {::nomarkdown}
-<span id="dexTable" hidden>
+<span id="mixedUnaffDexTable" hidden>
 {:/nomarkdown}
 
+Remember that the Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
 
-Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Dynaheir only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
+{::nomarkdown}
+</span><span id="unaffTable">
+{:/nomarkdown}
 
-| Core | Num 15+ Dex in Formation | Total Damage |
-|---|---|---|
-| Dexterous | 10 | 1.04e53% |
-| Dexterous | 9 | 6.81e52% |
-| Dexterous | 8 | 4.26e52% |
-| Dexterous | 7 | 2.50e52% |
-| Dexterous | 6 | 1.35e52% |
-| Dexterous | 5 | 6.56e51% |
-| Dexterous | 4 | 2.70e51% |
-| Dexterous | 3 | 8.63e50% |
-| Dexterous | 2 | 1.74e50% |
-| Dexterous | 1 | 1.15e49% |
+Remember that the Lawful Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
 
 {::nomarkdown}
 </span>

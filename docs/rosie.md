@@ -6,7 +6,7 @@
 
 # Rosie
 
-<span class="champIntro">Rosie is in the Acq Inc "C" Team affiliation and normally benefits from the following stat nodes:</span>
+<span class="champIntro">Rosie is in the Acq Inc "C" Team affiliation, Chaotic Good and normally benefits from the following stat nodes:</span>
 
 {::nomarkdown}
 <div id="champStats">
@@ -136,7 +136,7 @@
             1.15e49%
         </span>
         <span class="modronVariable">
-            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the damage table(s) below for details.</span>
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
         </span>
     </span>
 {::nomarkdown}
@@ -248,20 +248,7 @@
 
 The Dexterous core is far enough ahead of the Magic (Non-Magic Variant) core that it's the best one to use for Rosie. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
-Note that the damage of the Dexterous core varies depending on the number of 15+ Dexterity champions in the formation. The damage numbers on the layout above account for just 1 (Rosie only). For a specific breakdown of how the core fares with more 15+ Dexterity champions - check the table below.
-
-| Core | Num 15+ Dex in Formation | Total Damage |
-|---|---|---|
-| Dexterous | 10 | 1.04e53% |
-| Dexterous | 9 | 6.81e52% |
-| Dexterous | 8 | 4.26e52% |
-| Dexterous | 7 | 2.50e52% |
-| Dexterous | 6 | 1.35e52% |
-| Dexterous | 5 | 6.56e51% |
-| Dexterous | 4 | 2.70e51% |
-| Dexterous | 3 | 8.63e50% |
-| Dexterous | 2 | 1.74e50% |
-| Dexterous | 1 | 1.15e49% |
+Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

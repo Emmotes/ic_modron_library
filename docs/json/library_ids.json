@@ -250,7 +250,8 @@
 				115,
 				117,
 				142,
-				158
+				158,
+				170
 			]
 		},
 		{
@@ -1247,7 +1248,8 @@
 				115,
 				117,
 				147,
-				158
+				158,
+				170
 			]
 		},
 		{
@@ -1475,7 +1477,8 @@
 				106,
 				115,
 				142,
-				159
+				159,
+				170
 			]
 		},
 		{
@@ -1534,7 +1537,8 @@
 			"type": "damage",
 			"dps": 7.96E+40,
 			"championIds": [
-				87
+				87,
+				128
 			]
 		},
 		{
@@ -1883,6 +1887,62 @@
 			]
 		},
 		{
+			"coreId": 8,
+			"coreLevel": 15,
+			"layoutId": "IVfssG_YJCMImWPaOgzKT",
+			"type": "damage",
+			"dps": 9.03E+47,
+			"championIds": [
+				2,
+				3,
+				6,
+				14,
+				16,
+				18,
+				19,
+				21,
+				24,
+				27,
+				30,
+				37,
+				43,
+				44,
+				46,
+				49,
+				52,
+				53,
+				54,
+				65,
+				67,
+				69,
+				72,
+				75,
+				81,
+				86,
+				99,
+				100,
+				119,
+				121,
+				125,
+				126,
+				127,
+				128,
+				136,
+				139,
+				141,
+				145,
+				148,
+				149,
+				150,
+				151,
+				158,
+				162,
+				163,
+				165,
+				168
+			]
+		},
+		{
 			"coreId": 1,
 			"coreLevel": 15,
 			"layoutId": "4feomsv7zyfR8TwKJxEns",
@@ -1946,6 +2006,15 @@
 			"championIds": []
 		},
 		{
+			"coreId": 8,
+			"coreLevel": 15,
+			"layoutId": "yncYdc3SdIHAjzVHDXVXb",
+			"type": "achievement",
+			"dps": 0,
+			"comment": "Severely Underpowered",
+			"championIds": []
+		},
+		{
 			"coreId": 1,
 			"coreLevel": 15,
 			"layoutId": "iyChfx2296evcJfrAadzT",
@@ -2003,6 +2072,15 @@
 			"coreId": 7,
 			"coreLevel": 15,
 			"layoutId": "3x8kabhdP9vqd9BgYQuLX",
+			"type": "achievement",
+			"dps": 0,
+			"comment": "Tier 1: Now We're Flowing",
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 15,
+			"layoutId": "FTyuR5_u7P-GqjBECGHpO",
 			"type": "achievement",
 			"dps": 0,
 			"comment": "Tier 1: Now We're Flowing",
@@ -3368,6 +3446,183 @@
 			"championIds": []
 		},
 		{
+			"coreId": 8,
+			"coreLevel": 1,
+			"layoutId": "yh5ALV82nlJnBulf97vDl",
+			"type": "reference",
+			"dps": 4.24E+4,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 1,
+			"layoutId": "6EIAsXjEYPtEB1ra1zgNS",
+			"type": "reference",
+			"dps": 4.24E+4,
+			"authors": [
+				"Emmote"
+			],
+			"comment": "No Cross Pipes",
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 2,
+			"layoutId": "bUza0FucZ8Bps3qJMeO4A",
+			"type": "reference",
+			"dps": 4.68E+6,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 3,
+			"layoutId": "eBG0aGqGWSAm-EFeSC-RI",
+			"type": "reference",
+			"dps": 4.33E+9,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 4,
+			"layoutId": "jKbS5rdL-Uku5xWFrZbOA",
+			"type": "reference",
+			"dps": 7.36E+10,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 5,
+			"layoutId": "6QvgVgVWrTeUA-RmihGuI",
+			"type": "reference",
+			"dps": 1.40E+12,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 6,
+			"layoutId": "kXgxTyR1fVJpMlRaxJi4b",
+			"type": "reference",
+			"dps": 2.87E+14,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 7,
+			"layoutId": "h4qxWv_3dhU4b_BD6_l9q",
+			"type": "reference",
+			"dps": 2.39E+17,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 8,
+			"layoutId": "t-UJhJE74ciCm-Rj3nC9z",
+			"type": "reference",
+			"dps": 5.97E+18,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 9,
+			"layoutId": "4XP5kLWR35RNhhIVBh1C9",
+			"type": "reference",
+			"dps": 1.49E+20,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 10,
+			"layoutId": "JEDJJ8BCEEUutWF-hlenr",
+			"type": "reference",
+			"dps": 1.62E+22,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 11,
+			"layoutId": "6rPXBpJhab68ZNAoAh14q",
+			"type": "reference",
+			"dps": 4.11E+23,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 12,
+			"layoutId": "U-6hkYVZK97IsRq6NAfD4",
+			"type": "reference",
+			"dps": 2.89E+26,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 13,
+			"layoutId": "dzzJMhaYLKYKqK1yRU2ke",
+			"type": "reference",
+			"dps": 7.23E+27,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 14,
+			"layoutId": "hUxZ01J7eMoMCaG3fHxsj",
+			"type": "reference",
+			"dps": 3.54E+29,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 15,
+			"layoutId": "U2qvef-VeA4gvbYaICL8F",
+			"type": "reference",
+			"dps": 7.26E+31,
+			"authors": [
+				"Darkbolt"
+			],
+			"championIds": []
+		},
+		{
 			"coreId": 1,
 			"coreLevel": 15,
 			"layoutId": "3RLSXOvfhj-9x1knFdA9B",
@@ -3449,6 +3704,18 @@
 				"Emmote"
 			],
 			"comment": "Min Pipes: 78",
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 15,
+			"layoutId": "VBBoSbpUQBLljZC7-4Unz",
+			"type": "reference",
+			"dps": 7.26E+31,
+			"authors": [
+				"Emmote"
+			],
+			"comment": "Min Pipes: 68",
 			"championIds": []
 		},
 		{
@@ -3540,6 +3807,18 @@
 			"championIds": []
 		},
 		{
+			"coreId": 8,
+			"coreLevel": 15,
+			"layoutId": "9u8xj0tnWS7b_e61O9BUS",
+			"type": "reference",
+			"dps": 7.26E+31,
+			"authors": [
+				"Darkbolt"
+			],
+			"comment": "Min Rarity: 10 Rares",
+			"championIds": []
+		},
+		{
 			"coreId": 1,
 			"coreLevel": 2,
 			"layoutId": "0CEq8FvgfWK36mDitydgP",
@@ -3622,6 +3901,18 @@
 				"Emmote"
 			],
 			"comment": "Min Supercharge: 8",
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 2,
+			"layoutId": "Jj0HQUeuXB1rfhiEydYM0",
+			"type": "reference",
+			"dps": 5.79E+6,
+			"authors": [
+				"Darkbolt"
+			],
+			"comment": "Min Supercharge: 2",
 			"championIds": []
 		}
 	],
@@ -3784,6 +4075,7 @@
 		"169": "skylla",
 		"170": "lark",
 		"171": "anson",
-		"172": "kyre"
+		"172": "kyre",
+		"173": "raistlinmajere"
 	}
 }

@@ -19,6 +19,7 @@
 #         Aerois: Lucius
 #   Unaffiliated: Artemis
 #      Dexterous: Artemis
+#         Lawful: Artemis
 
 # =======================
 # ==== Minimum Pipes ====
@@ -32,6 +33,7 @@ iBpZmEKggkM5IWYOLl9kf,4,15,2.23e35,Emmote,Min Pipes: 76
 taZalpaozjGYfEmEuegt5,5,15,5.05e21,Emmote,Min Pipes: 81
 HHys4x0fUH8rcUPzXzT3y,6,15,4.94e31,Emmote,Min Pipes: 83
 641C3uzNU-JG1tOjyDEp1,7,15,4.94e31,Emmote,Min Pipes: 78
+VBBoSbpUQBLljZC7-4Unz,8,15,7.26e31,Emmote,Min Pipes: 68
 
 # ========================
 # ==== Minimum Rarity ====
@@ -45,6 +47,7 @@ tAEHsyw8mAqbtGKi1AN8L,4,15,2.23e35,UniQP|Emmote|Midander|Retaki,Min Rarity: 7 Ra
 zUnREhDU7__PYvFlDad_B,5,15,5.05e21,UniQP,Min Rarity: 2 Rares
 9CuXJtG5acewlOgKu_R-b,6,15,4.94e31,UniQP,Min Rarity: 0 Rares
 tb3pg-3du5NOKab97s-1c,7,15,4.94e31,UniQP,Min Rarity: 0 Rares
+9u8xj0tnWS7b_e61O9BUS,8,15,7.26e31,Darkbolt,Min Rarity: 10 Rares
 
 # =========================================
 # ==== Minimum Supercharged Core Level ====
@@ -59,3 +62,4 @@ iQFZgLbd4rC_6TcOYRrMa,4,4,1.59e12,UniQP,Min Supercharge: 4
 dQW_3sDcrQdLFwkGUUCm4,5,3,8.07e05,Emmote,Min Supercharge: 3
 lv6HGYAJqqqGart_Hqgam,6,4,4.49e12,Emmote,Min Supercharge: 4
 zTgqPh8-Txh0mFImERhoX,7,8,3.73e22,UniQP|Emmote,Min Supercharge: 8
+Jj0HQUeuXB1rfhiEydYM0,8,2,5.79e06,Darkbolt,Min Supercharge: 2

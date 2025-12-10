@@ -24,7 +24,7 @@ You could always save a layout for each of the DPS champions you use and swap be
 
 If you try to copy/improvise these designs and you lack the pipes to reach 5.2e8 flow (500% bonus) by the time the reference designs stop adding buff boxes - ignore the reference designs and keep adding buff boxes. The reference designs switch to minimal mode purely to save pipes. Your aim is to get as many nodes to 500% bonus as possible - so keep pumping up that flow.
 
-If you're unsure whether you've made the best design you can when you're done - put the Byteglow link in the [#modron_core_layout](https://discord.com/channels/357247482247380994/733401533579788397) channel in the Discord and someone will usually be available to try to help find some optimisations.
+If you're unsure whether you've made the best design you can when you're done - put the Byteglow link in the [#modron_core_layout](https://discord.com/channels/357247482247380994/733401533579788397){:target="_blank"} channel in the Discord and someone will usually be available to try to help find some optimisations.
 
 <span style="font-size:1.2em;">ⓘ</span>  *Note: DPS champions are highlighted by their brighter border.*
 
@@ -1001,6 +1001,20 @@ This achievement requires 1,000 (1.00e3) flow to every node for a 25% supercharg
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/FTyuR5_u7P-GqjBECGHpO" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Lawful Core](images/core_8_lawful.png)Lawful
+        </span>
+        <span class="modronLinkSmall">
+            ic.byteglow.com/modron/FTyuR5_u7P-GqjBECGHpO
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 ## Flow Shui
@@ -1257,6 +1271,20 @@ This achievement requires less than 0.0005 flow to a single node - which just me
 {::nomarkdown}
     </a>
 {:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/yncYdc3SdIHAjzVHDXVXb" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIcon">
+            ![Lawful Core](images/core_8_lawful.png)Lawful
+        </span>
+        <span class="modronLinkSmall">
+            ic.byteglow.com/modron/yncYdc3SdIHAjzVHDXVXb
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
 </span>
 
 
@@ -1270,9 +1298,7 @@ This achievement requires less than 0.0005 flow to a single node - which just me
 
 # Level 1-15 Reference Designs
 
-These reference layouts contain full epic designs for levels 1 through 15. They are to be used as inspiration when levelling up your modron cores.
-
-These designs were built almost exclusively by `Retaki` in their [Modron Core Piping Strategies](https://docs.google.com/document/d/1jGg5cZHENV1Dbrp-n2EeM_gNxuYJxRrvHlv4gE2pKQw/) guide.
+These reference layouts contain full epic and miscellaneous designs for levels 1 through 15. They are to be used as inspiration when levelling up your modron cores.
 
 * [Modest Core](ref_modest.md)
 * [Strong Core](ref_strong.md)
@@ -1281,6 +1307,7 @@ These designs were built almost exclusively by `Retaki` in their [Modron Core Pi
 * [Aerois Core](ref_aerois.md)
 * [Unaffiliated Core](ref_unaffiliated.md)
 * [Dexterous Core](ref_dexterous.md)
+* [Lawful Core](ref_lawful.md)
 * [Unofficial Leaderboards](ref_leaderboard.md)
 
 {::nomarkdown}
@@ -1376,9 +1403,9 @@ Some modron cores have damage that is variable based on the composition of the c
 
 The damage of the Aerois core depends on whether you are using Lucius as your chosen DPS and how many other Heroes of Aerois champions you are using.
 
-*Note: These tables assume 500% supercharge on all superchargeable nodes.*
+*Note: These tables assume supercharge based on the best known Aerois layout [here](https://ic.byteglow.com/modron/CPsUZyBluqIEn96nwVj0C){:target="_blank"}.*
 
-As you can see - the damage falls off rapidly when you are not using Lucius or many Aerois champions. As such - I've only added the Aerois core to [Lucius'](Lucius.md) champion page.
+As you can see - the damage falls off rapidly when you are not using Lucius or many Aerois champions. As such - I've only added the Aerois core to [Lucius'](Lucius.md){:target="_blank"} champion page.
 
 | With Lucius DPS<br />Num Aerois in Formation | Bonus |   | Other DPS<br />Num Aerois in Formation | Bonus |
 |--:|--:|---|--:|--:|
@@ -1392,7 +1419,7 @@ As you can see - the damage falls off rapidly when you are not using Lucius or m
 
 The damage of the Unaffiliated core depends on whether you are using an unaffiliated champion as your chosen DPS and how many other unaffiliated champions are in the formation.
 
-*Note: These tables assume 500% supercharge on all superchargeable nodes.*
+*Note: These tables assume supercharge based on the best known Unaffiliated layout [here](https://ic.byteglow.com/modron/dFFmh0JAwYRLfa9mH_uHt){:target="_blank"}.*
 
 As you can see - the damage is really poor for affiliated champions. As such - this core has only been added to unaffiliated dps champions' pages.
 
@@ -1413,7 +1440,7 @@ As you can see - the damage is really poor for affiliated champions. As such - t
 
 The damage of the Dexterous core depends on whether you are using a champion with 15+ Dexterity as your chosen DPS and how many other champions also have 15+ Dexterity in the formation.
 
-*Note: These tables assume 500% supercharge on all superchargeable nodes.*
+*Note: These tables assume supercharge based on the best known Dexterous layout [here](https://ic.byteglow.com/modron/W08yr0Hrmfq2J9qzZGRaB){:target="_blank"}.*
 
 As you can see - the damage is really poor for low Dex champions. As such - this core has only been added to champions' pages of those who have 15+ Dexterity.
 
@@ -1429,6 +1456,27 @@ As you can see - the damage is really poor for low Dex champions. As such - this
 | 3 | 8.63e50% |   | 2 | 2.10e36% |
 | 2 | 1.74e50% |   | 1 | 1.39e35% |
 | 1 | 1.15e49% |   | 0 | 8.01e28% |
+
+## ![Lawful Core Icon](images/core_8_lawful.png) Lawful Core
+
+The damage of the Lawful core depends on whether you are using a lawful champion as your chosen DPS and how many other lawful champions are in the formation.
+
+*Note: These tables assume supercharge based on the best known Lawful layout [here](https://ic.byteglow.com/modron/IVfssG_YJCMImWPaOgzKT){:target="_blank"}.*
+
+As you can see - the damage is really poor for unlawful champions. As such - this core has only been added to lawful dps champions' pages.
+
+| With Lawful DPS<br />Num Lawful in Formation | Bonus |   | With Non-Lawful DPS<br />Num Lawful in Formation | Bonus |
+|--:|--:|---|--:|--:|
+| 10 | 8.01e51% |   | 9 | 6.36e37% |
+| 9 | 5.26e51% |   | 8 | 3.98e37% |
+| 8 | 3.29e51% |   | 7 | 2.34e37% |
+| 7 | 1.93e51% |   | 6 | 1.27e37% |
+| 6 | 1.05e51% |   | 5 | 6.14e36% |
+| 5 | 5.07e50% |   | 4 | 2.53e36% |
+| 4 | 2.09e50% |   | 3 | 8.10e35% |
+| 3 | 6.69e49% |   | 2 | 1.64e35% |
+| 2 | 1.35e49% |   | 1 | 1.09e34% |
+| 1 | 9.03e47% |   | 0 | 9.88e27% |
 
 {::nomarkdown}
 </div>
@@ -1467,6 +1515,7 @@ Just a list of frequently asked questions. If you have a question - feel free to
 | ![Aerois Core](images/core_5_aerois.png) | Aerois | 5 | Season 1 / Wild Offers |
 | ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 6 | Season 3 / 500,000 Gems |
 | ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 7 | Season 6 / 500,000 Gems |
+| ![Lawful Core](images/core_8_lawful.png) | Lawful | 8 | Nordom's Tier 3 Event Reward |
 
 ## 2. How much experience does a core need to hit each level?
 
@@ -1504,6 +1553,7 @@ The Strong core has the highest gold bonus of 4.01e06% when fully epic - while t
 | ![Aerois Core](images/core_5_aerois.png) | Aerois | 3.78e05% |
 | ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 1.19e05% |
 | ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 1.19e05% |
+| ![Lawful Core](images/core_8_lawful.png) | Lawful | 1.19e05% |
 
 ## 4. Where is the best place to get modron pipes?
 
@@ -1539,7 +1589,7 @@ Nope. It's only the strongest core for a rare few champions - and even then othe
 
 ## 10. Is the Aerois Core worth buying from Wild Offers?
 
-Not really no. It's only good if you use the entirety of the Aerois affiliation with Lucius as your dps. If don't use all of them - then the Magic core is better - even for Lucius. And the core itself is terrible for every other dps (see the [Variable Core Damage Information](#variablesTab) tab for more details).
+Not really no. It's only good if you use the entirety of the Aerois affiliation with Lucius as your dps. If don't use all of them - then the Magic core is better - even for Lucius. And the core itself is terrible for every other dps (see the [Variable Core Damage Information](#variablesTab){:target="_blank"} tab for more details).
 
 There are only two small tangible benefits to the Aerois core. The first is that it starts out with the Automation node available at level 1 - which means it's good for background parties immediately. The second is that levelling it to 15 nets you 14 Modron Component Chests.
 
@@ -1572,10 +1622,11 @@ I personally want to thank `UniQP` most of all though. This is as much their pro
 Of course - others have contributed as well:
 
 * `Retaki`
+* `Darkbolt`
+* `James`
 * `Midander`
 * `Ridge`
 * `Cuddlegutz`
-* `Darkbolt`
 * `Leon4rdo`
 
 Also a big thank you to `Uffdah` for the modron tool on Byteglow.

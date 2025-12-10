@@ -7,14 +7,23 @@
 # 6 Unaffiliated
 # 7 Dexterous
 
+# Champions to base DPS numbers on
+# because they benefit from every node:
+#         Modest: Artemis
+#         Strong: Artemis
+#           Fast: Artemis
+#          Magic: Asharra
+#         Aerois: Lucius
+#   Unaffiliated: Artemis
+#      Dexterous: Artemis
+#         Lawful: Artemis
+
 # Format:
 # linkHash,coreId,coreLevel,dps,authors|pipe|separated,comment
 
 # ================================
 # ==== Modest Core References ====
 # ================================
-# All damage numbers on the Modest Core should be based on
-# Artemis since he benefits from all nodes.
 
 95bmQkBUH9pH1x98144B-,1,1,1.60e03,Retaki,
 HIer7L-vp1hVz5ZCdGU5b,1,2,7.22e05,Retaki,
@@ -38,8 +47,6 @@ d3m10dAA6gVt9mpEfeSjO,1,15,0,Emmote,Gold Find (No Damage)
 # ================================
 # ==== Strong Core References ====
 # ================================
-# All damage numbers on the Strong Core should be based on
-# Artemis since he benefits from all nodes.
 
 zpH8DCom6FU8nlZqacwMO,2,1,1.60e03,Retaki,
 80FnZBXljK16TDJOevTAP,2,2,8.07e05,Retaki,
@@ -61,8 +68,6 @@ cxfQP92d_b902kc26pNEF,2,15,0,Emmote,Gold Find (No Damage)
 # ==============================
 # ==== Fast Core References ====
 # ==============================
-# All damage numbers on the Fast Core should be based on
-# Artemis since he benefits from all nodes.
 
 jsI7jPCrM5UiP-FK7uz8S,3,1,1.60e03,Retaki,Damage
 yk2BmrUpjs3UpnAKliAP3,3,1,5.00e01,Retaki,Gold
@@ -87,8 +92,6 @@ T-TfCsTNdXfLHOULzOfHr,3,15,0,Emmote,Gem Farm (No Damage)
 # ===============================
 # ==== Magic Core References ====
 # ===============================
-# All damage numbers on the Magic Core should be based on
-# Asharra since she benefits from all nodes.
 
 Zsz6BQ0bcYd33VYvwU6Mz,4,1,4.24e04,Retaki,
 6BA7tMTNA8er60QbG49hr,4,2,2.02e07,Retaki,
@@ -109,8 +112,6 @@ jUxx0g1M07bmeFVk7vLyL,4,15,2.23e35,Retaki,
 # ================================
 # ==== Aerois Core References ====
 # ================================
-# All damage numbers on the Aerois Core should be based on
-# Lucius since he benefits from all nodes.
 
 ZrUTTu1XAyGonDRfEzt1v,5,1,1.60e03,Emmote,
 p9r3JZEqgj1DLBzZDXtjK,5,2,3.22e04,Emmote,
@@ -131,8 +132,6 @@ CYtif3uuyefKikSXPGGKx,5,15,5.05e21,Retaki,
 # ======================================
 # ==== Unaffiliated Core References ====
 # ======================================
-# All damage numbers on the Unaffiliated Core should be based on
-# Artemis since he benefits from all nodes.
 
 6SGb8xIuFm0blV3jmZxXx,6,1,1.16e04,Emmote,
 49uY7mPzwK3Hq57dsfig2,6,2,2.64e06,UniQP,
@@ -153,8 +152,6 @@ zTRphrpK9skSmE924bxtT,6,15,4.94e31,Retaki,
 # ===================================
 # ==== Dexterous Core References ====
 # ===================================
-# All damage numbers on the Unaffiliated Core should be based on
-# Artemis since he benefits from all nodes.
 
 yP8AtNGqXAQRcSz4H7VU0,7,1,1.16e04,Retaki,
 KHNcuGxlaOl-GIaTBkNHJ,7,2,9.14e05,Emmote,
@@ -173,3 +170,24 @@ m8T6sukPzfyHsWQkdAO4L,7,12,1.61e27,Darkbolt,No Epics
 JxUObCiJhvop1qVTNqjCW,7,13,4.03e28,Darkbolt,
 92tvryUlKLob3F7RlWSYm,7,14,1.98e30,Darkbolt,
 lZfp8UfqKZo3wXTjXXeOA,7,15,4.94e31,Darkbolt,
+
+# ================================
+# ==== Lawful Core References ====
+# ================================
+
+yh5ALV82nlJnBulf97vDl,8,1,4.24e04,Darkbolt,
+6EIAsXjEYPtEB1ra1zgNS,8,1,4.24e04,Emmote,No Cross Pipes
+bUza0FucZ8Bps3qJMeO4A,8,2,4.68e06,Darkbolt,
+eBG0aGqGWSAm-EFeSC-RI,8,3,4.33e09,Darkbolt,
+jKbS5rdL-Uku5xWFrZbOA,8,4,7.36e10,Darkbolt,
+6QvgVgVWrTeUA-RmihGuI,8,5,1.40e12,Darkbolt,
+kXgxTyR1fVJpMlRaxJi4b,8,6,2.87e14,Darkbolt,
+h4qxWv_3dhU4b_BD6_l9q,8,7,2.39e17,Darkbolt,
+t-UJhJE74ciCm-Rj3nC9z,8,8,5.97e18,Darkbolt,
+4XP5kLWR35RNhhIVBh1C9,8,9,1.49e20,Darkbolt,
+JEDJJ8BCEEUutWF-hlenr,8,10,1.62e22,Darkbolt,
+6rPXBpJhab68ZNAoAh14q,8,11,4.11e23,Darkbolt,
+U-6hkYVZK97IsRq6NAfD4,8,12,2.89e26,Darkbolt,
+dzzJMhaYLKYKqK1yRU2ke,8,13,7.23e27,Darkbolt,
+hUxZ01J7eMoMCaG3fHxsj,8,14,3.54e29,Darkbolt,
+U2qvef-VeA4gvbYaICL8F,8,15,7.26e31,Darkbolt,

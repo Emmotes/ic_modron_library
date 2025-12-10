@@ -7,6 +7,17 @@
 # 6 Unaffiliated
 # 7 Dexterous
 
+# Champions to base DPS numbers on
+# because they benefit from every node:
+#         Modest: Artemis
+#         Strong: Artemis
+#           Fast: Artemis
+#          Magic: Asharra
+#         Aerois: Lucius
+#   Unaffiliated: Artemis
+#      Dexterous: Artemis
+#         Lawful: Artemis
+
 # ================================
 # ==== 1. Modest Core Layouts ====
 # ================================
@@ -219,3 +230,13 @@ dFFmh0JAwYRLfa9mH_uHt,6,1.15e49,1
 #     for stats: if they're active use a 1. If they're inactive use a 0.
 
 W08yr0Hrmfq2J9qzZGRaB,7,1.15e49,1
+
+# ======================================
+# ==== 8. Lawful Core Layouts ====
+# ======================================
+
+# Format:
+# linkHash,coreId,dps,lawful
+#     for stats: if they're active use a 1. If they're inactive use a 0.
+
+IVfssG_YJCMImWPaOgzKT,8,9.03e47,1
