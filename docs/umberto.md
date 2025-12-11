@@ -196,14 +196,14 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/IVfssG_YJCMImWPaOgzKT" target="_blank" data-core-id="8" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/99AqUeZEyqDuelYumQLEE" target="_blank" data-core-id="8" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Lawful Core](images/core_8_lawful.png)Lawful
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/IVfssG_YJCMImWPaOgzKT
+            ic.byteglow.com/modron/99AqUeZEyqDuelYumQLEE
         </span>
         <span class="modronDamage">
             9.03e47%
