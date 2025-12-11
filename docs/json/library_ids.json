@@ -1390,15 +1390,6 @@
 		{
 			"coreId": 3,
 			"coreLevel": 15,
-			"layoutId": "a3egkSdwZEtornHzWM6Q9",
-			"type": "damage",
-			"dps": 9.73E+38,
-			"comment": "'Budget' Supercharged",
-			"championIds": []
-		},
-		{
-			"coreId": 3,
-			"coreLevel": 15,
 			"layoutId": "cwVpTjFwEtyRSYAA5LfEy",
 			"type": "damage",
 			"dps": 3.38E+32,
@@ -1941,6 +1932,94 @@
 				165,
 				168
 			]
+		},
+		{
+			"coreId": 1,
+			"coreLevel": 15,
+			"layoutId": "EPq9UBa2JUSLL9Uv_03O1",
+			"type": "budget",
+			"dps": 9.70E+43,
+			"authors": [
+				"Leon4rdo"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 2,
+			"coreLevel": 15,
+			"layoutId": "lg7sea-Pufjge_tWkB9cQ",
+			"type": "budget",
+			"dps": 3.09E+45,
+			"authors": [
+				"Leon4rdo"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 3,
+			"coreLevel": 15,
+			"layoutId": "yi9M2nXjcE0fGwOD1dzTw",
+			"type": "budget",
+			"dps": 9.73E+38,
+			"authors": [
+				"Leon4rdo"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 4,
+			"coreLevel": 15,
+			"layoutId": "qKj4w2jqw_obNcai--7SC",
+			"type": "budget",
+			"dps": 6.68E+44,
+			"authors": [
+				"Leon4rdo"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 5,
+			"coreLevel": 15,
+			"layoutId": "cA4h-QMDRswKSgukwF9W8",
+			"type": "budget",
+			"dps": 1.27E+33,
+			"authors": [
+				"Leon4rdo"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 6,
+			"coreLevel": 15,
+			"layoutId": "AM1gmd7iDyzUY_HDvUNbV",
+			"type": "budget",
+			"dps": 1.15E+49,
+			"authors": [
+				"Leon4rdo"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 7,
+			"coreLevel": 15,
+			"layoutId": "YSE1GxLWZPiFNg7cujP8X",
+			"type": "budget",
+			"dps": 1.15E+49,
+			"authors": [
+				"Leon4rdo"
+			],
+			"championIds": []
+		},
+		{
+			"coreId": 8,
+			"coreLevel": 15,
+			"layoutId": "LoHx5Vku7-Bjxxokj61QL",
+			"type": "budget",
+			"dps": 4.59E+47,
+			"authors": [
+				"James"
+			],
+			"championIds": []
 		},
 		{
 			"coreId": 1,

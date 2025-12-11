@@ -887,6 +887,173 @@ If you're unsure whether you've made the best design you can when you're done - 
 {:/nomarkdown}
 
 {::nomarkdown}
+<input onClick="setHash('budgetTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="budgetTab"><label for="budgetTab" class="tabsLabel">"Budget"</label><div class="tabsContent">
+{:/nomarkdown}
+
+# "Budget" Supercharged Damage Designs
+
+These cores are designed primarily to be easier to make than the ones displayed in the Supercharge tab. But they might also - by necessity - have slightly lower damage. This is why they are not included in the Supercharge tab. They also have all nodes piped - so you may see slight improvements if you disconnect nodes that your chosen DPS doesn't need.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: "Budget" is in quotations because good supercharge layouts still require a LOT of pipes.*
+
+The author of most of these is Leon4rdo.
+
+<span class="modronColumn">
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/EPq9UBa2JUSLL9Uv_03O1" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Modest Core](images/core_1_modest.png)Modest Core
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/EPq9UBa2JUSLL9Uv_03O1
+        </span>
+        <span class="modronDamage">
+            9.70e43%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/lg7sea-Pufjge_tWkB9cQ" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong Core
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/lg7sea-Pufjge_tWkB9cQ
+        </span>
+        <span class="modronDamage">
+            3.09e45%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/yi9M2nXjcE0fGwOD1dzTw" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Fast Core](images/core_3_fast.png)Fast Core
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/yi9M2nXjcE0fGwOD1dzTw
+        </span>
+        <span class="modronDamage">
+            9.73e38%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/qKj4w2jqw_obNcai--7SC" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic Core
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/qKj4w2jqw_obNcai--7SC
+        </span>
+        <span class="modronDamage">
+            6.68e44%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/cA4h-QMDRswKSgukwF9W8" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Aerois Core](images/core_5_aerois.png)Aerois Core
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/cA4h-QMDRswKSgukwF9W8
+        </span>
+        <span class="modronDamage">
+            1.27e33%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/AM1gmd7iDyzUY_HDvUNbV" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Unaffiliated Core](images/core_6_unaffiliated.png)Unaffiliated Core
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/AM1gmd7iDyzUY_HDvUNbV
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/YSE1GxLWZPiFNg7cujP8X" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Dexterous Core](images/core_7_dexterous.png)Dexterous Core
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/YSE1GxLWZPiFNg7cujP8X
+        </span>
+        <span class="modronDamage">
+            1.15e49%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/LoHx5Vku7-Bjxxokj61QL" target="_blank">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Lawful Core](images/core_8_lawful.png)Lawful Core
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/LoHx5Vku7-Bjxxokj61QL
+        </span>
+        <span class="modronDamage">
+            4.59e47%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+</span>
+
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+
+{::nomarkdown}
 <input onClick="setHash('achievementsTab')" type="radio" class="tabsRadio" name="modronicaTabs" id="achievementsTab"><label for="achievementsTab" class="tabsLabel">Achievements</label><div class="tabsContent">
 {:/nomarkdown}
 
@@ -1341,14 +1508,14 @@ I have only linked the Fast core on Nahara's damage page because it simply canno
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/a3egkSdwZEtornHzWM6Q9" target="_blank">
+    <a href="https://ic.byteglow.com/modron/yi9M2nXjcE0fGwOD1dzTw" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Fast Core](images/core_3_fast.png)"Budget" Supercharged
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/a3egkSdwZEtornHzWM6Q9
+            ic.byteglow.com/modron/yi9M2nXjcE0fGwOD1dzTw
         </span>
         <span class="modronDamage">
             9.73e38%
