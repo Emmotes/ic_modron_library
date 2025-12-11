@@ -1028,14 +1028,14 @@ The author of most of these is Leon4rdo.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/LoHx5Vku7-Bjxxokj61QL" target="_blank">
+    <a href="https://ic.byteglow.com/modron/bjKJ1yBj4Aayn2HnO7cZ7" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Lawful Core](images/core_8_lawful.png)Lawful Core
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/LoHx5Vku7-Bjxxokj61QL
+            ic.byteglow.com/modron/bjKJ1yBj4Aayn2HnO7cZ7
         </span>
         <span class="modronDamage">
             4.59e47%
