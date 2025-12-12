@@ -1038,7 +1038,7 @@ The author of most of these is Leon4rdo.
             ic.byteglow.com/modron/bjKJ1yBj4Aayn2HnO7cZ7
         </span>
         <span class="modronDamage">
-            4.59e47%
+            4.78e47%
         </span>
         <span class="modronVariable">
             <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
