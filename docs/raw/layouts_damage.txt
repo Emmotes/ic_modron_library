@@ -238,4 +238,4 @@ W08yr0Hrmfq2J9qzZGRaB,7,1.15e49,1
 # linkHash,coreId,dps,lawful
 #     for stats: if they're active use a 1. If they're inactive use a 0.
 
-99AqUeZEyqDuelYumQLEE,8,9.03e47,1
+9KvKtemI9fyB_MTBgqu3j,8,9.36e47,1

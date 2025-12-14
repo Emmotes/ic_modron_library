@@ -1628,7 +1628,7 @@ As you can see - the damage is really poor for low Dex champions. As such - this
 
 The damage of the Lawful core depends on whether you are using a lawful champion as your chosen DPS and how many other lawful champions are in the formation.
 
-*Note: These tables assume supercharge based on the best known Lawful layout [here](https://ic.byteglow.com/modron/99AqUeZEyqDuelYumQLEE){:target="_blank"}.*
+*Note: These tables assume supercharge based on the best known Lawful layout [here](https://ic.byteglow.com/modron/9KvKtemI9fyB_MTBgqu3j){:target="_blank"}.*
 
 As you can see - the damage is really poor for unlawful champions. As such - this core has only been added to lawful dps champions' pages.
 

@@ -143,17 +143,17 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/99AqUeZEyqDuelYumQLEE" target="_blank" data-core-id="8" data-buffs="">
+    <a href="https://ic.byteglow.com/modron/9KvKtemI9fyB_MTBgqu3j" target="_blank" data-core-id="8" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Lawful Core](images/core_8_lawful.png)Lawful
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/99AqUeZEyqDuelYumQLEE
+            ic.byteglow.com/modron/9KvKtemI9fyB_MTBgqu3j
         </span>
         <span class="modronDamage">
-            9.03e47%
+            9.36e47%
         </span>
         <span class="modronVariable">
             <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
