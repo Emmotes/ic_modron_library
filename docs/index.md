@@ -1727,6 +1727,8 @@ The Strong core has the highest gold bonus of 4.01e06% when fully epic - while t
 
 If your goal is to maximise the bonus of Nordom's The Great Modron Puzzle - then you'll want to use four of the cores with the most superchargeable nodes in your four parties. Here's a sorted list best-to-worst.
 
+If you don't intend on actually using the cores you can pipe them with a `Now We're Flowing` layout from the [Achievements](#achievementsTab){:target="_blank"} tab just to count for Nordom.
+
 <span style="font-size:1.2em;">ⓘ</span> *Note: The Fast Core is currently bugged where the three speed nodes count as superchargeable when they are not. This is likely to be fixed at some point.*
 
 | Icon | Core | Num Superchargeable Nodes |
