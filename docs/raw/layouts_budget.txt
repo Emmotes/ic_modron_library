@@ -22,9 +22,9 @@
 # linkHash,coreId,dps,author(s)
 
 EPq9UBa2JUSLL9Uv_03O1,1,9.70e43,Leon4rdo
-lg7sea-Pufjge_tWkB9cQ,2,3.09e45,Leon4rdo
-yi9M2nXjcE0fGwOD1dzTw,3,9.73e38,Leon4rdo
-qKj4w2jqw_obNcai--7SC,4,6.68e44,Leon4rdo
+cQnpeU9NY9FYPXg-wOYWi,2,3.09e45,Leon4rdo
+lDruMDzdzQ8Nxhk9xrBtk,3,9.73e38,Leon4rdo
+qKj4w2jqw_obNcai--7SC,4,2.83e53,Leon4rdo
 cA4h-QMDRswKSgukwF9W8,5,1.27e33,Leon4rdo
 AM1gmd7iDyzUY_HDvUNbV,6,1.15e49,Leon4rdo
 YSE1GxLWZPiFNg7cujP8X,7,1.15e49,Leon4rdo

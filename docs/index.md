@@ -917,14 +917,14 @@ The author of most of these is Leon4rdo.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/lg7sea-Pufjge_tWkB9cQ" target="_blank">
+    <a href="https://ic.byteglow.com/modron/cQnpeU9NY9FYPXg-wOYWi" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Strong Core](images/core_2_strong.png)Strong Core
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/lg7sea-Pufjge_tWkB9cQ
+            ic.byteglow.com/modron/cQnpeU9NY9FYPXg-wOYWi
         </span>
         <span class="modronDamage">
             3.09e45%
@@ -934,14 +934,14 @@ The author of most of these is Leon4rdo.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yi9M2nXjcE0fGwOD1dzTw" target="_blank">
+    <a href="https://ic.byteglow.com/modron/lDruMDzdzQ8Nxhk9xrBtk" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Fast Core](images/core_3_fast.png)Fast Core
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/yi9M2nXjcE0fGwOD1dzTw
+            ic.byteglow.com/modron/lDruMDzdzQ8Nxhk9xrBtk
         </span>
         <span class="modronDamage">
             9.73e38%
@@ -961,7 +961,7 @@ The author of most of these is Leon4rdo.
             ic.byteglow.com/modron/qKj4w2jqw_obNcai--7SC
         </span>
         <span class="modronDamage">
-            6.68e44%
+            2.83e53%
         </span>
     </span>
 {::nomarkdown}
@@ -1508,14 +1508,14 @@ I have only linked the Fast core on Nahara's damage page because it simply canno
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yi9M2nXjcE0fGwOD1dzTw" target="_blank">
+    <a href="https://ic.byteglow.com/modron/lDruMDzdzQ8Nxhk9xrBtk" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Fast Core](images/core_3_fast.png)"Budget" Supercharged
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/yi9M2nXjcE0fGwOD1dzTw
+            ic.byteglow.com/modron/lDruMDzdzQ8Nxhk9xrBtk
         </span>
         <span class="modronDamage">
             9.73e38%
