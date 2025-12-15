@@ -1662,14 +1662,15 @@ Just a list of frequently asked questions. If you have a question - feel free to
 1. [Where can each modron core be found?](#faqsTab_1-where-can-each-modron-core-be-found)
 2. [How much experience does a core need to hit each level?](#faqsTab_2-how-much-experience-does-a-core-need-to-hit-each-level)
 3. [Which is the best gold find core?](#faqsTab_3-which-is-the-best-gold-find-core)
-4. [Where is the best place to get modron pipes?](#faqsTab_4-where-is-the-best-place-to-get-modron-pipes)
-5. [What should I spend Upgrade Components on?](#faqsTab_5-what-should-i-spend-upgrade-components-on)
-6. [Is it worth dismantling pipes?](#faqsTab_6-is-it-worth-dismantling-pipes)
-7. [Why don't the supercharge layouts pipe all gold nodes?](#faqsTab_7-why-dont-the-supercharge-layouts-pipe-all-gold-nodes)
-8. [Why do you pipe Health nodes in the Modest and Strong cores then?](#faqsTab_8-why-do-you-pipe-health-nodes-in-the-modest-and-strong-cores-then)
-9. [Is the Strong Core worth buying for gems?](#faqsTab_9-is-the-strong-core-worth-buying-for-gems)
-10. [Is the Aerois Core worth buying from Wild Offers?](#faqsTab_10-is-the-aerois-core-worth-buying-from-wild-offers)
-11. [Are the Unaffiliated or Dexterous Cores worth buying for gems?](#faqsTab_11-are-the-unaffiliated-or-dexterous-cores-worth-buying-for-gems)
+4. [Which cores have the most superchargeable nodes?](#faqsTab_4-which-cores-have-the-most-superchargeable-nodes)
+5. [Where is the best place to get modron pipes?](#faqsTab_5-where-is-the-best-place-to-get-modron-pipes)
+6. [What should I spend Upgrade Components on?](#faqsTab_6-what-should-i-spend-upgrade-components-on)
+7. [Is it worth dismantling pipes?](#faqsTab_7-is-it-worth-dismantling-pipes)
+8. [Why don't the supercharge layouts pipe all gold nodes?](#faqsTab_8-why-dont-the-supercharge-layouts-pipe-all-gold-nodes)
+9. [Why do you pipe Health nodes in the Modest and Strong cores then?](#faqsTab_9-why-do-you-pipe-health-nodes-in-the-modest-and-strong-cores-then)
+10. [Is the Strong Core worth buying for gems?](#faqsTab_10-is-the-strong-core-worth-buying-for-gems)
+11. [Is the Aerois Core worth buying from Wild Offers?](#faqsTab_11-is-the-aerois-core-worth-buying-from-wild-offers)
+12. [Are the Unaffiliated or Dexterous Cores worth buying for gems?](#faqsTab_12-are-the-unaffiliated-or-dexterous-cores-worth-buying-for-gems)
 
 ## 1. Where can each modron core be found?
 
@@ -1722,19 +1723,36 @@ The Strong core has the highest gold bonus of 4.01e06% when fully epic - while t
 | ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 1.19e05% |
 | ![Lawful Core](images/core_8_lawful.png) | Lawful | 1.19e05% |
 
-## 4. Where is the best place to get modron pipes?
+## 4. Which cores have the most superchargeable nodes?
+
+If your goal is to maximise the bonus of Nordom's The Great Modron Puzzle - then you'll want to use four of the cores with the most superchargeable nodes in your four parties. Here's a sorted list best-to-worst.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: The Fast Core is currently bugged where the three speed nodes count as superchargeable when they are not. This is likely to be fixed at some point.*
+
+| Icon | Core | Num Superchargeable Nodes |
+|---|---|---|
+| ![Magic Core](images/core_4_magic.png) | Magic | 25 |
+| ![Unaffiliated Core](images/core_6_unaffiliated.png) | Unaffiliated | 23 |
+| ![Dexterous Core](images/core_7_dexterous.png) | Dexterous | 23 |
+| ![Lawful Core](images/core_8_lawful.png) | Lawful | 23 |
+| ![Modest Core](images/core_1_modest.png) | Modest | 21 |
+| ![Strong Core](images/core_2_strong.png) | Strong | 21 |
+| ![Fast Core](images/core_3_fast.png) | Fast | 21 |
+| ![Aerois Core](images/core_5_aerois.png) | Aerois | 15 |
+
+## 5. Where is the best place to get modron pipes?
 
 The Modron Component Chests are - currently - the only source of modron pipes. You get 1 each time you level up a modron core - to a maximum of 14 chests per core. You can also get up to 5 each week by purchasing 1 from each patron's shop for 5,000 currency - and you should strive to unlock the patrons and get enough influence to be doing that ASAP.
 
 Other places to get component chests are from Emergences or some Guide Quests or the occasional giveaway. Each Split the Party gives 4. Also - the final variants in the Tomb of Annihilation, Waterdeep: Dragonheist, Descent into Avernus, Icewind Dale and Wild Beyond the Witchlight campaigns each give 5 for completing them.
 
-## 5. What should I spend Upgrade Components on?
+## 6. What should I spend Upgrade Components on?
 
 Nothing. Save them.
 
 The only time you should start spending components is when you have a handful of blue multi-in T pipes that need to be purple on fully supercharged layouts to get you to optimal. If you spend them before that - you could end up with too many of the upgraded pipe and not enough of another kind that you need and no more upgrade components to spend.
 
-## 6. Is it worth dismantling pipes?
+## 7. Is it worth dismantling pipes?
 
 No! Never dismantle pipes to get upgrade components! Ever! Don't even think about it! I cannot stress enough that dismantling pipes is a terrible idea!
 
@@ -1742,19 +1760,19 @@ The conversion rate to upgrade components and the cost to upgrade pipes are abso
 
 Also - now that Presto exists to help earn you free upgrade components - you should never even need to dismantle.
 
-## 7. Why don't the supercharge layouts pipe all gold nodes?
+## 8. Why don't the supercharge layouts pipe all gold nodes?
 
 Using them often lowers flow to the damage nodes and damage is the whole point of supercharging. If you need gold then it's best to load a different layout temporarily or use a different core.
 
-## 8. Why do you pipe Health nodes in the Modest and Strong cores then?
+## 9. Why do you pipe Health nodes in the Modest and Strong cores then?
 
 If you want less health and more damage then you're usually going to be much better off using the Magic Core. If you're using the Modest or Strong cores then it's likely because you want the extra health - and you're willing to lose damage because of it.
 
-## 9. Is the Strong Core worth buying for gems?
+## 10. Is the Strong Core worth buying for gems?
 
 Nope. It's only the strongest core for a rare few champions - and even then other cores can generally get very similar numbers. It really is just a fairly bad core.
 
-## 10. Is the Aerois Core worth buying from Wild Offers?
+## 11. Is the Aerois Core worth buying from Wild Offers?
 
 Not really no. It's only good if you use the entirety of the Aerois affiliation with Lucius as your dps. If don't use all of them - then the Magic core is better - even for Lucius. And the core itself is terrible for every other dps (see the [Variable Core Damage Information](#variablesTab){:target="_blank"} tab for more details).
 
@@ -1762,7 +1780,7 @@ There are only two small tangible benefits to the Aerois core. The first is that
 
 In the end though - it's your money - and we all value things differently. So it's up to you to decide if those minor benefits are worth it for you.
 
-## 11. Are the Unaffiliated or Dexterous Cores worth buying for gems?
+## 12. Are the Unaffiliated or Dexterous Cores worth buying for gems?
 
 That depends. The Unaffiliated and Dexterous cores are currently two of the most powerful modron cores in the game right now. But for them to be worth it - they need to be able to buff your preferred dps champion. If they do then they will almost certainly be worth it.
 
