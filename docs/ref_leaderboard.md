@@ -349,20 +349,20 @@ These designs use no epic pipes and the fewest rare pipes to Full Epic a modron.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/9u8xj0tnWS7b_e61O9BUS" target="_blank">
+    <a href="https://ic.byteglow.com/modron/xr5m-eiEOLHev21CxmWa6" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIcon">
             ![Lawful Core](images/core_8_lawful.png)Lawful
         </span>
         <span class="modronRecordHolders">
-            Darkbolt
+            UniQP
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/9u8xj0tnWS7b_e61O9BUS
+            ic.byteglow.com/modron/xr5m-eiEOLHev21CxmWa6
         </span>
         <span class="modronRecord">
-            10
+            9
         </span>
     </span>
 {::nomarkdown}

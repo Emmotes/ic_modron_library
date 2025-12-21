@@ -47,7 +47,7 @@ tAEHsyw8mAqbtGKi1AN8L,4,15,2.23e35,UniQP|Emmote|Midander|Retaki,Min Rarity: 7 Ra
 zUnREhDU7__PYvFlDad_B,5,15,5.05e21,UniQP,Min Rarity: 2 Rares
 9CuXJtG5acewlOgKu_R-b,6,15,4.94e31,UniQP,Min Rarity: 0 Rares
 tb3pg-3du5NOKab97s-1c,7,15,4.94e31,UniQP,Min Rarity: 0 Rares
-9u8xj0tnWS7b_e61O9BUS,8,15,7.26e31,Darkbolt,Min Rarity: 10 Rares
+xr5m-eiEOLHev21CxmWa6,8,15,7.26e31,UniQP,Min Rarity: 9 Rares
 
 # =========================================
 # ==== Minimum Supercharged Core Level ====
