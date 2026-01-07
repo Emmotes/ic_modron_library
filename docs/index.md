@@ -103,6 +103,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Hank
     </span>
   </a>
+  <a href="anson.html">
+    <span class="championLink" id="anson" style="background-image:url(images/portraits/thumbs/anson.png)">
+      Anson
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
