@@ -393,6 +393,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Windfall
     </span>
   </a>
+  <a href="kyre.html">
+    <span class="championLink" id="kyre" style="background-image:url(images/portraits/thumbs/kyre.png)">
+      Kyre
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
