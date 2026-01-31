@@ -197,6 +197,26 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/9KvKtemI9fyB_MTBgqu3j" target="_blank" data-core-id="8" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Lawful Core](images/core_8_lawful.png)Lawful
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/9KvKtemI9fyB_MTBgqu3j
+        </span>
+        <span class="modronDamage">
+            9.36e47%
+        </span>
+        <span class="modronVariable">
+            <img src="images/info.svg" alt="Variable Damage Information Tooltip Icon"><span class="modronVariableTooltipContents">This core can potentially do more damage.<br>See the link to the Variable Core Damage Information tab for details.</span>
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/elqOcFEB-wuahwbAxTYvF" target="_blank" data-core-id="2" data-buffs="Witch's Switch" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -266,9 +286,9 @@
 {:/nomarkdown}
 </span>
 
-The Magic core is far enough ahead of the other cores that it's the best one to use for Kyre. That said - you could potentially use the Unaffiliated or Dexterous core if the pipes you have favours one of them. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
+The Magic core is far enough ahead of the other cores that it's the best one to use for Kyre. That said - you could potentially use the Unaffiliated, Dexterous or Lawful core if the pipes you have favours one of them. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
 
-Remember that the Unaffiliated and Dexterous Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Unaffiliated, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 
