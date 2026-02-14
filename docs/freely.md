@@ -121,34 +121,34 @@
         </span>
     </span>
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/tOjND8g1reUg7l_i9NYYF" target="_blank" data-core-id="4" data-buffs="Feats to Spare,Circle Magic,Witch's Switch" hidden>
+    <a href="https://ic.byteglow.com/modron/JT8G1GuvxO8RztguPGG6A" target="_blank" data-core-id="4" data-buffs="Feats to Spare,Circle Magic,Witch's Switch" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/tOjND8g1reUg7l_i9NYYF
+            ic.byteglow.com/modron/JT8G1GuvxO8RztguPGG6A
         </span>
         <span class="modronDamageBuffed">
-            4.17e53%
+            4.72e53%
         </span>
     </span>
 {::nomarkdown}
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yCOf6JkDOJA07gVqpOm5t" target="_blank" data-core-id="4" data-buffs="Witch's Switch" hidden>
+    <a href="https://ic.byteglow.com/modron/rHBEye_cAQYKX2pdhIxaH" target="_blank" data-core-id="4" data-buffs="Witch's Switch" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/yCOf6JkDOJA07gVqpOm5t
+            ic.byteglow.com/modron/rHBEye_cAQYKX2pdhIxaH
         </span>
         <span class="modronDamageBuffed">
-            2.21e49%
+            2.86e49%
         </span>
     </span>
 {::nomarkdown}

@@ -120,6 +120,40 @@
         </span>
     </span>
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/rHBEye_cAQYKX2pdhIxaH" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/rHBEye_cAQYKX2pdhIxaH
+        </span>
+        <span class="modronDamageBuffed">
+            2.86e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/rHBEye_cAQYKX2pdhIxaH" target="_blank" data-core-id="4" data-buffs="Feats to Spare" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Magic Core](images/core_4_magic.png)Magic
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/rHBEye_cAQYKX2pdhIxaH
+        </span>
+        <span class="modronDamageBuffed">
+            2.86e49%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/US5TI1OjPAdgnZpKVKXwB" target="_blank" data-core-id="4" data-buffs="Witch's Switch" hidden>
 {:/nomarkdown}
     <span class="modronRow">
@@ -131,40 +165,6 @@
         </span>
         <span class="modronDamageBuffed">
             2.26e49%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yCOf6JkDOJA07gVqpOm5t" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/yCOf6JkDOJA07gVqpOm5t
-        </span>
-        <span class="modronDamageBuffed">
-            2.21e49%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/yCOf6JkDOJA07gVqpOm5t" target="_blank" data-core-id="4" data-buffs="Feats to Spare" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Magic Core](images/core_4_magic.png)Magic
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/yCOf6JkDOJA07gVqpOm5t
-        </span>
-        <span class="modronDamageBuffed">
-            2.21e49%
         </span>
     </span>
 {::nomarkdown}

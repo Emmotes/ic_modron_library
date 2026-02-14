@@ -192,34 +192,34 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/POqxrC8GsE2yuyH32qVs8" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
+    <a href="https://ic.byteglow.com/modron/jqGimzk5K7QwcqpgXzyga" target="_blank" data-core-id="4" data-buffs="Witch's Switch" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/POqxrC8GsE2yuyH32qVs8
+            ic.byteglow.com/modron/jqGimzk5K7QwcqpgXzyga
         </span>
         <span class="modronDamageBuffed">
-            1.20e45%
+            1.67e45%
         </span>
     </span>
 {::nomarkdown}
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/wdR-xGk-Jt2DnqO-qd6bd" target="_blank" data-core-id="4" data-buffs="Witch's Switch" hidden>
+    <a href="https://ic.byteglow.com/modron/wH3soyJdJDuixeIFxGPNw" target="_blank" data-core-id="4" data-buffs="Best And The Brightest" hidden>
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Magic Core](images/core_4_magic.png)Magic
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/wdR-xGk-Jt2DnqO-qd6bd
+            ic.byteglow.com/modron/wH3soyJdJDuixeIFxGPNw
         </span>
         <span class="modronDamageBuffed">
-            1.08e45%
+            1.36e45%
         </span>
     </span>
 {::nomarkdown}
