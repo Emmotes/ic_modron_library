@@ -178,6 +178,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Grimm
     </span>
   </a>
+  <a href="raistlin.html">
+    <span class="championLinkDPS" id="raistlin" style="background-image:url(images/portraits/thumbs/raistlin.png)">
+      Raistlin
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">

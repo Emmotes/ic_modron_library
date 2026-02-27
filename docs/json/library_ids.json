@@ -606,8 +606,9 @@
 			"layoutId": "DsVh4JSKxCnsYuKIstsHI",
 			"type": "damage",
 			"dps": 2.32E+36,
-			"hidden": true,
-			"championIds": []
+			"championIds": [
+				173
+			]
 		},
 		{
 			"coreId": 1,
@@ -1298,7 +1299,8 @@
 			"dps": 9.45E+36,
 			"comment": "Non-Melee Variant",
 			"championIds": [
-				48
+				48,
+				173
 			]
 		},
 		{
@@ -1523,7 +1525,8 @@
 			"championIds": [
 				17,
 				64,
-				147
+				147,
+				173
 			]
 		},
 		{
@@ -1882,7 +1885,8 @@
 				164,
 				167,
 				168,
-				172
+				172,
+				173
 			]
 		},
 		{
@@ -4165,6 +4169,7 @@
 		"171": "anson",
 		"172": "kyre",
 		"173": "raistlin",
-		"174": "tasslehoff"
+		"174": "tasslehoff",
+		"175": "laurana"
 	}
 }
