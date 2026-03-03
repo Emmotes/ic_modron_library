@@ -915,14 +915,14 @@ The author of most of these is Leon4rdo.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/HGakmgNUJK4kS14qumUQu" target="_blank">
+    <a href="https://ic.byteglow.com/modron/MKb0HJqapPXuD7lcfRd9s" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest Core
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/HGakmgNUJK4kS14qumUQu
+            ic.byteglow.com/modron/MKb0HJqapPXuD7lcfRd9s
         </span>
         <span class="modronDamage">
             2.60e44%
@@ -949,14 +949,14 @@ The author of most of these is Leon4rdo.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/9GLGxvyqRubm1zmMUGV31" target="_blank">
+    <a href="https://ic.byteglow.com/modron/HZbb27jfxD6CMKmzPZ4N7" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Fast Core](images/core_3_fast.png)Fast Core
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/9GLGxvyqRubm1zmMUGV31
+            ic.byteglow.com/modron/HZbb27jfxD6CMKmzPZ4N7
         </span>
         <span class="modronDamage">
             9.73e38%
@@ -1523,14 +1523,14 @@ I have only linked the Fast core on Nahara's damage page because it simply canno
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/9GLGxvyqRubm1zmMUGV31" target="_blank">
+    <a href="https://ic.byteglow.com/modron/HZbb27jfxD6CMKmzPZ4N7" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Fast Core](images/core_3_fast.png)"Budget" Supercharged
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/9GLGxvyqRubm1zmMUGV31
+            ic.byteglow.com/modron/HZbb27jfxD6CMKmzPZ4N7
         </span>
         <span class="modronDamage">
             9.73e38%
