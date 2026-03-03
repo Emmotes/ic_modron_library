@@ -915,17 +915,17 @@ The author of most of these is Leon4rdo.
 
 <span class="modronColumn">
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/EPq9UBa2JUSLL9Uv_03O1" target="_blank">
+    <a href="https://ic.byteglow.com/modron/HGakmgNUJK4kS14qumUQu" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Modest Core](images/core_1_modest.png)Modest Core
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/EPq9UBa2JUSLL9Uv_03O1
+            ic.byteglow.com/modron/HGakmgNUJK4kS14qumUQu
         </span>
         <span class="modronDamage">
-            9.70e43%
+            2.60e44%
         </span>
     </span>
 {::nomarkdown}
@@ -949,14 +949,14 @@ The author of most of these is Leon4rdo.
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/lDruMDzdzQ8Nxhk9xrBtk" target="_blank">
+    <a href="https://ic.byteglow.com/modron/9GLGxvyqRubm1zmMUGV31" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Fast Core](images/core_3_fast.png)Fast Core
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/lDruMDzdzQ8Nxhk9xrBtk
+            ic.byteglow.com/modron/9GLGxvyqRubm1zmMUGV31
         </span>
         <span class="modronDamage">
             9.73e38%
@@ -1523,14 +1523,14 @@ I have only linked the Fast core on Nahara's damage page because it simply canno
     </a>
 {:/nomarkdown}
 {::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/lDruMDzdzQ8Nxhk9xrBtk" target="_blank">
+    <a href="https://ic.byteglow.com/modron/9GLGxvyqRubm1zmMUGV31" target="_blank">
 {:/nomarkdown}
     <span class="modronRow">
         <span class="modronIconFull">
             ![Fast Core](images/core_3_fast.png)"Budget" Supercharged
         </span>
         <span class="modronLink">
-            ic.byteglow.com/modron/lDruMDzdzQ8Nxhk9xrBtk
+            ic.byteglow.com/modron/9GLGxvyqRubm1zmMUGV31
         </span>
         <span class="modronDamage">
             9.73e38%
