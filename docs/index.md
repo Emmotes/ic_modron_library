@@ -818,6 +818,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Vlithryn
     </span>
   </a>
+  <a href="tasslehoff.html">
+    <span class="championLink" id="tasslehoff" style="background-image:url(images/portraits/thumbs/tasslehoff.png)">
+      Tasslehoff
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader" style="position:relative;">
