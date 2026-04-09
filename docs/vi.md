@@ -354,7 +354,7 @@ The Magic (Non-Magic Variant) core is far enough ahead of the other cores that i
 <span id="mixedUnaffDexTable" hidden>
 {:/nomarkdown}
 
-Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 {::nomarkdown}
 </span><span id="unaffTable">

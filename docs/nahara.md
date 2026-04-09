@@ -351,7 +351,7 @@ The Magic and Dexterous cores are so far ahead of the other cores that they are 
 
 The Fast core is only listed because it could increase the longevity of Nahara's speed effects when gem farming.
 
-Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

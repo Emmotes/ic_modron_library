@@ -238,7 +238,7 @@
 
 The Unaffiliated, Dexterous and Lawful cores are far enough ahead of the other cores that they are the best ones to use for Artemis. That said - you could potentially use one of the other cores if the pipes you have favours one of them.
 
-Remember that the Unaffiliated, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Unaffiliated, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

@@ -325,13 +325,13 @@ The Unaffiliated core is so far ahead of the other cores that it's really the on
 <span id="mixedUnaffDexTable" hidden>
 {:/nomarkdown}
 
-Remember that the Unaffiliated and Dexterous Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Unaffiliated and Dexterous Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 {::nomarkdown}
 </span><span id="unaffTable">
 {:/nomarkdown}
 
-Remember that the Unaffiliated Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Unaffiliated Core has variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 {::nomarkdown}
 </span>

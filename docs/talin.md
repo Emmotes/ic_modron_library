@@ -437,7 +437,7 @@
 
 The Unaffiliated and Dexterous cores are far enough ahead of the Magic (Non-Magic Variant) core that they are the best ones to use for Talin. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
-Remember that the Unaffiliated and Dexterous Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Unaffiliated and Dexterous Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

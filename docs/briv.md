@@ -304,7 +304,7 @@ The Strong and Modest cores are far enough ahead of the Magic (Non-Magic Variant
 <span id="mixedUnaffDexTable" hidden>
 {:/nomarkdown}
 
-Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 {::nomarkdown}
 </span><span id="unaffTable">

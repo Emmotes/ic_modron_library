@@ -369,7 +369,7 @@
 
 If you use Wren's Warforged Sorcerer specialisation then the Magic core is a clear winner. If - however - you use her Dwarf Monk specialisation - which is her intended DPS specialisation - then you'll be better off with either the Unaffiliated or Dexterous cores. The Magic core does not contain any health nodes which may influence your choice.
 
-Remember that the Unaffiliated and Dexterous Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Unaffiliated and Dexterous Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

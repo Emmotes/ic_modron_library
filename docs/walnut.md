@@ -334,7 +334,7 @@
 
 The Dexterous and Lawful cores are so far ahead of the Strong core that they are really the only choices for Walnut. Choose whichever you have the more favourable pipes for.
 
-Remember that the Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

@@ -248,7 +248,7 @@
 
 The Dexterous core is so far ahead of the other cores that it's really the only choice for Catti-brie.
 
-Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

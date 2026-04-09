@@ -282,7 +282,7 @@
 
 The Dexterous core is far enough ahead of the Magic (Non-Magic Variant) core that it's the best one to use for Brig. I do not recommend even trying the Magic core because it doesn't have any health nodes.
 
-Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

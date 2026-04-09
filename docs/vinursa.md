@@ -354,7 +354,7 @@
 
 The Unaffiliated, Dexterous and Lawful cores are so far ahead of the Magic (Non-Magic Variant) core that they are really the only choices for Vin Ursa. Choose whichever you have the more favourable pipes for.
 
-Remember that the Unaffiliated, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Unaffiliated, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

@@ -250,7 +250,7 @@
 
 The Dexterous and Lawful cores are far enough ahead of the Strong core that they are the best ones to use for Diana. That said - you could potentially use the Strong core if the pipes you have favour it.
 
-Remember that the Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

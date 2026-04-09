@@ -241,13 +241,13 @@ The Unaffiliated and Lawful cores are far enough ahead of the other cores that t
 <span id="mixedUnaffDexTable" hidden>
 {:/nomarkdown}
 
-Remember that the Unaffiliated, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Unaffiliated, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 {::nomarkdown}
 </span><span id="unaffTable">
 {:/nomarkdown}
 
-Remember that the Unaffiliated and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Unaffiliated and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 {::nomarkdown}
 </span>

@@ -255,19 +255,19 @@
 {:/nomarkdown}
 </span>
 
-The Magic and Aerois cores are so far ahead of the Lawful core that they are really the only choices for Lucius. Choose whichever you have the more favourable pipes for.
+The Magic and Aerois cores are so far ahead of the Lawful core that they are really the only choices for Lucius. Choose whichever you have the more favourable pipes for - though it is worth noting that neither of them have any health nodes.
 
 {::nomarkdown}
 <span id="mixedUnaffDexTable" hidden>
 {:/nomarkdown}
 
-Remember that the Aerois, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Aerois, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 {::nomarkdown}
 </span><span id="unaffTable">
 {:/nomarkdown}
 
-Remember that the Aerois and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Aerois and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 {::nomarkdown}
 </span>

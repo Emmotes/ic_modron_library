@@ -198,7 +198,7 @@
 
 The Dexterous core is far enough ahead of the other cores that it's the best one to use for Corazón. That said - you could potentially use one of the other cores if the pipes you have favours one of them.
 
-Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Dexterous Core has variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 

@@ -288,7 +288,7 @@
 
 The Magic core is far enough ahead of the other cores that it's the best one to use for Kyre. That said - you could potentially use the Unaffiliated, Dexterous or Lawful core if the pipes you have favours one of them. Though it is worth noting that the Magic core doesn't have any health nodes - which could influence your choice.
 
-Remember that the Unaffiliated, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/#variablesTab){:target="_blank"} tab for more detailed information.
+Remember that the Unaffiliated, Dexterous and Lawful Cores have variable damage. Please see the [Variable Core Damage Information](/ic_modron_library/#variablesTab){:target="_blank"} tab for more detailed information.
 
 [Back to Top](#top)
 
