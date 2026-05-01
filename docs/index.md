@@ -543,6 +543,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Sheila
     </span>
   </a>
+  <a href="laurana.html">
+    <span class="championLink" id="laurana" style="background-image:url(images/portraits/thumbs/laurana.png)">
+      Laurana
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
