@@ -23,7 +23,7 @@
 {:/nomarkdown}
 
 
-<span class="champIntro">Laurana is a ranged champion.</span>
+<span class="champIntro">Laurana is a melee champion.</span>
 
 <span class="modronColumn">
     <span class="buffboxCol" id="buffbox">
@@ -160,6 +160,40 @@
     </a>
 {:/nomarkdown}
 {::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/ME5yZd7N0M22Zo9pT8C8n" target="_blank" data-core-id="2" data-buffs="">
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/ME5yZd7N0M22Zo9pT8C8n
+        </span>
+        <span class="modronDamage">
+            2.43e43%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
+    <a href="https://ic.byteglow.com/modron/prsIbEnw55x08HwTsT4A3" target="_blank" data-core-id="2" data-buffs="Witch's Switch" hidden>
+{:/nomarkdown}
+    <span class="modronRow">
+        <span class="modronIconFull">
+            ![Strong Core](images/core_2_strong.png)Strong
+        </span>
+        <span class="modronLink">
+            ic.byteglow.com/modron/prsIbEnw55x08HwTsT4A3
+        </span>
+        <span class="modronDamageBuffed">
+            2.23e43%
+        </span>
+    </span>
+{::nomarkdown}
+    </a>
+{:/nomarkdown}
+{::nomarkdown}
     <a href="https://ic.byteglow.com/modron/lxl77lg_2zUFrv6SLU6-E" target="_blank" data-core-id="1" data-buffs="">
 {:/nomarkdown}
     <span class="modronRow">
@@ -205,40 +239,6 @@
         </span>
         <span class="modronDamage">
             2.19e41%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/H8TK3pxjZneEx4U0KKJP3" target="_blank" data-core-id="2" data-buffs="Witch's Switch" hidden>
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/H8TK3pxjZneEx4U0KKJP3
-        </span>
-        <span class="modronDamageBuffed">
-            1.99e41%
-        </span>
-    </span>
-{::nomarkdown}
-    </a>
-{:/nomarkdown}
-{::nomarkdown}
-    <a href="https://ic.byteglow.com/modron/_1L9cQTtDM1JSSx3LhyoF" target="_blank" data-core-id="2" data-buffs="">
-{:/nomarkdown}
-    <span class="modronRow">
-        <span class="modronIconFull">
-            ![Strong Core](images/core_2_strong.png)Strong (Non-Melee Variant)
-        </span>
-        <span class="modronLink">
-            ic.byteglow.com/modron/_1L9cQTtDM1JSSx3LhyoF
-        </span>
-        <span class="modronDamage">
-            1.99e41%
         </span>
     </span>
 {::nomarkdown}
