@@ -618,6 +618,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Tess
     </span>
   </a>
+  <a href="trixie.html">
+    <span class="championLink" id="trixie" style="background-image:url(images/portraits/thumbs/trixie.png)">
+      Trixie
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">

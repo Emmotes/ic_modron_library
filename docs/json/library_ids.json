@@ -192,8 +192,9 @@
 			"layoutId": "e5OmkTd-eIFqA_s4ytR7o",
 			"type": "damage",
 			"dps": 1.72E+38,
-			"hidden": true,
-			"championIds": []
+			"championIds": [
+				176
+			]
 		},
 		{
 			"coreId": 1,
@@ -848,8 +849,9 @@
 			"layoutId": "xY0sQ3zH1LoCIK7BdL5XV",
 			"type": "damage",
 			"dps": 1.06E+39,
-			"hidden": true,
-			"championIds": []
+			"championIds": [
+				176
+			]
 		},
 		{
 			"coreId": 2,
@@ -1598,7 +1600,8 @@
 				61,
 				71,
 				92,
-				97
+				97,
+				176
 			]
 		},
 		{
@@ -1803,7 +1806,8 @@
 				167,
 				168,
 				169,
-				172
+				172,
+				176
 			]
 		},
 		{
@@ -1894,7 +1898,8 @@
 				172,
 				173,
 				174,
-				175
+				175,
+				176
 			]
 		},
 		{
@@ -4180,6 +4185,7 @@
 		"174": "tasslehoff",
 		"175": "laurana",
 		"176": "trixie",
-		"177": "vanrichten"
+		"177": "vanrichten",
+		"178": "flint"
 	}
 }
