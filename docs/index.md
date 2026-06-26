@@ -763,6 +763,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Cazrin
     </span>
   </a>
+  <a href="vanrichten.html">
+    <span class="championLink" id="vanrichten" style="background-image:url(images/portraits/thumbs/vanrichten.png)">
+      Van Richten
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
