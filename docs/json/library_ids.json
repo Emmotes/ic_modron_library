@@ -78,7 +78,8 @@
 				49,
 				98,
 				119,
-				144
+				144,
+				169
 			]
 		},
 		{
@@ -175,9 +176,8 @@
 			"layoutId": "6XeOgeeTMx4w-kRz0Xfxp",
 			"type": "damage",
 			"dps": 1.04E+38,
-			"championIds": [
-				169
-			]
+			"hidden": true,
+			"championIds": []
 		},
 		{
 			"coreId": 1,
@@ -242,6 +242,7 @@
 			"dps": 3.73E+40,
 			"championIds": [
 				4,
+				5,
 				20,
 				21,
 				38,
@@ -350,7 +351,6 @@
 			"type": "damage",
 			"dps": 2.57E+38,
 			"championIds": [
-				5,
 				28,
 				122,
 				123,
@@ -742,7 +742,8 @@
 			"type": "damage",
 			"dps": 1.47E+41,
 			"championIds": [
-				162
+				162,
+				169
 			]
 		},
 		{
@@ -832,9 +833,8 @@
 			"layoutId": "LKuCFQB4n6olL33r_E7p-",
 			"type": "damage",
 			"dps": 1.01E+39,
-			"championIds": [
-				169
-			]
+			"hidden": true,
+			"championIds": []
 		},
 		{
 			"coreId": 2,
@@ -1253,6 +1253,7 @@
 			"dps": 1.39E+39,
 			"comment": "Non-Melee Variant",
 			"championIds": [
+				5,
 				38,
 				51,
 				73,
@@ -1353,7 +1354,6 @@
 			"dps": 9.45E+36,
 			"comment": "Non-Melee Variant",
 			"championIds": [
-				5,
 				28,
 				43,
 				122,
@@ -1447,6 +1447,7 @@
 				166,
 				167,
 				168,
+				169,
 				172
 			]
 		},
@@ -1459,8 +1460,7 @@
 			"championIds": [
 				78,
 				102,
-				156,
-				169
+				156
 			]
 		},
 		{
@@ -1470,6 +1470,7 @@
 			"type": "damage",
 			"dps": 2.86E+49,
 			"championIds": [
+				5,
 				9,
 				23,
 				38,
@@ -1494,7 +1495,6 @@
 			"type": "damage",
 			"dps": 1.67E+45,
 			"championIds": [
-				5,
 				34,
 				63,
 				122,
@@ -4192,6 +4192,7 @@
 		"176": "trixie",
 		"177": "vanrichten",
 		"178": "flint",
-		"179": "caramon"
+		"179": "caramon",
+		"180": "kitiara"
 	}
 }
