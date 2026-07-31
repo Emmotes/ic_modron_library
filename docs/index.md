@@ -693,6 +693,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       KoS
     </span>
   </a>
+  <a href="flint.html">
+    <span class="championLink" id="flint" style="background-image:url(images/portraits/thumbs/flint.png)">
+      Flint
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
