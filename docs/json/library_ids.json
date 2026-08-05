@@ -423,7 +423,8 @@
 			"championIds": [
 				2,
 				15,
-				19
+				19,
+				65
 			]
 		},
 		{
@@ -505,9 +506,8 @@
 			"layoutId": "SkC1Y2Z4AMDPgGQPDLJHR",
 			"type": "damage",
 			"dps": 1.42E+38,
-			"championIds": [
-				65
-			]
+			"hidden": true,
+			"championIds": []
 		},
 		{
 			"coreId": 1,
@@ -731,6 +731,7 @@
 			"championIds": [
 				15,
 				19,
+				65,
 				126,
 				155,
 				165
@@ -824,8 +825,7 @@
 			"dps": 1.47E+41,
 			"championIds": [
 				1,
-				52,
-				65
+				52
 			]
 		},
 		{
@@ -1677,6 +1677,7 @@
 			"championIds": [
 				19,
 				55,
+				65,
 				89,
 				95,
 				127,
@@ -1697,7 +1698,6 @@
 				42,
 				46,
 				53,
-				65,
 				163
 			]
 		},
