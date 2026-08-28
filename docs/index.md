@@ -258,6 +258,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Halsin
     </span>
   </a>
+  <a href="caramon.html">
+    <span class="championLink" id="caramon" style="background-image:url(images/portraits/thumbs/caramon.png)">
+      Caramon
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
