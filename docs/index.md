@@ -333,6 +333,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Skylla
     </span>
   </a>
+  <a href="kitiara.html">
+    <span class="championLink" id="kitiara" style="background-image:url(images/portraits/thumbs/kitiara.png)">
+      Kitiara
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
