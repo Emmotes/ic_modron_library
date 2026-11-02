@@ -483,6 +483,11 @@ If you're unsure whether you've made the best design you can when you're done - 
       Lark
     </span>
   </a>
+  <a href="morte.html">
+    <span class="championLink" id="morte" style="background-image:url(images/portraits/thumbs/morte.png)">
+      Morte
+    </span>
+  </a>
 </span>
 <span class="championLinkColumn">
   <span class="championLinkHeader">
